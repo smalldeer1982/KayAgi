@@ -1,0 +1,58 @@
+---
+title: "Generate Login"
+layout: "post"
+diff: 入门
+pid: CF909A
+tag: ['字符串', '搜索', '贪心', '枚举']
+---
+
+# Generate Login
+
+## 题目描述
+
+The preferred way to generate user login in Polygon is to concatenate a prefix of the user's first name and a prefix of their last name, in that order. Each prefix must be non-empty, and any of the prefixes can be the full name. Typically there are multiple possible logins for each person.
+
+You are given the first and the last name of a user. Return the alphabetically earliest login they can get (regardless of other potential Polygon users).
+
+As a reminder, a prefix of a string $ s $ is its substring which occurs at the beginning of $ s $ : "a", "ab", "abc" etc. are prefixes of string "{abcdef}" but "b" and 'bc" are not. A string $ a $ is alphabetically earlier than a string $ b $ , if $ a $ is a prefix of $ b $ , or $ a $ and $ b $ coincide up to some position, and then $ a $ has a letter that is alphabetically earlier than the corresponding letter in $ b $ : "a" and "ab" are alphabetically earlier than "ac" but "b" and "ba" are alphabetically later than "ac".
+
+## 输入格式
+
+The input consists of a single line containing two space-separated strings: the first and the last names. Each character of each string is a lowercase English letter. The length of each string is between 1 and 10, inclusive.
+
+## 输出格式
+
+Output a single string — alphabetically earliest possible login formed from these names. The output should be given in lowercase as well.
+
+## 样例 #1
+
+### 输入
+
+```
+harry potter
+
+```
+
+### 输出
+
+```
+hap
+
+```
+
+## 样例 #2
+
+### 输入
+
+```
+tom riddle
+
+```
+
+### 输出
+
+```
+tomr
+
+```
+

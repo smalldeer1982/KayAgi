@@ -1,0 +1,44 @@
+# 题号列表
+
+- P10196 - [USACO24FEB] Lazy Cow P
+- P10876 - [COTS 2022] 点组 Točkice
+- P11023 - [COTS 2020] 王国 Kraljevstvo
+- P11441 - [Code+#6] 进阶法师
+- P11459 - [USACO24DEC] It's Mooin' Time P
+- P12479 - [集训队互测 2024] 长野原龙势流星群
+- P13299 - [GCJ 2013 #3] Rural Planning [Unverified]
+- P13303 - [GCJ 2013 Finals] Drummer
+- P13335 - [GCJ 2012 Finals] Twirling Towards Freedom
+- P13402 - [GCJ 2010 #2] Grazing Google Goats
+- P13798 - [SWERC 2023] Favourite dish
+- P13814 - [CERC 2022] Mortgage
+- P1452 - 【模板】旋转卡壳 | [USACO03FALL] Beauty Contest G
+- P2287 - [HNOI2004] 最佳包裹
+- P2521 - [HAOI2011] 防线修建
+- P2924 - [USACO08DEC] Largest Fence G
+- P3122 - [USACO15FEB] Fencing the Herd G
+- P3187 - [HNOI2007] 最小矩形覆盖
+- P3222 - [HNOI2012] 射箭
+- P3291 - [SCOI2016] 妖怪
+- P3299 - [SDOI2013] 保护出题人
+- P3309 - [SDOI2014] 向量集
+- P3442 - [POI 2006] NAJ-The Invasion
+- P3680 - [CERC2016] 凸轮廓线 Convex Contour
+- P4027 - [NOI2007] 货币兑换
+- P4049 - [JSOI2007] 合金
+- P4072 - [SDOI2016] 征途
+- P4166 - [SCOI2007] 最大土地面积
+- P4293 - [WC2010] 能量场
+- P4756 - Added Sequence
+- P4983 - 忘情
+- P5155 - [USACO18DEC] Balance Beam P
+- P5928 - [清华集训 2014] 文学
+- P5977 - [CEOI 2008] Fence
+- P6010 - [USACO20JAN] Falling Portals P
+- P6247 - [SDOI2012] 最近最远点对
+- P7028 - [NWRRC 2017] Joker
+- P7397 - 雨水收集系统（2021 CoE-I E）
+- P8000 - [WFOI - 01] 循环节（circle）
+- P8101 - [USACO22JAN] Multiple Choice Test P
+- P8222 - [WFOI - 02] I wanna escape the shadow（阴影）
+- P9020 - [USACO23JAN] Mana Collection P

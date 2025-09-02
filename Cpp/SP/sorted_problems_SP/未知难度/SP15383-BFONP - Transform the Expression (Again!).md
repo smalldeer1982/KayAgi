@@ -1,0 +1,45 @@
+---
+title: "BFONP - Transform the Expression (Again!)"
+layout: "post"
+diff: 难度0
+pid: SP15383
+tag: []
+---
+
+# BFONP - Transform the Expression (Again!)
+
+## 题目描述
+
+Have you solved [ONP](../ONP/ "Transform the Expression") problem? Especially using [brainf\*\*k](../../../ranks/ONP/lang=BF "Brainf**k")? This problem will give you extra points if you can solve [ONP](../ONP/ "Transform the Expression") using [brainf\*\*k](../../../ranks/ONP/lang=BF "Brainf**k"). Note that this problem has larger constraints.
+
+The task is: "Transform the algebraic expression with brackets into RPN form (Reverse Polish Notation). Two-argument operators: +, -, \*, /, ^ (priority from the lowest to the highest), brackets ( ). Operands: only letters: a,b,...,z. Assume that there is only one RPN form (no expressions like a\*b\*c)."
+
+## 输入格式
+
+t \[the number of expressions
+
+_expression_ \[length = See: "Other Info" part\]
+
+\[other expressions\]
+
+## 输出格式
+
+The _expressions_ in RPN form, one per line.
+
+## 样例 #1
+
+### 输入
+
+```
+3
+(a+(b*c))
+((a+b)*(z+x))
+((a+t)*((b+(a+c))^(c+d)))
+```
+
+### 输出
+
+```
+
+```
+

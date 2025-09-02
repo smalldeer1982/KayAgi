@@ -1,0 +1,71 @@
+# 题号列表
+
+- CF1003B - Binary String Constructing
+- CF1025A - Doggo Recoloring
+- CF1196B - Odd Sum Segments
+- CF13A - Numbers
+- CF1579E1 - Permutation Minimization by Deque
+- CF158A - Next Round
+- CF1602B - Divine Array
+- CF1619C - Wrong Addition
+- CF1641A - Great Sequence
+- CF1675C - Detective Task
+- CF1676C - Most Similar Words
+- CF1676D - X-Sum
+- CF1676H1 - Maximum Crossings (Easy Version)
+- CF1679B - Stone Age Problem
+- CF1680B - Robots
+- CF1681B - Card Trick
+- CF1714A - Everyone Loves to Sleep
+- CF1717B - Madoka and Underground Competitions
+- CF1722C - Word Game
+- CF1744B - Even-Odd Increments
+- CF1941C - Rudolf and the Ugly String
+- CF1948B - Array Fix
+- CF1950D - Product of Binary Decimals
+- CF1955B - Progressive Square
+- CF1955C - Inhabitant of the Deep Sea
+- CF1966B - Rectangle Filling
+- CF1970A1 - Balanced Shuffle (Easy)
+- CF1974B - Symmetric Encoding
+- CF1985C - Good Prefixes
+- CF1985D - Manhattan Circle
+- CF1986B - Matrix Stabilization
+- CF1997B - Make Three Regions
+- CF1999C - Showering
+- CF1B - Spreadsheets
+- CF2000C - Numeric String Template
+- CF2007B - Index and Maximum Value
+- CF2008B - Square or Not
+- CF2009D - Satyam and Counting
+- CF2036C - Anya and 1100
+- CF203B - Game on Paper
+- CF2049A - MEX Destruction
+- CF2070B - Robot Program
+- CF2094D - Tung Tung Sahur
+- CF2114D - Come a Little Closer
+- CF21A - Jabber ID
+- CF221B - Little Elephant and Numbers
+- CF339B - Xenia and Ringroad
+- CF3A - Shortest path of the king
+- CF445A - DZY Loves Chessboard
+- CF49D - Game
+- CF622A - Infinite Sequence
+- CF635A - Orchestra
+- CF66A - Petya and Java
+- CF688A - Opponents
+- CF691C - Exponential notation
+- CF697A - Pineapple Incident
+- CF6C - Alice, Bob and Chocolate
+- CF754B - Ilya and tic-tac-toe game
+- CF777A - Shell Game
+- CF798A - Mike and palindrome
+- CF7A - Kalevitch and Chess
+- CF816A - Karen and Morning
+- CF845A - Chess Tourney
+- CF886A - ACM ICPC
+- CF8A - Train and Peter
+- CF912A - Tricky Alchemy
+- CF920B - Tea Queue
+- CF976B - Lara Croft and the New Game
+- CF989B - A Tide of Riverscape

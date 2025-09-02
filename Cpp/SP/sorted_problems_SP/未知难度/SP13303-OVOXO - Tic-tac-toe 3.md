@@ -1,0 +1,54 @@
+---
+title: "OVOXO - Tic-tac-toe 3"
+layout: "post"
+diff: 难度0
+pid: SP13303
+tag: []
+---
+
+# OVOXO - Tic-tac-toe 3
+
+## 题目描述
+
+Bored to death working at the Byteland Office...your colleagues have resorted to game of crosses Xs and naughtd Os or Tic-tac-toe. One of them keeps on losing and is tired of the jokes. He plans to have an Android app in his phone to help him out. He is your good friend and seeks your assistance. "Treat at ANC is guaranteed", he says.
+
+He also is very frugal when it comes to memory usage. So please don't write a long if else chain...cause you have to do the task within 999 bytes
+
+## 输入格式
+
+An integer T - the number of test cases. (T<1000). T test cases follow.
+
+Each test case comprises 3 strings each separated by newline and containing exactly 3 characters(either 'X','O' or '\_') per line. An empty line follows each test case. Each input position is guaranteed to be a valid tic tac toe position such that the game is still not over.
+
+## 输出格式
+
+For each test case print "WON" if it is a sure shot winning position. Else print "CONTINUE". Then output the game after having made your move. If more than one move are equally good try playing the move on the first empty spot.
+
+## 样例 #1
+
+### 输入
+
+```
+2
+OOX
+OX_
+__X
+
+XX_
+XOO
+_O_
+```
+
+### 输出
+
+```
+WON
+OOX
+OXX
+__X
+WON
+XXX
+XOO
+_O_
+```
+

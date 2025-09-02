@@ -1,0 +1,37 @@
+---
+title: "GARDENAR - Area of a Garden"
+layout: "post"
+diff: 难度0
+pid: SP5240
+tag: []
+---
+
+# GARDENAR - Area of a Garden
+
+## 题目描述
+
+One rich person decided to make himself a great garden. The garden should have a from of equilateral triangle. There should be a gazebo inside the garden. The gazebo will be connected with the triangle vertexes by roads. The lengths of all three roads are known. Those numbers are sacred for this rich man. The expense of building such a garden will depend on the area of the garden. Help the rich man by calculating what will be the area of his garden.
+
+## 输入格式
+
+The first line of the input contains number **t** – the amount of tests. Then **t** test descriptions follow. Each test consist of three integers **a**, **b**, **c** - the lengths of the roads. It is guaranteed that it's possible to build such a garden.
+
+## 输出格式
+
+For each test print the area of the garden rounded to two decimal places.
+
+## 样例 #1
+
+### 输入
+
+```
+1
+3 4 5
+```
+
+### 输出
+
+```
+19.83
+```
+

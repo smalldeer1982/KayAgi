@@ -1,0 +1,44 @@
+# 题号列表
+
+- CF1017B - The Bits
+- CF1017C - The Phone Number
+- CF103B - Cthulhu
+- CF1065B - Vasya and Isolated Vertices
+- CF123A - Prime Permutation
+- CF1342B - Binary Period
+- CF1352G - Special Permutation
+- CF1381A1 - Prefix Flip (Easy Version)
+- CF145B - Lucky Number 2
+- CF1627C - Not Assigning
+- CF1685A - Circular Local MiniMax
+- CF1696C - Fishingprince Plays With Array
+- CF1708B - Difference of GCDs
+- CF1722G - Even-Odd XOR
+- CF1775B - Gardener and the Array
+- CF1923C - Find B
+- CF1927E - Klever Permutation
+- CF1944B - Equal XOR
+- CF1968E - Cells Arrangement
+- CF1973C - Cat, Fox and Double Maximum
+- CF1978C - Manhattan Permutations
+- CF1998B - Minimize Equal Sum Subarrays
+- CF2031C - Penchick and BBQ Buns
+- CF2035C - Alya and Permutation
+- CF2044D - Harder Problem
+- CF2049C - MEX Cycle
+- CF2065E - Skibidus and Rizz
+- CF2072C - Creating Keys for StORages Has Become My Main Skill
+- CF2072E - Do You Love Your Hero and His Two-Hit Multi-Target Attacks?
+- CF2074C - XOR and Triangle
+- CF2094F - Trulimero Trulicina
+- CF2101A - 网格 mex
+- CF2107C - Maximum Subarray Sum
+- CF2107C - 最大子区间和
+- CF2110C - Racing
+- CF2118B - Make It Permutation
+- CF219A - k-String
+- CF22C - System Administrator
+- CF38B - Chess
+- CF500C - New Year Book Reading
+- CF897B - Chtholly's request
+- CF932C - Permutation Cycle

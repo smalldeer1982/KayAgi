@@ -1,0 +1,246 @@
+---
+title: "Count Paths"
+layout: "post"
+diff: 提高+/省选-
+pid: CF1923E
+tag: ['点分治', '递归']
+---
+
+# Count Paths
+
+## 题目描述
+
+You are given a tree, consisting of $ n $ vertices, numbered from $ 1 $ to $ n $ . Every vertex is colored in some color, denoted by an integer from $ 1 $ to $ n $ .
+
+A simple path of the tree is called beautiful if:
+
+- it consists of at least $ 2 $ vertices;
+- the first and the last vertices of the path have the same color;
+- no other vertex on the path has the same color as the first vertex.
+
+Count the number of the beautiful simple paths of the tree. Note that paths are considered undirected (i. e. the path from $ x $ to $ y $ is the same as the path from $ y $ to $ x $ ).
+
+## 输入格式
+
+The first line contains a single integer $ t $ ( $ 1 \le t \le 10^4 $ ) — the number of testcases.
+
+The first line of each testcase contains a single integer $ n $ ( $ 2 \le n \le 2 \cdot 10^5 $ ) — the number of vertices in the tree.
+
+The second line contains $ n $ integers $ c_1, c_2, \dots, c_n $ ( $ 1 \le c_i \le n $ ) — the color of each vertex.
+
+The $ i $ -th of the next $ n - 1 $ lines contains two integers $ v_i $ and $ u_i $ ( $ 1 \le v_i, u_i \le n $ ; $ v_i \neq u_i $ ) — the $ i $ -th edge of the tree.
+
+The given edges form a valid tree. The sum of $ n $ over all testcases doesn't exceed $ 2 \cdot 10^5 $ .
+
+## 输出格式
+
+For each testcase, print a single integer — the number of the beautiful simple paths of the tree.
+
+## 样例 #1
+
+### 输入
+
+```
+4
+3
+1 2 1
+1 2
+2 3
+5
+2 1 2 1 2
+1 2
+1 3
+3 4
+4 5
+5
+1 2 3 4 5
+1 2
+1 3
+3 4
+4 5
+4
+2 2 2 2
+3 1
+3 2
+3 4
+```
+
+### 输出
+
+```
+1
+3
+0
+3
+```
+
+
+
+---
+
+---
+title: "Baudelaire (hard version)"
+layout: "post"
+diff: 提高+/省选-
+pid: CF2106G2
+tag: ['二分', '点分治', '分治']
+---
+
+# Baudelaire (hard version)
+
+## 题目描述
+
+这是该问题的困难版本。两个版本之间的唯一区别在于，在困难版本中树的形态可以是任意的。
+
+本题是交互题。
+
+波德莱尔非常富有，因此他购买了一棵大小为 $n$ 的树，这棵树以某个任意节点为根。此外，每个节点的值为 $1$ 或 $-1$。
+
+书呆子牛看到了这棵树并爱上了它。然而计算机科学的收入不足以让他买下这棵树。波德莱尔决定和书呆子牛玩一个游戏，如果他赢了，就把这棵树送给他。
+
+书呆子牛不知道哪个节点是根，也不知道节点的值。但他可以向波德莱尔提出两种类型的查询：
+
+1. `1 k u₁ u₂ ... uₖ`：设 $f(u)$ 为从树的根到节点 $u$ 的路径上所有节点的值之和。书呆子牛可以选择一个整数 $k$（$1 \le k \le n$）和 $k$ 个节点 $u_1, u_2, ..., u_k$，然后他会收到值 $f(u_1) + f(u_2) + ... + f(u_k)$。
+2. `2 u`：波德莱尔将切换节点 $u$ 的值。具体来说，如果 $u$ 的值为 $1$，则变为 $-1$，反之亦然。
+
+如果书呆子牛在总共 $n + 200$ 次查询内正确猜出每个节点的值（即执行查询后树的最终值），他就获胜。你能帮助他获胜吗？
+
+## 输入格式
+
+输入的第一行包含一个整数 $t$（$1 \le t \le 100$），表示测试用例的数量。
+
+每个测试用例的第一行包含一个整数 $n$（$2 \le n \le 10^3$），表示树的大小。
+
+接下来的 $n-1$ 行每行包含两个整数 $u$ 和 $v$（$1 \le u, v \le n$，$u \neq v$），表示树中节点 $u$ 和 $v$ 之间有一条边。
+
+保证所有测试用例的 $n$ 之和不超过 $10^3$，并且每个输入的图都是合法的树。
+
+## 输出格式
+
+要提出类型 $1$ 的查询，请按以下格式输出一行（不带引号）：
+- `? 1 k u₁ u₂ ... uₖ`（$1 \le k, u_i \le n$）
+
+评测机将返回一个整数，即 $f(u_1) + f(u_2) + ... + f(u_k)$。
+
+要提出类型 $2$ 的查询，请按以下格式输出一行：
+- `? 2 u`（$1 \le u \le n$）
+
+评测机会切换节点 $u$ 的值：如果其值为 $1$，则变为 $-1$，反之亦然。
+
+当你找到答案时，请按以下格式输出一行：
+- `! v₁ v₂ ... vₙ`（$v_i = 1$ 或 $v_i = -1$，$v_i$ 是执行查询后节点 $i$ 的值）
+
+之后，继续处理下一个测试用例，或者如果是最后一个测试用例则终止程序。输出答案不计入查询次数。
+
+交互器不是自适应的，这意味着树的值在参与者提出查询之前就已经确定。
+
+如果你的程序进行了超过 $n + 200$ 次查询，它应立即终止并收到 Wrong Answer 的判定。否则，你可能会得到任意判定，因为你的解决方案将继续从已关闭的流中读取数据。
+
+在打印查询后，不要忘记输出换行符并刷新输出缓冲区。否则，你可能会得到 Idleness Limit Exceeded 的判定。可以使用以下方法刷新输出：
+- C++：`fflush(stdout)` 或 `cout.flush()`
+- Java：`System.out.flush()`
+- Pascal：`flush(output)`
+- Python：`stdout.flush()`
+- 其他语言请参考相关文档。
+
+## Hack 格式
+
+对于 Hack 攻击，请使用以下格式：
+
+第一行应包含一个整数 $t$（$1 \le t \le 100$）——测试用例的数量。
+
+每个测试用例的第一行必须包含两个整数 $n$ 和 $root$（$2 \le n \le 10^3$，$1 \le root \le n$）——树的大小和树的根节点。
+
+每个测试用例的第二行必须包含 $n$ 个整数 $a_1, a_2, ..., a_n$（$|a_i| = 1$）——其中 $a_i$ 是节点 $i$ 的值。
+
+接下来的 $n-1$ 行每行必须包含两个整数 $u$ 和 $v$（$1 \le u, v \le n$）——表示节点 $u$ 和 $v$ 之间有一条边。
+
+所有测试用例的 $n$ 之和不得超过 $10^3$，并且每个输入的图必须是合法的树。
+
+## 说明/提示
+
+在第一个示例中，树的根是节点 $4$，初始值为 $[-1, -1, -1, 1]$（第 $i$ 个值是节点 $i$ 的值）。
+
+初始时，$f(1) = 0$，$f(2) = 0$，$f(3) = -1$，$f(4) = 1$。因此，第一个查询的答案是 $f(1) + f(2) + f(4) = 1$，第二个查询的答案是 $f(3) + f(1) = -1$。
+
+在切换节点 $4$ 的值后，值变为 $[-1, -1, -1, -1]$。此时 $f(1) = -2$，$f(2) = -2$，$f(3) = -3$，$f(4) = -1$。因此 $f(1) + f(2) + f(4) = -5$，$f(3) + f(1) = -5$。
+
+我们最终回答节点的值为 $[-1, -1, -1, -1]$，这是正确的。注意我们报告的是节点在变化后的值，而不是之前的值。
+
+在第二个示例中，树的根是 $2$，初始值为 $[1, 1]$。
+
+在最后一个示例中，树的根是 $1$，初始值为 $[-1, 1, 1, 1, 1, 1, -1]$。
+
+注意这只是一个解释查询如何工作的示例，并不涉及具体的解题策略。
+
+翻译由 DeepSeek V3 完成
+
+## 样例 #1
+
+### 输入
+
+```
+3
+4
+1 4
+4 2
+2 3
+
+1
+
+-1
+
+
+-5
+
+-5
+
+2
+1 2
+
+2
+
+7
+1 2
+2 7
+7 3
+7 4
+7 5
+7 6
+
+-1
+```
+
+### 输出
+
+```
+? 1 3 1 2 4
+
+? 1 2 3 1
+
+? 2 4
+? 1 3 1 2 4
+
+? 1 2 3 1
+
+! -1 -1 -1 -1
+
+
+? 1 1 1
+
+! 1 1
+
+
+
+
+
+
+? 1 1 1
+
+! -1 1 1 1 1 1 -1
+```
+
+
+
+---
+

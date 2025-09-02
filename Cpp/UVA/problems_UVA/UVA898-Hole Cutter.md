@@ -1,0 +1,51 @@
+---
+title: "Hole Cutter"
+layout: "post"
+diff: 难度0
+pid: UVA898
+tag: []
+---
+
+# Hole Cutter
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=10&page=show_problem&problem=839
+
+[PDF](https://uva.onlinejudge.org/external/8/p898.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA898/710d34b647cedbd2e347f99fbab781718fe3cd6c.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA898/e596796f63895d7fbe6d1f500864649c441de083.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA898/7a59bb9fa55961ddb5de5f25fb2f0d4d20f8c2c7.png)
+
+## 样例 #1
+
+### 输入
+
+```
+6
+1011
+2022
+3132
+1020
+1131
+2232
+2
+0121
+1210
+0
+```
+
+### 输出
+
+```
+2
+0
+```
+

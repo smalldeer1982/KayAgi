@@ -1,0 +1,36 @@
+# 题号列表
+
+- P1153 - 点和线
+- P12535 - [XJTUPC 2025] 棱堡
+- P13057 - [GCJ 2020 #1B] Blindfolded Bullseye
+- P13135 - [GCJ 2018 Qualification] Cubic UFO
+- P13217 - [GCJ 2015 #1A] Logging
+- P13443 - [GCJ 2009 #2] Watering Plants
+- P13456 - [GCJ 2008 Qualification] Fly Swatter
+- P13799 - [SWERC 2023] Break a leg!
+- P1429 - 平面最近点对（加强版）
+- P1863 - 独眼兔
+- P2116 - 城墙
+- P2742 - [USACO5.1] 圈奶牛Fencing the Cows /【模板】二维凸包
+- P3194 - [HNOI2008] 水平可见直线
+- P3219 - [HNOI2012] 三角形覆盖问题
+- P3738 - [HAOI2014] 穿越封锁线
+- P3744 - 李彬的几何
+- P3788 - 幽幽子吃西瓜
+- P4273 - [NOI2004] 降雨量
+- P4894 - GodFly求解法向量
+- P5428 - [USACO19OPEN] Cow Steeplechase II S
+- P5696 - [CTSC1998] 监视摄像机
+- P5859 - 「SWTR-3」Plane Mirrors
+- P6252 - [ICPC 2019 WF] Beautiful Bridges
+- P6711 - [BalticOI 2005] Polygon
+- P6894 - [ICPC 2014 WF] Crane Balancing
+- P7651 - [BalticOI 1996] A SQUARE AND A CIRCLE (Day 1)
+- P8154 - 「PMOI-5」棋盘
+- P8608 - [蓝桥杯 2013 国 B] 农场阳光
+- P8645 - [蓝桥杯 2016 国 B] 广场舞
+- P8718 - [蓝桥杯 2020 省 A2] 荒岛探测
+- P8777 - [蓝桥杯 2022 省 A] 扫描游戏
+- P9568 - [SDCPC 2023] Computational Geometry
+- P9658 - [ICPC 2021 Macao R] Laser Trap
+- P9702 - [GDCPC 2023] Computational Geometry

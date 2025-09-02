@@ -1,0 +1,47 @@
+---
+title: "Summing Digits"
+layout: "post"
+diff: 难度0
+pid: UVA11332
+tag: []
+---
+
+# Summing Digits
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=25&page=show_problem&problem=2307
+
+[PDF](https://uva.onlinejudge.org/external/113/p11332.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11332/314546a5a31572666a8fb2c149d8c6777a38068e.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11332/3260c5ac163ccd8e1f29d50904c126b0f54305bd.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11332/8686eb3e4e633b6f16e497375a4bfef0d2e8fcf7.png)
+
+## 样例 #1
+
+### 输入
+
+```
+2
+11
+47
+1234567892
+0
+```
+
+### 输出
+
+```
+2
+2
+2
+2
+```
+

@@ -1,0 +1,78 @@
+# 题号列表
+
+- CF1009F - Dominant Indices
+- CF1059E - Split the Tree
+- CF1073E - Segment Sum
+- CF1146H - Satanic Panic
+- CF1198F - GCD Groups 2
+- CF1202E - You Are Given Some Strings...
+- CF1437F - Emotional Fishermen
+- CF1476F - Lanterns
+- CF1616H - Keep XOR Low
+- CF1626F - A Random Code Problem
+- CF1648D - Serious Business
+- CF1667E - Centroid Probabilities
+- CF1679E - Typical Party in Dorm
+- CF1679F - Formalism for Formalism
+- CF1681E - Labyrinth Adventures
+- CF1697E - Coloring
+- CF1728G - Illumination
+- CF1739E - Cleaning Robot
+- CF1775F - Laboratory on Pluto
+- CF1781F - Bracket Insertion
+- CF1792F1 - Graph Coloring (easy version)
+- CF1799G - Count Voting
+- CF1801F - Another n-dimensional chocolate bar
+- CF1909F2 - Small Permutation Problem (Hard Version)
+- CF1917F - Construct Tree
+- CF1919E - Counting Prefixes
+- CF1922F - Replace on Segment
+- CF1946F - Nobody is needed
+- CF1969F - Card Pairing
+- CF1970E3 - Trails (Hard)
+- CF1993E - Xor-Grid Problem
+- CF1997F - Chips on a Line
+- CF2001E2 - Deterministic Heap (Hard Version)
+- CF2018F2 - Speedbreaker Counting (Medium Version)
+- CF2018F3 - Speedbreaker Counting (Hard Version)
+- CF2020F - Count Leaves
+- CF2021D - Boss, Thirsty
+- CF2021E3 - Digital Village (Extreme Version)
+- CF2023D - Many Games
+- CF2026F - Bermart Ice Cream
+- CF2029G - Balanced Problem
+- CF2032F - Peanuts
+- CF2034F2 - Khayyam's Royal Decree (Hard Version)
+- CF2038D - Divide OR Conquer
+- CF2038M - Royal Flush
+- CF2039F1 - Shohag Loves Counting (Easy Version)
+- CF2041J - Bottle Arrangement
+- CF2053I1 - Affectionate Arrays (Easy Version)
+- CF2066D2 - Club of Young Aircraft Builders (hard version)
+- CF2077F - AND x OR
+- CF2084G1 - Wish Upon a Satellite (Easy Version)
+- CF2089C2 - Key of Like (Hard Version)
+- CF2107F2 - Cycling (Hard Version)
+- CF248E - Piglet's Birthday
+- CF24D - Broken robot
+- CF258D - Little Elephant and Broken Sorting
+- CF285E - Positions in Permutations
+- CF295D - Greg and Caves
+- CF321E - Ciel and Gondolas
+- CF351C - Jeff and Brackets
+- CF53E - Dead Ends
+- CF543D - Road Improvement
+- CF55D - Beautiful numbers
+- CF567F - Mausoleum
+- CF599E - Sandy and Nuts
+- CF613D - Kingdom and its Cities
+- CF626F - Group Projects
+- CF633F - The Chocolate Spree
+- CF808E - Selling Souvenirs
+- CF809D - Hitchhiking in the Baltic States
+- CF83E - Two Subsequences
+- CF840C - On the Bench
+- CF865C - Gotta Go Fast
+- CF868F - Yet Another Minimization Problem
+- CF908D - New Year and Arbitrary Arrangement
+- CF930E - Coins Exhibition

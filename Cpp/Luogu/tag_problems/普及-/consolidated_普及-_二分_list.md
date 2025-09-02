@@ -1,0 +1,43 @@
+# 题号列表
+
+- B3627 - 立方根
+- B3628 - 机器猫斗恶龙
+- B3629 - 吃冰棍
+- B3691 - [语言月赛202212] 狠狠地切割(Easy Version)
+- B3799 - [NICA #1] 序列
+- B3880 - [信息与未来 2015] 买木头
+- B3881 - [信息与未来 2015] 拴奶牛
+- B3929 - [GESP202312 五级] 小杨的幸运数
+- B4152 - [厦门小学生 C++ 2022] 方阵排序
+- B4305 - [蓝桥杯青少年组省赛 2024] 物品分组
+- P10098 - [ROIR 2023] 地铁建设 (Day 2)
+- P10189 - [USACO24FEB] Maximizing Productivity B
+- P1024 - [NOIP 2001 提高组] 一元三次方程求解
+- P10782 - 【MX-J1-T2】『FLA - III』Ilumina
+- P1102 - A-B 数对
+- P11388 - [COCI 2024/2025 #1] 飞跃 / Skokovi
+- P1163 - 银行贷款
+- P11951 - [科大国创杯初中组 2023] 数数
+- P11962 - [GESP202503 六级] 树上漫步
+- P12342 - [蓝桥杯 2025 省 B/Python B 第二场] 数列差分
+- P1258 - 小车问题
+- P12673 - 「LAOI-8」Change
+- P1571 - 眼红的Medusa
+- P1676 - [USACO05FEB] Aggressive cows G
+- P1678 - 烦恼的高考志愿
+- P1824 - 进击的奶牛
+- P1918 - 保龄球
+- P1947 - 猜数
+- P2249 - 【深基13.例1】查找
+- P3184 - [USACO16DEC] Counting Haybales S
+- P4771 - 八百标兵奔北坡
+- P7441 - 「EZEC-7」Erinnerung
+- P7585 - [COCI 2012/2013 #1] LJUBOMORA
+- P7713 - 「EZEC-10」打分
+- P8481 - 「HGOI-1」Binary search
+- P8647 - [蓝桥杯 2017 省 AB] 分巧克力
+- P8889 - [入门赛 #7] 狠狠地切割 (Hard Version)
+- P9497 - 「RiOI-2」weight
+- P9644 - [SNCPC2019] Turn It Off
+- P9853 - [入门赛 #17] 方程求解
+- P9937 - [USACO21OPEN] Acowdemia I B

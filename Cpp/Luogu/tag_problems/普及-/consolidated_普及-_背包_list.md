@@ -1,0 +1,26 @@
+# 题号列表
+
+- P1048 - [NOIP 2005 普及组] 采药
+- P1049 - [NOIP 2001 普及组] 装箱问题
+- P1060 - [NOIP 2006 普及组] 开心的金明
+- P11377 - [GESP202412 七级] 武器购买
+- P1164 - 小A点菜
+- P12207 - [蓝桥杯 2023 国 Python B] 划分
+- P1358 - 扑克牌
+- P1507 - NASA的食物计划
+- P1616 - 疯狂的采药
+- P1679 - 神奇的四次方数
+- P1734 - 最大约数和
+- P1757 - 通天之分组背包
+- P1832 - A+B Problem（再升级）
+- P1855 - 榨取kkksc03
+- P1877 - [HAOI2012] 音量调节
+- P1910 - L 国的战斗之间谍
+- P1926 - 小书童——刷题大军
+- P2430 - 严酷的训练
+- P2563 - [AHOI2001] 质数和分解
+- P2639 - [USACO09OCT] Bessie's Weight Problem G
+- P2722 - [USACO3.1] 总分 Score Inflation
+- P2871 - [USACO07DEC] Charm Bracelet S
+- P2925 - [USACO08DEC] Hay For Sale S
+- P8742 - [蓝桥杯 2021 省 AB] 砝码称重

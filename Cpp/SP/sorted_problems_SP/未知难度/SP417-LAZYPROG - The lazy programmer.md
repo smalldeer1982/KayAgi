@@ -1,0 +1,47 @@
+---
+title: "LAZYPROG - The lazy programmer"
+layout: "post"
+diff: 难度0
+pid: SP417
+tag: []
+---
+
+# LAZYPROG - The lazy programmer
+
+## 题目描述
+
+A new web-design studio, called SMART (Simply Masters of ART), employs two people. The first one is a web-designer and an executive director at the same time. The second one is a programmer. The director is so a nimble guy that the studio has already got **N** contracts for web site development. Each contract has a deadline **d $ _{i} $** .
+
+It is known that the programmer is lazy. Usually he does not work as fast as he could. Therefore, under normal conditions the programmer needs **b $ _{i} $**  of time to perform the contract number **i**. Fortunately, the guy is very greedy for money. If the director pays him **x $ _{i} $**  dollars extra, he needs only **(b $ _{i} $ - a $ _{i} $ \*x $ _{i} $ )** of time to do his job. But this extra payment does not influence other contracts. This means that each contract should be paid separately to be done faster. The programmer is so greedy that he can do his job almost instantly if the extra payment is **(b $ _{i} $ /a $ _{i} $ )** dollars for the contract number **i**.
+
+The director has a difficult problem to solve. He needs to organize programmer’s job and, may be, assign extra payments for some of the contracts so that all contracts are performed in time. Obviously he wishes to minimize the sum of extra payments. Help the director!
+
+## 输入格式
+
+First line of the input contains an integer **t** (_1_ ≤ **t** ≤ _45_), equal to the number of testcases. Then descriptions of **t** testcases follow.
+
+First line of description contains the number of contracts **N** (_1_ ≤ **N** ≤ _100000_, integer). Each of the next **N** lines describes one contract and contains integer numbers **a $ _{i} $** , **b $ _{i} $** , **d $ _{i} $**  (_1_ ≤ **a $ _{i} $** , **b $ _{i} $**  ≤ _10000_; _1_ ≤ **d $ _{i} $**  ≤ _1000000000_) separated by spaces.
+
+At least _90%_ of testcases will have _1_ ≤ **N** ≤ _10000_.
+
+## 输出格式
+
+For each testcase in the input your program should output one line with a single real number S. Here S is the minimum sum of money which the director needs to pay extra so that the programmer could perform all contracts in time. The number must have two digits after the decimal point.
+
+## 样例 #1
+
+### 输入
+
+```
+1
+2
+20 50 100
+10 100 50
+```
+
+### 输出
+
+```
+5.00
+```
+

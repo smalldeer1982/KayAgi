@@ -1,0 +1,40 @@
+---
+title: "Puncher"
+layout: "post"
+diff: 难度0
+pid: UVA770
+tag: []
+---
+
+# Puncher
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=9&page=show_problem&problem=711
+
+[PDF](https://uva.onlinejudge.org/external/7/p770.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA770/3f06b7337741fc5320a010e0a556368d76d8b908.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA770/8a831c0c2e685348f33c6a6fce8c1e15d79713eb.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA770/9a8bdcaf1dd8f82f06504e986aaee4854fa4d2de.png)
+
+## 样例 #1
+
+### 输入
+
+```
+
+```
+
+### 输出
+
+```
+85
+```
+

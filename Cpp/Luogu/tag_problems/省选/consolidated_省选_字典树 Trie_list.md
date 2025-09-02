@@ -1,0 +1,21 @@
+# 题号列表
+
+- P10283 - [USACO24OPEN] Identity Theft P
+- P10855 - 【MX-X2-T4】「Cfz Round 4」Gcd with Xor
+- P11160 - 【MX-X6-T6】機械生命体
+- P11611 - [PA 2016] 归约 / CNF-SAT
+- P13259 - [GCJ 2014 #2] Trie Sharding
+- P3294 - [SCOI2016] 背单词
+- P3449 - [POI 2006] PAL-Palindromes
+- P3732 - [HAOI2017] 供给侧改革
+- P4098 - [HEOI2013] ALO
+- P4735 - 最大异或和
+- P5283 - [十二省联考 2019] 异或粽子
+- P5460 - [BJOI2016] IP地址
+- P6018 - [Ynoi2010] Fusion tree
+- P6072 - 『MdOI R1』Path
+- P6623 - [省选联考 2020 A 卷] 树
+- P7475 - 「C.E.L.U-02」简易输入法
+- P8582 - [CoE R5] 斑马王子
+- P8994 - [北大集训 2021] 经典游戏
+- P9935 - [NFLSPC #6] 啊，忘记了。

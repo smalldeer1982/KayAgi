@@ -1,0 +1,140 @@
+# 题号列表
+
+- P10010 - [集训队互测 2023] Grievous Lady
+- P10182 - 一径入繁华
+- P10324 - 洞察（Insight）
+- P10325 - 超越（Transcendent）
+- P10326 - 自由（Freedom）
+- P10881 - 「KDOI-07」能量场
+- P10896 - 移言丁真：Unavoided linyue
+- P11040 - 【MX-X3-T7】「RiOI-4」Re：End of a Dream
+- P11174 - 「CMOI R1」Looking For Edge Of Ground／City Planning
+- P11418 - [Sloi 2024]D1T2 简单的反链求和问题
+- P11460 - [USACO24DEC] Maximize Minimum Difference P
+- P11612 - [PA 2016] 台球 / Bilard Hilberta
+- P11613 - [PA 2016] 覆盖 / Pokrycia
+- P11821 - [PA 2019 Final] 数图 / Grafy 加强版
+- P11834 - [省选联考 2025] 岁月
+- P11846 - [USACO25FEB] Transforming Pairs P
+- P12011 - 【MX-X10-T7】[LSOT-4] 春开，意遥遥。
+- P12265 - 『STA - R9』真空介电常数
+- P12471 - [Math×Girl] 染色
+- P12487 - [集训队互测 2024] 月亮的背面是粉红色的
+- P12992 - [GCJ 2022 #1C] Intranets
+- P13042 - [GCJ 2021 #3] Binary Search Game
+- P13072 - [GCJ 2020 Finals] Hexacoin Jam
+- P13125 - [GCJ 2019 Finals] Won't sum? Must now
+- P13164 - [GCJ 2017 #1A] Play the Dragon
+- P13268 - [GCJ 2014 Finals] Allergy Testing
+- P13306 - [GCJ 2013 Finals] Let Me Tell You a Story
+- P1587 - [NOI2016] 循环之美
+- P1737 - [NOI2016] 旷野大计算
+- P2019 - 四平方和定理
+- P2020 - [NOI2011] 兔农
+- P2063 - 二平方和定理
+- P2179 - [NOI2012] 骑行川藏
+- P2612 - [ZJOI2012] 波浪
+- P2791 - 幼儿园篮球题
+- P3229 - [HNOI2013] 旅行
+- P3307 - [SDOI2013] 项链
+- P3583 - [POI 2015] KWA
+- P3700 - [CQOI2017] 小 Q 的表格
+- P3766 - 核心密码B
+- P3789 - Azuki loves coloring
+- P3923 - 大学数学题
+- P4002 - [清华集训 2017] 生成树计数
+- P4091 - [HEOI2016/TJOI2016] 求和
+- P4156 - [WC2016] 论战捆竹竿
+- P4240 - 毒瘤之神的考验
+- P4339 - [ZJOI2018] 迷宫
+- P4433 - [COCI 2009/2010 #1] ALADIN
+- P4566 - [CTSC2018] 青蕈领主
+- P4654 - [CEOI 2017] Mousetrap
+- P4705 - 玩游戏
+- P4727 - [HNOI2009] 图的同构计数
+- P4827 - [集训队互测 2011] Crash 的文明世界
+- P4931 - [MtOI2018] 情侣？给我烧了！（加强版）
+- P4935 - 口袋里的纸飞机
+- P5050 - 【模板】多项式多点求值
+- P5158 - 【模板】多项式快速插值
+- P5162 - WD与积木
+- P5282 - 【模板】快速阶乘算法
+- P5285 - [十二省联考 2019] 骗分过样例
+- P5293 - [HNOI2019] 白兔之舞
+- P5296 - [北京省选集训2019] 生成树计数
+- P5325 - 【模板】Min_25 筛
+- P5373 - 【模板】多项式复合函数
+- P5383 - 普通多项式转下降幂多项式
+- P5388 - [Cnoi2019] 最终幻想
+- P5393 - 下降幂多项式转普通多项式
+- P5430 - [SNOI2017] 礼物 加强版
+- P5432 - A/B Problem（高精度除法）
+- P5518 - [MtOI2019] 幽灵乐团 / 莫比乌斯反演基础练习题
+- P5519 - [MtOI2019] 埋骨于弘川
+- P5548 - [BJ United Round #3] 押韵
+- P5572 - [CmdOI2019] 简单的数论题
+- P5617 - [MtOI2019] 不可视境界线
+- P5655 - 基础数论函数练习题
+- P5668 - 【模板】N 次剩余
+- P5702 - 调和级数求和
+- P5808 - 【模板】常系数非齐次线性递推
+- P5809 - 【模板】多项式复合逆
+- P5824 - 十二重计数法
+- P5827 - 点双连通图计数
+- P5828 - 边双连通图计数
+- P5850 - calc加强版
+- P5860 - 「SWTR-3」Counting Trees
+- P5885 - [CTSC2014] 随机数
+- P5900 - 无标号无根树计数
+- P5907 - 数列求和加强版 / SPOJ MOON4
+- P5915 - 冬至
+- P6031 - CF1278F Cards 加强版
+- P6043 - 「ACOI2020」修学旅行
+- P6073 - 『MdOI R1』Epic Convolution
+- P6115 - 【模板】整式递推
+- P6132 - [集训队互测 2019] 简单计数
+- P6276 - [USACO20OPEN] Exercise P
+- P6277 - [USACO20OPEN] Circus P
+- P6296 - 轮换式 加强版
+- P6358 - 鬼故事 加强版
+- P6384 - 『MdOI R2』Quo Vadis
+- P6596 - How Many of Them
+- P6613 - 一阶微分方程
+- P6750 - 『MdOI R3』Pekka Bridge Spam
+- P6790 - [SNOI2020] 生成树
+- P6791 - [SNOI2020] 取石子
+- P6899 - [ICPC 2014 WF] Pachinko
+- P7101 - [W1] 推
+- P7102 - [W1] 算
+- P7155 - [USACO20DEC] Spaceship P
+- P7156 - [USACO20DEC] Cowmistry P
+- P7289 - 「EZEC-5」「KrOI2021」Chasse Neige
+- P7292 - 「EZEC-5」「KrOI2021」Chasse Neige 加强版
+- P7293 - [USACO21JAN] Sum of Distances P
+- P7438 - 更简单的排列计数
+- P7439 - 「KrOI2021」Feux Follets 弱化版
+- P7440 - 「KrOI2021」Feux Follets
+- P7454 - [THUSC 2017] 如果奇迹有颜色
+- P7513 - 「Stoi2031」兰亭序 加强版
+- P7592 - 数树（2021 CoE-II E）
+- P7890 - 「MCOI-06」Lost Desire
+- P7979 - 「Stoi2033」世界未末日 加强版
+- P8114 - [Cnoi2021] 六边形战士
+- P8151 - 彼岸 | To See the Next Part of the Dream
+- P8181 - 「EZEC-11」Circle
+- P8333 - [ZJOI2022] 计算几何
+- P8348 - 「Wdoi-6」未知之花魅知之旅
+- P8556 - 心跳 加强版
+- P8559 - 寻宝（Treasure）
+- P8560 - 约定（Promise）
+- P8561 - 送别（Farewell）
+- P8562 - 十二重骗分法（Cheating XII）
+- P8581 - [CoE R5] X 细胞
+- P8768 - [蓝桥杯 2021 国 A] 积木
+- P9151 - 计数题
+- P9194 - [USACO23OPEN] Triples of Cows P
+- P9248 - [集训队互测 2018] 完美的集合
+- P9249 - [集训队互测 2018] 完美的旅行
+- P9405 - [POI 2020/2021 R3] Komunikacja międzyplanetarn
+- P9501 - 「RiOI-2」likely
+- P9885 - [ICPC 2018 Qingdao R] Sequence and Sequence

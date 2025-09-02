@@ -1,0 +1,35 @@
+---
+title: "DOL - Largest Odd Divisor"
+layout: "post"
+diff: 入门
+pid: SP25131
+tag: []
+---
+
+# DOL - Largest Odd Divisor
+
+## 题目描述
+
+Given a non-negative integers **N**. You have to find the largest odd divisor of **N**.
+
+**Input**
+
+Input starts with an integer **T (1<=T<=5000)** denoting the number of test cases. Each test case contains an integer **N (1<=N<=10 $ ^{12} $ )**.
+
+**Output**
+
+For each test case print the case number and the largest odd divisor of **N**.
+
+ **Sample Input**
+
+  **Output for Sample Input**
+
+  2  
+ 2  
+ 10
+
+  Case 1: 1  
+ Case 2: 5
+
+ Problem Setter: Md Abdul Alim, CEO and Founder at [CodeMask](https://www.facebook.com/codemaskcp/)
+

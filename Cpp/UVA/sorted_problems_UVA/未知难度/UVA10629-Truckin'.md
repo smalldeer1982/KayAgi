@@ -1,0 +1,44 @@
+---
+title: "Truckin'"
+layout: "post"
+diff: 难度0
+pid: UVA10629
+tag: []
+---
+
+# Truckin'
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=18&page=show_problem&problem=1570
+
+[PDF](https://uva.onlinejudge.org/external/106/p10629.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10629/44b7c3c8ddcaa9febabfef38a4efe614f14f58cd.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10629/bf73ae66f480588e46b9a7c4414bdb2fdcf48781.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10629/26e8689d9b6ec4df6dfa5e3e2b3d3374f4242bf7.png)
+
+## 样例 #1
+
+### 输入
+
+```
+1000 3
+250 20 20
+500 40 40
+750 19 19
+0 0
+```
+
+### 输出
+
+```
+998.03
+```
+

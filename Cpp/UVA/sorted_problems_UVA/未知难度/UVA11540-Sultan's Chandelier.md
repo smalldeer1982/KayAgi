@@ -1,0 +1,51 @@
+---
+title: "Sultan's Chandelier"
+layout: "post"
+diff: 难度0
+pid: UVA11540
+tag: []
+---
+
+# Sultan's Chandelier
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=27&page=show_problem&problem=2535
+
+[PDF](https://uva.onlinejudge.org/external/115/p11540.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11540/cf226fc3135db3f9fc9b564fdfbd4359d13a2299.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11540/1f0f4569d5168589518baa1d7dd663aaac566c23.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11540/398fb02b3cba32a07f15b5564a7ec57b2e92ad19.png)
+
+## 样例 #1
+
+### 输入
+
+```
+6
+[[],[],[]] 2
+[] 2
+[[],[]] 2
+[[[],[]],[],[[],[]]] 2
+[[[],[]],[],[],[[],[]]] 4
+[[[],[]],[],[[],[]],[]] 4
+```
+
+### 输出
+
+```
+Case #1: 8
+Case #2: 2
+Case #3: 6
+Case #4: 144
+Case #5: 102400
+Case #6: 51520
+```
+

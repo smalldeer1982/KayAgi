@@ -1,0 +1,358 @@
+# 题号列表
+
+- B3791 - [信息与未来 2023] 电路布线
+- B4280 - [蓝桥杯青少年组国赛 2023] 数学实验
+- B4281 - [蓝桥杯青少年组国赛 2023] 月球疏散行动
+- B4323 - [科大国创杯小学组 2025] 改写
+- P10034 - 「Cfz Round 3」Circle
+- P10036 - 「FAOI-R2」A trip to Macao
+- P10099 - [ROIR 2023] 美丽序列 (Day 2)
+- P10119 - 『STA - R4』踱步
+- P10138 - [USACO24JAN] Cowmpetency G
+- P10282 - [USACO24OPEN] Smaller Averages G
+- P10375 - [AHOI2024 初中组] 计数
+- P10398 - 『STA - R5』Remove and Decrease Game
+- P10407 - 「SMOI-R1」Game
+- P10408 - 「SMOI-R1」Apple
+- P10586 - 「ALFR Round 2」B 篮球比赛
+- P10597 - BZOJ4665 小 w 的喜糖
+- P1070 - [NOIP 2009 普及组] 道路游戏
+- P1073 - [NOIP 2009 提高组] 最优贸易
+- P10730 - [NOISG 2023 Qualification] Burgers
+- P10766 - 「CROI · R2」01-string
+- P10812 - 【MX-S2-T3】 跳
+- P10997 - 【MX-J3-T4】 Partition
+- P11013 - 「ALFR Round 4」C 粉碎
+- P11030 - 『DABOI Round 1』Blessings Repeated
+- P11070 - 「QMSOI R1」 三服同构
+- P11079 - 「FSLOI Round I」山峦
+- P1108 - 低价购买
+- P11202 - [JOIG 2024] 名前 / Name
+- P11233 - [CSP-S 2024] 染色
+- P11290 - 【MX-S6-T2】「KDOI-11」飞船
+- P11311 - 漫长的小纸带
+- P1136 - 迎接仪式
+- P11415 - [EPXLQ2024 fall round] 如今走过这世间
+- P11432 - [COCI 2024/2025 #2] 流明 / Blistavost
+- P11440 - [Code+#6] 幸运盒
+- P11444 - [Code+#6] 祖玛
+- P11456 - [USACO24DEC] Interstellar Intervals G
+- P11626 - [迷宫寻路 Round 3] 七连击
+- P11656 - 「FAOI-R5」喷酒大赛
+- P11685 - [Algo Beat Contest 001 G] Great DS Homework
+- P1174 - 打砖块
+- P11761 - [IAMOI R1] 明码标价
+- P11952 - [科大国创杯初中组 2023] 行走
+- P11955 - 「ZHQOI R1」覆盖
+- P1220 - 关路灯
+- P12238 - [蓝桥杯 2023 国 Java A] 单词分类
+- P12250 - [科大国创杯初中组 2025] 旅行
+- P12332 - [蓝桥杯 2023 省 Java B] 魔法阵
+- P12353 - 「HCOI-R2」DataErr0r
+- P12406 - 「CZOI-R3」消除序列
+- P12407 - 「CZOI-R3」数字变换
+- P12467 - 『FCRT / 1 - 4』Century
+- P12502 - 「ROI 2025 Day1」天狼星的换班
+- P12537 - [XJTUPC 2025] 罗斯飞鸽
+- P12621 - [NAC 2025] Circle of Leaf
+- P12650 - [KOI 2024 Round 2] 双 v 字形涂色
+- P1269 - 信号放大器
+- P1270 - “访问”美术馆
+- P12719 - [Algo Beat Contest 002 F] Famous Basketball Games
+- P1272 - 重建道路
+- P12819 - [NERC 2021] Fancy Stack
+- P1285 - 队员分组
+- P12903 - [NERC 2020] Digits
+- P12930 - [USACO4.3] 逢低吸纳 Buy Low, Buy Lower 加强版
+- P12966 - [CCO 2025] Asteroid Mining
+- P12986 - [GCJ 2022 #1A] Weightlifting
+- P13031 - [GCJ 2021 #1B] Digit Blocks
+- P13037 - [GCJ 2021 #2] Hidden Pancakes
+- P13085 - [SCOI2009] windy 数（加强版）
+- P13118 - [GCJ 2019 #2] Contransmutation
+- P13140 - [GCJ 2018 #1B] Mysterious Road Signs
+- P13144 - [GCJ 2018 #1C] Ant Stack
+- P13231 - [GCJ 2015 #3] Log Set
+- P13261 - [GCJ 2014 #3] Last Hit
+- P13290 - [GCJ 2013 #1B] Garbled Email
+- P13323 - [GCJ 2012 #1C] Box Factory
+- P13398 - [GCJ 2010 #1C] Making Chess Boards
+- P13410 - [GCJ 2010 Finals] Travel Plan
+- P13433 - [GCJ 2009 #1A] Collecting Cards
+- P13441 - [GCJ 2009 #2] A Digging Problem
+- P13448 - [GCJ 2009 Finals] Year of More Code Jam
+- P13469 - [GCJ 2008 #2] PermRLE
+- P13470 - [GCJ 2008 #3] How Big Are the Pockets?
+- P13476 - [GCJ 2008 APAC SemiFinal] Millionaire
+- P13480 - [GCJ 2008 AMER SemiFinal] Test Passing Probability
+- P13485 - [GCJ 2008 EMEA SemiFinal] Bus Stops
+- P13494 - 【MX-X14-T4】分门别类
+- P13501 - 「Cfz Round 6」Imaichi
+- P13530 - [OOI 2023] Music Festival / 音乐节
+- P13534 - [OOI 2023] The way home / 回家的路
+- P13680 - [IAMOI R2] 未送出的花
+- P13687 - 【MX-X16-T5】「DLESS-3」XOR and Rockets
+- P1370 - Charlie的云笔记序列
+- P13832 - 【MX-X18-T4】「FAOI-R6」绿茶
+- P13848 - [CERC 2023] Drying Laundry
+- P1389 - 一个关于序列的游戏
+- P1410 - 子序列
+- P1412 - 经营与开发
+- P1437 - [HNOI2004] 敲砖块
+- P1442 - 铁球落地
+- P1448 - [NOI1998] 围巾裁剪
+- P1450 - [HAOI2008] 硬币购物
+- P1453 - 城市环路
+- P1472 - [USACO2.3] 奶牛家谱 Cow Pedigrees
+- P1493 - 分梨子
+- P1499 - [CTSC2000] 公路巡逻
+- P1514 - [NOIP 2010 提高组] 引水入城
+- P1539 - [TJOI2011] 01矩阵
+- P1545 - [USACO04DEC] Dividing the Path G
+- P1578 - 奶牛浴场
+- P1613 - 跑路
+- P1624 - 单词缩写
+- P1633 - 二进制
+- P1654 - OSU!
+- P1666 - 前缀单词
+- P1704 - 寻找最优美做题曲线
+- P1758 - [NOI2009] 管道取珠
+- P1769 - 淘汰赛制
+- P1771 - 方程的解
+- P1772 - [ZJOI2006] 物流运输
+- P1782 - 旅行商的背包
+- P1841 - [JSOI2007] 重要的城市
+- P1850 - [NOIP 2016 提高组] 换教室
+- P1857 - 质数取石子
+- P1858 - 多人背包
+- P1859 - 不听话的机器人
+- P1879 - [USACO06NOV] Corn Fields G
+- P1896 - [SCOI2005] 互不侵犯
+- P1899 - 魔法物品
+- P1950 - 长方形
+- P1987 - 摇钱树
+- P2051 - [AHOI2009] 中国象棋
+- P2059 - [JLOI2013] 卡牌游戏
+- P2101 - 命运石之门的选择
+- P2106 - Sam数
+- P2110 - 欢总喊楼记
+- P2134 - 百日旅行
+- P2135 - 方块消除
+- P2167 - [SDOI2009] Bill的挑战
+- P2182 - 翻硬币
+- P2188 - 小Z的 k 紧凑数
+- P2215 - [HAOI2007] 上升序列
+- P2224 - [HNOI2001] 产品加工
+- P2227 - [HNOI2001] 洗牌机
+- P2254 - [NOI2005] 瑰丽华尔兹
+- P2258 - [NOIP 2014 普及组] 子矩阵
+- P2295 - MICE
+- P2331 - [SCOI2005] 最大子矩阵
+- P2339 - [USACO04OPEN] Turning in Homework G
+- P2344 - [USACO11FEB] Generic Cow Protests G
+- P2365 - 任务安排
+- P2389 - 电脑班的裁员
+- P2418 - yyy loves OI IV
+- P2453 - [SDOI2006] 最短距离
+- P2466 - [SDOI2008] Sue 的小球
+- P2467 - [SDOI2010] 地精部落
+- P2507 - [SCOI2008] 配对
+- P2511 - [HAOI2008] 木棍分割
+- P2515 - [HAOI2010] 软件安装
+- P2516 - [HAOI2010] 最长公共子序列
+- P2518 - [HAOI2010] 计数
+- P2519 - [HAOI2011] problem a
+- P2530 - [SHOI2001] 化工厂装箱员
+- P2569 - [SCOI2010] 股票交易
+- P2583 - 地铁间谍
+- P2589 - [ZJOI2006] 碗的叠放
+- P2592 - [ZJOI2008] 生日聚会
+- P2606 - [ZJOI2010] 排列计数
+- P2607 - [ZJOI2008] 骑士
+- P2625 - 豪华游轮
+- P2634 - [国家集训队] 聪聪可可
+- P2635 - 带通配符的字符串匹配
+- P2647 - 最大收益
+- P2654 - 原核生物培养
+- P2657 - [SCOI2009] windy 数
+- P2687 - [USACO4.3] 逢低吸纳Buy Low, Buy Lower
+- P2727 - [USACO3.2] 01串 Stringsobits
+- P2732 - [USACO3.3] 商店购物 Shopping Offers
+- P2743 - [USACO5.1] 乐曲主题Musical Themes
+- P2744 - [USACO5.3] 量取牛奶Milk Measuring
+- P2747 - [USACO5.4] 周游加拿大Canada Tour
+- P2795 - Facer爱游泳
+- P2808 - 小笼包
+- P2836 - 加油问题
+- P2851 - [USACO06DEC] The Fewest Coins G
+- P2875 - [USACO07FEB] The Cow Lexicon S
+- P2876 - [USACO07JAN] Problem Solving G
+- P2883 - [USACO07MAR] Cow Traffic S
+- P2885 - [USACO07NOV] Telephone Wire G
+- P2886 - [USACO07NOV] Cow Relays G
+- P2890 - [USACO07OPEN] Cheapest Palindrome G
+- P2893 - [USACO08FEB] Making the Grade G
+- P2901 - [USACO08MAR] Cow Jogging G
+- P2905 - [USACO08OPEN] Crisis on the Farm G
+- P2943 - [USACO09MAR] Cleaning Up G
+- P2948 - [USACO09OPEN] Ski Lessons G
+- P2950 - [USACO09OPEN] Bovine Embroidery G
+- P2964 - [USACO09NOV] A Coin Game S
+- P3022 - [USACO11OPEN] Odd degrees G
+- P3089 - [USACO13NOV] Pogo-Cow S
+- P3113 - [USACO14DEC] Marathon G
+- P3120 - [USACO15FEB] Cow Hopscotch G
+- P3125 - [USACO15OPEN] Bessie's Birthday Buffet S
+- P3126 - [USACO15OPEN] Palindromic Paths G
+- P3132 - [USACO16JAN] Angry Cows G
+- P3147 - [USACO16OPEN] 262144 P
+- P3155 - [CQOI2009] 叶子的染色
+- P3177 - [HAOI2015] 树上染色
+- P3267 - [JLOI2016/SHOI2016] 侦察守卫
+- P3411 - 序列变换
+- P3431 - [POI 2005] AUT-The Bus
+- P3463 - [POI 2007] EGZ-Driving Exam
+- P3486 - [POI 2009] KON-Ticket Inspector
+- P3489 - [POI 2009] WIE-Hexer
+- P3507 - [POI 2010] GRA-The Minima Game
+- P3509 - [POI 2010] ZAB-Frog
+- P3537 - [POI 2012] SZA-Cloakroom
+- P3565 - [POI 2014] HOT-Hotels
+- P3572 - [POI 2014] PTA-Little Bird
+- P3574 - [POI 2014] FAR-FarmCraft
+- P3584 - [POI 2015] LAS
+- P3594 - [POI 2015] WIL
+- P3618 - 误会
+- P3686 - [CERC2016] 爵士之旅 Jazz Journey
+- P3698 - [CQOI2017] 小Q的棋盘
+- P3847 - [TJOI2007] 调整队形
+- P3891 - [GDOI2014] 采集资源
+- P3914 - 染色计数
+- P3921 - 小学数学题
+- P3942 - 将军令
+- P3957 - [NOIP 2017 普及组] 跳房子
+- P4019 - 多边形染色
+- P4060 - [Code+#1] 可做题
+- P4096 - [HEOI2013] Eden 的博弈树
+- P4124 - [CQOI2016] 手机号码
+- P4127 - [AHOI2009] 同类分布
+- P4138 - [JOISC 2014] 挂饰
+- P4158 - [SCOI2009] 粉刷匠
+- P4160 - [SCOI2009] 生日快乐
+- P4302 - [SCOI2003] 字符串折叠
+- P4324 - [JSOI2016] 扭动的回文串
+- P4362 - [NOI2002] 贪吃的九头龙
+- P4381 - [IOI 2008] Island
+- P4644 - [USACO05DEC] Cleaning Shifts S
+- P4678 - [FJWC2018] 全排列
+- P4728 - [HNOI2009] 双递增序列
+- P4766 - [CERC2014] Outer space invaders
+- P4805 - [CCC 2016] 合并饭团
+- P4815 - [CCO 2014] 狼人游戏
+- P4909 - [USACO06MAR] Ski Lift G
+- P4945 - 最后的战役
+- P4977 - 毒瘤之神异之旅
+- P5017 - [NOIP 2018 普及组] 摆渡车
+- P5337 - [TJOI2019] 甲苯先生的字符串
+- P5484 - [JLOI2011] 基因补全
+- P5486 - [JLOI2010] 世界杯租房
+- P5566 - [SDOI2008] 红黑树
+- P5585 - 「SWTR-1」Doing Homework
+- P5615 - [MtOI2019] 时间跳跃
+- P5628 - 【AFOI-19】面基
+- P5664 - [CSP-S2019] Emiya 家今天的饭
+- P5675 - [GZOI2017] 取石子游戏
+- P5694 - [NOI2001] 陨石的秘密
+- P5700 - [CTSC1998] 罗杰游戏
+- P5839 - [USACO19DEC] Moortal Cowmbat G
+- P5851 - [USACO19DEC] Greedy Pie Eaters P
+- P6008 - [USACO20JAN] Cave Paintings P
+- P6046 - 纯粹容器
+- P6082 - [JSOI2015] salesman
+- P6100 - [USACO19FEB] Painting the Barn G
+- P6212 - 「SWTR-4」Lining up
+- P6275 - [USACO20OPEN] Sprinklers 2: Return of the Alfalfa P
+- P6280 - [USACO20OPEN] Exercise G
+- P6310 - 「Wdsr-1」仓库建设
+- P6381 - 『MdOI R2』Odyssey
+- P6434 - 「EZEC-1」甜品
+- P6475 - [NOI Online #2 入门组] 建设城市
+- P6525 - 「Wdoi-1」蓬莱玉枝
+- P6554 - Promises I Can't Keep
+- P6564 - [POI 2007] 堆积木KLO
+- P6648 - [CCC 2019] Triangle: The Data Structure
+- P6651 - 「SWTR-5」Chain
+- P6655 - [YsOI2020] 制高
+- P6679 - [COCI 2019/2020 #2] Zvijezda
+- P6693 - 谷歌翻(sheng)译(cao)机
+- P6748 - 『MdOI R3』Fallen Lord
+- P6796 - 「StOI-2」好多表达式
+- P6797 - 「StOI-2」不朽的逃亡者
+- P6835 - [Cnoi2020] 线形生物
+- P6855 - 「EZEC-4.5」走方格
+- P6879 - [JOI 2020 Final] スタンプラリー 3
+- P7077 - [CSP-S2020] 函数调用
+- P7145 - [THUPC 2021 初赛] 合法序列
+- P7169 - [eJOI 2020] Exam (Day1)
+- P7194 - [COCI 2007/2008 #6] CESTARINE
+- P7244 - 章节划分
+- P7358 - 「JZOI-1」窗花
+- P7385 - 「EZEC-6」跳一跳
+- P7420 - 「PMOI-2」拆分
+- P7421 - 「PMOI-2」子序列
+- P7444 - 「EZEC-7」猜排列
+- P7535 - [COCI 2016/2017 #4] Kas
+- P7587 - [COCI 2012/2013 #1] MARS
+- P7618 - [COCI 2011/2012 #2] FUNKCIJA
+- P7685 - [CEOI 2005] Mobile Service
+- P7717 - 「EZEC-10」序列
+- P7801 - [COCI 2015/2016 #6] KRUMPIRKO
+- P7872 - 「Wdoi-4」觉姐姐和恋妹妹
+- P7914 - [CSP-S 2021] 括号序列
+- P7961 - [NOIP2021] 数列
+- P7969 - [KSN2021] Self Defence
+- P7987 - [USACO21DEC] Paired Up G
+- P8075 - [COCI 2009/2010 #7] KRALJEVI
+- P8089 - 『JROI-5』Color
+- P8096 - [USACO22JAN] Drought G
+- P8107 - [Cnoi2021] 未来试题
+- P8111 - [Cnoi2021] 区间
+- P8127 - [BalticOI 2021] The Xana coup (Day2)
+- P8162 - [JOI 2022 Final] 让我们赢得选举 (Let's Win the Election)
+- P8190 - [USACO22FEB] Cow Camp G
+- P8208 - [THUPC 2022 初赛] 骰子旅行
+- P8213 - [THUPC 2022 初赛] 挑战
+- P8273 - [USACO22OPEN] Pair Programming G
+- P8357 - 「WHOI-1」Derives
+- P8386 - [PA 2021] Od deski do deski
+- P8413 - 「SvR-1」Five of Pentacles
+- P8433 - 「WHOI-2」Regex
+- P8447 - 「FAOI-R1」完美的平方数
+- P8450 - [LSOT-1] 记忆崩塌
+- P8502 - 「CGOI-2」No cost too great
+- P8580 - [CoE R5] 罚球
+- P8595 - 「KDOI-02」一个网的路
+- P8643 - [蓝桥杯 2016 国 AC] 碱基
+- P8737 - [蓝桥杯 2020 国 B] 质数行者
+- P8745 - [蓝桥杯 2021 省 AB] 括号序列
+- P8776 - [蓝桥杯 2022 省 A] 最长不下降子序列
+- P8888 - [DMOI-R1] 实验基地
+- P8903 - [USACO22DEC] Bribing Friends G
+- P8973 - 『GROI-R1』 继续深潜，为了同一个梦想
+- P9097 - [PA 2020] Elektrownie i fabryki
+- P9190 - [USACO23OPEN] Pareidolia G
+- P9221 - 「TAOI-1」Pentiment
+- P9229 - 简单九连环
+- P9307 - 「DTOI-5」进行一个排的重 (Maximum Version)
+- P9400 - 「DBOI」Round 1 三班不一般
+- P9415 - 「NnOI R1-T4」下楼
+- P9493 - 「SFCOI-3」进行一个列的排
+- P9561 - [SDCPC 2023] Colorful Segments
+- P9590 - 「PFLOI R1」PFL 团主的 PFL 操作
+- P9594 - 「Daily OI Round 1」Memory
+- P9634 - [ICPC 2020 Nanjing R] Monster Hunter
+- P9639 - 「yyOI R1」youyou 的序列
+- P9662 - [ICPC 2021 Macao R] Cyclic Buffer
+- P9745 - 「KDOI-06-S」树上异或
+- P9823 - [ICPC 2020 Shanghai R] The Journey of Geor Autumn
+- P9847 - [ICPC 2021 Nanjing R] Crystalfly

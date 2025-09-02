@@ -1,0 +1,42 @@
+# 题号列表
+
+- B4395 - [常州市赛 2025] 金币
+- P10117 - [LMXOI Round 1] Dreamer
+- P10171 - [DTCPC 2024] 取模
+- P10321 - 奉献（Dedication）
+- P10496 - The Luckiest Number
+- P11212 - 『STA - R8』挑战 Goldbach 猜想
+- P11373 - 「CZOI-R2」天平
+- P11417 - [Sloi 2024]D1T1 精卫
+- P11431 - [COCI 2024/2025 #2] 差异 / Različitost
+- P11684 - [Algo Beat Contest 001 F] Foolish Math Homework
+- P11770 - 檐牙覆雪
+- P11961 - [GESP202503 五级] 原根判断
+- P12040 - [USTCPC 2025] 公平抉择
+- P12108 - [NWRRC2024] Defective Script
+- P12181 - DerrickLo's Buildings (UBC002D)
+- P12272 - [蓝桥杯 2024 国 Python B] 全 X 数
+- P12388 - Easy Equation
+- P12469 - [Math×Girl] 平均律
+- P12604 - 「FAOI-R6」魂灵之影
+- P12620 - [NAC 2025] A Totient Quotient
+- P1298 - 最接近的分数
+- P13027 - [GCJ 2021 #1A] Prime Time
+- P13373 - [GCJ 2011 #1C] Perfect Harmony
+- P13436 - [GCJ 2009 #1B] Square Math
+- P13732 - 【MGVOI R1-D】图上的数（graph）
+- P2231 - [HNOI2002] 跳蚤
+- P6147 - [USACO20FEB] Delegation G
+- P6583 - 回首过去
+- P6810 - 「MCOI-02」Convex Hull 凸包
+- P7122 - Chino 与线段树
+- P8302 - [CoE R4 B/Stoi2041] 龙拳
+- P8357 - 「WHOI-1」Derives
+- P8447 - 「FAOI-R1」完美的平方数
+- P8450 - [LSOT-1] 记忆崩塌
+- P8540 - 「Wdoi-2」夜空中的 UFO 恋曲
+- P8645 - [蓝桥杯 2016 国 B] 广场舞
+- P8670 - [蓝桥杯 2018 国 B] 矩阵求和
+- P8958 - 「CGOI-3」残暴圣所
+- P8961 - 「WHOI-4」ggcd
+- P9007 - [入门赛 #9] 最澄澈的空与海 (Hard Version)

@@ -1,0 +1,42 @@
+# 题号列表
+
+- P10634 - BZOJ2372 music
+- P10992 - [蓝桥杯 2023 国 Python A] 最长同类子串
+- P11262 - [COTS 2018] 题日 Zapatak
+- P11807 - [PA 2017] 抄作业
+- P11971 - 「ALFR Round 7」T4 xor xor
+- P12009 - 【MX-X10-T5】[LSOT-4] Masuko or Haru？
+- P12213 - [蓝桥杯 2023 国 Python B] 最长回文前后缀
+- P12915 - [POI 2020/2021 R2] 模板 / Szablon Bajtogrodu
+- P13290 - [GCJ 2013 #1B] Garbled Email
+- P13562 - 「WWOI R1」WsW 的田地
+- P2312 - [NOIP 2014 提高组] 解方程
+- P2578 - [ZJOI2005] 九数码游戏
+- P2593 - [ZJOI2006] 超级麻将
+- P3065 - [USACO12DEC] First! G
+- P3105 - [USACO14OPEN] Fair Photography S
+- P3109 - [USACO14OPEN] Code Breaking G
+- P3167 - [CQOI2014] 通配符匹配
+- P3230 - [HNOI2013] 比赛
+- P3498 - [POI 2010] KOR-Beads
+- P3501 - [POI 2010] ANT-Antisymmetry
+- P3538 - [POI 2012] OKR-A Horrible Poem
+- P3618 - 误会
+- P3667 - [USACO17OPEN] Bovine Genomics G
+- P3678 - [CERC2016] 外观分析 Appearance Analysis
+- P3686 - [CERC2016] 爵士之旅 Jazz Journey
+- P3792 - 由乃与大母神原型和偶像崇拜
+- P4028 - New Product
+- P4289 - [HAOI2008] 移动玩具
+- P4398 - [JSOI2008] Blue Mary的战役地图
+- P4503 - [CTSC2014] 企鹅 QQ
+- P5043 - 【模板】树同构（[BJOI2015]树的同构）
+- P5889 - 跳树
+- P6083 - [JSOI2015] symmetry
+- P6688 - 可重集
+- P7114 - [NOIP2020] 字符串匹配
+- P8023 - [ONTAK2015] Tasowanie
+- P8085 - [COCI 2011/2012 #4] KRIPTOGRAM
+- P8643 - [蓝桥杯 2016 国 AC] 碱基
+- P9089 - 「SvR-2」Work
+- P9934 - [NFLSPC #6] 绝不能忘记的事……

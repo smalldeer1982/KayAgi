@@ -1,0 +1,53 @@
+# 题目信息
+
+# Helping the Nature
+
+## 题目描述
+
+Little Leon lives in the forest. He has recently noticed that some trees near his favourite path are withering, while the other ones are overhydrated so he decided to learn how to control the level of the soil moisture to save the trees.
+
+There are $ n $ trees growing near the path, the current levels of moisture of each tree are denoted by the array $ a_1, a_2, \dots, a_n $ . Leon has learned three abilities which will help him to dry and water the soil.
+
+- Choose a position $ i $ and decrease the level of moisture of the trees $ 1, 2, \dots, i $ by $ 1 $ .
+- Choose a position $ i $ and decrease the level of moisture of the trees $ i, i + 1, \dots, n $ by $ 1 $ .
+- Increase the level of moisture of all trees by $ 1 $ .
+
+Leon wants to know the minimum number of actions he needs to perform to make the moisture of each tree equal to $ 0 $ .
+
+## 说明/提示
+
+In the first test case it's enough to apply the operation of adding $ 1 $ to the whole array $ 2 $ times.
+
+In the second test case you can apply the operation of decreasing $ 4 $ times on the prefix of length $ 3 $ and get an array $ 6, 0, 3 $ .
+
+After that apply the operation of decreasing $ 6 $ times on the prefix of length $ 1 $ and $ 3 $ times on the suffix of length $ 1 $ . In total, the number of actions will be $ 4 + 6 + 3 = 13 $ . It can be shown that it's impossible to perform less actions to get the required array, so the answer is $ 13 $ .
+
+## 样例 #1
+
+### 输入
+
+```
+4
+3
+-2 -2 -2
+3
+10 4 7
+4
+4 -4 4 -4
+5
+1 -2 3 -4 5```
+
+### 输出
+
+```
+2
+13
+36
+33```
+
+# AI分析结果
+
+抱歉，这个问题未找到相关结果。
+
+---
+处理用时：1.63秒

@@ -1,0 +1,36 @@
+# 题号列表
+
+- P1066 - [NOIP 2006 提高组] 2^k进制数
+- P11856 - [CSP-J2022 山东] 吟诗
+- P12911 - [POI 2020/2021 R2] 棋盘 / Projekt planszy
+- P12985 - [GCJ 2022 #1A] Equal Sum
+- P1360 - [USACO07MAR] Gold Balanced Lineup G
+- P2328 - [SCOI2005] 超级格雷码
+- P2456 - [SDOI2006] 二进制方程
+- P2704 - [NOI2001] 炮兵阵地
+- P2841 - A*B Problem
+- P2851 - [USACO06DEC] The Fewest Coins G
+- P3786 - 萃香抱西瓜
+- P3794 - 签到题IV
+- P3807 - 【模板】卢卡斯定理/Lucas 定理
+- P3812 - 【模板】线性基
+- P3857 - [TJOI2008] 彩灯
+- P3878 - [TJOI2010] 分金币
+- P3888 - [GDOI2014] 拯救莫莉斯
+- P3927 - SAC E#1 - 一道中档题 Factorial
+- P3930 - SAC E#1 - 一道大水题 Knight
+- P3937 - Changing
+- P3999 - [SHOI2013] 二重镇
+- P4011 - 孤岛营救问题
+- P4095 - [HEOI2013] Eden 的新背包问题
+- P4236 - 扑克
+- P4289 - [HAOI2008] 移动玩具
+- P4317 - 花神的数论题
+- P4366 - [Code+#4] 最短路
+- P4462 - [CQOI2018] 异或序列
+- P4877 - [USACO14FEB] Cow Decathlon G
+- P4906 - 小奔关闹钟
+- P4928 - [MtOI2018] 衣服？身外之物！
+- P4996 - 咕咕咕
+- P5005 - 中国象棋 - 摆上马
+- P9699 - [GDCPC 2023] X Equals Y

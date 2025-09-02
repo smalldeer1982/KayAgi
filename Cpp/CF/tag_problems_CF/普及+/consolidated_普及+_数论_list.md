@@ -1,0 +1,23 @@
+# 题号列表
+
+- CF1612D - X-Magic Pair
+- CF1712E1 - LCM Sum (easy version)
+- CF1878F - Vasilije Loves Number Theory
+- CF1912D - Divisibility Test
+- CF1955G - GCD on a grid
+- CF1977C - Nikita and LCM
+- CF1982D - Beauty of the mountains
+- CF1984D - "a" String Problem
+- CF1986E - Beautiful Array
+- CF1991D - Prime XOR Coloring
+- CF1992F - Valuable Cards
+- CF1994D - Funny Game
+- CF2008G - Sakurako's Task
+- CF2037G - Natlan Exploring
+- CF2039C2 - Shohag Loves XOR (Hard Version)
+- CF2039D - Shohag Loves GCD
+- CF2043D - Problem about GCD
+- CF2050G - Tree Destruction
+- CF2065G - Skibidus and Capping
+- CF432C - Prime Swaps
+- CF526C - Om Nom and Candies

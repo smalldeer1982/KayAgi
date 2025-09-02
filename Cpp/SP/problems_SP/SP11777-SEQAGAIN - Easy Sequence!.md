@@ -1,0 +1,43 @@
+---
+title: "SEQAGAIN - Easy Sequence!"
+layout: "post"
+diff: 难度0
+pid: SP11777
+tag: []
+---
+
+# SEQAGAIN - Easy Sequence!
+
+## 题目描述
+
+Your task is to find the n $ ^{th} $ term of the following sequence :
+
+F(n) = \[F(n-1)\*F(n-2)\] $ ^{K} $ for n>1
+
+F(0), F(1), n and K will be provided as input. Modulus for all calculations is 1000000007. You should print the answer modulo 1000000007 i.e. F(n)%1000000007
+
+## 输入格式
+
+Input starts with a line containing an integer T
+
+Each test case consists of four space separated integers : F(0), F(1), n and K.
+
+## 输出格式
+
+T lines containing one integer each, corresponding to the answers for the T test cases.
+
+## 样例 #1
+
+### 输入
+
+```
+1
+1 1 2 1\n\n
+```
+
+### 输出
+
+```
+1\n
+```
+

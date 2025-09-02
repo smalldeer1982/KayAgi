@@ -1,0 +1,37 @@
+# 题号列表
+
+- CF1005B - Delete from the Left
+- CF1008A - Romaji
+- CF1015B - Obtaining the String
+- CF1038A - Equality
+- CF1063A - Oh Those Palindromes
+- CF1073A - Diverse Substring
+- CF109A - Lucky Sum of Digits
+- CF110B - Lucky String
+- CF1223B - Strings Equalization
+- CF12B - Correct Solution?
+- CF1611A - Make Even
+- CF1B - Spreadsheets
+- CF2039B - Shohag Loves Strings
+- CF2085A - Serval and String Theory
+- CF2094D - Tung Tung Sahur
+- CF2110B - Down with Brackets
+- CF21A - Jabber ID
+- CF266B - Queue at the School
+- CF445A - DZY Loves Chessboard
+- CF49B - Sum
+- CF4C - Registration system
+- CF5B - Center Alignment
+- CF66A - Petya and Java
+- CF708A - Letters Cyclic Shift
+- CF722B - Verse Pattern
+- CF757A - Gotta Catch Em' All!
+- CF798A - Mike and palindrome
+- CF805B - 3-palindrome
+- CF816A - Karen and Morning
+- CF835B - The number on the board
+- CF8A - Train and Peter
+- CF938A - Word Correction
+- CF954B - String Typing
+- CF977B - Two-gram
+- CF999B - Reversing Encryption

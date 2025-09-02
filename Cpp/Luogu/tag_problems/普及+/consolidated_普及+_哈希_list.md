@@ -1,0 +1,25 @@
+# 题号列表
+
+- P10388 - [蓝桥杯 2024 省 A] 团建
+- P10469 - 后缀数组
+- P10474 - [BeiJing2011] Matrix 矩阵哈希
+- P10475 - [USACO03FALL] Milking Grid（数据加强版）
+- P11901 - 数组的划分
+- P12197 - Hash Killer I
+- P12198 - Hash Killer II
+- P13718 - [GCPC 2024] Copycat Catcher
+- P1379 - 八数码难题
+- P13790 - 「CZOI-R6」Border
+- P1381 - 单词背诵
+- P1955 - [NOI2015] 程序自动分析
+- P2318 - [HNOI2005] 虚拟内存
+- P2852 - [USACO06DEC] Milk Patterns G
+- P2879 - [USACO07JAN] Tallest Cow S
+- P3134 - [USACO16JAN] Lights Out G
+- P4421 - [COCI 2017/2018 #1] Lozinke
+- P5018 - [NOIP 2018 普及组] 对称二叉树
+- P6306 - 「Wdsr-1」小铃的书
+- P6739 - [BalticOI 2014] Three Friends (Day1)
+- P7469 - [NOI Online 2021 提高组] 积木小赛
+- P9606 - [CERC2019] ABB
+- P9981 - [USACO23DEC] Minimum Longest Trip G

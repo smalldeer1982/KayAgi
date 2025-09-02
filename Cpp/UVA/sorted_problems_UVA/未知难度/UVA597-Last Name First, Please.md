@@ -1,0 +1,52 @@
+---
+title: "Last Name First, Please"
+layout: "post"
+diff: 难度0
+pid: UVA597
+tag: []
+---
+
+# Last Name First, Please
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=538
+
+[PDF](https://uva.onlinejudge.org/external/5/p597.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA597/b8c26e8bca069a1680335470e1710480e18ecef9.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA597/2410803728b0ef11e4dee782a3e7d00a3c368c52.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA597/4e0c306f68bc82d981aec9b5ef88be749845399c.png)
+
+## 样例 #1
+
+### 输入
+
+```
+Christina Peter.jpg
+Ganesh Ramanarayanan.jpg
+Laurie Yorr.jpg
+Lucy Kraus.jpg
+Melanie Ayala.jpg
+Nancy Schnell.jpg
+Ruth Sandweiss.jpg
+Christina Peter.jpg
+Ganesh Ramanarayanan.jpg
+Melanie Ayala.jpg
+```
+
+### 输出
+
+```
+NO QUICK RENAMING POSSIBLE
+Peter, Christina.jpg
+Ayala, Melanie.jpg
+Ramanarayanan, Ganesh.jpg
+```
+

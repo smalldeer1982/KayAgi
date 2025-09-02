@@ -1,0 +1,82 @@
+# 题号列表
+
+- P10159 - [DTCPC 2024] The last permutation
+- P10311 - 「Cfz Round 2」Weighted Mean
+- P10382 - 「HOI R1」杂造选构
+- P10871 - [COTS 2022] 皇后  Kraljice
+- P10872 - [COTS 2022] 移位 Maliand
+- P10873 - [COTS 2022] 帽子 Šeširi
+- P11171 - 「CMOI R1」mex1
+- P11172 - 「CMOI R1」mex2
+- P11194 - [COTS 2021] 县 Županije
+- P11223 - [COTS 2019] 传话游戏 Pokvareni
+- P11245 - 残雪
+- P11606 - [PA 2016] 构树 / Reorganizacja
+- P11806 - [PA 2017] 马赛克
+- P11851 - [TOIP 2023] 分子環
+- P12044 - [USTCPC 2025] Algorithm Duel
+- P12183 - DerrickLo's Milk Loong (UBC002F)
+- P12706 - 并非呃呃
+- P12797 - [NERC 2022] Hot and Cold
+- P12798 - [NERC 2022] Interactive Factorial Guessing
+- P12989 - [GCJ 2022 #1B] ASeDatAb
+- P13200 - [GCJ 2016 #2] The Gardener of Seville
+- P13205 - [GCJ 2016 #3] Go++
+- P13592 - [NWRRC 2023] Loops
+- P13779 - 「o.OI R2」试机题
+- P2151 - [SDOI2009] HH去散步
+- P3158 - [CQOI2011] 放棋子
+- P3220 - [HNOI2012] 与非
+- P3226 - [HNOI2012] 集合选数
+- P3513 - [POI 2011] KON-Conspiracy
+- P3553 - [POI 2013] INS-Inspector
+- P3640 - [APIO2013] 出题人
+- P3666 - [USACO17OPEN] COWBASIC P
+- P3715 - [BJOI2017] 魔法咒语
+- P3765 - 总统选举
+- P3830 - [SHOI2012] 随机树
+- P3981 - 琅泽难题
+- P3990 - [SHOI2013] 超级跳马
+- P4142 - 洞穴遇险
+- P4226 - 避难所
+- P4428 - [BJOI2018] 二进制
+- P4455 - [CQOI2018] 社交网络
+- P4689 - [Ynoi Easy Round 2016] 这是我自己的发明
+- P4726 - 【模板】多项式指数函数（多项式 exp）
+- P4795 - [BalticOI 2018] 基因工程
+- P4967 - 黑暗打击
+- P4982 - 规划
+- P5264 - 多项式三角函数
+- P6299 - 差别
+- P6383 - 『MdOI R2』Resurrection
+- P6663 - [POI 2019] Układ scalony / 集成电路
+- P7045 - 「MCOI-03」金牌
+- P7320 - 「PMOI-4」可怜的团主
+- P7386 - 「EZEC-6」0-1 Trie
+- P7393 - 「TOCO Round 1」Eternal Star
+- P7684 - [CEOI 2005] Depot Rearrangement
+- P7734 - [JDWOI-2] 01 串
+- P7816 - 「Stoi2029」以父之名
+- P7966 - [COCI 2021/2022 #2] Hiperkocka
+- P7978 - 「Stoi2033」听见下雨的声音
+- P8098 - [USACO22JAN] Tests for Haybales G
+- P8119 - 「Wdoi-1.5」幻想乡游览计划
+- P8156 - 「PMOI-5」奇怪的方程
+- P8866 - [NOIP2022] 喵了个喵
+- P8949 - [YsOI2022] 淀粉树
+- P9195 - [JOI Open 2016] JOIRIS
+- P9347 - 似曾相识燕归来
+- P9365 - [ICPC 2022 Xi'an R] Power of Two
+- P9500 - 「RiOI-2」tnelat
+- P9507 - [BalkanOI 2018] Popa
+- P9591 - 「PFLOI R1」PFL 变换
+- P9622 - [ICPC 2020 Nanjing R] Ah, It's Yesterday Once More
+- P9625 - [ICPC 2020 Nanjing R] Degree of Spanning Tree
+- P9654 - 『GROI-R2』 记忆碎片
+- P9659 - [ICPC 2021 Macao R] Shortest Path Fast Algorithm
+- P9683 - A Certain Forbidden Index
+- P9727 - [EC Final 2022] Aqre
+- P9837 - 汪了个汪
+- P9841 - [ICPC 2021 Nanjing R] Puzzle in Inazuma
+- P9851 - [ICPC 2021 Nanjing R] Secret of Tianqiu Valley
+- P9925 - [POI 2023/2024 R1] Zapobiegliwy student

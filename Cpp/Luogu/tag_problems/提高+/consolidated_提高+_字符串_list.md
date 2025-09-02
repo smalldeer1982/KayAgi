@@ -1,0 +1,68 @@
+# 题号列表
+
+- P1039 - [NOIP 2003 提高组] 侦探推理
+- P1050 - [NOIP 2005 普及组] 循环
+- P1054 - [NOIP 2005 提高组] 等价表达式
+- P10634 - BZOJ2372 music
+- P11190 - 「KDOI-10」反回文串
+- P12977 - 泪雨 Namid[A]me
+- P13270 - 【模板】最小表示法
+- P1368 - 【模板】最小表示法
+- P1511 - [SDOI2006] 数字串位置 / 超长数字串
+- P1602 - Sramoc问题
+- P1659 - [国家集训队] 拉拉队排练
+- P1709 - [USACO5.5] 隐藏口令 Hidden Password
+- P1723 - 高手过愚人节
+- P1741 - Diamond A&B(2)
+- P1758 - [NOI2009] 管道取珠
+- P2030 - 遥控车
+- P2100 - 凌乱的地下室
+- P2102 - 地砖铺设
+- P2131 - 彩球树
+- P2322 - [HNOI2006] 最短母串问题
+- P2353 - 背单词
+- P2375 - [NOI2014] 动物园
+- P2379 - 整式的计算【数据有误】
+- P2413 - yyy loves physics IV
+- P2456 - [SDOI2006] 二进制方程
+- P2516 - [HAOI2010] 最长公共子序列
+- P2549 - 计算器写作文
+- P2636 - 密码破解者
+- P2643 - 机房中出了一只大触！
+- P2747 - [USACO5.4] 周游加拿大Canada Tour
+- P2870 - [USACO07DEC] Best Cow Line G
+- P2875 - [USACO07FEB] The Cow Lexicon S
+- P2890 - [USACO07OPEN] Cheapest Palindrome G
+- P2905 - [USACO08OPEN] Crisis on the Farm G
+- P3013 - [USACO11FEB] The Lost Cows G
+- P3065 - [USACO12DEC] First! G
+- P3082 - [USACO13MAR] Necklace G
+- P3102 - [USACO14FEB] Secret Code S
+- P3126 - [USACO15OPEN] Palindromic Paths G
+- P3167 - [CQOI2014] 通配符匹配
+- P3538 - [POI 2012] OKR-A Horrible Poem
+- P3701 - 主主树
+- P3796 - AC 自动机（简单版 II）
+- P3805 - 【模板】manacher
+- P3808 - AC 自动机（简单版）
+- P4170 - [CQOI2007] 涂色
+- P4302 - [SCOI2003] 字符串折叠
+- P4503 - [CTSC2014] 企鹅 QQ
+- P4555 - [国家集训队] 最长双回文串
+- P4683 - [IOI 2008] Type Printer
+- P4792 - [BalticOI 2018] 火星人的 DNA
+- P4824 - [USACO15FEB] Censoring S
+- P5357 - 【模板】AC 自动机
+- P5826 - 【模板】子序列自动机
+- P5829 - 【模板】失配树
+- P6286 - [COCI 2016/2017 #1] Cezar
+- P7114 - [NOIP2020] 字符串匹配
+- P7420 - 「PMOI-2」拆分
+- P7861 - [COCI 2015/2016 #2] SAVEZ
+- P8112 - [Cnoi2021] 符文破译
+- P9016 - [USACO23JAN] Find and Replace G
+- P9089 - 「SvR-2」Work
+- P9149 - 串串题
+- P9190 - [USACO23OPEN] Pareidolia G
+- P9873 - [EC Final 2021] Beautiful String
+- P9934 - [NFLSPC #6] 绝不能忘记的事……

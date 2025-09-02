@@ -1,0 +1,63 @@
+---
+title: "Monkeys in the Emei Mountain"
+layout: "post"
+diff: NOI/NOI+/CTSC
+pid: UVA11167
+tag: []
+---
+
+# Monkeys in the Emei Mountain
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=23&page=show_problem&problem=2108
+
+[PDF](https://uva.onlinejudge.org/external/111/p11167.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11167/184e942b64cdefb9f9d98c5b85844bcf6d19d5b5.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11167/ebcc25801f63ddfbf4485751c3e2ee04c2f37bdb.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11167/d70be555b93773aa022aea942ed4e815816ab408.png)
+
+## 样例 #1
+
+### 输入
+
+```
+3 1
+2 2 9
+2 3 5
+3 5 8
+2 1
+4 5 9
+4 8 12
+5 2
+2 1 3
+2 3 5
+2 5 7
+2 1 7
+4 2 6
+0
+```
+
+### 输出
+
+```
+Case 1: Yes
+2 (2,3) (8,9)
+1 (3,5)
+1 (5,8)
+Case 2: No
+Case 3: Yes
+1 (1,3)
+1 (3,5)
+1 (5,7)
+2 (1,2) (6,7)
+1 (2,6)
+```
+

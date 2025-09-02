@@ -1,0 +1,24 @@
+# 题号列表
+
+- P1194 - 买礼物
+- P1195 - 口袋的天空
+- P12158 - [蓝桥杯 2025 省 Java B] 爆破
+- P12222 - [蓝桥杯 2023 国 Java B] 电动车
+- P13427 - [COCI 2020/2021 #2] Odasiljaci
+- P1396 - 营救
+- P1536 - 村村通
+- P1546 - [USACO3.1] 最短网络 Agri-Net
+- P1547 - [USACO05MAR] Out of Hay S
+- P1669 - [USACO04DEC] Bad Cowtractors S
+- P1991 - 无线通讯网
+- P2121 - 拆地毯
+- P2212 - [USACO14MAR] Watering the Fields S
+- P2213 - [USACO14MAR] The Lazy Cow S
+- P2330 - [SCOI2005] 繁忙的都市
+- P2504 - [HAOI2006] 聪明的猴子
+- P2820 - 局域网
+- P2872 - [USACO07DEC] Building Roads S
+- P2916 - [USACO08NOV] Cheering up the Cow G
+- P3366 - 【模板】最小生成树
+- P4826 - [USACO15FEB] Superbull S
+- P9666 - [ICPC 2021 Macao R] Link-Cut Tree

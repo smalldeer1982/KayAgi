@@ -1,0 +1,31 @@
+# 题号列表
+
+- B3618 - 寻找团伙
+- B3621 - 枚举元组
+- B3622 - 枚举子集（递归实现指数型枚举）
+- B3623 - 枚举排列（递归实现排列型枚举）
+- B3625 - 迷宫寻路
+- P10294 - [CCC 2024 J5] Harvest Waterloo
+- P1030 - [NOIP 2001 普及组] 求先序排列
+- P1036 - [NOIP 2002 普及组] 选数
+- P10448 - 组合型枚举
+- P10483 - 小猫爬山
+- P12139 - [蓝桥杯 2025 省 A] 黑白棋
+- P1294 - 高手去散步
+- P1331 - 海战
+- P1451 - 求细胞数量
+- P1460 - [USACO2.1] 健康的荷斯坦奶牛 Healthy Holsteins
+- P1498 - 南蛮图腾
+- P1506 - 拯救oibh总部
+- P1596 - [USACO10OCT] Lake Counting S
+- P1677 - [USACO18FEB] Hoofball B
+- P1700 - [USACO19OPEN] Milk Factory B
+- P1706 - 全排列问题
+- P4961 - 小埋与扫雷
+- P6183 - [USACO10MAR] The Rock Game S
+- P6635 - 「JYLOI Round 1」箭头调度
+- P7200 - [COCI 2019/2020 #1] Lutrija
+- P8481 - 「HGOI-1」Binary search
+- P8604 - [蓝桥杯 2013 国 C] 危险系数
+- P9011 - [USACO23JAN] Air Cownditioning II B
+- P9872 - [EC Final 2021] DFS Order

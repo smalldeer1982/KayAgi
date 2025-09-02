@@ -1,0 +1,33 @@
+# 题号列表
+
+- B3980 - [信息与未来 2024] 间谍卫星
+- B4214 - [常州市赛 2022] 迷宫探险
+- P10234 - [yLCPC2024] B. 找机厅
+- P11046 - [蓝桥杯 2024 省 Java B] 星际旅行
+- P1135 - 奇怪的电梯
+- P1141 - 01迷宫
+- P12270 - [蓝桥杯 2024 国 Python B] 马与象
+- P12322 - [蓝桥杯 2024 国 Java C] 瞬移
+- P1330 - 封锁阳光大学
+- P1332 - 血色先锋队
+- P1364 - 医院设置
+- P1443 - 马的遍历
+- P1649 - [USACO07OCT] Obstacle Course S
+- P1682 - 过家家
+- P1747 - 好奇怪的游戏
+- P1807 - 最长路
+- P1825 - [USACO11OPEN] Corn Maze S
+- P2052 - [NOI2011] 道路修建
+- P2185 - 公路通行税
+- P2199 - 最后的迷宫
+- P2895 - [USACO08FEB] Meteor Shower S
+- P2903 - [USACO08MAR] The Loathesome Hay Baler S
+- P3111 - [USACO14DEC] Cow Jog S
+- P3395 - 路障
+- P3958 - [NOIP 2017 提高组] 奶酪
+- P6207 - [USACO06OCT] Cows on Skates G
+- P6691 - 选择题
+- P7243 - 最大公约数
+- P7965 - [COCI 2021/2022 #2] Kutije
+- P8673 - [蓝桥杯 2018 国 C] 迷宫与陷阱
+- P9107 - [PA 2020] Wycieczka górska

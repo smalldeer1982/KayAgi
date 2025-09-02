@@ -1,0 +1,40 @@
+---
+title: "AMZSEQ - AMZ Word"
+layout: "post"
+diff: 普及-
+pid: SP11931
+tag: []
+---
+
+# AMZSEQ - AMZ Word
+
+## 题目描述
+
+AmzMohammad is a novice problem setter in Spoj. for start of his work he decided to write a classical and sample problem. (for UI ACM summer program )
+
+how many N-words (words with N letters) from the alphabet {0,1,2} are such that neighbors differ at most by 1?
+
+## 输入格式
+
+a positive integer N.
+
+## 输出格式
+
+Number of N-words with told conditions.
+
+answer is less than 1000000000. it is the only constraint :)
+
+## 样例 #1
+
+### 输入
+
+```
+2
+```
+
+### 输出
+
+```
+7
+```
+

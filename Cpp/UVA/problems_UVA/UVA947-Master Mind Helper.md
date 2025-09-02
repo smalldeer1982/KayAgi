@@ -1,0 +1,49 @@
+---
+title: "Master Mind Helper"
+layout: "post"
+diff: 难度0
+pid: UVA947
+tag: []
+---
+
+# Master Mind Helper
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=11&page=show_problem&problem=888
+
+[PDF](https://uva.onlinejudge.org/external/9/p947.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA947/f5cdf5b1a4d3490aca7a600c62224d8bacf01b31.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA947/720cb07a1bcbbfde230281d90e92e2d28396a140.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA947/030b496788f0f3eee3e917654e072d1436b3d3db.png)
+
+## 样例 #1
+
+### 输入
+
+```
+5
+1234 2 2
+111 1 0
+567 0 1
+91543 5 0
+91543 0 5
+```
+
+### 输出
+
+```
+6
+192
+234
+1
+44
+```
+

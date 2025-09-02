@@ -1,0 +1,58 @@
+# 题号列表
+
+- CF125E - MST Company
+- CF1622E - Math Test
+- CF1637F - Towers
+- CF1656E - Equal Tree Sums
+- CF1680D - Dog Walking
+- CF1684E - MEX vs DIFF
+- CF1685B - Linguistics
+- CF1696D - Permutation Graph
+- CF1699D - Almost Triple Deletions
+- CF1718A1 - Burenka and Traditions (easy version)
+- CF1718A2 - Burenka and Traditions (hard version)
+- CF1731E - Graph Cost
+- CF1746D - Paths on the Tree
+- CF1747D - Yet Another Problem
+- CF1748D - ConstructOR
+- CF1764E - Doremy's Number Line
+- CF1781E - Rectangle Shrinking
+- CF1783E - Game of the Year
+- CF1784C - Monsters (hard version)
+- CF1799E - City Union
+- CF1852B - Imbalanced Arrays
+- CF1904D2 - Set To Max (Hard Version)
+- CF1928E - Modular Sequence
+- CF1954E - Chain Reaction
+- CF1969E - Unique Array
+- CF1973E - Cat, Fox and Swaps
+- CF1987E - Wonderful Tree!
+- CF1991F - Triangle Formation
+- CF2013E - Prefix GCD
+- CF2018B - Speedbreaker
+- CF2034E - Permutations Harmony
+- CF2043E - Matrix Transformation
+- CF2069E - A, B, AB and BA
+- CF2081B - Balancing
+- CF2085F1 - Serval and Colorful Array (Easy Version)
+- CF2086E - Zebra-like Numbers
+- CF2089B2 - Canteen (Hard Version)
+- CF2096E - Wonderful Teddy Bears
+- CF2101C - 23 Kingdom
+- CF2107E - Ain and Apple Tree
+- CF2107F1 - Cycling (Easy Version)
+- CF2113D - Cheater
+- CF387E - George and Cards
+- CF388C - Fox and Card Game
+- CF448C - Painting Fence
+- CF484D - Kindergarten
+- CF609D - Gadgets for dollars and pounds
+- CF618D - Hamiltonian Spanning Tree
+- CF725D - Contest Balloons
+- CF730J - Bottles
+- CF732E - Sockets
+- CF767D - Cartons of milk
+- CF780D - Innokenty and a Football League
+- CF865D - Buy Low Sell High
+- CF913D - Too Easy Problems
+- CF954E - Water Taps

@@ -1,0 +1,89 @@
+---
+title: "Winter Is Coming"
+layout: "post"
+diff: 提高+/省选-
+pid: CF747D
+tag: []
+---
+
+# Winter Is Coming
+
+## 题目描述
+
+The winter in Berland lasts $ n $ days. For each day we know the forecast for the average air temperature that day.
+
+Vasya has a new set of winter tires which allows him to drive safely no more than $ k $ days at any average air temperature. After $ k $ days of using it (regardless of the temperature of these days) the set of winter tires wears down and cannot be used more. It is not necessary that these $ k $ days form a continuous segment of days.
+
+Before the first winter day Vasya still uses summer tires. It is possible to drive safely on summer tires any number of days when the average air temperature is non-negative. It is impossible to drive on summer tires at days when the average air temperature is negative.
+
+Vasya can change summer tires to winter tires and vice versa at the beginning of any day.
+
+Find the minimum number of times Vasya needs to change summer tires to winter tires and vice versa to drive safely during the winter. At the end of the winter the car can be with any set of tires.
+
+## 输入格式
+
+The first line contains two positive integers $ n $ and $ k $ ( $ 1<=n<=2·10^{5} $ , $ 0<=k<=n $ ) — the number of winter days and the number of days winter tires can be used. It is allowed to drive on winter tires at any temperature, but no more than $ k $ days in total.
+
+The second line contains a sequence of $ n $ integers $ t_{1},t_{2},...,t_{n} $ ( $ -20<=t_{i}<=20 $ ) — the average air temperature in the $ i $ -th winter day.
+
+## 输出格式
+
+Print the minimum number of times Vasya has to change summer tires to winter tires and vice versa to drive safely during all winter. If it is impossible, print -1.
+
+## 说明/提示
+
+In the first example before the first winter day Vasya should change summer tires to winter tires, use it for three days, and then change winter tires to summer tires because he can drive safely with the winter tires for just three days. Thus, the total number of tires' changes equals two.
+
+In the second example before the first winter day Vasya should change summer tires to winter tires, and then after the first winter day change winter tires to summer tires. After the second day it is necessary to change summer tires to winter tires again, and after the third day it is necessary to change winter tires to summer tires. Thus, the total number of tires' changes equals four.
+
+## 样例 #1
+
+### 输入
+
+```
+4 3
+-5 20 -3 0
+
+```
+
+### 输出
+
+```
+2
+
+```
+
+## 样例 #2
+
+### 输入
+
+```
+4 2
+-5 20 -3 0
+
+```
+
+### 输出
+
+```
+4
+
+```
+
+## 样例 #3
+
+### 输入
+
+```
+10 6
+2 -5 1 3 0 0 -4 -3 1 0
+
+```
+
+### 输出
+
+```
+3
+
+```
+

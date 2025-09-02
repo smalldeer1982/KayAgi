@@ -1,0 +1,50 @@
+# 题号列表
+
+- P10716 - 【MX-X1-T4】「KDOI-05」简单的字符串问题
+- P1081 - [NOIP 2012 提高组] 开车旅行
+- P1084 - [NOIP 2012 提高组] 疫情控制
+- P11291 - 【MX-S6-T3】「KDOI-11」简单的字符串问题 2
+- P11306 - [COTS 2016] 搜索树 Jelka
+- P12730 - [KOI 2021 Round 2] 美食推荐
+- P12736 - [POI 2016 R2] 圣诞灯链 Christmas chain
+- P2597 - [ZJOI2012] 灾难
+- P3233 - [HNOI2014] 世界树
+- P3280 - [SCOI2013] 摩托车交易
+- P3292 - [SCOI2016] 幸运数字
+- P3517 - [POI 2011] WYK-Plot
+- P3533 - [POI 2012] RAN-Rendezvous
+- P3575 - [POI 2014] DOO-Around the world
+- P3979 - 遥远的国度
+- P4103 - [HEOI2014] 大工程
+- P4180 - [BJWC2010] 严格次小生成树
+- P4197 - Peaks
+- P4238 - 【模板】多项式乘法逆
+- P4308 - [CTSC2011] 幸福路径
+- P4320 - 道路相遇
+- P4726 - 【模板】多项式指数函数（多项式 exp）
+- P4739 - [CERC2017] Donut Drone
+- P5024 - [NOIP 2018 提高组] 保卫王国
+- P5264 - 多项式三角函数
+- P5344 - 【XR-1】逛森林
+- P5346 - 【XR-1】柯南家族
+- P5353 - 树上后缀排序
+- P5558 - 心上秋
+- P6010 - [USACO20JAN] Falling Portals P
+- P6038 - 「ACOI2020」惊吓路径
+- P6177 - Count on a tree II/【模板】树分块
+- P6190 - [NOI Online #1 入门组] 魔法
+- P6396 - 要有光
+- P6623 - [省选联考 2020 A 卷] 树
+- P6798 - 「StOI-2」简单的树
+- P7215 - [JOISC 2020] 首都
+- P7518 - [省选联考 2021 A/B 卷]  宝石
+- P7562 - [JOISC 2021] イベント巡り 2 (Event Hopping 2) (Day4)
+- P7834 - [ONTAK2010] Peaks 加强版
+- P8163 - [JOI 2022 Final] 铁路旅行 2 (Railway Trip 2)
+- P8541 - 「Wdoi-2」死亡之后愈发愉悦
+- P8860 - 动态图连通性
+- P9019 - [USACO23JAN] Tractor Paths P
+- P9138 - [THUPC 2023 初赛] 公平合作
+- P9399 - 「DBOI」Round 1 人生如树
+- P9494 - 「SFCOI-3」进行一个走的行
+- P9607 - [CERC2019] Be Geeks!

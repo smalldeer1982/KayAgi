@@ -1,0 +1,23 @@
+# 题号列表
+
+- B3903 - [NICA #3] 星空（Hard Version）
+- P12469 - [Math×Girl] 平均律
+- P1641 - [SCOI2010] 生成字符串
+- P2054 - [AHOI2005] 洗牌
+- P2155 - [SDOI2008] 沙拉公主的困惑
+- P2485 - [SDOI2011] 计算器
+- P3306 - [SDOI2013] 随机数生成器
+- P3807 - 【模板】卢卡斯定理/Lucas 定理
+- P4079 - [SDOI2016] 齿轮
+- P4255 - 公主の#18文明游戏
+- P4454 - [CQOI2018] 破解D-H协议
+- P4881 - hby与tkw的基情
+- P5011 - 水の造题
+- P5135 - painting
+- P5509 - 派遣
+- P6217 - 简单数论题
+- P7121 - Ame 和 Gura 的奇妙探险
+- P7444 - 「EZEC-7」猜排列
+- P7489 - 「Stoi2031」手写的从前
+- P9007 - [入门赛 #9] 最澄澈的空与海 (Hard Version)
+- P9823 - [ICPC 2020 Shanghai R] The Journey of Geor Autumn

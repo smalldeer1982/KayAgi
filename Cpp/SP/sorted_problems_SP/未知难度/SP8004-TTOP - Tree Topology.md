@@ -1,0 +1,44 @@
+---
+title: "TTOP - Tree Topology"
+layout: "post"
+diff: 难度0
+pid: SP8004
+tag: []
+---
+
+# TTOP - Tree Topology
+
+## 题目描述
+
+Given a rooted tree, a permutation of its nodes is valid if the following holds: for each pair of nodes **a** and **b**, if **a** is an ancestor of **b**, then **a** appears before **b** in the permutation. Let **P(t)** be the number of valid permutations for a tree **t**.  
+  
+Given an integer N, you can construct all the possible trees of N nodes, numbered from 1 to N, _**rooted at**_ **1**. I'd like to know what's the sum of **P(t)** **_for all_** **t** that can be constructed for the given N.
+
+**We consider two trees equal iff each node in the second tree has the same parent as it does in the first one.**
+
+![trees for N = 3](../../../content/syntax_error:ttop.png "trees")
+
+_The picture shows all the possible trees for N = 3._
+
+## 输入格式
+
+A single integer N ( 1 <= N <= 1000000 ).
+
+## 输出格式
+
+A single integer representing the solution modulo 1000000007.
+
+## 样例 #1
+
+### 输入
+
+```
+\n3\n
+```
+
+### 输出
+
+```
+\n4
+```
+

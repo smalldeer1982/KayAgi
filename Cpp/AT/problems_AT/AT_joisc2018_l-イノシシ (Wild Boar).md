@@ -1,0 +1,16 @@
+---
+title: "イノシシ (Wild Boar)"
+layout: "post"
+diff: NOI/NOI+/CTSC
+pid: AT_joisc2018_l
+tag: []
+---
+
+# イノシシ (Wild Boar)
+
+## 题目描述
+
+[problemUrl]: https://atcoder.jp/contests/joisc2018/tasks/joisc2018_l
+
+
+

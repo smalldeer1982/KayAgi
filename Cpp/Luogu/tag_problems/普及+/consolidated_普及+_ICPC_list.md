@@ -1,0 +1,84 @@
+# 题号列表
+
+- P10556 - [ICPC 2024 Xi'an I] Make Them Straight
+- P10558 - [ICPC 2024 Xi'an I] XOR Game
+- P10561 - [ICPC 2024 Xi'an I] Smart Quality Inspector
+- P10564 - [ICPC 2024 Xi'an I] Rubbish Sorting
+- P10737 - [SEERC 2020] Reverse Game
+- P10816 - [EC Final 2020] Namomo Subsequence
+- P10817 - [EC Final 2020] Rectangle Flip 2
+- P10827 - [EC Final 2020] Square
+- P12095 - [NERC2024] DAG Serialization
+- P12096 - [NERC2024] Expression Correction
+- P12097 - [NERC2024] Fix Flooded Floor
+- P12101 - [NERC2024] Judicious Watching
+- P12301 - [ICPC 2022/2023 WF] Turning Red
+- P12302 - [ICPC 2023 WF] Jet Lag
+- P12630 - [NAC 2025] SLA Tomography
+- P12800 - [NERC 2022] King' s Puzzle
+- P12822 - [NERC 2021] Interactive Treasure Hunt
+- P12938 - [NERC 2019] Elections
+- P12945 - [NERC 2019] Lexicography
+- P13587 - [NWRRC 2023] Game of Nim
+- P13622 - [ICPC 2025 APC] Pho Restaurant
+- P13630 - [NWRRC 2021] Clean Up!
+- P13638 - [NWRRC 2021] Kaleidoscopic Route
+- P13639 - [NWRRC 2021] Letters Q and F
+- P13654 - [CERC 2020] Excavation
+- P13655 - [CERC 2020] Tobacco Growing
+- P13659 - [CERC 2020] Storage Problems
+- P13667 - [GCPC 2023] Balloon Darts
+- P13705 - [NWERC 2023] Fixing Fractions
+- P13707 - [NWERC 2023] Higher Arithmetic
+- P13718 - [GCPC 2024] Copycat Catcher
+- P13751 - [NWERC 2024] Mouse Trap
+- P13770 - [CERC 2021] Radar
+- P13773 - [CERC 2021] Single-track railway
+- P13801 - [SWERC 2023] Olympic goodies
+- P13807 - [CERC 2022] Constellations
+- P13810 - [CERC 2022] Differences
+- P13811 - [CERC 2022] Greedy Drawers
+- P13815 - [CERC 2022] Skills in Pills
+- P13816 - [CERC 2022] The Game
+- P13851 - [CERC 2023] Going to the Moon
+- P5802 - [SEERC 2019] Projection
+- P6251 - [ICPC 2019 WF] Azulejos
+- P6254 - [ICPC 2019 WF] Circular DNA
+- P6255 - [ICPC 2019 WF] Dead-End Detector
+- P6909 - [ICPC 2015 WF] Keyboarding
+- P6919 - [ICPC 2016 WF] Ceiling Function
+- P6934 - [ICPC 2017 WF] Posterize
+- P6946 - [ICPC 2018 WF] Go with the Flow
+- P6951 - [ICPC 2018 WF] Wireless is the New Fiber
+- P6953 - [NEERC 2017] Box
+- P6955 - [NEERC 2017] Designing the Toy
+- P6964 - [NEERC 2016] Abbreviation
+- P6997 - [NEERC 2013] Bonus Cards
+- P7006 - [NEERC 2013] Kabaleo Lite
+- P7015 - [CERC2013] Crane
+- P7017 - [CERC2013] Digraphs
+- P7021 - [NWRRC 2017] Consonant Fencity
+- P7023 - [NWRRC 2017] Equal Numbers
+- P7033 - [NWRRC 2016] CodeCoder vs TopForces
+- P7040 - [NWRRC 2016] Java2016
+- P7049 - [NWRRC 2015] Black and White
+- P7057 - [NWRRC 2015] Journey to the “The World’s Start”
+- P7069 - [NWRRC 2014] Joy of Flight
+- P8134 - [ICPC 2020 WF] Opportunity Cost
+- P9362 - [ICPC 2022 Xi'an R] Find Maximum
+- P9364 - [ICPC 2022 Xi'an R] Perfect Word
+- P9369 - [ICPC 2022 Xi'an R] Tree
+- P9448 - [ICPC 2021 WF] Splitstream
+- P9606 - [CERC2019] ABB
+- P9627 - [ICPC 2020 Nanjing R] Fireworks
+- P9661 - [ICPC 2021 Macao R] Sandpile on Clique
+- P9667 - [ICPC 2022 Jinan R] Tower
+- P9670 - [ICPC 2022 Jinan R] Frozen Scoreboard
+- P9725 - [EC Final 2022] Chase Game 2
+- P9795 - [NERC 2018] Easy Chess
+- P9820 - [ICPC 2020 Shanghai R] Mine Sweeper II
+- P9827 - [ICPC 2020 Shanghai R] Sky Garden
+- P9843 - [ICPC 2021 Nanjing R] Paimon Sorting
+- P9883 - [EC Final 2021] Fenwick Tree
+- P9888 - [ICPC 2018 Qingdao R] Magic Multiplication
+- P9889 - [ICPC 2018 Qingdao R] Plants vs. Zombies

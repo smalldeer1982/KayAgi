@@ -1,0 +1,41 @@
+---
+title: "Game"
+layout: "post"
+diff: 难度0
+pid: UVA767
+tag: []
+---
+
+# Game
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=9&page=show_problem&problem=708
+
+[PDF](https://uva.onlinejudge.org/external/7/p767.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA767/ebc060d32bf6a2704d8ad8151d6fbe595418a1ee.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA767/1c25f9298e95238bc28459c9ed59f1d381666899.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA767/081bd9d9a71b88079fd019b7591c5479ed9b679c.png)
+
+## 样例 #1
+
+### 输入
+
+```
+
+```
+
+### 输出
+
+```
+YES
+3
+```
+

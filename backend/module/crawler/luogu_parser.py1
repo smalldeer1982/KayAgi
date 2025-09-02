@@ -1,0 +1,500 @@
+import json
+import urllib.request
+import requests
+import bs4 as bs
+import re
+import os
+import time
+import glob
+
+
+def json_parser(html: str):
+    try:
+        print("\n=== HTML解析详细信息 ===")
+        soup = bs.BeautifulSoup(html, "html.parser")
+        
+        # 查找 id 为 lentille-context 的 script 标签
+        script = soup.find('script', id='lentille-context')
+        if not script:
+            print("未找到 lentille-context script 标签")
+            return None
+            
+        print("找到 lentille-context script")
+        
+        try:
+            # 直接解析JSON内容
+            content = script.string.strip()
+            js = json.loads(content)
+            print("JSON解析成功")
+            print("JSON数据结构:", list(js.keys()))
+            return js
+                
+        except json.JSONDecodeError as e:
+            print(f"JSON解析失败: {str(e)}")
+            print(f"Script内容预览: {content[:200]}")
+            return None
+            
+    except Exception as e:
+        print(f"解析过程出现错误: {str(e)}")
+        print(f"错误类型: {type(e)}")
+        return None
+
+def sanitize_filename(filename: str) -> str:
+    """清理文件名中的非法字符"""
+    # 替换Windows文件系统中的非法字符
+    illegal_chars = ['/', '\\', ':', '*', '?', '"', '<', '>', '|']
+    for char in illegal_chars:
+        filename = filename.replace(char, '-')
+    return filename
+
+def problem_markdown_parser(problem_js: dict, solutions: list = None):
+    """将题目和题解数据转换为Markdown格式"""
+    try:
+        pid = problem_js["pid"]
+        title = problem_js["title"]
+        content = problem_js["content"]
+        
+        # 清理文件名中的非法字符
+        safe_title = sanitize_filename(title)
+        
+        # 创建Markdown文件
+        with open(f"{pid}-{safe_title}.md", "w", encoding="utf-8") as f:
+            # 写入题目部分
+            f.write(f"# {title}\n\n")
+            
+            # 写入背景
+            if content.get("background"):
+                f.write("## 题目背景\n\n")
+                f.write(f"{content['background']}\n\n")
+                
+            # 写入描述
+            if content.get("description"):
+                f.write("## 题目描述\n\n")
+                f.write(f"{content['description']}\n\n")
+                
+            # 写入输入格式
+            if content.get("inputFormat"):
+                f.write("## 输入格式\n\n")
+                f.write(f"{content['inputFormat']}\n\n")
+                
+            # 写入输出格式
+            if content.get("outputFormat"):
+                f.write("## 输出格式\n\n")
+                f.write(f"{content['outputFormat']}\n\n")
+                
+            # 写入提示
+            if content.get("hint"):
+                f.write("## 说明/提示\n\n")
+                f.write(f"{content['hint']}\n\n")
+                
+            # 写入样例
+            if "samples" in problem_js:
+                for i, sample in enumerate(problem_js["samples"], 1):
+                    f.write(f"## 样例 #{i}\n\n")
+                    f.write("### 输入\n\n")
+                    f.write("```\n")
+                    f.write(f"{sample[0]}")
+                    f.write("```\n\n")
+                    f.write("### 输出\n\n")
+                    f.write("```\n")
+                    f.write(f"{sample[1]}")
+                    f.write("```\n\n")
+            
+            # 写入题解部分
+            if solutions:
+                f.write("# 题解\n\n")
+                # 按点赞数排序题解
+                solutions.sort(key=lambda x: x.get("upvote", 0), reverse=True)
+                
+                # 遍历所有题解
+                for solution in solutions:
+                    author = solution.get("author", {}).get("name", "匿名用户")
+                    content = solution.get("content", "")
+                    upvote = solution.get("upvote", 0)
+                    
+                    f.write(f"## 作者：{author} (赞：{upvote})\n\n")
+                    f.write(f"{content}\n\n")
+                    f.write("---\n\n")
+                    
+    except Exception as e:
+        print(f"Markdown转换错误: {str(e)}")
+        print(f"错误类型: {type(e)}")
+
+def get_all_solutions(pid: str, headers: dict):
+    """获取所有页的题解"""
+    base_url = f"https://www.luogu.com.cn/problem/solution/{pid}"
+    all_solutions = []
+    page = 1
+    
+    while True:
+        url = f"{base_url}?page={page}"
+        print(f"\n=== 获取第 {page} 页题解 ===")
+        print(f"请求URL: {url}")
+        
+        # 不需要每次请求都延迟，使用批次控制
+        solution_rsp = requests.get(url, headers=headers)
+        print(f"状态码: {solution_rsp.status_code}")
+        
+        if solution_rsp.status_code == 429:
+            print("请求过于频繁，等待5秒后重试...")
+            time.sleep(5)
+            continue
+            
+        # 保存当前页面原始响应
+        with open(f"debug_{pid}_solution_page{page}.html", "w", encoding="utf-8") as f:
+            f.write(solution_rsp.text)
+        
+        solution_data = json_parser(solution_rsp.text)
+        if not solution_data or "data" not in solution_data:
+            print(f"第 {page} 页数据为空或格式错误")
+            break
+            
+        solutions = solution_data["data"].get("solutions", {})
+        if not solutions or not solutions.get("result"):
+            print(f"第 {page} 页没有题解数据")
+            break
+            
+        # 获取总页数
+        total_count = solutions.get("count", 0)
+        per_page = solutions.get("perPage", 10)
+        total_pages = (total_count + per_page - 1) // per_page
+        print(f"总题解数: {total_count}, 每页数量: {per_page}, 总页数: {total_pages}")
+        
+        # 添加当前页的题解
+        all_solutions.extend(solutions["result"])
+        
+        if page >= total_pages:
+            print("已获取所有页的题解")
+            break
+            
+        page += 1
+    
+    return all_solutions
+
+def solution_markdown_parser(solutions: list, pid: str, title: str):
+    """将题解数据转换为Markdown格式"""
+    try:
+        if not solutions:
+            print("没有找到有效的题解数据")
+            return
+            
+        print(f"开始处理 {len(solutions)} 个题解")
+        
+        # 清理文件名中的非法字符
+        safe_title = sanitize_filename(title)
+        
+        # 创建题解文件
+        with open(f"{pid}-{safe_title}-题解.md", "w", encoding="utf-8") as f:
+            f.write(f"# {pid} {title} - 题解\n\n")
+            
+            # 按点赞数排序题解
+            solutions.sort(key=lambda x: x.get("upvote", 0), reverse=True)
+            
+            # 遍历所有题解
+            for solution in solutions:
+                author = solution.get("author", {}).get("name", "匿名用户")
+                content = solution.get("content", "")
+                upvote = solution.get("upvote", 0)
+                
+                f.write(f"## 作者：{author} (赞：{upvote})\n\n")
+                f.write(f"{content}\n\n")
+                f.write("---\n\n")
+                
+    except Exception as e:
+        print(f"题解转换错误: {str(e)}")
+        print(f"错误类型: {type(e)}")
+
+def load_config():
+    """加载配置文件"""
+    config_path = os.path.join(os.path.dirname(__file__), 'luogu_config.json')
+    try:
+        with open(config_path, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except Exception as e:
+        print(f"加载配置文件失败: {str(e)}")
+        return None
+
+def get_headers():
+    """获取请求头"""
+    config = load_config()
+    if not config:
+        raise Exception("无法加载配置文件")
+        
+    return {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36',
+        'Accept': 'application/json, text/javascript, */*; q=0.01',
+        'Accept-Language': 'zh-CN,zh;q=0.9',
+        'Accept-Encoding': 'gzip, deflate, br',
+        'X-Requested-With': 'XMLHttpRequest',
+        'Host': 'www.luogu.com.cn',
+        'Connection': 'keep-alive',
+        'Referer': 'https://www.luogu.com.cn/problem/',
+        'sec-ch-ua': '"Chromium";v="116", "Not)A;Brand";v="24", "Google Chrome";v="116"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'Sec-Fetch-Dest': 'empty',
+        'Sec-Fetch-Mode': 'cors',
+        'Sec-Fetch-Site': 'same-origin',
+        'Cookie': config['cookie']
+    }
+
+def extract_pid_from_filename(filename: str) -> str:
+    """从文件名中提取题号
+    例如：从 'P2024-[NOI2001] 食物链.md' 提取出 'P2024'
+    """
+    # 使用正则表达式匹配P/B开头后面跟着数字的部分
+    match = re.match(r'(P|B)\d+', filename)
+    return match.group(0) if match else None
+
+def get_existing_problems_in_dir(directory: str) -> set:
+    """获取目录下所有已存在的题目编号"""
+    existing_pids = set()
+    try:
+        # 直接使用当前目录列表，因为已经切换到目标目录了
+        for filename in os.listdir('.'):
+            if filename.endswith('.md'):
+                pid = extract_pid_from_filename(filename)
+                if pid:
+                    existing_pids.add(pid)
+                    #print(f"找到已存在题目: {filename} -> {pid}")
+    except Exception as e:
+        print(f"读取目录出错: {str(e)}")
+    
+    return existing_pids
+
+def check_problem_exists(output_dir: str, pid: str) -> bool:
+    """检查题目是否已经解析过"""
+    # 获取目录下所有已存在的题目编号
+    existing_pids = get_existing_problems_in_dir(output_dir)
+    
+    # # 详细的调试信息
+    # print(f"检查目录: {output_dir}")
+    # print(f"当前工作目录: {os.getcwd()}")
+    # print(f"当前目录文件列表: {os.listdir('.')}")
+    # print(f"当前目录下的题目列表: {existing_pids}")
+    # print(f"要检查的题目编号: {pid}")
+    
+    # 严格匹配题号
+    exists = pid in existing_pids
+    # print(f"题目是否存在: {exists}")
+    
+    return exists
+
+def pid_parser(pid: str):
+    headers = get_headers()  # 使用新的获取headers的函数
+    problem_url = "https://www.luogu.com.cn/problem/"
+    solution_url = f"https://www.luogu.com.cn/problem/solution/{pid}"
+
+    try:
+        # 获取题目内容，不需要额外延迟
+        problem_rsp = requests.get(problem_url + pid, headers=headers)
+        print(f"题目请求状态码: {problem_rsp.status_code}")
+        
+        # 如果返回429，等待并重试
+        if problem_rsp.status_code == 429:
+            print("请求过于频繁，等待5秒后重试...")
+            time.sleep(5)
+            return pid_parser(pid)
+            
+        # 使用 json_parser 处理HTML响应
+        problem_data = json_parser(problem_rsp.text)
+        if not problem_data:
+            print("题目数据为空")
+            return
+            
+        print("问题数据结构:", list(problem_data.keys()))
+        
+        # 修改数据访问路径
+        if "data" not in problem_data or "problem" not in problem_data["data"]:
+            print("题目数据格式错误")
+            print(f"数据结构: {problem_data}")
+            return
+            
+        problem_js = problem_data["data"]["problem"]
+        
+        # 从contenu中获取内容
+        content = problem_js.get("contenu", {})
+        if not content:
+            content = problem_js.get("content", {})  # 尝试备用字段
+            
+        # 构建完整的题目数据
+        problem_data = {
+            "pid": problem_js["pid"],
+            "title": problem_js["title"],
+            "content": content,
+            "samples": problem_js.get("samples", [])
+        }
+        
+        problem_markdown_parser(problem_data)
+        
+        # 获取题解内容
+        all_solutions = []
+        page = 1
+        
+        while True:
+            current_url = f"{solution_url}?page={page}"
+            print(f"\n=== 获取第 {page} 页题解 ===")
+            print(f"请求URL: {current_url}")
+            
+            solution_rsp = requests.get(current_url, headers=headers)
+            print(f"题解请求状态码: {solution_rsp.status_code}")
+            
+            solution_data = json_parser(solution_rsp.text)
+            if not solution_data or "data" not in solution_data:
+                print(f"第 {page} 页数据为空或格式错误")
+                break
+                
+            solutions = solution_data["data"].get("solutions", {})
+            if not solutions or not solutions.get("result"):
+                print(f"第 {page} 页没有题解数据")
+                break
+                
+            # 添加当前页的题解
+            current_solutions = solutions["result"]
+            all_solutions.extend(current_solutions)
+            print(f"第 {page} 页找到 {len(current_solutions)} 个题解")
+            
+            page += 1
+            
+        if all_solutions:
+            print(f"\n总共找到 {len(all_solutions)} 个题解")
+            # 处理题目和题解，合并到一个文件中
+            problem_markdown_parser(problem_data, all_solutions)
+        else:
+            print("没有找到任何题解")
+            # 只处理题目
+            problem_markdown_parser(problem_data)
+            
+    except Exception as e:
+        print(f"题解处理错误: {str(e)}")
+        print(f"错误位置: {e.__traceback__.tb_lineno}")
+
+
+def read_json_file():
+    # return json file
+    with open("test.json", "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+def write_json_file(data):
+    # write json file
+    with open("test.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=4)
+
+def extract_problem_ids(file_path: str) -> list:
+    """从文件中提取题号"""
+    try:
+        with open(file_path, "r", encoding="utf-8") as f:
+            content = f.read()
+            # 使用正则表达式匹配题号
+            pattern = r'[BP]\d{4}'
+            problem_ids = re.findall(pattern, content)
+            return problem_ids
+    except Exception as e:
+        print(f"读取文件错误: {str(e)}")
+        return []
+
+def process_problems(file_path: str):
+    """处理文件中的所有题目"""
+    # 保存原始工作目录
+    original_dir = os.getcwd()
+    
+    try:
+        # 从文件名中提取难度和分类
+        filename = os.path.basename(file_path)
+        parts = filename.replace('consolidated_', '').replace('_list.md', '').split('_')
+        difficulty = parts[0]  # 普及-
+        category = parts[1]    # 动态规划
+        
+        # 构建输出目录
+        output_dir = os.path.join("cpp/luogu/solution", difficulty, category)
+        os.makedirs(output_dir, exist_ok=True)
+        
+        # print(f"\n=== 处理目录信息 ===")
+        # print(f"难度: {difficulty}")
+        # print(f"分类: {category}")
+        # print(f"输出目录: {output_dir}")
+        
+        # # 切换到输出目录
+        os.chdir(output_dir)
+        # print(f"切换到目录: {os.getcwd()}")
+        # print(f"目录下现有文件: {os.listdir('.')}")
+        
+        # # 获取所有题号
+        problem_ids = extract_problem_ids(file_path)
+        # print(f"\n找到 {len(problem_ids)} 个题目")
+        # print(f"题目列表: {problem_ids}")
+        
+        # 批次处理变量
+        batch_count = 0
+        batch_start_time = time.time()
+        skipped_count = 0
+        
+        # 处理每个题目
+        for i, pid in enumerate(problem_ids, 1):
+            print(f"\n{'='*50}")
+            print(f"检查第 {i}/{len(problem_ids)} 个题目: {pid}")
+            
+            # 检查题目是否已存在
+            if check_problem_exists(output_dir, pid):
+                #print(f"题目 {pid} 已存在，跳过处理")
+                skipped_count += 1
+                continue
+                
+            print(f"开始处理题目: {pid}")
+            pid_parser(pid)
+            batch_count += 1
+            
+            # 检查是否需要休息
+            current_time = time.time()
+            time_elapsed = current_time - batch_start_time
+            
+            if batch_count >= 5 or time_elapsed >= 20:
+                print(f"\n=== 已处理 {batch_count} 题，耗时 {time_elapsed:.2f} 秒 ===")
+                print("休息10秒...")
+                time.sleep(10)
+                batch_count = 0
+                batch_start_time = time.time()
+        
+        print(f"\n{'='*50}")
+        print(f"处理完成！")
+        print(f"总题目数: {len(problem_ids)}")
+        print(f"跳过数量: {skipped_count}")
+        print(f"新处理数: {len(problem_ids) - skipped_count}")
+        # print(f"当前目录内容:")
+        # print('\n'.join(os.listdir('.')))
+            
+    except Exception as e:
+        print(f"处理过程出错: {str(e)}")
+        print(f"错误类型: {type(e)}")
+        import traceback
+        print(traceback.format_exc())
+    finally:
+        # 恢复原始目录
+        os.chdir(original_dir)
+
+if __name__ == "__main__":
+    # 设置难度和标签
+    difficulty = "省选"  # 可以是 "普及-", "普及", "普及+", "提高+", "省选" 等
+    #tags = "贪心,动态规划,搜索,二分,差分,数学,分治,字符串,排序,递推,递归,前缀和,进制,质数,深度优先搜索 DFS,广度优先搜索 BFS,模拟,队列,位运算,高精度,枚举,组合,剪枝,最短路,树状数组,离散化,构造,并查集,概率论,组合数学,线段树,图论,分块,状压,树形,素数,筛法,哈希,背包,栈,生成树,语言月赛,洛谷原创,洛谷月赛,USACO"  # 用逗号分隔的标签列表
+    #tags = "树形 DP,状压 DP,区间 DP,AC 自动机"
+    #tags = "背包 DP,单调队列,堆,树形数据结构,拓扑排序,ST 表,逆元,平衡树,容斥原理,数位 DP,数论,线性数据结构,记忆化搜索,树的遍历,字典树 Trie,最大公约数 gcd,二分图,优先队列,最近公共祖先 LCA,KMP 算法"
+    #tags = "贪心,动态规划,搜索,二分,差分,数学,分治,字符串,排序,递推,递归,前缀和,进制,质数,深度优先搜索 DFS,广度优先搜索 BFS,模拟,队列,位运算,高精度,枚举,组合,剪枝,最短路,树状数组,离散化,构造,并查集,概率论,组合数学,线段树,图论,分块,状压,树形,素数,筛法,哈希,背包,栈,生成树,树形 DP,状压 DP,区间 DP,AC 自动机,背包 DP,单调队列,堆,树形数据结构,拓扑排序,ST 表,逆元,平衡树,容斥原理,数位 DP,数论,线性数据结构,记忆化搜索,树的遍历,字典树 Trie,最大公约数 gcd,二分图,优先队列,最近公共祖先 LCA,KMP 算法,USACO,分类讨论,强连通分量,计算几何,矩阵乘法,连通块,树论,矩阵加速,倍增,图论建模,容斥原理,平衡树,期望,网络流,可持久化线段树,高斯消元,莫队"
+    #tags = "洛谷月赛"
+    #tags = "贪心,动态规划,搜索,二分,差分,数学,分治,字符串,排序,递推,递归,前缀和,进制,质数,深度优先搜索 DFS,广度优先搜索 BFS,模拟,队列,位运算,高精度,枚举,组合,剪枝,最短路,树状数组,离散化,构造,并查集,概率论,组合数学,线段树,图论,分块,状压,树形,素数,筛法,哈希,背包,栈,生成树,树形 DP,状压 DP,区间 DP,AC 自动机,背包 DP,单调队列,堆,树形数据结构,拓扑排序,ST 表,逆元,平衡树,容斥原理,数位 DP,数论,线性数据结构,记忆化搜索,树的遍历,字典树 Trie,最大公约数 gcd,二分图,优先队列,最近公共祖先 LCA,KMP 算法,USACO,分类讨论,强连通分量,计算几何,矩阵乘法,连通块,树论,矩阵加速,倍增,图论建模,容斥原理,平衡树,期望,网络流,可持久化线段树,高斯消元,莫队,洛谷月赛,NOIP 提高组,NOIP 普及组,CSP-S 提高级,CSP-J 入门级,博弈论,树链剖分,排列组合,动态规划优化,双指针 two-pointer,基环树,NOI,单调栈,根号分治,Manacher 算法,凸包,扫描线,随机化,树的直径,莫比乌斯反演,矩阵运算,欧拉函数,中国剩余定理 CRT,双连通分量,斐波那契数列,线性递推,费用流,Tarjan,欧几里德,欧拉回路,动态树 LCT,快速傅里叶变换 FFT,APIO,最小割,斜率优化,后缀数组 SA,快速数论变换 NTT,可持久化,虚树"
+    tags = "洛谷原创,各省省选,蓝桥杯国赛,ICPC,蓝桥杯省赛,梦熊比赛,洛谷比赛,NOI 导刊,语言月赛,BCSP-X,扩展欧几里德算法,三分,蓝桥杯青少年组,整除分块,链表,线性 DP,数组,图遍历,不定方程,函数与递归,结构体,鸽笼原理,Catalan 数,不定方程,IOI,THUPC,集训队互测,cdq 分治,SG 函数,折半搜索 meet in the middle,笛卡尔树,离线处理,线性基,点分治,可并堆,原根,生成函数,快速沃尔什变换 FWT,模拟退火,线性代数,Lucas 定理,向量,K-D Tree,树上启发式合并,整体二分,快速莫比乌斯变换 FMT,Kruskal 重构树"
+    # 获取当前脚本所在目录的路径
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    # 获取项目根目录路径（往上三级）
+    root_dir = os.path.dirname(os.path.dirname(os.path.dirname(current_dir)))
+    
+    # 处理每个标签
+    for tag in tags.split(','):
+        # 构建完整的文件路径
+        file_path = os.path.join(root_dir, "cpp/luogu/tag_problems", difficulty, f"consolidated_{difficulty}_{tag}_list.md")
+        
+        print(f"尝试读取文件: {file_path}")
+        process_problems(file_path)
+
+
+

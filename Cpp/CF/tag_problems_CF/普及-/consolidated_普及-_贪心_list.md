@@ -1,0 +1,171 @@
+# 题号列表
+
+- CF1015B - Obtaining the String
+- CF101A - Homework
+- CF1029B - Creating the Contest
+- CF109A - Lucky Sum of Digits
+- CF110B - Lucky String
+- CF1196B - Odd Sum Segments
+- CF12C - Fruits
+- CF1537C - Challenging Cliffs
+- CF1539C - Stable Groups
+- CF1605B - Reverse Sort
+- CF1609A - Divide and Multiply
+- CF1641A - Great Sequence
+- CF1642B - Power Walking
+- CF1659A - Red Versus Blue
+- CF1675B - Make It Increasing
+- CF1675C - Detective Task
+- CF1676E - Eating Queries
+- CF1678B1 - Tokitsukaze and Good 01-String (easy version)
+- CF1682A - Palindromic Indices
+- CF1682B - AND Sorting
+- CF1688B - Patchouli's Magical Talisman
+- CF1696A - NIT orz!
+- CF1696B - NIT Destroys the Universe
+- CF1704A - Two 0-1 Sequences
+- CF1704B - Luke is a Foodie
+- CF1705A - Mark the Photographer
+- CF1705B - Mark the Dust Sweeper
+- CF1706A - Another String Minimization Problem
+- CF1712A - Wonderful Permutation
+- CF1713B - Optimal Reduction
+- CF1714C - Minimum Varied Number
+- CF1716B - Permutation Chain
+- CF1721A - Image
+- CF1725B - Basketball Together
+- CF1731B - Kill Demodogs
+- CF1747B - BAN BAN
+- CF1767B - Block Towers
+- CF1784A - Monsters (easy version)
+- CF1914C - Quests
+- CF1921D - Very Different Array
+- CF1923B - Monsters Attack!
+- CF1927C - Choose the Different Ones!
+- CF1930A - Maximise The Score
+- CF1934A - Too Min Too Max
+- CF1934B - Yet Another Coin Problem
+- CF1941B - Rudolf and 121
+- CF1941C - Rudolf and the Ugly String
+- CF1946A - Median of an Array
+- CF1948A - Special Characters
+- CF1948B - Array Fix
+- CF1954C - Long Multiplication
+- CF1956A - Nene's Game
+- CF1956B - Nene and the Card Game
+- CF1966A - Card Exchange
+- CF1966B - Rectangle Filling
+- CF1969B - Shifts and Sorting
+- CF1971D - Binary Cut
+- CF1972A - Contest Proposal
+- CF1972B - Coin Games
+- CF1975A - Bazoka and Mocha's Array
+- CF1976B - Increase/Decrease/Copy
+- CF1978B - New Bakery
+- CF1979A - Guess the Maximum
+- CF1984C1 - Magnitude (Easy Version)
+- CF1985D - Manhattan Circle
+- CF1986C - Update Queries
+- CF1987B - K-Sort
+- CF1988B - Make Majority
+- CF1989B - Substring and Subsequence
+- CF1989C - Two Movies
+- CF1991B - AND Reconstruction
+- CF1992A - Only Pluses
+- CF1992B - Angry Monk
+- CF1992C - Gorilla and Permutation
+- CF1993A - Question Marks
+- CF1993B - Parity and Sum
+- CF1994A - Diverse Game
+- CF1994B - Fun Game
+- CF1995B1 - Bouquet (Easy Version)
+- CF1996C - Sort
+- CF1997A - Strong Password
+- CF1997C - Even Positions
+- CF1999D - Slavic's Exam
+- CF2001A - Make All Equal
+- CF2002B - Removals Game
+- CF2002C - Black Circles
+- CF2003B - Turtle and Piggy Are Playing a Game 2
+- CF2004B - Game with Doors
+- CF2004C - Splitting Items
+- CF2005A - Simple Palindrome
+- CF2007A - Dora's Set
+- CF2007B - Index and Maximum Value
+- CF2009C - The Legend of Freya the Frog
+- CF2013B - Battle for Survive
+- CF2021A - Meaning Mean
+- CF2021B - Maximize Mex
+- CF2021C1 - Adjust The Presentation (Easy Version)
+- CF2022A - Bus to Pénjamo
+- CF2022B - Kar Salesman
+- CF2024B - Buying Lemonade
+- CF2025A - Two Screens
+- CF2026B - Black Cells
+- CF2027A - Rectangle Arrangement
+- CF2027B - Stalin Sort
+- CF2029A - Set
+- CF2029B - Replacement
+- CF2030A - A Gift From Orangutan
+- CF2030B - Minimise Oneness
+- CF2031A - Penchick and Modern Monument
+- CF2031B - Penchick and Satay Sticks
+- CF2032A - Circuit
+- CF2033B - Sakurako and Water
+- CF2034B - Rakhsh's Revival
+- CF2038L - Bridge Renovation
+- CF2039B - Shohag Loves Strings
+- CF203C - Photographer
+- CF2040B - Paint a Strip
+- CF2042A - Greedy Monocarp
+- CF2042B - Game with Colored Marbles
+- CF2046A - Swap Columns and Find a Path
+- CF2047B - Replace Character
+- CF2049A - MEX Destruction
+- CF2051A - Preparing for the Olympiad
+- CF2053A - Tender Carpenter
+- CF2057B - Gorilla and the Exam
+- CF2065C1 - Skibidus and Fanum Tax (easy version)
+- CF2067B - Two Large Bags
+- CF2069A - Was there an Array?
+- CF2069B - Set of Strangers
+- CF2074B - The Third Side
+- CF2075A - To Zero
+- CF2075B - Array Recoloring
+- CF2082A - Binary Matrix
+- CF2085B - Serval and Final MEX
+- CF2086B - Large Array and Segments
+- CF2091B - Team Training
+- CF2092B - Lady Bug
+- CF2093B - Expensive Number
+- CF2096A - Wonderful Sticks
+- CF2096B - Wonderful Gloves
+- CF2098A - Vadim's Collection
+- CF2102A - Dinner Time
+- CF2103A - Common Multiple
+- CF2104C - Card Game
+- CF2106B - St. Chroma
+- CF2106C - Cherry Bomb
+- CF2107B - Apples in Boxes
+- CF2107B - 箱中苹果
+- CF2109B - Slice to Survive
+- CF2112B - Shrinking Array
+- CF2113A - Shashliks
+- CF2114C - Need More Arrays
+- CF2116B - Gellyfish and Baby's Breath
+- CF2117C - Cool Partition
+- CF34B - Sale
+- CF3A - Shortest path of the king
+- CF4B - Before an Exam
+- CF545D - Queue
+- CF688A - Opponents
+- CF7A - Kalevitch and Chess
+- CF835B - The number on the board
+- CF845A - Chess Tourney
+- CF903C - Boxes Packing
+- CF912B - New Year's Eve
+- CF934A - A Compatible Pair
+- CF934B - A Prosperous Lot
+- CF950B - Intercepted Message
+- CF964A - Splits
+- CF964B - Messages

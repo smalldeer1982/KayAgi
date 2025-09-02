@@ -1,0 +1,139 @@
+# 题号列表
+
+- CF1005A - Tanya and Stairways
+- CF1009A - Game Shopping
+- CF103A - Testing Pants for Sadness
+- CF1075A - The King's Race
+- CF10A - Power Consumption Calculation
+- CF114A - Cifera
+- CF118A - String Task
+- CF119A - Epic Game
+- CF11A - Increasing Sequence
+- CF1243A - Maximum Square
+- CF124A - The number of positions
+- CF12A - Super Agent
+- CF136A - Presents
+- CF14A - Letter
+- CF155A - I_love_%username%
+- CF1560A - Dislike of Threes
+- CF1644A - Doors and Keys
+- CF1676A - Lucky?
+- CF1676B - Equal Candies
+- CF1684A - Digit Minimization
+- CF16A - Flag
+- CF1722A - Spell Check
+- CF1722B - Colourblindness
+- CF1872A - Two Vessels
+- CF1907B - YetnotherrokenKeoard
+- CF1915A - Odd One Out
+- CF1915B - Not Quite Latin Square
+- CF1915C - Can I Square?
+- CF1915D - Unnatural Language Processing
+- CF1941A - Rudolf and the Ticket
+- CF1945A - Setting up Camp
+- CF1950A - Stair, Peak, or Neither?
+- CF1950B - Upscaling
+- CF1950C - Clock Conversion
+- CF1955A - Yogurt Sale
+- CF1969A - Two Friends
+- CF1971A - My First Sorting Problem
+- CF1971B - Different String
+- CF1976A - Verify Password
+- CF1980A - Problem Generator
+- CF1985A - Creating Words
+- CF1985B - Maximum Multiple Sum
+- CF1996B - Scale
+- CF1999A - A+B Again?
+- CF1999B - Card Game
+- CF2000A - Primary Task
+- CF2000B - Seating in a Bus
+- CF2009A - Minimize!
+- CF2009B - osu!mania
+- CF2010A - Alternating Sum of Numbers
+- CF2010B - Three Brothers
+- CF2010C1 - Message Transmission Error (easy version)
+- CF2014A - Robin Helps
+- CF2028A - Alice's Adventures in "Chess"
+- CF2033A - Sakurako and Kosuke
+- CF2036A - Quintomania
+- CF2037A - Twice
+- CF2038J - Waiting for...
+- CF2038N - Fixing the Expression
+- CF2041A - The Bento Box Adventure
+- CF2044A - Easy Problem
+- CF2044B - Normal Problem
+- CF2050A - Line Breaks
+- CF2091A - Olympiad Date
+- CF20A - BerOS file system
+- CF231A - Team
+- CF236A - Boy or Girl
+- CF245A - System Administrator
+- CF25B - Phone numbers
+- CF265A - Colorful Stones (Simplified Edition)
+- CF271A - Beautiful Year
+- CF282A - Bit++
+- CF294A - Shaass and Oskols
+- CF29A - Spit Problem
+- CF318A - Even Odds
+- CF32B - Borze
+- CF344A - Magnets
+- CF36A - Extra-terrestrial Intelligence
+- CF41A - Translation
+- CF43A - Football
+- CF43B - Letter
+- CF454A - Little Pony and Crystal Mine
+- CF492A - Vanya and Cubes
+- CF49A - Sleuth
+- CF519A - A and B and Chess
+- CF520A - Pangram
+- CF53A - Autocomplete
+- CF55A - Flea travel
+- CF570A - Elections
+- CF580A - Kefa and First Steps
+- CF58A - Chat room
+- CF59A - Word
+- CF59B - Fortune Telling
+- CF5A - Chat Server's Outgoing Traffic
+- CF609A - USB Flash Drives
+- CF61A - Ultra-Fast Mathematician
+- CF651A - Joysticks
+- CF677A - Vanya and Fence
+- CF703A - Mishka and Game
+- CF710A - King Moves
+- CF71A - Way Too Long Words
+- CF721A - One-dimensional Japanese Crossword
+- CF723A - The New Year: Meeting Friends
+- CF732A - Buy a Shovel
+- CF733A - Grasshopper And the String
+- CF758A - Holiday Of Equality
+- CF776A - A Serial Killer
+- CF78A - Haiku
+- CF791A - Bear and Big Brother
+- CF802G - Fake News (easy)
+- CF814A - An abandoned sentiment from past
+- CF834A - The Useless Toy
+- CF839A - Arya and Bran
+- CF863A - Quasi-palindrome
+- CF864A - Fair Game
+- CF864B - Polycarp and Letters
+- CF867A - Between the Offices
+- CF868A - Bark to Unlock
+- CF869A - The Artful Expedient
+- CF870A - Search for Pretty Integers
+- CF884A - Book Reading
+- CF888A - Local Extrema
+- CF897A - Scarborough Fair
+- CF898A - Rounding
+- CF899A - Splitting in Teams
+- CF903A - Hungry Student Problem
+- CF913A - Modular Exponentiation
+- CF914A - Perfect Squares
+- CF915A - Garden
+- CF92A - Chips
+- CF931A - Friends Meeting
+- CF939B - Hamster Farm
+- CF961A - Tetris
+- CF96A - Football
+- CF977A - Wrong Subtraction
+- CF984A - Game
+- CF988A - Diverse Team

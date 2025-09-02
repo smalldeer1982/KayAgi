@@ -1,0 +1,55 @@
+---
+title: "An Amazing Race"
+layout: "post"
+diff: 难度0
+pid: UVA11914
+tag: []
+---
+
+# An Amazing Race
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=229&page=show_problem&problem=3065
+
+[PDF](https://uva.onlinejudge.org/external/119/p11914.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11914/e8a45259b302bf8b08a8fe14cac892ce6f0f926a.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11914/9199e5b200c301557b79e6265c80097b2668c8b6.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11914/f673170087912867d706a213ec2875bbbe80a13d.png)
+
+## 样例 #1
+
+### 输入
+
+```
+15 15 2
+~~~~~~~~~~~~~~~
+~~###~~~~~#~~~~
+~##T###~#####~~
+~~############~
+~~###########~~
+~~###########~~
+~##B########~~~
+~#########A##~~
+~~###########~~
+~~##########~~~
+~##########~~~~
+~~###~S#####~~~
+~~~##~~####~~~~
+~~~~~~~~##~~~~~
+~~~~~~~~~~~~~~~
+```
+
+### 输出
+
+```
+EEEENNNNNWWWWWWWNNNN
+```
+

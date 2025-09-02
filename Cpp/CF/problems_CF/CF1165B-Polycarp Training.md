@@ -1,0 +1,79 @@
+---
+title: "Polycarp Training"
+layout: "post"
+diff: 普及-
+pid: CF1165B
+tag: []
+---
+
+# Polycarp Training
+
+## 题目描述
+
+Polycarp wants to train before another programming competition. During the first day of his training he should solve exactly $ 1 $ problem, during the second day — exactly $ 2 $ problems, during the third day — exactly $ 3 $ problems, and so on. During the $ k $ -th day he should solve $ k $ problems.
+
+Polycarp has a list of $ n $ contests, the $ i $ -th contest consists of $ a_i $ problems. During each day Polycarp has to choose exactly one of the contests he didn't solve yet and solve it. He solves exactly $ k $ problems from this contest. Other problems are discarded from it. If there are no contests consisting of at least $ k $ problems that Polycarp didn't solve yet during the $ k $ -th day, then Polycarp stops his training.
+
+How many days Polycarp can train if he chooses the contests optimally?
+
+## 输入格式
+
+The first line of the input contains one integer $ n $ ( $ 1 \le n \le 2 \cdot 10^5 $ ) — the number of contests.
+
+The second line of the input contains $ n $ integers $ a_1, a_2, \dots, a_n $ ( $ 1 \le a_i \le 2 \cdot 10^5 $ ) — the number of problems in the $ i $ -th contest.
+
+## 输出格式
+
+Print one integer — the maximum number of days Polycarp can train if he chooses the contests optimally.
+
+## 样例 #1
+
+### 输入
+
+```
+4
+3 1 4 1
+
+```
+
+### 输出
+
+```
+3
+
+```
+
+## 样例 #2
+
+### 输入
+
+```
+3
+1 1 1
+
+```
+
+### 输出
+
+```
+1
+
+```
+
+## 样例 #3
+
+### 输入
+
+```
+5
+1 1 1 2 2
+
+```
+
+### 输出
+
+```
+2
+
+```
+

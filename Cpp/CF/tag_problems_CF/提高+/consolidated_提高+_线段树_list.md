@@ -1,0 +1,65 @@
+# 题号列表
+
+- CF1000F - One Occurrence
+- CF1114F - Please, another Queries on Array?
+- CF115E - Linear Kingdom Races
+- CF1555E - Boring Segments
+- CF1609E - William The Oblivious
+- CF1641C - Anonymity Is Important
+- CF165D - Beard Graph
+- CF1690G - Count the Trains
+- CF1696D - Permutation Graph
+- CF1701F - Points
+- CF1705E - Mark and Professor Koro
+- CF1706D2 - Chopping Carrots (Hard Version)
+- CF1706E - Qpwoeirut and Vertices
+- CF1743F - Intersection and Union
+- CF1750E - Bracket Cost
+- CF1784C - Monsters (hard version)
+- CF1799D2 - Hot Start Up (hard version)
+- CF1858E1 - Rollbacks (Easy Version)
+- CF1905E - One-X
+- CF1906F - Maximize The Value
+- CF1916E - Happy Life in University
+- CF1919F1 - Wine Factory (Easy Version)
+- CF1924B - Space Harbour
+- CF1969E - Unique Array
+- CF1975E - Chain Queries
+- CF1976D - Invertible Bracket Sequences
+- CF1996G - Penacony
+- CF1997E - Level Up
+- CF1998E1 - Eliminating Balls With Merging (Easy Version)
+- CF2000H - Ksyusha and the Loaded Set
+- CF2009G2 - Yunli's Subarray Queries (hard version)
+- CF2018B - Speedbreaker
+- CF2018D - Max Plus Min Plus Size
+- CF2027D2 - The Endspeaker (Hard Version)
+- CF2030F - Orangutan Approved Subarrays
+- CF2042F - Two Subarrays
+- CF2046C - Adventurers
+- CF2053F - Earnest Matrix Complement
+- CF2065H - Bro Thinks He's Him
+- CF2070E - Game with Binary String
+- CF2101D - Mani and Segments
+- CF2117H - Incessant Rain
+- CF2121H - Ice Baby
+- CF343D - Water Tree
+- CF383C - Propagating tree
+- CF387E - George and Cards
+- CF413E - Maze 2D
+- CF438D - The Child and Sequence
+- CF446C - DZY Loves Fibonacci Numbers
+- CF474F - Ant colony
+- CF482B - Interesting Array
+- CF498D - Traffic Jams in the Land
+- CF558E - A Simple Task
+- CF620E - New Year Tree
+- CF703D - Mishka and Interesting sum
+- CF755D - PolandBall and Polygon
+- CF817F - MEX Queries
+- CF833B - The Bakery
+- CF85D - Sum of Medians
+- CF875D - High Cry
+- CF911G - Mass Change Queries
+- CF920F - SUM and REPLACE
+- CF981E - Addition on Segments

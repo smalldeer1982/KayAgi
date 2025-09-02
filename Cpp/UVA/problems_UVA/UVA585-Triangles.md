@@ -1,0 +1,54 @@
+---
+title: "Triangles"
+layout: "post"
+diff: 难度0
+pid: UVA585
+tag: []
+---
+
+# Triangles
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=526
+
+[PDF](https://uva.onlinejudge.org/external/5/p585.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA585/66a2f0a3a149197ef5e85e055dbf9a5c829d6820.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA585/3a46a3c22a2c032456bb43959343ecdc6c3d733d.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA585/faa4f31ad9d65295e72c5ed273d947641dd724eb.png)
+
+## 样例 #1
+
+### 输入
+
+```
+5
+#-##----#
+-----#-
+---#-
+-#-
+-
+4
+#-#-#--
+#---#
+##-
+-
+0
+```
+
+### 输出
+
+```
+Triangle #1
+The largest triangle area is 9.
+Triangle #2
+The largest triangle area is 4.
+```
+

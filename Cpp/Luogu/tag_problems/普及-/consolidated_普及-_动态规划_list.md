@@ -1,0 +1,68 @@
+# 题号列表
+
+- B3635 - 硬币问题
+- B3636 - 文字工作
+- B3637 - 最长上升子序列
+- B4089 - [CSP-X2020 山东] 勇敢的津津
+- B4133 - [信息与未来 2014] 最大连续部分和
+- P1002 - [NOIP 2002 普及组] 过河卒
+- P10108 - [GESP202312 六级] 闯关游戏
+- P10376 - [GESP202403 六级] 游戏
+- P1044 - [NOIP 2003 普及组] 栈
+- P1048 - [NOIP 2005 普及组] 采药
+- P1049 - [NOIP 2001 普及组] 装箱问题
+- P1060 - [NOIP 2006 普及组] 开心的金明
+- P10841 - 【MX-J2-T2】Turtle and Strings
+- P1115 - 最大子段和
+- P11200 - [JOIG 2024] 座席 2 / Seats 2
+- P11246 - [GESP202409 六级] 小杨和整数拆分
+- P11248 - [GESP202409 七级] 矩阵移动
+- P1130 - 红牌
+- P11377 - [GESP202412 七级] 武器购买
+- P1164 - 小A点菜
+- P1203 - [USACO1.1] 坏掉的项链 Broken Necklace
+- P1216 - [IOI 1994] 数字三角形 Number Triangles
+- P12175 - [蓝桥杯 2025 省 Python B] 园艺
+- P12207 - [蓝桥杯 2023 国 Python B] 划分
+- P12379 - [蓝桥杯 2023 省 Python B] 松散子序列
+- P1244 - [NOI2000] 青蛙过河
+- P12613 - [CCC 2025 Junior]  Connecting Territories
+- P12889 - [蓝桥杯 2025 国 Java B] 情绪链路
+- P13015 - [GESP202506 六级] 学习小组
+- P13517 - [KOI 2025 #2] 障碍物
+- P1359 - 租用游艇
+- P1387 - 最大正方形
+- P1507 - NASA的食物计划
+- P1569 - Generic Cow Protests
+- P1616 - 疯狂的采药
+- P1679 - 神奇的四次方数
+- P1719 - 最大加权矩形
+- P1734 - 最大约数和
+- P1757 - 通天之分组背包
+- P1796 - 汤姆斯的天堂梦
+- P1802 - 5 倍经验日
+- P1832 - A+B Problem（再升级）
+- P1855 - 榨取kkksc03
+- P1877 - [HAOI2012] 音量调节
+- P1910 - L 国的战斗之间谍
+- P1926 - 小书童——刷题大军
+- P1964 - 【mc生存】卖东西
+- P1968 - 美元汇率
+- P2008 - 大朋友的数字
+- P2347 - [NOIP 1996 提高组] 砝码称重
+- P2362 - 围栏木桩
+- P2430 - 严酷的训练
+- P2639 - [USACO09OCT] Bessie's Weight Problem G
+- P2663 - 越越的组队
+- P2722 - [USACO3.1] 总分 Score Inflation
+- P2800 - 又上锁妖塔
+- P2837 - [USACO08FEB] Dining Cows B
+- P2871 - [USACO07DEC] Charm Bracelet S
+- P2925 - [USACO08DEC] Hay For Sale S
+- P3009 - [USACO11JAN] Profits S
+- P5146 - 最大差值
+- P7158 - 「dWoi R1」Password of Shady
+- P7774 - [COCI 2009/2010 #2] KUTEVI
+- P8395 - [CCC 2022 S1]  Good Fours and Good Fives
+- P8707 - [蓝桥杯 2020 省 AB1] 走方格
+- P8742 - [蓝桥杯 2021 省 AB] 砝码称重

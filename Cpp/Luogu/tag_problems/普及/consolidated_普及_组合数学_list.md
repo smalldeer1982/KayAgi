@@ -1,0 +1,27 @@
+# 题号列表
+
+- P10112 - [GESP202312 八级] 奖品分配
+- P11250 - [GESP202409 八级] 手套配对
+- P11380 - [GESP202412 八级] 排队
+- P11681 - [Algo Beat Contest 001 C] Creating a Queue
+- P12137 - [蓝桥杯 2025 省 B] 装修报价
+- P12369 - [蓝桥杯 2022 省 Python B] 全排列的价值
+- P12840 - [蓝桥杯 2025 国 A] OCR 校正
+- P12886 - [蓝桥杯 2025 国 Java B] 分配房子
+- P13017 - [GESP202506 七级] 线图
+- P13291 - [GCJ 2013 #1C] Consonants
+- P13460 - [GCJ 2008 #1B] Crop Triangles
+- P1350 - 车的放置
+- P13561 - 「WWOI R1」WsW 的笔
+- P1806 - 跑步
+- P2181 - 对角线
+- P2822 - [NOIP 2016 提高组] 组合数问题
+- P3197 - [HNOI2008] 越狱
+- P3414 - SAC#1 - 组合数
+- P3799 - 小 Y 拼木棒
+- P4981 - 父子
+- P5520 - [yLOI2019] 青原樱
+- P6191 - [USACO09FEB] Bulls And Cows S
+- P7900 - [COCI 2006/2007 #2] SJECIŠTA
+- P8557 - 炼金术（Alchemy）
+- P8762 - [蓝桥杯 2021 国 ABC] 123

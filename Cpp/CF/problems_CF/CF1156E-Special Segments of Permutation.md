@@ -1,0 +1,66 @@
+---
+title: "Special Segments of Permutation"
+layout: "post"
+diff: 提高+/省选-
+pid: CF1156E
+tag: []
+---
+
+# Special Segments of Permutation
+
+## 题目描述
+
+You are given a permutation $ p $ of $ n $ integers $ 1 $ , $ 2 $ , ..., $ n $ (a permutation is an array where each element from $ 1 $ to $ n $ occurs exactly once).
+
+Let's call some subsegment $ p[l, r] $ of this permutation special if $ p_l + p_r = \max \limits_{i = l}^{r} p_i $ . Please calculate the number of special subsegments.
+
+## 输入格式
+
+The first line contains one integer $ n $ ( $ 3 \le n \le 2 \cdot 10^5 $ ).
+
+The second line contains $ n $ integers $ p_1 $ , $ p_2 $ , ..., $ p_n $ ( $ 1 \le p_i \le n $ ). All these integers are pairwise distinct.
+
+## 输出格式
+
+Print the number of special subsegments of the given permutation.
+
+## 说明/提示
+
+Special subsegments in the first example are $ [1, 5] $ and $ [1, 3] $ .
+
+The only special subsegment in the second example is $ [1, 3] $ .
+
+## 样例 #1
+
+### 输入
+
+```
+5
+3 4 1 5 2
+
+```
+
+### 输出
+
+```
+2
+
+```
+
+## 样例 #2
+
+### 输入
+
+```
+3
+1 3 2
+
+```
+
+### 输出
+
+```
+1
+
+```
+

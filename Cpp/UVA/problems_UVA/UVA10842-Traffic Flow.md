@@ -1,0 +1,51 @@
+---
+title: "Traffic Flow"
+layout: "post"
+diff: 难度0
+pid: UVA10842
+tag: []
+---
+
+# Traffic Flow
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=20&page=show_problem&problem=1783
+
+[PDF](https://uva.onlinejudge.org/external/108/p10842.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10842/f70104c28f72da2be240fbc9a9712f2251514431.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10842/76f7bcde300ea66c79f4fb7ad557b21fd94b6838.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10842/cc5cf724013c5f8a5af9c45256b0491d2335ad3f.png)
+
+## 样例 #1
+
+### 输入
+
+```
+2
+2 3
+0 1 10
+0 1 20
+0 0 30
+4 5
+0 1 1
+3 1 2
+1 2 3
+2 3 4
+0 2 5
+```
+
+### 输出
+
+```
+Case #1: 20
+Case #2: 3
+```
+

@@ -1,0 +1,31 @@
+# 题号列表
+
+- CF1000C - Covered Points Count
+- CF1019A - Elections
+- CF1027C - Minimum Value Rectangle
+- CF1037D - Valid BFS?
+- CF1060D - Social Circles
+- CF1928B - Equalize
+- CF1931F - Chat Screenshots
+- CF19A - World Football Cup
+- CF2023A - Concatenation of Arrays
+- CF2038C - DIY
+- CF2044G1 - Medium Demon Problem (easy version)
+- CF2051E - Best Price
+- CF2065D - Skibidus and Sigma
+- CF2097A - Sports Betting
+- CF2098B - Sasha and the Apartment Purchase
+- CF2103C - Median Splits
+- CF234E - Champions' League
+- CF379C - New Year Ratings Change
+- CF413C - Jeopardy!
+- CF53D - Physical Education
+- CF605A - Sorting Railway Cars
+- CF778A - String Game
+- CF787A - The Monster
+- CF853A - Planning
+- CF910C - Minimum Sum
+- CF919D - Substring
+- CF962D - Merge Equals
+- CF976C - Nested Segments
+- CF978G - Petya's Exams

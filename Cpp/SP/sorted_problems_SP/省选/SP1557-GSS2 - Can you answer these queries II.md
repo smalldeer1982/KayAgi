@@ -1,0 +1,54 @@
+---
+title: "GSS2 - Can you answer these queries II"
+layout: "post"
+diff: 省选/NOI-
+pid: SP1557
+tag: ['线段树', '排序']
+---
+
+# GSS2 - Can you answer these queries II
+
+## 题目描述
+
+Being a completist and a simplist, kid Yang Zhe cannot solve but get Wrong Answer from most of the OI problems. And he refuse to write two program of same kind at all. So he always failes in contests.
+
+When having a contest, Yang Zhe looks at the score of every problems first. For the problems of the same score, Yang Zhe will do only one of them. If he's lucky enough, he can get all the scores wanted.
+
+Amber is going to hold a contest in SPOJ. She has made a list of _N_ candidate problems, which fit Yang Zhe very well. So Yang Zhe can solve any problem he want. Amber lined up the problems, began to select. She will select a subsequence of the list as the final problems. Being A girl of great compassion, she'd like to select such a subsequence (can be empty) that Yang Zhe will get the maximal score over all the possible subsequences.
+
+Amber found the subsequence easily after a few minutes. To make things harder, Amber decided that, Yang Zhe can take this contest only if Yang Zhe can answer her _Q_ questions. The question is: if the final problems are limited to be a subsequence of _list_\[_X_.._Y_\] (1 <= _X_ <= _Y_ <= N), what's the maximal possible score Yang Zhe can get?
+
+As we know, Yang Zhe is a bit idiot (so why did he solve the problem with a negative score?), he got Wrong Answer again... Tell him the correct answer!
+
+## 输入格式
+
+- Line 1: integer _N_ (1 <= _N_ <= 100000);
+- Line 2: _N_ integers denoting the score of each problem, each of them is a integer in range \[-100000, 100000\];
+- Line 3: integer _Q_ (1 <= _Q_ <= 100000);
+- Line 3+_i_ (1 <= _i_ <= _Q_): two integers _X_ and _Y_ denoting the _i_th question.
+
+## 输出格式
+
+- Line _i_: a single integer, the answer to the _i_th question.
+
+## 样例 #1
+
+### 输入
+
+```
+9
+4 -2 -2 3 -1 -4 2 2 -6
+3
+1 2
+1 5
+4 9
+```
+
+### 输出
+
+```
+4
+5
+3
+```
+

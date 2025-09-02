@@ -1,0 +1,40 @@
+# 题号列表
+
+- B4153 - [厦门小学生 C++ 2022] 序列问题
+- B4161 - [BCSP-X 2024 12 月小学高年级组] 操作序列
+- B4338 - [中山市赛 2023] 组合数问题
+- B4339 - [中山市赛 2023] 树的改造
+- P10127 - 「Daily OI Round 3」Tower
+- P10374 - [AHOI2024 初中组] 操作
+- P10412 - 「QFOI R2」钟声远带斜阳
+- P10837 - 『FLA - I』云音泛
+- P11453 - [USACO24DEC] Deforestation S
+- P11894 - 「LAOI-9」Update
+- P11967 - [GESP202503 八级] 割裂
+- P1260 - 工程规划
+- P12877 - [蓝桥杯 2025 国 Python A] 心意
+- P12976 - 受力分析 Force
+- P1438 - 无聊的数列
+- P1993 - 小 K 的农场
+- P2294 - [HNOI2005] 狡猾的商人
+- P3128 - [USACO15DEC] Max Flow P
+- P3258 - [JLOI2014] 松鼠的新家
+- P4231 - 三步必杀
+- P4552 - [Poetize6] IncDec Sequence
+- P4623 - [COCI 2012/2013 #6] BUREK
+- P4868 - Preprefix sum
+- P4878 - [USACO05DEC] Layout G
+- P4939 - Agent2
+- P5026 - Lycanthropy
+- P5960 - 【模板】差分约束
+- P6070 - 『MdOI R1』Decrease
+- P6627 - [省选联考 2020 B 卷] 幸运数字
+- P6824 - 「EZEC-4」可乐
+- P6869 - [COCI 2019/2020 #5] Putovanje
+- P7871 - 「Wdoi-4」芙兰？姆Q！贤者与谜题
+- P8008 - 「Wdsr-3」迷途竹林
+- P8228 - 「Wdoi-5」模块化核熔炉
+- P8666 - [蓝桥杯 2018 省 A] 三体攻击
+- P8812 - [蓝桥杯 2022 国 C] 打折
+- P8875 - [传智杯 #5 初赛] G-二人的花纹纸游戏
+- P8929 - 「TERRA-OI R1」别得意，小子

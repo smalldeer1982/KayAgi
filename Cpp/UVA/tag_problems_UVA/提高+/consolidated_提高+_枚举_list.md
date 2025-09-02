@@ -1,0 +1,23 @@
+# 题号列表
+
+- UVA10125 - Sumsets
+- UVA10212 - The Last Non-zero Digit.
+- UVA1025 - 城市里的间谍 A Spy in the Metro
+- UVA10385 - Duathlon
+- UVA10791 - 最小公倍数的最小和 Minimum Sum LCM
+- UVA10944 - Nuts for nuts..
+- UVA11105 - H-半素数 Semi-prime H-numbers
+- UVA11374 - Airport Express
+- UVA11400 - 照明系统设计 Lighting System Design
+- UVA11424 - GCD - Extreme (I)
+- UVA11426 - 拿行李（极限版） GCD - Extreme (II)
+- UVA11464 - Even Parity
+- UVA11800 - Determine the Shape
+- UVA1218 - 完美的服务 Perfect Service
+- UVA1326 - Jurassic Remains
+- UVA1555 - Garland
+- UVA1619 - 感觉不错 Feel Good
+- UVA1629 - 切蛋糕 Cake slicing
+- UVA378 - Intersecting Lines
+- UVA529 - Addition Chains
+- UVA756 - Biorhythms

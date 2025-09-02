@@ -1,0 +1,59 @@
+# 题号列表
+
+- P10323 - 理性（Rationality）
+- P10868 - [HBCPC2024] Points on the Number Axis B
+- P10879 - 「KDOI-07」对树链剖分的爱
+- P12293 - [蓝桥杯 2024 国 Java A] 合并小球
+- P12983 - [GCJ 2022 Qualification] Twisty Little Passages
+- P13028 - [GCJ 2021 #1A] Hacked Exam
+- P13301 - [GCJ 2013 #3] Observation Wheel
+- P13791 - 「CZOI-R6」抽奖
+- P2081 - [NOI2012] 迷失游乐园
+- P2473 - [SCOI2008] 奖励关
+- P3211 - [HNOI2011] XOR和路径
+- P3232 - [HNOI2013] 游走
+- P3239 - [HNOI2015] 亚瑟王
+- P3317 - [SDOI2014] 重建
+- P3412 - 仓鼠找sugar II
+- P3750 - [六省联考 2017] 分手是祝愿
+- P3830 - [SHOI2012] 随机树
+- P3922 - 中学数学题
+- P3978 - [TJOI2015] 概率论
+- P3995 - 树链剖分
+- P4007 - 小 Y 和恐怖的奴隶主
+- P4230 - 连环病原体
+- P4284 - [SHOI2014] 概率充电器
+- P4321 - 随机漫游
+- P4561 - [JXOI2018] 排序问题
+- P4564 - [CTSC2018] 假面
+- P4637 - [SHOI2011] 扫雷机器人
+- P4852 - yyf hates choukapai
+- P4853 - yyf hates dagequ
+- P4982 - 规划
+- P4984 - 转换
+- P5155 - [USACO18DEC] Balance Beam P
+- P5437 - 【XR-2】约定
+- P5442 - 【XR-2】约定 (加强版)
+- P5516 - [MtOI2019] 小铃的烦恼
+- P5575 - [CmdOI2019] 黑白图
+- P5616 - [MtOI2019] 恶魔之树
+- P5883 - [CTSC2013] 没头脑和不高兴
+- P6030 - [SDOI2012] 走迷宫
+- P6036 - Ryoku 爱学习
+- P6048 - 最优性剪枝
+- P6054 - [RC-02] 开门大吉
+- P6375 - 「StOI-1」小Z的旅行
+- P6395 - 千年食谱颂
+- P6595 - [YsOI2020] 计划
+- P6708 - [CCC 2020] Josh's Double Bacon Deluxe
+- P7099 - [yLOI2020] 灼
+- P7105 - 「C.E.L.U-01」门禁
+- P7490 - 「Stoi2031」蒲公英的约定（vol.1）
+- P7491 - 「Stoi2031」蒲公英的约定（vol.2）
+- P7591 - 狩猎（2021 CoE-II D）
+- P7986 - [USACO21DEC] HILO P
+- P8558 - 黑暗（Darkness）
+- P8967 - 追寻 | Pursuit of Dream
+- P9379 - [THUPC 2023 决赛] 老虎机
+- P9398 - 「DBOI」Round 1 烟花
+- P9454 - [ZSHOI-R1] 巡城

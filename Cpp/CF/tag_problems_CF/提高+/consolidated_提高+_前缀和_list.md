@@ -1,0 +1,21 @@
+# 题号列表
+
+- CF1042E - Vasya and Magic Matrix
+- CF1066E - Binary Numbers AND Sum
+- CF1747D - Yet Another Problem
+- CF1766E - Decomposition
+- CF1780F - Three Chairs
+- CF1783E - Game of the Year
+- CF1919F1 - Wine Factory (Easy Version)
+- CF2004F - Make a Palindrome
+- CF2044H - Hard Demon Problem
+- CF2065H - Bro Thinks He's Him
+- CF2084E - Blossom
+- CF383E - Vowels
+- CF494B - Obsessive String
+- CF577B - Modulo Sum
+- CF57D - Journey
+- CF609D - Gadgets for dollars and pounds
+- CF650B - Image Preview
+- CF739B - Alyona and a tree
+- CF959E - Mahmoud and Ehab and the xor-MST

@@ -1,0 +1,32 @@
+# 题号列表
+
+- P10186 - [YDOI R1] Lattice
+- P10269 - 实力派
+- P10322 - 高洁（Purity）
+- P10636 - BZOJ3518 点组计数
+- P10663 - BZOJ4833 最小公倍佩尔数
+- P10670 - BZOJ4174 tty 的求助
+- P10808 - [LMXOI Round 2] Annihilation
+- P10855 - 【MX-X2-T4】「Cfz Round 4」Gcd with Xor
+- P11888 - 「Stoi2025」爱的飞行日记
+- P12522 - [Aboi Round 1] 限りなく灰色へ
+- P13208 - [GCJ 2016 Finals] Gallery of Pillars
+- P1829 - [国家集训队] Crash的数字表格 / JZPTAB
+- P2257 - YY的GCD
+- P3172 - [CQOI2015] 选数
+- P3312 - [SDOI2014] 数表
+- P3327 - [SDOI2015] 约数个数和
+- P3704 - [SDOI2017] 数字表格
+- P3768 - 简单的数学题
+- P3911 - 最小公倍数之和
+- P4152 - [WC2014] 时空穿梭
+- P4844 - LJJ爱数数
+- P5221 - Product
+- P6156 - 简单题
+- P6222 - 「P6156 简单题」加强版
+- P6271 - [湖北省队互测2014] 一个人的数论
+- P7360 - 「JZOI-1」红包
+- P7486 - 「Stoi2031」彩虹
+- P7496 - 干杯！再会！
+- P7575 - 「PMOI-3」公约数
+- P8058 - [BalkanOI 2003] Farey 序列

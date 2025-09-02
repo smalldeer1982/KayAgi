@@ -1,0 +1,198 @@
+# 题号列表
+
+- B2164 - 组合数问题
+- B3615 - 测测你的矩阵乘法
+- B3634 - 最大公约数和最小公倍数
+- B3754 - [信息与未来 2019] 鸡兔同笼
+- B3828 - [NICA #2] 优秀正整数
+- B3830 - [NICA #2] 回溯的雨
+- B3896 - [NICA #3] 搬砖
+- B4004 - [GESP202406 三级] 寻找倍数
+- B4015 - [语言月赛 202407] accomplishment
+- B4134 - [信息与未来 2014] 关灯
+- B4184 - [中山市赛 2024] 除法运算
+- B4196 - [海淀区小学组 2023] 赛车游戏
+- B4203 - [常州市赛 2021] 鸡羊同栏
+- B4216 - [常州市赛 2023] 矩形纸片
+- B4238 - [海淀区小学组 2025] 分数方程
+- B4256 - [科大国创杯小学组 2023] 阶
+- B4269 - [朝阳区小学组 2019] square
+- B4349 - [信息与未来 2025] 坐标变换
+- P10030 - 「Cfz Round 3」Change
+- P1009 - [NOIP 1998 普及组] 阶乘之和
+- P10094 - [ROIR 2023] 矩形分割 (Day 1)
+- P10098 - [ROIR 2023] 地铁建设 (Day 2)
+- P1010 - [NOIP 1998 普及组] 幂次方
+- P1011 - [NOIP 1998 提高组] 车站
+- P10131 - [USACO24JAN] Majority Opinion B
+- P1017 - [NOIP 2000 提高组] 进制转换
+- P10183 - [YDOI R1] Running
+- P10187 - [USACO24FEB] Palindrome Game B
+- P1024 - [NOIP 2001 提高组] 一元三次方程求解
+- P10245 - Swimming Pool
+- P1029 - [NOIP 2001 普及组] 最大公约数和最小公倍数问题
+- P10306 - 「Cfz Round 2」How to Prove
+- P10373 - [AHOI2024 初中组] 立方根
+- P10410 - 「QFOI R2」寺秋山霭苍苍
+- P10423 - [蓝桥杯 2024 省 B] 填空问题
+- P1044 - [NOIP 2003 普及组] 栈
+- P10567 - 「Daily OI Round 4」Square
+- P10570 - [JRKSJ R8] 网球
+- P1062 - [NOIP 2006 普及组] 数列
+- P1067 - [NOIP 2009 普及组] 多项式输出
+- P10709 - [NOISG 2024 Prelim] Party
+- P10728 - [NOISG 2023 Qualification] Swords
+- P1075 - [NOIP 2012 普及组] 质因数分解
+- P10781 - 【MX-J1-T1】『FLA - III』Spectral
+- P10782 - 【MX-J1-T2】『FLA - III』Ilumina
+- P10835 - 『FLA - I』冲云霄
+- P10852 - 【MX-X2-T1】「Cfz Round 4」Awaken
+- P10858 - [HBCPC2024] Long Live
+- P1088 - [NOIP 2004 普及组] 火星人
+- P10898 - [蓝桥杯 2024 省 C] 拼正方形
+- P10900 - [蓝桥杯 2024 省 C] 数字诗意
+- P1093 - [NOIP 2007 普及组] 奖学金
+- P1100 - 高低位交换
+- P1102 - A-B 数对
+- P11029 - 『DABOI Round 1』A Simple Problem
+- P11121 - [ROIR 2024] 双调序列 (Day 1)
+- P11129 - 【MX-X5-T1】「GFOI Round 1」Inverted World
+- P11156 - 【MX-X6-T2】もしも
+- P11242 - 碧树
+- P1143 - 进制转换
+- P1146 - 硬币翻转
+- P1147 - 连续自然数和
+- P11485 - 「Cfz Round 5」Non-breath Oblige
+- P1163 - 银行贷款
+- P11637 - Mod
+- P1170 - 兔八哥与猎人
+- P11747 - 「TPOI-1A」鞋子特大号
+- P11768 - 破自行车
+- P11797 - 【MX-X9-T1】『GROI-R3』Another Me
+- P1202 - [USACO1.1] 黑色星期五Friday the Thirteenth
+- P12036 - [USTCPC 2025] 摩拉
+- P12122 - [蓝桥杯 2024 省 B 第二场] 逆序对期望
+- P12132 - [蓝桥杯 2025 省 B] 可分解的正整数
+- P12134 - [蓝桥杯 2025 省 B] 画展布置
+- P1218 - [USACO1.5] 特殊的质数肋骨 Superprime Rib
+- P12216 - [蓝桥杯 2023 国 Java B] 互质
+- P12252 - [蓝桥杯 2024 国 Java B] 七边形
+- P1226 - 【模板】快速幂
+- P12276 - [蓝桥杯 2024 国 Python A/Java A] 汉字田
+- P12323 - [蓝桥杯 2023 省 Java B] 阶乘求和
+- P12326 - [蓝桥杯 2023 省 Java B] 矩形总面积
+- P12338 - [蓝桥杯 2025 省 B/Python B 第二场] 脉冲强度之和
+- P12351 - 「HCOI-R2」哀之距
+- P12404 - 「CZOI-R3」可爱棉羊
+- P1258 - 小车问题
+- P12647 - [KOI 2024 Round 2] 寻宝游戏
+- P12711 - [KOI 2021 Round 1] 棒球赛季
+- P12869 - [蓝桥杯 2025 国 Python A] 特殊整数对的数量
+- P12879 - [蓝桥杯 2025 国 C] 打破规则
+- P1288 - 取数游戏 II
+- P12885 - [蓝桥杯 2025 国 Java B] 农场监控
+- P12888 - [蓝桥杯 2025 国 Java B] 钟楼管理员
+- P12892 - [蓝桥杯 2025 国 Java B] 弹跳鞋
+- P1293 - 班级聚会
+- P12980 - [GCJ 2022 Qualification] 3D Printing
+- P13165 - [GCJ 2017 #1B] Steed 2: Cruise Control
+- P13278 - 「CZOI-R4」PVP
+- P13387 - [GCJ 2010 Qualification] Snapper Chain
+- P13420 - [COCI 2012/2013 #6] SUME
+- P13421 - [COCI 2012/2013 #6] DOBRI
+- P13457 - [GCJ 2008 #1A] Minimum Scalar Product
+- P1348 - Couple number
+- P13492 - 【MX-X14-T2】反转时光
+- P13498 - 「Cfz Round 6」Yumemi
+- P1358 - 扑克牌
+- P13581 - [NWRRC 2023] Axis-Aligned Area
+- P13678 - [GCPC 2023] Mischievous Math
+- P13679 - [IAMOI R2] 传奇模数
+- P1372 - 又是毕业季I
+- P13752 - 【MX-X17-T1】Walk,Walk,Walk
+- P13822 - 「Diligent-OI R2 B」白露为霜
+- P13830 - 【MX-X18-T2】「FAOI-R6」二进制与一 III（bit）
+- P1403 - [AHOI2005] 约数研究
+- P1458 - [USACO2.1] 顺序的分数 Ordered Fractions
+- P1469 - 找筷子
+- P1497 - 木牛流马
+- P1579 - 哥德巴赫猜想（升级版）
+- P1589 - 泥泞路
+- P1591 - 阶乘数码
+- P1595 - 信封问题
+- P1604 - B进制星球
+- P1652 - 圆
+- P1679 - 神奇的四次方数
+- P1706 - 全排列问题
+- P1711 - [USACO18FEB] Taming the Herd B
+- P1755 - 斐波那契的拆分
+- P1832 - A+B Problem（再升级）
+- P1855 - 榨取kkksc03
+- P1866 - 编号
+- P1889 - 士兵站队
+- P2026 - 求一次函数解析式
+- P2043 - 质因子分解
+- P2067 - Cytus-Holyknight
+- P2118 - [NOIP 2014 普及组] 比例简化
+- P2241 - 统计方形（数据加强版）
+- P2368 - EXCEEDED WARNING B
+- P2415 - 集合求和
+- P2556 - [AHOI2002] 黑白图像压缩
+- P2640 - 神秘磁石
+- P2651 - 添加括号III
+- P2660 - zzc 种田
+- P3152 - 正整数序列
+- P3383 - 【模板】线性筛素数
+- P3912 - 素数个数
+- P3913 - 车的攻击
+- P3984 - 高兴的津津
+- P4057 - [Code+#1] 晨跑
+- P4122 - [USACO17DEC] Blocked Billboard B
+- P4942 - 小凯的数字
+- P5035 - 金坷垃
+- P5436 - 【XR-2】缘分
+- P5514 - [MtOI2019] 永夜的报应
+- P5657 - [CSP-S2019] 格雷码
+- P5834 - [USACO19DEC] MooBuzz S
+- P5990 - [PA 2015] Kieszonkowe
+- P6039 - 「ACOI2020」音速
+- P6068 - 『MdOI R1』GCD? GCD!
+- P6188 - [NOI Online #1 入门组] 文具订购
+- P6546 - [COCI 2010/2011 #2] PUŽ
+- P6746 - 『MdOI R3』Operations
+- P7127 - 「RdOI R1」一次函数(function)
+- P7157 - 「dWoi R1」Physics Problem
+- P7199 - [COCI 2019/2020 #1] Trol
+- P7354 - 「PMOI-1」立方骑士
+- P7441 - 「EZEC-7」Erinnerung
+- P7892 - 『JROI-3』田径
+- P7909 - [CSP-J 2021] 分糖果
+- P7993 - [USACO21DEC] Lonely Photo B
+- P8177 - 「EZEC-11」等差数列
+- P8267 - [USACO22OPEN] Counting Liars B
+- P8284 - 「DAOI R1」Concert
+- P8377 - [PFOI Round1] 暴龙的火锅
+- P8448 - [LSOT-1] 暴龙的土豆
+- P8468 - [Aya Round 1 C] 文文的构造游戏
+- P8469 - [Aya Round 1 D] 文文的数学游戏
+- P8507 - 毕业后
+- P8588 - 『JROI-8』雷雨天特别行动科
+- P8692 - [蓝桥杯 2019 国 C] 数正方形
+- P8825 - [传智杯 #3 初赛] 运气
+- P8918 - 『MdOI R5』Jump
+- P8925 - 「GMOI R1-T2」Light
+- P8928 - 「TERRA-OI R1」你不是神，但你的灵魂依然是我的盛宴
+- P9024 - [CCC 2021 S1] Crazy Fencing
+- P9204 - 不死「火鸟　−凤翼天翔−」
+- P9205 - 藤原「灭罪寺院伤」
+- P9227 - 异或积
+- P9355 - 「SiR-1」Checkmate
+- P9484 - 「LAOI-1」GCD
+- P9552 - 「CROI · R1」浣熊的小溪
+- P9586 - 「MXOI Round 2」游戏
+- P9652 - 『GROI-R2』 紫水晶
+- P9713 - 「QFOI R1」抱抱
+- P9741 - 「KDOI-06-J」翻转与反转
+- P9825 - [ICPC 2020 Shanghai R] Fibonacci
+- P9941 - [USACO21JAN] Even More Odd Photos B
+- P9945 - [USACO21FEB] Clockwise Fence B

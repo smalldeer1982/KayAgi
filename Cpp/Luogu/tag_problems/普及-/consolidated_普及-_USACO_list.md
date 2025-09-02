@@ -1,0 +1,115 @@
+# 题号列表
+
+- P10122 - [USACO18OPEN] Team Tic Tac Toe B
+- P10131 - [USACO24JAN] Majority Opinion B
+- P10132 - [USACO24JAN] Cannonball B
+- P10187 - [USACO24FEB] Palindrome Game B
+- P10189 - [USACO24FEB] Maximizing Productivity B
+- P11450 - [USACO24DEC] Farmer John's Cheese Block B
+- P11836 - [USACO25FEB] Reflection B
+- P11837 - [USACO25FEB] Making Mexes B
+- P1201 - [USACO1.1] 贪婪的送礼者Greedy Gift Givers
+- P1202 - [USACO1.1] 黑色星期五Friday the Thirteenth
+- P12022 - [USACO25OPEN] Hoof Paper Scissors Minus One B
+- P12023 - [USACO25OPEN] More Cow Photos B
+- P1203 - [USACO1.1] 坏掉的项链 Broken Necklace
+- P1204 - [USACO1.2] 挤牛奶Milking Cows
+- P1206 - [USACO1.2] 回文平方数 Palindromic Squares
+- P1207 - [USACO1.2] 双重回文数 Dual Palindromes
+- P1208 - [USACO1.3] 混合牛奶 Mixing Milk
+- P1211 - [USACO1.3] 牛式 Prime Cryptarithm
+- P1216 - [IOI 1994] 数字三角形 Number Triangles
+- P1217 - [USACO1.5] 回文质数 Prime Palindromes
+- P1218 - [USACO1.5] 特殊的质数肋骨 Superprime Rib
+- P1376 - [USACO05MAR] Yogurt factory 机器工厂
+- P1458 - [USACO2.1] 顺序的分数 Ordered Fractions
+- P1459 - [USACO2.1] 三值的排序 Sorting a Three-Valued Sequence
+- P1460 - [USACO2.1] 健康的荷斯坦奶牛 Healthy Holsteins
+- P1467 - [USACO2.2] 循环数 Runaround Numbers
+- P1569 - Generic Cow Protests
+- P1588 - [USACO07OPEN] Catch That Cow S
+- P1596 - [USACO10OCT] Lake Counting S
+- P1599 - 结算日
+- P1605 - 迷宫
+- P1676 - [USACO05FEB] Aggressive cows G
+- P1677 - [USACO18FEB] Hoofball B
+- P1693 - [USACO19FEB] Sleepy Cow Herding B
+- P1695 - [USACO19FEB] Measuring Traffic B
+- P1696 - [USACO18JAN] Blocked Billboard II B
+- P1698 - [USACO18JAN] Out of Place B
+- P1699 - [USACO19OPEN] Bucket Brigade B
+- P1700 - [USACO19OPEN] Milk Factory B
+- P1711 - [USACO18FEB] Taming the Herd B
+- P1824 - 进击的奶牛
+- P1827 - [USACO3.4] 美国血统 American Heritage
+- P2035 - [USACO08JAN] iCow B
+- P2616 - [USACO10JAN] Buying Feed, II S
+- P2639 - [USACO09OCT] Bessie's Weight Problem G
+- P2666 - [USACO07OCT] Bessie's Secret Pasture S
+- P2677 - [USACO07DEC] Bookshelf 2 B
+- P2693 - [USACO1.3] 号码锁 Combination Lock
+- P2694 - 接金币
+- P2722 - [USACO3.1] 总分 Score Inflation
+- P2837 - [USACO08FEB] Dining Cows B
+- P2871 - [USACO07DEC] Charm Bracelet S
+- P2873 - [USACO07DEC] Mud Puddles S
+- P2908 - [USACO08OPEN] Word Power S
+- P2909 - [USACO08OPEN] Cow Cars S
+- P2913 - [USACO08OCT] Wheel Rotation G
+- P2925 - [USACO08DEC] Hay For Sale S
+- P2945 - [USACO09MAR] Sand Castle S
+- P2952 - [USACO09OPEN] Cow Line S
+- P2957 - [USACO09OCT] Barn Echoes G
+- P2958 - [USACO09OCT] Papaya Jungle G
+- P2959 - [USACO09OCT] The Leisurely Stroll G
+- P2965 - [USACO09NOV] The Grand Farm-off S
+- P2969 - [USACO09DEC] Music Notes S
+- P2970 - [USACO09DEC] Selfish Grazing S
+- P2978 - [USACO10JAN] Tea Time S
+- P3009 - [USACO11JAN] Profits S
+- P3056 - [USACO12NOV] Clumsy Cows S
+- P3131 - [USACO16JAN] Subsequences Summing to Sevens S
+- P3184 - [USACO16DEC] Counting Haybales S
+- P3405 - [USACO16DEC] Cities and States S
+- P3612 - [USACO17JAN] Secret Cow Code S
+- P3650 - [USACO1.3] 滑雪课程设计Ski Course Design
+- P3669 - [USACO17OPEN] Paired Up S
+- P4122 - [USACO17DEC] Blocked Billboard B
+- P4379 - [USACO18OPEN] Lemonade Line S
+- P5116 - [USACO18DEC] Mixing Milk B
+- P5117 - [USACO18DEC] The Bucket List B
+- P5833 - [USACO19DEC] Livestock Lineup B
+- P5834 - [USACO19DEC] MooBuzz S
+- P6065 - [USACO05JAN] Sumsets S
+- P6180 - [USACO15DEC] Breed Counting S
+- P6183 - [USACO10MAR] The Rock Game S
+- P6184 - [USACO08OCT] Building A Fence G
+- P6200 - [USACO07OCT] Super Paintball G
+- P6244 - [USACO06OPEN] County Fair Events S
+- P7993 - [USACO21DEC] Lonely Photo B
+- P8091 - [USACO22JAN] Non-Transitive Dice B
+- P8184 - [USACO22FEB]  Photoshoot 2 B
+- P8185 - [USACO22FEB] Blocks B
+- P8267 - [USACO22OPEN] Counting Liars B
+- P8897 - [USACO22DEC] Cow College B
+- P9010 - [USACO23JAN] Leaders B
+- P9011 - [USACO23JAN] Air Cownditioning II B
+- P9012 - [USACO23JAN] Moo Operations B
+- P9015 - [USACO23JAN] Moo Route S
+- P9121 - [USACO23FEB] Hungry Cow B
+- P9122 - [USACO23FEB] Stamp Grid B
+- P9123 - [USACO23FEB] Watching Mooloo B
+- P9937 - [USACO21OPEN] Acowdemia I B
+- P9938 - [USACO21OPEN] Acowdemia II B
+- P9941 - [USACO21JAN] Even More Odd Photos B
+- P9942 - [USACO21JAN] Just Stalling B
+- P9943 - [USACO21FEB] Year of the Cow B
+- P9944 - [USACO21FEB] Comfortable Cows B
+- P9945 - [USACO21FEB] Clockwise Fence B
+- P9947 - [USACO20JAN] Photoshoot B
+- P9949 - [USACO20FEB] Triangles B
+- P9953 - [USACO20OPEN] Social Distancing II B
+- P9956 - [USACO20DEC] Daisy Chains B
+- P9958 - [USACO19JAN] Shell Game B
+- P9959 - [USACO19JAN] Sleepy Cow Sorting B
+- P9960 - [USACO19JAN] Guess the Animal B

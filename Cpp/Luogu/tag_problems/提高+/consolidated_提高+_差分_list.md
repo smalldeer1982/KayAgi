@@ -1,0 +1,30 @@
+# 题号列表
+
+- P10194 - [USACO24FEB] Milk Exchange G
+- P10266 - 高效清理
+- P10278 - [USACO24OPEN] Painting Fence Posts S
+- P10843 - 【MX-J2-T4】Turtle and Cycles
+- P11373 - 「CZOI-R2」天平
+- P12088 - [RMI 2019] 还原 / Restore Arrays
+- P12348 - [蓝桥杯 2025 省 A 第二场] 交互
+- P12498 - Range | Sum | Maximum
+- P13229 - [GCJ 2015 #3] Smoothing Window
+- P13562 - 「WWOI R1」WsW 的田地
+- P3066 - [USACO12DEC] Running Away From the Barn G
+- P3275 - [SCOI2011] 糖果
+- P3620 - [APIO/CTSC2007] 数据备份
+- P3664 - [USACO17OPEN] Modern Art P
+- P4264 - [USACO18FEB] Teleportation S
+- P4514 - 上帝造题的七分钟
+- P5268 - [SNOI2017] 一个简单的询问
+- P6042 - 「ACOI2020」学园祭
+- P6100 - [USACO19FEB] Painting the Barn G
+- P6308 - 「Wdsr-1」笨蛋结构
+- P6572 - [BalticOI 2017] Railway
+- P6594 - [YsOI2020] 换寝室
+- P7705 - 「Wdsr-2.7」天才⑨与数学递推式
+- P7768 - 「CGOI-1」收税
+- P7924 - 「EVOI-RD2」旅行家
+- P8201 - [传智杯 #4 决赛] [yLOI2021] 生活在树上（hard version）
+- P8502 - 「CGOI-2」No cost too great
+- P9403 - [POI 2020/2021 R3] Les Bitérables

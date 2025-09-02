@@ -1,0 +1,37 @@
+# 题号列表
+
+- CF1029A - Many Equal Substrings
+- CF1030D - Vasya and Triangle
+- CF1381A2 - Prefix Flip (Hard Version)
+- CF142B - Help General
+- CF1641B - Repetitions Decoding
+- CF1682C - LIS or Reverse LIS?
+- CF1682D - Circular Spanning Tree
+- CF1697D - Guess The String
+- CF1704D - Magical Array
+- CF1758D - Range = √Sum
+- CF1774D - Same Count One
+- CF1780D - Bit Guessing Game
+- CF1801A - The Very Beautiful Blanket
+- CF1922E - Increasing Subsequences
+- CF1945E - Binary Search
+- CF1948E - Clique Partition
+- CF1965B - Missing Subsequence Sum
+- CF1970B2 - Exact Neighbours (Medium)
+- CF2008G - Sakurako's Task
+- CF2022D1 - Asesino (Easy Version)
+- CF2029D - Cool Graph
+- CF2032D - Genokraken
+- CF2039D - Shohag Loves GCD
+- CF2040D - Non Prime Tree
+- CF2048E - Kevin and Bipartite Graph
+- CF2077B - Finding OR Sum
+- CF2084D - Arcology On Permafrost
+- CF2089A - Simple Permutation
+- CF2103D - Local Construction
+- CF2112D - Reachability and Tree
+- CF460D - Little Victor and Set
+- CF509C - Sums of Digits
+- CF527D - Clique Problem
+- CF613A - Peter and Snow Blower
+- CF7D - Palindrome Degree

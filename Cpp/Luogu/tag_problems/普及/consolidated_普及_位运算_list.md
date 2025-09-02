@@ -1,0 +1,27 @@
+# 题号列表
+
+- B3930 - [GESP202312 五级] 烹饪问题
+- B4372 - [GXPC-S 2025] 异或之力 / xor
+- P10307 - 「Cfz Round 2」Binary
+- P10480 - 可达性统计
+- P10797 - 「CZOI-R1」进制
+- P10853 - 【MX-X2-T2】「Cfz Round 4」Xor Counting
+- P11760 - [IAMOI R1] 智力检测
+- P11968 - 「ALFR Round 7」T1 二进制与一 II
+- P12137 - [蓝桥杯 2025 省 B] 装修报价
+- P12147 - 【MX-X11-T1】「蓬莱人形 Round 1」仅此而已，就已经足够了
+- P12177 - [蓝桥杯 2025 省 Python B] 异或和
+- P13247 - [GCJ 2014 #1A] Charging Chaos
+- P13363 - [GCJ 2011 Qualification] Candy Splitting
+- P13551 - ももいろの鍵
+- P13591 - [NWRRC 2023] Kitchen Timer
+- P1461 - [USACO2.1] 海明码 Hamming Codes
+- P1562 - 还是 N 皇后
+- P6599 - 「EZEC-2」异或
+- P7076 - [CSP-S2020] 动物园
+- P7794 - [COCI 2014/2015 #7] JANJE
+- P8438 - 极寒之地
+- P8826 - [传智杯 #3 初赛] 游戏（征集数据）
+- P9533 - [YsOI2023] 区间翻转区间异或和
+- P9612 - [CERC2019] Light Emitting Hindenburg
+- P9635 - 「yyOI R1」youyou 的异或

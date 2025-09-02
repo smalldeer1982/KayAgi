@@ -1,0 +1,128 @@
+# 题号列表
+
+- CF1005D - Polycarp and Div 3
+- CF1009B - Minimum Ternary String
+- CF1019A - Elections
+- CF1023C - Bracket Subsequence
+- CF1027C - Minimum Value Rectangle
+- CF1029C - Maximal Intersection
+- CF1041C - Coffee Break
+- CF1060D - Social Circles
+- CF1066D - Boxes Packing
+- CF1082B - Vova and Trophies
+- CF1089L - Lazyland
+- CF1342B - Binary Period
+- CF1409D - Decrease the Sum of Digits
+- CF1425A - Arena of Greed
+- CF1467B - Hills And Valleys
+- CF1561C - Deep Down Below
+- CF1593C - Save More Mice
+- CF1605C - Dominant Character
+- CF1617C - Paprika and Permutation
+- CF1627B - Not Sitting
+- CF1659B - Bit Flipping
+- CF1659C - Line Empire
+- CF1665B - Array Cloning Technique
+- CF1675E - Replace With the Previous, Minimize
+- CF1680C - Binary String
+- CF1696C - Fishingprince Plays With Array
+- CF1704C - Virus
+- CF1706C - Qpwoeirut And The City
+- CF1710A - Color the Picture
+- CF1712C - Sort Zero
+- CF1717C - Madoka and Formal Statement
+- CF1722D - Line
+- CF1750C - Complementary XOR
+- CF1764C - Doremy's City Construction
+- CF1767D - Playoff
+- CF1769C2 - Подкрутка II
+- CF1774B - Coloring
+- CF1793C - Dora and Search
+- CF1904D1 - Set To Max (Easy Version)
+- CF1909C - Heavy Intervals
+- CF1914E1 - Game with Marbles (Easy Version)
+- CF1914E2 - Game with Marbles (Hard Version)
+- CF1917C - Watering an Array
+- CF1919C - Grouping Increases
+- CF1922C - Closest Cities
+- CF1924A - Did We Get Everything Covered?
+- CF1930C - Lexicographically Largest
+- CF1931E - Anna and the Valentine's Day Gift
+- CF1932D - Card Game
+- CF1937B - Binary Path
+- CF1946B - Maximum Sum
+- CF1951C - Ticket Hoarding
+- CF1956C - Nene's Magical Matrix
+- CF1957B - A BIT of a Construction
+- CF1965A - Everything Nim
+- CF1968D - Permutation Game
+- CF1971G - XOUR
+- CF1974D - Ingenuity-2
+- CF1978D - Elections
+- CF1980C - Sofia and the Lost Operations
+- CF1986D - Mathematical Problem
+- CF1988C - Increasing Sequence with Fixed OR
+- CF1991C - Absolute Zero
+- CF1993C - Light Switches
+- CF1997D - Maximize the Root
+- CF1998B - Minimize Equal Sum Subarrays
+- CF2000D - Right Left Wrong
+- CF2000E - Photoshoot for Gorillas
+- CF2003C - Turtle and Good Pairs
+- CF2003D1 - Turtle and a MEX Problem (Easy Version)
+- CF2004D - Colored Portals
+- CF2008E - Alternating String
+- CF2013C - Password Cracking
+- CF2023A - Concatenation of Arrays
+- CF2026C - Action Figures
+- CF2030C - A TRUE Battle
+- CF2033E - Sakurako, Kosuke, and the Permutation
+- CF2037D - Sharky Surfing
+- CF2038A - Bonus Project
+- CF2038C - DIY
+- CF2042C - Competitive Fishing
+- CF2048C - Kevin and Binary Strings
+- CF2049B - pspspsps
+- CF2050D - Digital string maximization
+- CF2065C2 - Skibidus and Fanum Tax (hard version)
+- CF2070C - Limited Repainting
+- CF2072C - Creating Keys for StORages Has Become My Main Skill
+- CF2072D - For Wizards, the Exam Is Easy, but I Couldn't Handle It
+- CF2077A - Breach of Faith
+- CF2084C - You Soared Afar With Grace
+- CF2085C - Serval and The Formula
+- CF2091D - Place of the Olympiad
+- CF2094E - Boneca Ambalabu
+- CF2097A - Sports Betting
+- CF2103C - Median Splits
+- CF2104D - Array and GCD
+- CF2104E - Unpleasant Strings
+- CF2106D - Flower Boy
+- CF2107C - Maximum Subarray Sum
+- CF2107C - 最大子区间和
+- CF2108C - Neo's Escape
+- CF2113C - Smilo and Minecraft
+- CF2114E - Kirei Attacks the Estate
+- CF2117E - Lost Soul
+- CF2118C - Make It Beautiful
+- CF22C - System Administrator
+- CF353C - Find Maximum
+- CF383A - Milking cows
+- CF398A - Cards
+- CF413C - Jeopardy!
+- CF425A - Sereja and Swaps
+- CF500C - New Year Book Reading
+- CF545C - Woodcutters
+- CF718A - Efim and Strange Grade
+- CF735C - Tennis Championship
+- CF803A - Maximal Binary Matrix
+- CF853A - Planning
+- CF910C - Minimum Sum
+- CF913C - Party Lemonade
+- CF940B - Our Tanya is Crying Out Loud
+- CF960B - Minimize the error
+- CF978G - Petya's Exams
+- CF985C - Liebig's Barrels
+- CF986B - Petr and Permutations
+- CF991D - Bishwock
+- CF995B - Suit and Tie

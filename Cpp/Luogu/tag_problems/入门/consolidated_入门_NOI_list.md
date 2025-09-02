@@ -1,0 +1,23 @@
+# 题号列表
+
+- P1035 - [NOIP 2002 普及组] 级数求和
+- P1046 - [NOIP 2005 普及组] 陶陶摘苹果
+- P1047 - [NOIP 2005 普及组] 校门外的树
+- P10708 - [NOISG 2024 Prelim] Tourist
+- P10727 - [NOISG 2023 Qualification] Area
+- P10732 - [NOISG 2019 Prelim] Palindromic FizzBuzz
+- P1085 - [NOIP 2004 普及组] 不高兴的津津
+- P1089 - [NOIP 2004 提高组] 津津的储蓄计划
+- P1179 - [NOIP 2010 普及组] 数字统计
+- P12192 - [NOISG 2025 Prelim] Train Or Bus
+- P1307 - [NOIP 2011 普及组] 数字反转
+- P1548 - [NOIP 1997 普及组] 棋盘问题
+- P1765 - 手机
+- P1909 - [NOIP 2016 普及组] 买铅笔
+- P1980 - [NOIP 2013 普及组] 计数问题
+- P2669 - [NOIP 2015 普及组] 金币
+- P2670 - [NOIP 2015 普及组] 扫雷游戏
+- P3954 - [NOIP 2017 普及组] 成绩
+- P5015 - [NOIP 2018 普及组] 标题统计
+- P6565 - [NOI Online #3 入门组] 最急救助
+- P8254 - [NOI Online 2022 入门组] 王国比赛

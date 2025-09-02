@@ -1,0 +1,166 @@
+# 题号列表
+
+- B3624 - 猫粮规划
+- B3740 - [信息与未来 2018] 棋盘游戏
+- B3980 - [信息与未来 2024] 间谍卫星
+- B4016 - 树的直径
+- B4140 - [信息与未来 2016] 方格取数
+- B4141 - [信息与未来 2016] 素数分解
+- B4158 - [BCSP-X 2024 12 月小学高年级组] 质数补全
+- B4167 - 「GXPC-S 2024」扫雷
+- B4186 - [中山市赛 2024/科大国创杯小学组 2023] 六形棋/海克斯
+- B4206 - [常州市赛 2021] 数字翻转
+- B4214 - [常州市赛 2022] 迷宫探险
+- B4219 - [常州市赛 2023] 数学作业
+- B4279 - [蓝桥杯青少年组国赛 2023] 数独填数
+- P10050 - [CCO 2022] Alternating Heights
+- P10095 - [ROIR 2023] 斐波那契乘积 (Day 1)
+- P1019 - [NOIP 2000 提高组] 单词接龙
+- P10234 - [yLCPC2024] B. 找机厅
+- P1025 - [NOIP 2001 提高组] 数的划分
+- P1037 - [NOIP 2002 普及组] 产生数
+- P10379 - [GESP202403 七级] 俄罗斯方块
+- P10386 - [蓝桥杯 2024 省 A] 五子棋对弈
+- P10477 - Subway tree systems
+- P10490 - Missile Defence System
+- P10533 - [Opoi 2024] 热核武器
+- P11046 - [蓝桥杯 2024 省 Java B] 星际旅行
+- P1112 - 波浪数
+- P1118 - [USACO06FEB] Backward Digit Sums G/S
+- P1123 - 取数游戏
+- P1135 - 奇怪的电梯
+- P1141 - 01迷宫
+- P11683 - [Algo Beat Contest 001 E] Experiments on Collatz
+- P1180 - 驾车旅游
+- P11999 - 投入严厉地本地
+- P1205 - [USACO1.2] 方块转换 Transformations
+- P1209 - [USACO1.3] 修理牛棚 Barn Repair
+- P1210 - [USACO1.3] 最长的回文 Calf Flac
+- P1215 - [USACO1.4] 母亲的牛奶 Mother's Milk
+- P1219 - [USACO1.5] 八皇后 Checker Challenge
+- P12253 - [蓝桥杯 2024 国 Java B] 宝塔
+- P12270 - [蓝桥杯 2024 国 Python B] 马与象
+- P12317 - [蓝桥杯 2024 国 C] 树的结点值
+- P12322 - [蓝桥杯 2024 国 Java C] 瞬移
+- P1238 - 走迷宫
+- P12464 - 『FCRT / 1 - 1』Seats
+- P1256 - 显示图像
+- P12878 - [蓝桥杯 2025 国 C] 拔河
+- P1322 - logo语言
+- P1330 - 封锁阳光大学
+- P1332 - 血色先锋队
+- P13321 - [GCJ 2012 #1C] Diamond Inheritance
+- P13425 - [COCI 2020/2021 #1] Bajka
+- P1362 - 兔子数
+- P1364 - 医院设置
+- P1388 - 算式
+- P1434 - [SHOI2002] 滑雪
+- P1443 - 马的遍历
+- P1461 - [USACO2.1] 海明码 Hamming Codes
+- P1465 - [USACO2.2] 序言页码 Preface Numbering
+- P1473 - [USACO2.3] 零的数列 Zero Sum
+- P1475 - [USACO2.3] 控制公司 Controlling Companies
+- P1508 - Likecloud-吃、吃、吃
+- P1519 - [USACO2.4] 穿越栅栏 Overfencing
+- P1521 - 求逆序对
+- P1535 - [USACO08MAR] Cow Travelling S
+- P1544 - 三倍经验
+- P1562 - 还是 N 皇后
+- P1621 - 集合
+- P1632 - 点的移动
+- P1649 - [USACO07OCT] Obstacle Course S
+- P1656 - 炸铁路
+- P1665 - 正方形计数
+- P1671 - [USACO05FEB] Rigging the Bovine Election S
+- P1682 - 过家家
+- P1690 - 贪婪的Copy
+- P1692 - 部落卫队
+- P1735 - 字母迷宫
+- P1747 - 好奇怪的游戏
+- P1784 - 数独
+- P1807 - 最长路
+- P1825 - [USACO11OPEN] Corn Maze S
+- P1865 - A % B Problem
+- P1874 - 快速求和
+- P1883 - 【模板】三分 | 函数
+- P1959 - 遗址
+- P1988 - 火炬
+- P2037 - 电话号码
+- P2040 - 打开所有的灯
+- P2052 - [NOI2011] 道路修建
+- P2066 - 机器分配
+- P2080 - 增进感情
+- P2083 - 找人
+- P2105 - K皇后
+- P2128 - 赤壁之战
+- P2185 - 公路通行税
+- P2196 - [NOIP 1996 提高组] 挖地雷
+- P2199 - 最后的迷宫
+- P2203 - Blink
+- P2207 - Photo
+- P2296 - [NOIP 2014 提高组] 寻找道路
+- P2298 - Mzc和男家丁的游戏
+- P2383 - 狗哥玩木棒
+- P2390 - 地标访问
+- P2412 - 查单词
+- P2420 - 让我们异或吧
+- P2427 - Wave
+- P2436 - 钦定
+- P2580 - 于是他错误的点名开始了
+- P2655 - 2038年问题
+- P2690 - [USACO04NOV] Apple Catching G
+- P2725 - [USACO3.1] 邮票 Stamps
+- P2729 - [USACO3.2] 饲料调配 Feed Ratios
+- P2733 - [USACO3.3] 家的范围 Home on the Range
+- P2771 - [USACO16JAN] Build Gates S
+- P2781 - 传教
+- P2814 - 家谱
+- P2853 - [USACO06DEC] Cow Picnic S
+- P2895 - [USACO08FEB] Meteor Shower S
+- P2903 - [USACO08MAR] The Loathesome Hay Baler S
+- P3111 - [USACO14DEC] Cow Jog S
+- P3123 - [USACO15OPEN] Bessie Goes Moo S
+- P3139 - [USACO16FEB] Milk Pails S
+- P3183 - [HAOI2016] 食物链
+- P3252 - [JLOI2012] 树
+- P3395 - 路障
+- P3795 - 钟氏映射
+- P3848 - [TJOI2007] 跳棋
+- P3853 - [TJOI2007] 路标设置
+- P3864 - [USACO1.2] 命名那个数字 Name That Number
+- P3884 - [JLOI2009] 二叉树问题
+- P3915 - 树的分解
+- P3916 - 图的遍历
+- P3958 - [NOIP 2017 提高组] 奶酪
+- P4017 - 最大食物链计数
+- P4888 - 三去矩阵
+- P4907 - A换B problem
+- P5002 - 专心OI - 找祖先
+- P5118 - [USACO18DEC] Back and Forth B
+- P5145 - 漂浮的鸭子
+- P5194 - [USACO05DEC] Scales S
+- P5198 - [USACO19JAN] Icy Perimeter S
+- P5429 - [USACO19OPEN] Fence Planning S
+- P5440 - 【XR-2】奇迹
+- P5635 - 【CSGRound1】天下第一
+- P5697 - [CEOI 2018] toy
+- P6111 - [USACO18JAN] MooTube S
+- P6207 - [USACO06OCT] Cows on Skates G
+- P6591 - [YsOI2020] 植树
+- P6606 - [Code+#7] 最小路径串
+- P6691 - 选择题
+- P7228 - [COCI 2015/2016 #3] MOLEKULE
+- P7243 - 最大公约数
+- P7793 - [COCI 2014/2015 #7] ACM
+- P7965 - [COCI 2021/2022 #2] Kutije
+- P7995 - [USACO21DEC] Walking Home B
+- P8578 - [CoE R5] So What Do We Do Now?
+- P8673 - [蓝桥杯 2018 国 C] 迷宫与陷阱
+- P8838 - [传智杯 #3 决赛] 面试
+- P9014 - [USACO23JAN] Following Directions S
+- P9107 - [PA 2020] Wycieczka górska
+- P9243 - [蓝桥杯 2023 省 B] 岛屿个数
+- P9304 - 「DTOI-5」3-1
+- P9416 - [POI 2021/2022 R1] Domino
+- P9504 - 『MGOI』Simple Round I | C. 魔法禁林
+- P9700 - [GDCPC 2023] Peg Solitaire

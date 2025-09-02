@@ -1,0 +1,111 @@
+# 题号列表
+
+- CF1117D - Magic Gems
+- CF1132F - Clear the String
+- CF1149B - Three Religions
+- CF115E - Linear Kingdom Races
+- CF11D - A Simple Task
+- CF1234F - Yet Another Substring Reverse
+- CF1265E - Beautiful Mirrors
+- CF1327F - AND Segments
+- CF1455F - String and Operations
+- CF1515E - Phoenix and Computers
+- CF1582F2 - Korney Korneevich and XOR (hard version)
+- CF1585F - Non-equal Neighbours
+- CF1627E - Not Escaping
+- CF165E - Compatible Numbers
+- CF1667B - Optimal Partition
+- CF1675G - Sorting Pancakes
+- CF1701E - Text Editor
+- CF1718A1 - Burenka and Traditions (easy version)
+- CF1718A2 - Burenka and Traditions (hard version)
+- CF1743F - Intersection and Union
+- CF1746D - Paths on the Tree
+- CF1748E - Yet Another Array Counting Problem
+- CF1753C - Wish I Knew How to Sort
+- CF1766E - Decomposition
+- CF1767C - Count Binary Strings
+- CF1771E - Hossam and a Letter
+- CF1774E - Two Chess Pieces
+- CF178F3 - Representative Sampling
+- CF1799D1 - Hot Start Up (easy version)
+- CF1799D2 - Hot Start Up (hard version)
+- CF1801C - Music Festival
+- CF1801D - The way home
+- CF1806D - DSU Master
+- CF1858D - Trees and Segments
+- CF1906H - Twin Friends
+- CF1906J - Count BFS Graph
+- CF1913D - Array Collapse
+- CF1920E - Counting Binary Strings
+- CF1927G - Paint Charges
+- CF1928E - Modular Sequence
+- CF1930D2 - Sum over all Substrings (Hard Version)
+- CF1942D - Learning to Paint
+- CF1955H - The Most Reckless Defense
+- CF1956D - Nene and the Mex Operator
+- CF1984F - Reconstruction
+- CF1989E - Distance to Different
+- CF1993D - Med-imize
+- CF1994G - Minecraft
+- CF19B - Checkout Assistant
+- CF2002E - Cosmic Rays
+- CF2003E1 - Turtle and Inversions (Easy Version)
+- CF2003E2 - Turtle and Inversions (Hard Version)
+- CF2005E2 - Subtangle Game (Hard Version)
+- CF2018D - Max Plus Min Plus Size
+- CF2021E1 - Digital Village (Easy Version)
+- CF2021E2 - Digital Village (Hard Version)
+- CF2025E - Card Game
+- CF2027D2 - The Endspeaker (Hard Version)
+- CF2028F - Alice's Adventures in Addition
+- CF2030E - MEXimize the Score
+- CF2033G - Sakurako and Chefir
+- CF2034F1 - Khayyam's Royal Decree (Easy Version)
+- CF2035E - Monster
+- CF2038K - Grid Walk
+- CF2039E - Shohag Loves Inversions
+- CF2041H - Sheet Music
+- CF2042F - Two Subarrays
+- CF2043F - Nim
+- CF2045H - Missing Separators
+- CF2048F - Kevin and Math Class
+- CF2053F - Earnest Matrix Complement
+- CF2065H - Bro Thinks He's Him
+- CF2066C - Bitwise Slides
+- CF2066D1 - Club of Young Aircraft Builders (easy version)
+- CF2089C1 - Key of Like (Easy Version)
+- CF2091G - Gleb and Boating
+- CF2107F1 - Cycling (Easy Version)
+- CF2109E - Binary String Wowee
+- CF2112E - Tree Colorings
+- CF2121H - Ice Baby
+- CF232B - Table
+- CF254C - Anagram
+- CF296B - Yaroslav and Two Strings
+- CF337D - Book of Evil
+- CF340E - Iahub and Permutations
+- CF346B - Lucky Common Subsequence
+- CF346D - Robot Control
+- CF360B - Levko and Array
+- CF367E - Sereja and Intervals
+- CF369D - Valera and Fools
+- CF401D - Roman and Numbers
+- CF413D - 2048
+- CF425E - Sereja and Sets
+- CF484D - Kindergarten
+- CF486E - LIS of Sequence
+- CF507D - The Maths Lecture
+- CF509F - Progress Monitoring
+- CF514E - Darth Vader and Tree
+- CF559C - Gerald and Giant Chess
+- CF5E - Bindian Signalizing
+- CF621E - Wet Shark and Blocks
+- CF731E - Funny Game
+- CF754C - Vladik and chat
+- CF815C - Karen and Supermarket
+- CF833B - The Bakery
+- CF8C - Looking for Order
+- CF922E - Birds
+- CF940E - Cashback
+- CF983B - XOR-pyramid

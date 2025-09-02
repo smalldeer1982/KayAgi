@@ -1,0 +1,32 @@
+# 题号列表
+
+- CF1000C - Covered Points Count
+- CF1005D - Polycarp and Div 3
+- CF1006C - Three Parts of the Array
+- CF1016B - Segment Occurrences
+- CF1030C - Vasya and Golden Ticket
+- CF1041D - Glider
+- CF1425F - Flamingoes of Mystery
+- CF1722E - Counting Rectangles
+- CF18C - Stripe
+- CF1922C - Closest Cities
+- CF1923C - Find B
+- CF1978D - Elections
+- CF1996E - Decode
+- CF1999E - Triple Operations
+- CF2000E - Photoshoot for Gorillas
+- CF2008E - Alternating String
+- CF2009F - Firefly's Queries
+- CF2014D - Robert Hood and Mrs Hood
+- CF2033D - Kousuke's Assignment
+- CF2069C - Beautiful Sequence
+- CF2104D - Array and GCD
+- CF2113C - Smilo and Minecraft
+- CF383A - Milking cows
+- CF44C - Holidays
+- CF466C - Number of Ways
+- CF660C - Hard Process
+- CF814C - An impassioned circulation of affection
+- CF816B - Karen and Coffee
+- CF933A - A Twisty Movement
+- CF939C - Convenient For Everybody

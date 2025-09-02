@@ -1,0 +1,114 @@
+# 题号列表
+
+- P10010 - [集训队互测 2023] Grievous Lady
+- P10038 - 「FAOI-R2」Program of atom(x) 2027
+- P10197 - [USACO24FEB] Minimum Sum of Maximums P
+- P10656 - [ROI 2017] 学习轨迹 (Day 2)
+- P10881 - 「KDOI-07」能量场
+- P11270 - 【MX-S5-T4】魔法少女们
+- P11288 - [COTS 2017] 模板 Z1
+- P11331 - [NOISG 2022 Finals] Fruits
+- P11473 - 名字取好了吗
+- P11612 - [PA 2016] 台球 / Bilard Hilberta
+- P11613 - [PA 2016] 覆盖 / Pokrycia
+- P11824 - [湖北省选模拟 2025] 团队协作 / team
+- P11835 - [省选联考 2025] 封印
+- P12020 - CF1033F 加强版
+- P12074 - [OOI 2025] The arithmetic exercise
+- P12251 - [科大国创杯初中组 2025] 抽卡
+- P12264 - 『STA - R9』咏叹调调律
+- P12472 - [集训队互测 2024] 基础 ABC 练习题
+- P12477 - [集训队互测 2024] 无限地狱
+- P12483 - [集训队互测 2024] 人间应又雪
+- P12486 - [集训队互测 2024] 木桶效应
+- P12492 - [集训队互测 2024] 药水
+- P12495 - [集训队互测 2024] 链覆盖
+- P13042 - [GCJ 2021 #3] Binary Search Game
+- P13156 - [GCJ 2018 Finals] The Cartesian Job
+- P13157 - [GCJ 2018 Finals] Swordmaster
+- P13170 - [GCJ 2017 #1C] Core Training
+- P13178 - [GCJ 2017 #3] Slate Modern
+- P13184 - [GCJ 2017 Finals] Teleporters
+- P13210 - [GCJ 2016 Finals] Radioactive Islands
+- P13263 - [GCJ 2014 #3] Willow
+- P13268 - [GCJ 2014 Finals] Allergy Testing
+- P13306 - [GCJ 2013 Finals] Let Me Tell You a Story
+- P13327 - [GCJ 2012 #2] Descending in the Dark
+- P13336 - [GCJ 2012 Finals] Shifting Paths
+- P13411 - [GCJ 2010 Finals] Ninjutsu
+- P13526 - [KOI 2025 #2] 庆典
+- P13538 - [IOI 2025] Festival
+- P1721 - [NOI2016] 国王饮水记
+- P1753 - 矩阵链排序问题
+- P1924 - 贴海报
+- P1933 - [NOI2010] 旅行路线
+- P2145 - [JSOI2007] 祖玛
+- P2289 - [HNOI2004] 邮递员
+- P2304 - [NOI2015] 小园丁与老司机
+- P2612 - [ZJOI2012] 波浪
+- P2703 - [NOI2006] 千年虫
+- P3170 - [CQOI2015] 标识设计
+- P3179 - [HAOI2015] 数组游戏
+- P3190 - [HNOI2007] 神奇游乐园
+- P3290 - [SCOI2016] 围棋
+- P3336 - [ZJOI2013] 话旧
+- P3351 - [ZJOI2016] 电阻网络
+- P3581 - [POI 2015] CZA
+- P3600 - 随机数生成器
+- P3685 - [CERC2016] 不可见的整数 Invisible Integers
+- P3724 - [AHOI2017/HNOI2017] 大佬
+- P3798 - 辉夜姬的十道难题
+- P3881 - [JLOI2008] CODES
+- P3886 - [JLOI2009] 神秘的生物
+- P4365 - [九省联考 2018] 秘密袭击 coat
+- P4383 - [八省联考 2018] 林克卡特树
+- P4654 - [CEOI 2017] Mousetrap
+- P4827 - [集训队互测 2011] Crash 的文明世界
+- P4845 - LJJ 爱数树
+- P5075 - [JSOI2012] 分零食
+- P5244 - [USACO19FEB] Mowing Mischief P
+- P5347 - 【XR-1】俄罗斯方块
+- P5565 - [Celeste-B] Farewell to Mount Celeste
+- P5617 - [MtOI2019] 不可视境界线
+- P5642 - 人造情感（emotion）
+- P6073 - 『MdOI R1』Epic Convolution
+- P6385 - 『MdOI R2』Little Goth
+- P6455 - 不可视境界线[环版本]
+- P6596 - How Many of Them
+- P6690 - 一次函数
+- P6750 - 『MdOI R3』Pekka Bridge Spam
+- P6849 - [THUWC 2017] 大葱的神力
+- P7155 - [USACO20DEC] Spaceship P
+- P7156 - [USACO20DEC] Cowmistry P
+- P7289 - 「EZEC-5」「KrOI2021」Chasse Neige
+- P7292 - 「EZEC-5」「KrOI2021」Chasse Neige 加强版
+- P7293 - [USACO21JAN] Sum of Distances P
+- P7348 - 「MCOI-04」重型管制巡航机
+- P7418 - [USACO21FEB] Counting Graphs P
+- P7438 - 更简单的排列计数
+- P7439 - 「KrOI2021」Feux Follets 弱化版
+- P7440 - 「KrOI2021」Feux Follets
+- P7450 - [THUSC 2017] 巧克力
+- P7563 - [JOISC 2021] 最悪の記者 4 (Worst Reporter 4) (Day4)
+- P7564 - [JOISC 2021] ボディーガード (Day3)
+- P7650 - [BalticOI 2007] Ranklist Sorting (Day 1)
+- P7879 - 「SWTR-7」How to AK NOI?
+- P8011 - 「Wdsr-3」蓬莱药局（gene）
+- P8182 - 「EZEC-11」雪的魔法
+- P8194 - [USACO22FEB] Phone Numbers P
+- P8275 - [USACO22OPEN] 262144 Revisited P
+- P8334 - [ZJOI2022] 深搜
+- P8544 - 「Wdoi-2」禁断之门对面，是此世还是彼世
+- P8554 - 心跳
+- P8864 - 「KDOI-03」序列变换
+- P8978 - 「DTOI-4」中位数
+- P8984 - [北大集训 2021] 末日魔法少女计划
+- P9054 - [集训队互测 2022] 心跳排列图
+- P9151 - 计数题
+- P9197 - [JOI Open 2016] 摩天大楼
+- P9385 - [THUPC 2023 决赛] 阴阳阵
+- P9480 - [NOI2023] 深搜
+- P9536 - [YsOI2023] Prüfer 序列
+- P9657 - [ICPC 2021 Macao R] the Matching System
+- P9684 - Hello, Solitude.
+- P9983 - [USACO23DEC] Cowntact Tracing P

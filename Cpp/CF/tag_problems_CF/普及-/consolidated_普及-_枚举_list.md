@@ -1,0 +1,53 @@
+# 题号列表
+
+- CF1004A - Sonya and Hotels
+- CF1037A - Packets
+- CF1041A - Heist
+- CF1042B - Vitamins
+- CF1059B - Forgery
+- CF1073A - Diverse Substring
+- CF109A - Lucky Sum of Digits
+- CF1100A - Roman and Browser
+- CF1360D - Buying Shovels
+- CF1624C - Division by Two and Permutation
+- CF1681C - Double Sort
+- CF1906A - Easy As ABC
+- CF1914C - Quests
+- CF1917B - Erase First or Second Letter
+- CF1922B - Forming Triangles
+- CF1933C - Turtle Fingers: Count the Values of k
+- CF1971C - Clock and Strings
+- CF1985E - Secret Box
+- CF2039C1 - Shohag Loves XOR (Easy Version)
+- CF2090B - Pushing Balls
+- CF2094C - Brr Brrr Patapim
+- CF2112B - Shrinking Array
+- CF2114D - Come a Little Closer
+- CF21C - Stripe 2
+- CF221B - Little Elephant and Numbers
+- CF252A - Little Xor
+- CF358A - Dima and Continuous Line
+- CF431B - Shower Line
+- CF476A - Dreamoon and Stairs
+- CF550C - Divisibility by Eight
+- CF598A - Tricky Sum
+- CF626C - Block Towers
+- CF635A - Orchestra
+- CF66A - Petya and Java
+- CF697A - Pineapple Incident
+- CF754B - Ilya and tic-tac-toe game
+- CF777A - Shell Game
+- CF811B - Vladik and Complicated Book
+- CF886A - ACM ICPC
+- CF887B - Cubes for Masha
+- CF911A - Nearest Minimums
+- CF920A - Water The Garden
+- CF920B - Tea Queue
+- CF934A - A Compatible Pair
+- CF938A - Word Correction
+- CF940A - Points on the line
+- CF958C1 - Encryption (easy)
+- CF964B - Messages
+- CF977B - Two-gram
+- CF985B - Switches and Lamps
+- CF9C - Hexadecimal's Numbers

@@ -1,0 +1,32 @@
+{
+    "api_key": "sk-447clK3ipB1Z2LgEEf6878FdFaE0482fB927Ee17929a1488",
+    "base_url": "https://maas-api.cn-huabei-1.xf-yun.com/v1",
+    "model": "xdeepseekr1",
+    "timeout": 600,
+    "max_retries": 3,
+    "retry_delay": 5,
+
+    "_unused_configs": {
+        "api_key": "sk-447clK3ipB1Z2LgEEf6878FdFaE0482fB927Ee17929a1488",
+        "base_url": "https://maas-api.cn-huabei-1.xf-yun.com/v1",
+        "model": "xdeepseekr1"
+    },
+
+    "_unused_configs1": {
+        "api_key": "1c304c18-bff4-4ec2-b899-394901c8a17d",
+        "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+        "model": "ep-20250206112848-9pvbf"
+    },
+
+    "_unused_configs2": {
+        "api_key": "sk-kjf2tgCAmE4O7R0TkcA9ySiRC5Tjycve7paFSLxmOcjeEqjd",
+        "base_url": "https://api.lkeap.cloud.tencent.com/v1",
+        "model": "deepseek-r1"
+    },
+
+    "_unused_config3": {
+        "api_key": "sk-19fdc5762f3542768276f432742b92cb",
+        "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+        "model": "deepseek-r1"
+    }
+}

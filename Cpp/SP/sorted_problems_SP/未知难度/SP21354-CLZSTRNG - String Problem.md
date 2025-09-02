@@ -1,0 +1,54 @@
+---
+title: "CLZSTRNG - String Problem"
+layout: "post"
+diff: 难度0
+pid: SP21354
+tag: []
+---
+
+# CLZSTRNG - String Problem
+
+## 题目描述
+
+Mr.Avantgarde has 2 binary strings s1 and s2. He wants to convert s1 into s2. But this task isn't as easy as it looks. He has to convert s1 to s2 in exactly k steps. In each step, he can select exactly m chars and xor each of them by 1. Help him to find in how many ways can he convert s1 into s2 by using method described above.Output answer mod 1000000009.
+
+Constraints:
+
+Test cases<=10
+
+Length of s1=length of s2<=100
+
+m<=length of string
+
+k<=100
+
+Input:
+
+First line will contain number of test cases. First line of test case contains s1.Second line of test case contains s2.Third line of test case contains m and k.
+
+Output:
+
+For each test case, output result in a new line.
+
+Sample Input
+
+2
+
+000
+
+111
+
+1 3
+
+000
+
+110
+
+2 4
+
+Sample Output
+
+6
+
+20
+

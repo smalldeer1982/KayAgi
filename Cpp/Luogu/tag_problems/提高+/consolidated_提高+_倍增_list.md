@@ -1,0 +1,29 @@
+# 题号列表
+
+- P10036 - 「FAOI-R2」A trip to Macao
+- P10137 - [USACO24JAN] Walking in Manhattan G
+- P10455 - Genius Acm
+- P10799 - 「CZOI-R1」三角形与树
+- P11907 - [NHSPC 2023] F. 恐怖的黑色魔物
+- P12008 - 【MX-X10-T4】[LSOT-4] Fragment of Memories
+- P12393 - 「RiOI-6」flos
+- P12561 - [UTS 2024] Matrix
+- P12568 - [UOI 2023] An Array and Range Additions
+- P1306 - 斐波那契公约数
+- P1383 - 高级打字机
+- P1613 - 跑路
+- P1707 - 刷题比赛
+- P1967 - [NOIP 2013 提高组] 货车运输
+- P2106 - Sam数
+- P3509 - [POI 2010] ZAB-Frog
+- P3626 - [APIO2009] 会议中心
+- P3833 - [SHOI2012] 魔法树
+- P4155 - [SCOI2015] 国旗计划
+- P5557 - 旅行
+- P6172 - [USACO16FEB] Load Balancing P
+- P6569 - [NOI Online #3 提高组] 魔法值
+- P6648 - [CCC 2019] Triangle: The Data Structure
+- P6902 - [ICPC 2014 WF] Surveillance
+- P7114 - [NOIP2020] 字符串匹配
+- P7167 - [eJOI 2020] Fountain (Day1)
+- P7981 - [JRKSJ R3] system

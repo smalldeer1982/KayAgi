@@ -1,0 +1,47 @@
+# 题号列表
+
+- P10158 - [LSOT-2] 笼中鸟
+- P10833 - [COTS 2023] 下 Niz
+- P11291 - 【MX-S6-T3】「KDOI-11」简单的字符串问题 2
+- P11305 - [COTS 2016] 删除 Brisanje
+- P11471 - 时空轮回
+- P11618 - [PumpkinOI Round 1] 造树据
+- P11902 - [NHSPC 2023] A. 演化樹分析
+- P13044 - [GCJ 2021 Finals] Slide Circuits
+- P13266 - [GCJ 2014 Finals] Symmetric Trees
+- P13723 - [GCPC 2024] Headline Heat
+- P2584 - [ZJOI2006] GameZ游戏排名系统
+- P2601 - [ZJOI2009] 对称的正方形
+- P2757 - [国家集训队] 等差子序列
+- P3121 - [USACO15FEB] Censoring G
+- P3196 - [HNOI2008] 神奇的国度
+- P3234 - [HNOI2014] 抄卡组
+- P3237 - [HNOI2014] 米特运输
+- P3296 - [SDOI2013] 刺客信条
+- P3298 - [SDOI2013] 泉
+- P3318 - [SDOI2015] 双旋转字符串
+- P3333 - [ZJOI2013] 丽洁体
+- P3449 - [POI 2006] PAL-Palindromes
+- P3471 - [POI 2008] POC-Trains
+- P3546 - [POI 2012] PRE-Prefixuffix
+- P3552 - [POI 2013] SPA-Walk
+- P3587 - [POI 2015] POD
+- P3823 - [NOI2017] 蚯蚓排队
+- P4036 - [JSOI2008] 火星人
+- P4235 - Hash?
+- P4323 - [JSOI2016] 独特的树叶
+- P5537 - 【XR-3】系统设计
+- P5555 - 秩序魔咒
+- P6084 - [JSOI2015] isomorphism
+- P6652 - 「SWTR-5」String
+- P6653 - [YsOI2020] 造林
+- P6736 - 「Wdsr-2」白泽教育
+- P6896 - [ICPC 2014 WF] Maze Reduction
+- P7206 - [COCI 2019/2020 #3] Lampice
+- P7456 - [CERC2018] The ABCD Murderer
+- P8026 - [ONTAK2015] Bajtocja
+- P8819 - [CSP-S 2022] 星战
+- P9399 - 「DBOI」Round 1 人生如树
+- P9576 - 「TAOI-2」Ciallo～(∠・ω< )⌒★
+- P9935 - [NFLSPC #6] 啊，忘记了。
+- P9984 - [USACO23DEC] A Graph Problem P

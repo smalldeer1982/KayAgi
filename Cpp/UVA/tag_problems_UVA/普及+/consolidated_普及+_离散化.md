@@ -1,0 +1,50 @@
+---
+title: "Mayor's posters"
+layout: "post"
+diff: 普及+/提高
+pid: UVA10587
+tag: ['线段树', '离散化', '概率论']
+---
+
+# Mayor's posters
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=17&page=show_problem&problem=1528
+
+[PDF](https://uva.onlinejudge.org/external/105/p10587.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10587/cd78d581a1fc6c9ec2d9b3173f9b68a09424475e.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10587/6436da42b41ec1428b97672792b9d28ec339a310.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10587/6242da124237600afd35badbcef3a1cefd8b37f9.png)
+
+## 样例 #1
+
+### 输入
+
+```
+1
+5
+1 4
+2 6
+8 10
+3 4
+7 10
+```
+
+### 输出
+
+```
+4
+```
+
+
+
+---
+

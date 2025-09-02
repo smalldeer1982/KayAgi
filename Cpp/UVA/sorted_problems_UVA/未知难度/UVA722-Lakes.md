@@ -1,0 +1,48 @@
+---
+title: "Lakes"
+layout: "post"
+diff: 难度0
+pid: UVA722
+tag: []
+---
+
+# Lakes
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=9&page=show_problem&problem=663
+
+[PDF](https://uva.onlinejudge.org/external/7/p722.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA722/388cccc6ca11688319f8550baa5d75480e529408.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA722/1396100b198029fc92f5c0734ad8965060efdd9a.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA722/4acc0e43a22e0df1ff0979a1b78f5293442f1961.png)
+
+## 样例 #1
+
+### 输入
+
+```
+1
+02 01
+1001101
+0011111
+0001001
+1100011
+1111111
+1100110
+1110111
+```
+
+### 输出
+
+```
+12
+```
+

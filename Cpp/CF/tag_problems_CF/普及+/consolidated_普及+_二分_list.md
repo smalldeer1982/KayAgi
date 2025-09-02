@@ -1,0 +1,36 @@
+# 题号列表
+
+- CF1073C - Vasya and Robot
+- CF1111C - Creative Snap
+- CF1165F2 - Microtransactions (hard version)
+- CF1175C - Electrification
+- CF1250J - The Parade
+- CF1619D - New Year's Problem
+- CF1665C - Tree Infection
+- CF1679D - Toss a Coin to Your Graph...
+- CF1697D - Guess The String
+- CF1707A - Doremy's IQ
+- CF1712D - Empty Graph
+- CF1714G - Path Prefixes
+- CF1731D - Valiant's New Map
+- CF1923D - Slimes
+- CF1941F - Rudolf and Imbalance
+- CF1945E - Binary Search
+- CF1968G1 - Division + LCP (easy version)
+- CF1974F - Cutting Game
+- CF1996F - Bomb
+- CF1998C - Perform Operations to Maximize Score
+- CF2008H - Sakurako's Test
+- CF2013D - Minimize the Difference
+- CF2026D - Sums of Segments
+- CF2027D1 - The Endspeaker (Easy Version)
+- CF2036E - Reverse the Rivers
+- CF2036G - Library of Magic
+- CF2037F - Ardent Flames
+- CF2048D - Kevin and Competition Memories
+- CF2048E - Kevin and Bipartite Graph
+- CF2069D - Palindrome Shuffle
+- CF2106G1 - Baudelaire (easy version)
+- CF2110D - Fewer Batteries
+- CF702C - Cellular Network
+- CF862B - Mahmoud and Ehab and the bipartiteness

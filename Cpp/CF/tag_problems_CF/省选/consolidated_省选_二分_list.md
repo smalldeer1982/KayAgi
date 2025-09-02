@@ -1,0 +1,35 @@
+# 题号列表
+
+- CF1027F - Session in BSU
+- CF1491F - Magnets
+- CF1558D - Top-Notch Insertions
+- CF1634E - Fair Share
+- CF1680F - Lenient Vertex Cover
+- CF1721F - Matching Reduction
+- CF1764G1 - Doremy's Perfect DS Class (Easy Version)
+- CF1764G2 - Doremy's Perfect DS Class (Medium Version)
+- CF1783F - Double Sort II
+- CF1906I - Contingency Plan 2
+- CF1982F - Sorting Problem Again
+- CF2041F - Segmentation Folds
+- CF2071F - Towering Arrays
+- CF2077E - Another Folding Strip
+- CF2096F - Wonderful Impostors
+- CF2104F - Numbers and Strings
+- CF2108F - Fallen Towers
+- CF309E - Sheep
+- CF321E - Ciel and Gondolas
+- CF477E - Dreamoon and Notepad
+- CF505E - Mr. Kitayuta vs. Bamboos
+- CF547D - Mike and Fish
+- CF627D - Preorder Test
+- CF679B - Bear and Tower of Cubes
+- CF739E - Gosha is hunting
+- CF786C - Till I Collapse
+- CF808E - Selling Souvenirs
+- CF859E - Desk Disorder
+- CF865C - Gotta Go Fast
+- CF875F - Royal Questions
+- CF912E - Prime Gift
+- CF920G - List Of Integers
+- CF981F - Round Marriage

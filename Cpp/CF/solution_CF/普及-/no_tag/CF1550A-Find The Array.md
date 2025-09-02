@@ -1,0 +1,558 @@
+# Find The Array
+
+## 题目描述
+
+Let's call an array $ a $ consisting of $ n $ positive (greater than $ 0 $ ) integers beautiful if the following condition is held for every $ i $ from $ 1 $ to $ n $ : either $ a_i = 1 $ , or at least one of the numbers $ a_i - 1 $ and $ a_i - 2 $ exists in the array as well.
+
+For example:
+
+- the array $ [5, 3, 1] $ is beautiful: for $ a_1 $ , the number $ a_1 - 2 = 3 $ exists in the array; for $ a_2 $ , the number $ a_2 - 2 = 1 $ exists in the array; for $ a_3 $ , the condition $ a_3 = 1 $ holds;
+- the array $ [1, 2, 2, 2, 2] $ is beautiful: for $ a_1 $ , the condition $ a_1 = 1 $ holds; for every other number $ a_i $ , the number $ a_i - 1 = 1 $ exists in the array;
+- the array $ [1, 4] $ is not beautiful: for $ a_2 $ , neither $ a_2 - 2 = 2 $ nor $ a_2 - 1 = 3 $ exists in the array, and $ a_2 \ne 1 $ ;
+- the array $ [2] $ is not beautiful: for $ a_1 $ , neither $ a_1 - 1 = 1 $ nor $ a_1 - 2 = 0 $ exists in the array, and $ a_1 \ne 1 $ ;
+- the array $ [2, 1, 3] $ is beautiful: for $ a_1 $ , the number $ a_1 - 1 = 1 $ exists in the array; for $ a_2 $ , the condition $ a_2 = 1 $ holds; for $ a_3 $ , the number $ a_3 - 2 = 1 $ exists in the array.
+
+You are given a positive integer $ s $ . Find the minimum possible size of a beautiful array with the sum of elements equal to $ s $ .
+
+## 说明/提示
+
+Consider the example test:
+
+1. in the first test case, the array $ [1] $ meets all conditions;
+2. in the second test case, the array $ [3, 4, 1] $ meets all conditions;
+3. in the third test case, the array $ [1, 2, 4] $ meets all conditions;
+4. in the fourth test case, the array $ [1, 4, 6, 8, 10, 2, 11] $ meets all conditions.
+
+## 样例 #1
+
+### 输入
+
+```
+4
+1
+8
+7
+42```
+
+### 输出
+
+```
+1
+3
+3
+7```
+
+# 题解
+
+## 作者：清清老大 (赞：5)
+
+## 题意
+
+一个数组 $a$ 是好的当且仅当数组内每一个数 $a_i$ 满足： $a_i=1$ 或 $a_{i}-1=a_j$ 或 $a_{i}-2=a_j$ 。
+
+给出一个好数组的元素之和 $x$ ，求好数组的元素个数最小值。
+
+## 思路
+
+本题用贪心做，每次放的数尽量大，即每个数比前一个数多 $2$ 。如果最后一个数放不下，那么就把最后一个数减小到刚好放下，元素个数不变。
+
+## 代码
+
+```cpp
+#include<bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+    int t;
+    cin >> t;
+    while(t --)
+    {
+        int s,ans = 0;
+        cin >> s;
+        int a = 1;
+        while(s > 0)
+        {
+            s -= a;
+            ans ++;
+            a += 2;
+        }
+        cout << ans << endl;
+    }
+}
+```
+
+
+---
+
+## 作者：luckydrawbox (赞：2)
+
+## 题意
+
+我们称一个数列 $a_1,a_2,…,a_n$ 是**美丽的**，当且仅当数列中每个元素 $a_i$ 至少满足如下三个条件之一：
+
+- $a_i=1$。
+
+- $a_i-1$ 在这个数列中。
+
+- $a_i-2$ 在这个数列中。
+
+现在给你一个整数 $s$，求出一个元素和为 $s$ 的**美丽的**数列至少要几个元素？
+
+### 做法1：贪心
+
+要求最少的元素个数，我们就让放入的数尽量大，即每次都放比前面的数大 $2$ 的数，直到放满或溢出为止。
+
+#### 证明
+
+- 若放满，自然满足题目要求。
+
+- 若溢出，设最后放入的数为 $a_n$，此时与要求的元素和 $s$ 的差为 $c=\sum_{i=1}^na_i-s$，可令 $a_n\Rightarrow a_n-c$，由我们之前的计算得，这时的 $a_n≥1$，无论 $a_n$ 为什么数，必然有一个 $a_i$ 满足 $\left|a_i-a_n\right|≤2$，也满足了题意。
+
+### Code1
+
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int t,s,sum,ans;
+int main()
+{
+	cin>>t;
+	while(t--)
+	{
+		cin>>s;
+		sum=ans=0;
+		for(int i=1;sum<s;i+=2)//一直放直到放满或溢出 
+		{
+			sum+=i;
+			ans++;
+    	}
+    	cout<<ans<<endl;
+	}
+	return 0;
+} 
+```
+
+### 做法2：动态规划
+
+设 $dp_{i,j}$ 表示一个和为 $i$，最后放的数为 $j$ 的美丽的数列最少需要几个元素。同时，设我们答案的美丽序列是按顺序排列的，即 $a_1≤a_2≤…≤a_n$。
+
+我们提前要做一下处理，即
+
+$$dp_{i,j}=\begin{cases}inf&j!=1\\i&j=1\end{cases}$$
+
+其中 $0≤j≤i≤s$。
+
+也就是我们提前放好 $1$，后面只需要处理一般情况，因为要取最小值，所以其他的设为无穷大。
+
+接下来对于 $dp_{i,j}$，我们有三种选择：
+
+- 前一个放了 $j$，此时再放一个 $j$：$dp_{i,j}=\min(dp_{i,j},dp_{i-j,j}+1)$，因为之前放了 $j$，所以需满足之前的和 $i-j≥j$。
+
+- 前一个放了 $j-1$，此时再放一个 $j$：$dp_{i,j}=\min(dp_{i,j},dp_{i-j,j-1}+1)$，同上，需满足之前的和 $i-j≥j-1$。
+
+- 前一个放了 $j-2$，此时再放一个 $j$：$dp_{i,j}=\min(dp_{i,j},dp_{i-j,j-2}+1)$，同上，需满足之前的和 $i-j≥j-2$。
+
+于是可以得出状态转移方程：
+
+$$dp_{i,j}=\min\begin{cases}dp_{i-j,j}+1&i-j≥j\\dp_{i-j,j-1}+1&i-j≥j-1\\dp_{i-j,j-2}+1&i-j≥j-2\end{cases}$$
+
+其中 $2≤j≤i≤s$，$j=1$ 的情况前面已经计算过。
+
+做完上面的计算后，我们用 $ans$ 数组记录答案，即 $ans_i$ 表示和为 $i$ 时的答案，显然 $ans_i=\min_{j=1}^idp_{i,j}$。
+
+最后询问时，直接输出答案即可。总体时间复杂度为 $O(N^2)$。
+
+### Code2
+
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+const int N=5010,inf=1e9;
+int t,s,dp[N][N],ans[N];
+int main()
+{
+    cin>>t;
+    //预处理 
+    for(int i=0;i<5001;i++)
+		for(int j=0;j<=i;j++)
+			if(j==1)
+    			dp[i][j]=i;
+    		else
+    			dp[i][j]=inf;
+    for(int i=1;i<5001;i++)//j为1时的答案 
+    	ans[i]=dp[i][1];
+    for(int i=2;i<5001;i++)
+    {
+    	for(int j=2;j<=i;j++)
+    	{
+    		//三种情况 
+    		if(i-j>=j)
+    			dp[i][j]=min(dp[i-j][j]+1,dp[i][j]);
+    		if(i-j>=j-1)
+    			dp[i][j]=min(dp[i-j][j-1]+1,dp[i][j]);
+    		if(i-j>=j-2)
+    			dp[i][j]=min(dp[i-j][j-2]+1,dp[i][j]);
+    		ans[i]=min(ans[i],dp[i][j]);//对答案取最小值 
+		}
+	}
+    while(t--)
+    {
+    	cin>>s;
+    	cout<<ans[s]<<endl;
+	}
+	return 0;
+}
+```
+
+---
+
+## 作者：xkcdjerry (赞：1)
+
+显然，一个数列为**美丽数列**当且仅当排序后：  
+* 最小值为 1
+* 相邻两数的差均小于等于 2
+
+对于 $a_i < a_{i-1}+2$ $(1<i<n)$ ，显然令 $a_i=a_{i-1}+2$ 仍然满足条件且使和更大。  
+
+因此可以得到一个贪心策略：令 $a_i = 2i-1$ 直到再添加一个和就会大于期望值，此时剩余值**一定小于**最大值 +2 ，那么插入到 $a$ 中一定合法。  
+
+由于 $a_1+a_2+...+a_n = n^2$ ，所以对于 $s$ 最多需要 $\sqrt s$ 次就可以结束。  
+
+代码（复杂度 $O(t\sqrt s)$ ）：
+```cpp
+/*
+    Code by xkcdjerry
+    Time: 2021-07-14
+    Generated by cf-tools
+*/
+#include <cstdio>
+/*
+   显然，beautiful array排序后相邻项差<=2
+   那么显然能让差=2时令其=2最好
+   贪心直到太大，减掉即可
+*/
+#define int long long
+void once()
+{
+	int t;
+	scanf("%lld",&t);
+	int ans=0;
+	int now=1;
+	while(now<t)
+	{
+		t-=now;
+		ans++;
+		now+=2;
+	}
+	printf("%lld\n",ans+1);
+}
+#undef int
+
+
+int main()
+{
+    int t;
+    scanf("%d",&t);
+    while(t--) once();
+    return 0;
+}
+```
+
+---
+
+## 作者：翼德天尊 (赞：0)
+
+一道简单的贪心题qwq
+
+由于后两个条件需要其它值依托，所以必定有一个元素为 $1$.
+
+而为了使元素最小，我们可以尽量选择第 $3$ 个条件。举个例子：
+
+假设要凑够 $3$ ，那么两个元素当然为 $1$ 和 $2$.
+
+而即使是凑够 $2$，在两个元素为 $1$ 和 $1$ 的基础上，我们还是只需要选择两个元素。
+
+所以发现没有？即使一直选第 $3$ 个条件却凑不够答案，也能保证答案最优。
+
+而由于多次询问，我们可以专门开一个数组用于预处理 $a$ 数组的值，询问时从前到后遍历数组找到答案后输出即可。
+
+代码如下：
+
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+#define N 5005
+int t,w[N],ww[N];
+int read(){
+	int w=0,f=1;
+	char c=getchar();
+	while (c>'9'||c<'0'){
+		if (c=='-') f=-1;
+		c=getchar();
+	}
+	while (c>='0'&&c<='9'){
+		w=(w<<3)+(w<<1)+(c^48);
+		c=getchar();
+	}
+	return w*f;
+}
+
+int main(){
+	t=read();
+	w[1]=ww[1]=1;
+	for (int i=2;i<=5000;i++){
+		w[i]=w[i-1]+2;
+		ww[i]=w[i]+ww[i-1];
+	}
+	while (t--){
+		int s=read();
+		for (int i=1;i<=5000;i++){
+			if (ww[i]>=s){
+				printf("%d\n",i);
+				break;
+			}
+		}
+	}
+	return 0;
+}
+```
+
+
+---
+
+## 作者：wheneveright (赞：0)
+
+## 题意
+
+一个数组 $a$ 是好的当且仅当数组内每一个数 $a_i$ 满足：
+
+- $a_i = 1$
+- $a_i - 1 \in a$
+- $a_i - 2 \in a$
+
+其中之一。现在给出一个好的数组 $a$ 的元素和 $S$，询问 $a$ 数组最少有几个数。
+
+## 分析
+
+考虑最大化构造数组，那么就是数组中必定有 $1$，然后之后每个数尽量去最大的，那么就是当前最大的数加二，当最大数加二大于 $S-nowsum$ 的时候，可以证明 $S-nowsum$ 放到序列中一定是好的。
+
+## 代码
+
+```cpp
+# include <bits/stdc++.h>
+using namespace std;
+
+int T, S, res;
+
+int main () {
+	cin >> T;
+	while (T--) {
+		cin >> S; int i; res = 0;
+		for (i = 1; i <= S; i += 2) S -= i, res++;
+		if (S) res++; cout << res << endl;
+	}
+	return 0;
+}
+```CF1550A Find The Array 题解
+
+---
+
+## 作者：Argon_Cube (赞：0)
+
+* **【题目链接】**
+
+[Link:CF1550A](https://www.luogu.com.cn/problem/CF1550A)
+
+* **【解题思路】**
+
+本题解法：贪心。
+
+为了使数组长度尽量小，我们应该让每一次取的数最大。
+
+显然，我们应该从 $1$ 开始，每一次取的数都比上一次大 $2$。
+
+取到最后（下一次取的数比剩下的数还大），有两种情况：
+
+* 正好取完（剩下的数为 $0$），直接输出当前取了多少个数。
+
+* 否则，剩下的数要么和以前取的数中的某一个相同，要么就是某一个以前取过的数 $+1$。这种情况再取一次就好。
+
+* **【代码实现】**
+
+```cpp
+#include <iostream>
+
+using namespace std;
+
+int main(int argc,char* argv[],char* envp[])
+{
+	ios::sync_with_stdio(false);
+	cin.tie(nullptr);
+	int testcnt,tmp,temp,minsize;
+	cin>>testcnt;
+	while(testcnt--)
+	{
+		cin>>tmp,minsize=0;
+		temp=1;
+		while(tmp>=temp)
+			tmp-=temp,minsize++,temp+=2;
+		if(tmp)
+			minsize++;
+		cout<<minsize<<'\n';
+	}
+	return 0;
+}
+
+```
+
+---
+
+## 作者：KSToki (赞：0)
+
+# 题目大意
+定义一个好的正整数集合为：对于其中任意一个元素，要么 $a_i=1$，要么 $a_i-1$ 或 $a_i-2$ 属于这个集合。给定数 $n$ 求一个好的集合使其元素的和为 $n$ 且大小最小。
+# 题目分析
+根据定义，一定会先插一个 $1$ 进去，然后让每个数尽量的大，即每次的数比上次大 $2$。而如果最后一个数不够，剩余的数也一定是合法的，作为 A 题，暴力统计即可。
+# 代码
+```cpp
+#include<bits/stdc++.h>
+#define R register
+#define I inline
+#define ll long long
+#define ull unsigned long long
+#define db double
+using namespace std;
+#define pii pair<int,int>
+#define mp(x,y) make_pair(x,y)
+#define piii pair<pair<int,int>,int>
+#define mp3(x,y,z) make_pair(make_pair(x,y),z)
+#define fi first.first
+#define se first.second
+#define th second
+#define putint(x) printf("%d\n",x)
+#define putll(x) printf("%lld\n",x)
+#define putull(x) printf("%llu\n",x)
+#define lowbit(x) ((x)&(-(x)))
+#define inf (1e9)
+#define INF (1e18)
+#define eps (1e-8)
+I int read()
+{
+	char ch=getchar();
+	int res=0,flag=1;
+	while(ch<'0'||ch>'9')
+	{
+		if(ch=='-')
+			flag=-1;
+		ch=getchar();
+	}
+	while(ch>='0'&&ch<='9')
+	{
+		res=res*10+ch-'0';
+		ch=getchar();
+	}
+	return res*flag;
+}
+int T,n; 
+int main()
+{
+	T=read();
+	while(T--)
+	{
+		n=read();
+		int sum=0,ans=0;
+		for(R int i=1;;i+=2)
+		{
+			sum+=i;
+			++ans;
+			if(sum>=n)
+				break;
+		}
+		putint(ans);
+	}
+	return 0;
+}
+```
+
+
+---
+
+## 作者：ʕ•ﻌ•ʔ (赞：0)
+
+传送门:[CF1550A](https://codeforces.com/contest/1550/problem/A)。
+
+## 题目大意：
+---
+一个数组被称作是好的当且仅当这个数组中的每一个数都满足下列条件中至少一个：
+
+① $a_i$ 为 $1$。
+
+② $a_i-1$ 或 $a_i -2$ 这两个数中至少一个也在这个序列里。
+
+
+注意：序列中的数**可以重复**。
+
+给定数组的和 $s$ ，请你构造一个**长度最小**的好的数组，使这个数组的和恰好为 $s$ 。
+
+**只需要输出数组长度即可。**
+
+---
+
+## 题目分析：
+
+既然我们的目的是构造一个**长度最小**的、符合某一要求的数组，那我们肯定希望这个数组中的数在**满足要求的前提下尽可能大**。（数组和 $s$ 是固定的，显然用的数越大则用的数越少）
+
+我们用 $temp$ 表示剩余的数组和，只要 $temp$ 不为 $0$ 我们就需要继续加数。我们用 $now$ 表示目前已经构造完的不下降序列的最后一个值。
+
+具体的细节将在代码里逐行解释。
+
+## AC CODE:
+
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int n,t,s,temp,now;
+inline void sol(){
+	cin>>s;
+	temp=s-1,now=1;
+	if(s==1){cout<<"1"<<endl;return ;}
+	if(s==2){cout<<"2"<<endl;return ;}
+	//1和2特判一下 
+	int ans=1;
+	while(temp){//只要还有剩余就要继续加数 
+		if(temp>=now){//如果剩余的和不比目前最大的数小 
+			if(temp==now){//如果剩余的正好和目前最大的一样，直接再加一个now就可以； 
+				ans++;
+				break;//加完这一个数temp自然为0 
+			} 
+			if(temp==now+1){//如果正好只大1，那就只能再放一个now+1； 
+				now+=1;
+				temp-=now;
+				ans++;
+				continue ;
+			}
+			//如果经过以上判断还没跳出循环，则按照贪心的想法放一个能放的最大的数：now+2 
+			ans++;
+			now+=2;
+			temp-=now;
+		}
+		else{//如果temp<now,则显然这个数-1或者-2在之前出现过，显然符合题目要求，故直接+1就可以 
+			ans++;
+			break;
+		}
+	}
+	cout<<ans<<endl;
+}
+int main(){
+	cin>>t;
+	while(t--) sol();//t组数据 
+	return 0;
+}
+```
+
+
+
+---
+

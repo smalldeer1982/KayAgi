@@ -1,0 +1,30 @@
+# 题号列表
+
+- P1129 - [ZJOI2007] 矩阵游戏
+- P11531 - [THUPC 2025 初赛] 检查站
+- P1345 - [USACO5.4] 奶牛的电信Telecowmunication
+- P13771 - [CERC 2021] Regional development
+- P13847 - [CERC 2023] Cakes
+- P2055 - [ZJOI2009] 假期的宿舍
+- P2057 - [SHOI2007] 善意的投票 / [JLOI2010] 冠军调查
+- P2227 - [HNOI2001] 洗牌机
+- P2598 - [ZJOI2009] 狼和羊的故事
+- P2740 - [USACO4.2] 草地排水Drainage Ditches
+- P2763 - 试题库问题
+- P2936 - [USACO09JAN] Total Flow S
+- P3254 - 圆桌问题
+- P3355 - 骑士共存问题
+- P3376 - 【模板】网络最大流
+- P3701 - 主主树
+- P4011 - 孤岛营救问题
+- P4014 - 分配问题
+- P4015 - 运输问题
+- P4304 - [TJOI2013] 攻击装置
+- P5258 - [JSOI2013] 旅行时的困惑
+- P6268 - [SHOI2002] 舞会
+- P7231 - [COCI 2015/2016 #3] DOMINO
+- P7368 - [USACO05NOV] Asteroids G
+- P8095 - [USACO22JAN] Cereal 2 S
+- P9088 - 「SvR-2」1+2=3
+- P9359 - [ICPC 2022 Xi'an R] Cells Coloring
+- P9705 - 「TFOI R1」Unknown Graph

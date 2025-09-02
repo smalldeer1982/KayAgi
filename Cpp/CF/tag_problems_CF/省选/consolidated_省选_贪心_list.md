@@ -1,0 +1,39 @@
+# 题号列表
+
+- CF10E - Greedy Change
+- CF1120F - Secret Letters
+- CF1311E - Construct the Binary Tree
+- CF1361D - Johnny and James
+- CF1387B2 - Village (Maximum)
+- CF1610H - Squid Game
+- CF1623E - Middle Duplication
+- CF1738F - Connectivity Addicts
+- CF1799F - Halve or Subtract
+- CF183D - T-shirt
+- CF1976F - Remove Bridges
+- CF1977E - Tensor
+- CF1991G - Grid Reset
+- CF2006D - Iris and Adjacent Products
+- CF2013F1 - Game in Tree (Easy Version)
+- CF2025G - Variable Damage
+- CF2038E - Barrels
+- CF2042E - Vertex Pairs
+- CF2046E1 - Cheops and a Contest (Easy Version)
+- CF2077D - Maximum Polygon
+- CF2077E - Another Folding Strip
+- CF2081C - Quaternary Matrix
+- CF2084F - Skyscape
+- CF2085F2 - Serval and Colorful Array (Hard Version)
+- CF2092F - Andryusha and CCB
+- CF2107F2 - Cycling (Hard Version)
+- CF2115D - Gellyfish and Forget-Me-Not
+- CF212A - Privatization
+- CF309E - Sheep
+- CF364B - Free Market
+- CF508E - Arthur and Brackets
+- CF521D - Shop
+- CF687D - Dividing Kingdom II
+- CF725F - Family Photos
+- CF755F - PolandBall and Gifts
+- CF875F - Royal Questions
+- CF965E - Short Code

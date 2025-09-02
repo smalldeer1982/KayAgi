@@ -1,0 +1,8697 @@
+{
+  "summary": {
+    "total_extra_files": 4,
+    "total_missing_files": 6,
+    "categories_with_extra": 3,
+    "total_categories": 864
+  },
+  "comparison_results": [
+    {
+      "difficulty": "NOI",
+      "category": "AC 自动机",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "APIO",
+      "tag_count": 11,
+      "solution_count": 11,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "Catalan 数",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "cdq 分治",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "CSP-S 提高级",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "ICPC",
+      "tag_count": 96,
+      "solution_count": 96,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "IOI",
+      "tag_count": 40,
+      "solution_count": 40,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "KMP 算法",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "Kruskal 重构树",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "Lucas 定理",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "NOIP 提高组",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "NOI",
+      "tag_count": 66,
+      "solution_count": 66,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "SG 函数",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "Tarjan",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "THUPC",
+      "tag_count": 34,
+      "solution_count": 34,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "中国剩余定理 CRT",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "二分",
+      "tag_count": 34,
+      "solution_count": 34,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "二分图",
+      "tag_count": 6,
+      "solution_count": 6,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "优先队列",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "位运算",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "倍增",
+      "tag_count": 17,
+      "solution_count": 17,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "凸包",
+      "tag_count": 16,
+      "solution_count": 16,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "分块",
+      "tag_count": 37,
+      "solution_count": 37,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "分治",
+      "tag_count": 52,
+      "solution_count": 52,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "分类讨论",
+      "tag_count": 11,
+      "solution_count": 11,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "前缀和",
+      "tag_count": 14,
+      "solution_count": 14,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "剪枝",
+      "tag_count": 15,
+      "solution_count": 15,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "动态树 LCT",
+      "tag_count": 12,
+      "solution_count": 12,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "动态规划",
+      "tag_count": 112,
+      "solution_count": 112,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "动态规划优化",
+      "tag_count": 10,
+      "solution_count": 10,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "区间 DP",
+      "tag_count": 6,
+      "solution_count": 6,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "单调栈",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "单调队列",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "博弈论",
+      "tag_count": 13,
+      "solution_count": 13,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "原根",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "双指针 two-pointer",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "双连通分量",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "可并堆",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "可持久化",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "可持久化线段树",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "各省省选",
+      "tag_count": 170,
+      "solution_count": 170,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "后缀数组 SA",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "向量",
+      "tag_count": 6,
+      "solution_count": 6,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "哈希",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "图论",
+      "tag_count": 29,
+      "solution_count": 29,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "图论建模",
+      "tag_count": 9,
+      "solution_count": 9,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "基环树",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "堆",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "字典树 Trie",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "字符串",
+      "tag_count": 21,
+      "solution_count": 21,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "容斥原理",
+      "tag_count": 31,
+      "solution_count": 31,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "差分",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "平衡树",
+      "tag_count": 13,
+      "solution_count": 13,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "并查集",
+      "tag_count": 12,
+      "solution_count": 12,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "广度优先搜索 BFS",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "强连通分量",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "快速傅里叶变换 FFT",
+      "tag_count": 53,
+      "solution_count": 53,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "快速数论变换 NTT",
+      "tag_count": 52,
+      "solution_count": 52,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "快速沃尔什变换 FWT",
+      "tag_count": 9,
+      "solution_count": 9,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "快速莫比乌斯变换 FMT",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "扩展欧几里德算法",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "扫描线",
+      "tag_count": 10,
+      "solution_count": 10,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "折半搜索 meet in the middle",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "拓扑排序",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "排列组合",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "排序",
+      "tag_count": 14,
+      "solution_count": 14,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "搜索",
+      "tag_count": 37,
+      "solution_count": 37,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "数位 DP",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "数学",
+      "tag_count": 138,
+      "solution_count": 138,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "数组",
+      "tag_count": 21,
+      "solution_count": 21,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "数论",
+      "tag_count": 72,
+      "solution_count": 72,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "整体二分",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "整除分块",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "斐波那契数列",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "斜率优化",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "最大公约数 gcd",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "最小割",
+      "tag_count": 6,
+      "solution_count": 6,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "最短路",
+      "tag_count": 13,
+      "solution_count": 13,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "最近公共祖先 LCA",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "期望",
+      "tag_count": 18,
+      "solution_count": 18,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "构造",
+      "tag_count": 54,
+      "solution_count": 54,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "枚举",
+      "tag_count": 34,
+      "solution_count": 34,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "栈",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "树形 DP",
+      "tag_count": 11,
+      "solution_count": 11,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "树形",
+      "tag_count": 17,
+      "solution_count": 17,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "树形数据结构",
+      "tag_count": 6,
+      "solution_count": 6,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "树状数组",
+      "tag_count": 13,
+      "solution_count": 13,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "树的直径",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "树论",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "树链剖分",
+      "tag_count": 14,
+      "solution_count": 14,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "根号分治",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "梦熊比赛",
+      "tag_count": 22,
+      "solution_count": 22,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "概率论",
+      "tag_count": 11,
+      "solution_count": 11,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "模拟",
+      "tag_count": 16,
+      "solution_count": 16,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "模拟退火",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "欧几里德",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "欧拉回路",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "洛谷原创",
+      "tag_count": 119,
+      "solution_count": 119,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "洛谷比赛",
+      "tag_count": 6,
+      "solution_count": 6,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "深度优先搜索 DFS",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "点分治",
+      "tag_count": 13,
+      "solution_count": 13,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "状压 DP",
+      "tag_count": 14,
+      "solution_count": 14,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "状压",
+      "tag_count": 14,
+      "solution_count": 14,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "生成函数",
+      "tag_count": 52,
+      "solution_count": 52,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "生成树",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "矩阵乘法",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "矩阵加速",
+      "tag_count": 13,
+      "solution_count": 13,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "矩阵运算",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "离散化",
+      "tag_count": 6,
+      "solution_count": 6,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "笛卡尔树",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "筛法",
+      "tag_count": 16,
+      "solution_count": 16,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "素数",
+      "tag_count": 14,
+      "solution_count": 14,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "线性代数",
+      "tag_count": 14,
+      "solution_count": 14,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "线性基",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "线性递推",
+      "tag_count": 12,
+      "solution_count": 12,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "线段树",
+      "tag_count": 87,
+      "solution_count": 87,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "组合",
+      "tag_count": 53,
+      "solution_count": 53,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "组合数学",
+      "tag_count": 50,
+      "solution_count": 50,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "网络流",
+      "tag_count": 20,
+      "solution_count": 20,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "背包 DP",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "背包",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "莫比乌斯反演",
+      "tag_count": 12,
+      "solution_count": 12,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "莫队",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "蓝桥杯国赛",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "虚树",
+      "tag_count": 12,
+      "solution_count": 12,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "计算几何",
+      "tag_count": 42,
+      "solution_count": 42,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "记忆化搜索",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "质数",
+      "tag_count": 14,
+      "solution_count": 14,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "贪心",
+      "tag_count": 51,
+      "solution_count": 51,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "费用流",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "进制",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "连通块",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "逆元",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "递归",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "递推",
+      "tag_count": 33,
+      "solution_count": 33,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "队列",
+      "tag_count": 13,
+      "solution_count": 13,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "随机化",
+      "tag_count": 10,
+      "solution_count": 10,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "集训队互测",
+      "tag_count": 60,
+      "solution_count": 60,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "高斯消元",
+      "tag_count": 9,
+      "solution_count": 9,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "NOI",
+      "category": "高精度",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "BCSP-X",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "CSP-J 入门级",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "ICPC",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "NOI 导刊",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "NOIP 提高组",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "NOIP 普及组",
+      "tag_count": 13,
+      "solution_count": 13,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "NOI",
+      "tag_count": 21,
+      "solution_count": 21,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "THUPC",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "USACO",
+      "tag_count": 18,
+      "solution_count": 18,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "不定方程",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "位运算",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "函数与递归",
+      "tag_count": 21,
+      "solution_count": 21,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "前缀和",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "双指针 two-pointer",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "各省省选",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "字符串",
+      "tag_count": 87,
+      "solution_count": 87,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "差分",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "排序",
+      "tag_count": 12,
+      "solution_count": 12,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "搜索",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "数学",
+      "tag_count": 61,
+      "solution_count": 61,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "数组",
+      "tag_count": 66,
+      "solution_count": 66,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "数论",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "斐波那契数列",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "最大公约数 gcd",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "期望",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "构造",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "枚举",
+      "tag_count": 49,
+      "solution_count": 49,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "栈",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "梦熊比赛",
+      "tag_count": 19,
+      "solution_count": 19,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "模拟",
+      "tag_count": 176,
+      "solution_count": 176,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "洛谷原创",
+      "tag_count": 75,
+      "solution_count": 75,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "洛谷比赛",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "筛法",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "素数",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "线性数据结构",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "结构体",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "蓝桥杯国赛",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "蓝桥杯省赛",
+      "tag_count": 22,
+      "solution_count": 22,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "蓝桥杯青少年组",
+      "tag_count": 12,
+      "solution_count": 12,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "语言月赛",
+      "tag_count": 204,
+      "solution_count": 204,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "质数",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "贪心",
+      "tag_count": 17,
+      "solution_count": 17,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "进制",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "递归",
+      "tag_count": 22,
+      "solution_count": 22,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "入门",
+      "category": "递推",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "AC 自动机",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "APIO",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "Catalan 数",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "cdq 分治",
+      "tag_count": 6,
+      "solution_count": 6,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "CSP-J 入门级",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "CSP-S 提高级",
+      "tag_count": 9,
+      "solution_count": 9,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "ICPC",
+      "tag_count": 117,
+      "solution_count": 117,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "IOI",
+      "tag_count": 21,
+      "solution_count": 21,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "KMP 算法",
+      "tag_count": 9,
+      "solution_count": 9,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "Kruskal 重构树",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "Lucas 定理",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "Manacher 算法",
+      "tag_count": 9,
+      "solution_count": 9,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "NOI 导刊",
+      "tag_count": 21,
+      "solution_count": 21,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "NOIP 提高组",
+      "tag_count": 28,
+      "solution_count": 28,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "NOIP 普及组",
+      "tag_count": 6,
+      "solution_count": 6,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "NOI",
+      "tag_count": 101,
+      "solution_count": 101,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "no_tag",
+      "tag_count": 600,
+      "solution_count": 599,
+      "extra_count": 0,
+      "missing_count": 1,
+      "extra_pids": [],
+      "missing_pids": [
+        "P10952"
+      ]
+    },
+    {
+      "difficulty": "提高+",
+      "category": "SG 函数",
+      "tag_count": 6,
+      "solution_count": 6,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "ST 表",
+      "tag_count": 10,
+      "solution_count": 10,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "Tarjan",
+      "tag_count": 13,
+      "solution_count": 13,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "THUPC",
+      "tag_count": 39,
+      "solution_count": 39,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "USACO",
+      "tag_count": 273,
+      "solution_count": 273,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "三分",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "不定方程",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "中国剩余定理 CRT",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "二分",
+      "tag_count": 123,
+      "solution_count": 123,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "二分图",
+      "tag_count": 32,
+      "solution_count": 32,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "优先队列",
+      "tag_count": 14,
+      "solution_count": 14,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "位运算",
+      "tag_count": 26,
+      "solution_count": 26,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "倍增",
+      "tag_count": 27,
+      "solution_count": 27,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "凸包",
+      "tag_count": 9,
+      "solution_count": 9,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "分块",
+      "tag_count": 23,
+      "solution_count": 23,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "分治",
+      "tag_count": 39,
+      "solution_count": 39,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "分类讨论",
+      "tag_count": 11,
+      "solution_count": 11,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "前缀和",
+      "tag_count": 76,
+      "solution_count": 76,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "剪枝",
+      "tag_count": 20,
+      "solution_count": 20,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "动态树 LCT",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "动态规划",
+      "tag_count": 356,
+      "solution_count": 356,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "动态规划优化",
+      "tag_count": 12,
+      "solution_count": 12,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "区间 DP",
+      "tag_count": 18,
+      "solution_count": 18,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "单调栈",
+      "tag_count": 10,
+      "solution_count": 10,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "单调队列",
+      "tag_count": 25,
+      "solution_count": 25,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "博弈论",
+      "tag_count": 29,
+      "solution_count": 29,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "原根",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "双指针 two-pointer",
+      "tag_count": 15,
+      "solution_count": 15,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "双连通分量",
+      "tag_count": 6,
+      "solution_count": 6,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "可并堆",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "可持久化",
+      "tag_count": 19,
+      "solution_count": 19,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "可持久化线段树",
+      "tag_count": 18,
+      "solution_count": 18,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "各省省选",
+      "tag_count": 248,
+      "solution_count": 248,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "后缀数组 SA",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "向量",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "哈希",
+      "tag_count": 40,
+      "solution_count": 40,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "图论",
+      "tag_count": 113,
+      "solution_count": 113,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "图论建模",
+      "tag_count": 30,
+      "solution_count": 30,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "图遍历",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "基环树",
+      "tag_count": 12,
+      "solution_count": 12,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "堆",
+      "tag_count": 24,
+      "solution_count": 24,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "字典树 Trie",
+      "tag_count": 15,
+      "solution_count": 15,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "字符串",
+      "tag_count": 66,
+      "solution_count": 66,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "容斥原理",
+      "tag_count": 29,
+      "solution_count": 29,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "差分",
+      "tag_count": 28,
+      "solution_count": 28,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "平衡树",
+      "tag_count": 24,
+      "solution_count": 24,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "并查集",
+      "tag_count": 37,
+      "solution_count": 37,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "广度优先搜索 BFS",
+      "tag_count": 41,
+      "solution_count": 41,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "强连通分量",
+      "tag_count": 16,
+      "solution_count": 16,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "快速傅里叶变换 FFT",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "快速数论变换 NTT",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "快速沃尔什变换 FWT",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "扩展欧几里德算法",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "扫描线",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "折半搜索 meet in the middle",
+      "tag_count": 6,
+      "solution_count": 6,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "拓扑排序",
+      "tag_count": 16,
+      "solution_count": 16,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "排列组合",
+      "tag_count": 14,
+      "solution_count": 14,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "排序",
+      "tag_count": 59,
+      "solution_count": 59,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "搜索",
+      "tag_count": 190,
+      "solution_count": 190,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "数位 DP",
+      "tag_count": 22,
+      "solution_count": 22,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "数学",
+      "tag_count": 238,
+      "solution_count": 238,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "数组",
+      "tag_count": 77,
+      "solution_count": 77,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "数论",
+      "tag_count": 40,
+      "solution_count": 40,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "整体二分",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "整除分块",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "斐波那契数列",
+      "tag_count": 6,
+      "solution_count": 6,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "斜率优化",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "最大公约数 gcd",
+      "tag_count": 25,
+      "solution_count": 25,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "最小割",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "最短路",
+      "tag_count": 69,
+      "solution_count": 69,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "最近公共祖先 LCA",
+      "tag_count": 20,
+      "solution_count": 20,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "期望",
+      "tag_count": 25,
+      "solution_count": 25,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "构造",
+      "tag_count": 60,
+      "solution_count": 60,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "枚举",
+      "tag_count": 123,
+      "solution_count": 123,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "栈",
+      "tag_count": 28,
+      "solution_count": 28,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "树形 DP",
+      "tag_count": 50,
+      "solution_count": 50,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "树形",
+      "tag_count": 65,
+      "solution_count": 65,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "树形数据结构",
+      "tag_count": 20,
+      "solution_count": 20,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "树状数组",
+      "tag_count": 76,
+      "solution_count": 76,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "树的直径",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "树的遍历",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "树论",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "树链剖分",
+      "tag_count": 26,
+      "solution_count": 26,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "根号分治",
+      "tag_count": 9,
+      "solution_count": 9,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "梦熊比赛",
+      "tag_count": 31,
+      "solution_count": 31,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "概率论",
+      "tag_count": 19,
+      "solution_count": 19,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "模拟",
+      "tag_count": 68,
+      "solution_count": 68,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "模拟退火",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "欧几里德",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "欧拉函数",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "欧拉回路",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "洛谷原创",
+      "tag_count": 158,
+      "solution_count": 158,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "洛谷月赛",
+      "tag_count": 141,
+      "solution_count": 141,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "洛谷比赛",
+      "tag_count": 17,
+      "solution_count": 17,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "深度优先搜索 DFS",
+      "tag_count": 49,
+      "solution_count": 49,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "点分治",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "状压 DP",
+      "tag_count": 59,
+      "solution_count": 59,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "状压",
+      "tag_count": 59,
+      "solution_count": 59,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "生成树",
+      "tag_count": 19,
+      "solution_count": 19,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "矩阵乘法",
+      "tag_count": 18,
+      "solution_count": 18,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "矩阵加速",
+      "tag_count": 16,
+      "solution_count": 16,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "矩阵运算",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "离散化",
+      "tag_count": 30,
+      "solution_count": 30,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "离线处理",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "笛卡尔树",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "筛法",
+      "tag_count": 36,
+      "solution_count": 36,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "素数",
+      "tag_count": 35,
+      "solution_count": 35,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "线性代数",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "线性基",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "线性数据结构",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "线性递推",
+      "tag_count": 6,
+      "solution_count": 6,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "线段树",
+      "tag_count": 194,
+      "solution_count": 194,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "组合",
+      "tag_count": 51,
+      "solution_count": 51,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "组合数学",
+      "tag_count": 41,
+      "solution_count": 41,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "网络流",
+      "tag_count": 28,
+      "solution_count": 28,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "背包 DP",
+      "tag_count": 27,
+      "solution_count": 27,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "背包",
+      "tag_count": 27,
+      "solution_count": 27,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "莫比乌斯反演",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "莫队",
+      "tag_count": 10,
+      "solution_count": 10,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "蓝桥杯国赛",
+      "tag_count": 36,
+      "solution_count": 36,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "蓝桥杯省赛",
+      "tag_count": 17,
+      "solution_count": 17,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "蓝桥杯青少年组",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "虚树",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "计算几何",
+      "tag_count": 34,
+      "solution_count": 34,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "记忆化搜索",
+      "tag_count": 12,
+      "solution_count": 12,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "语言月赛",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "质数",
+      "tag_count": 35,
+      "solution_count": 35,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "贪心",
+      "tag_count": 190,
+      "solution_count": 190,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "费用流",
+      "tag_count": 6,
+      "solution_count": 6,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "进制",
+      "tag_count": 34,
+      "solution_count": 34,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "连通块",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "逆元",
+      "tag_count": 21,
+      "solution_count": 21,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "递归",
+      "tag_count": 22,
+      "solution_count": 22,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "递推",
+      "tag_count": 62,
+      "solution_count": 62,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "链表",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "队列",
+      "tag_count": 50,
+      "solution_count": 50,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "随机化",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "集训队互测",
+      "tag_count": 11,
+      "solution_count": 11,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "高斯消元",
+      "tag_count": 12,
+      "solution_count": 12,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "提高+",
+      "category": "高精度",
+      "tag_count": 22,
+      "solution_count": 22,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "BCSP-X",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "Catalan 数",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "cdq 分治",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "CSP-J 入门级",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "CSP-S 提高级",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "ICPC",
+      "tag_count": 60,
+      "solution_count": 60,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "IOI",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "NOI 导刊",
+      "tag_count": 15,
+      "solution_count": 15,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "NOIP 提高组",
+      "tag_count": 26,
+      "solution_count": 26,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "NOIP 普及组",
+      "tag_count": 18,
+      "solution_count": 18,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "NOI",
+      "tag_count": 78,
+      "solution_count": 78,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "no_tag",
+      "tag_count": 406,
+      "solution_count": 406,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "ST 表",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "Tarjan",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "THUPC",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "USACO",
+      "tag_count": 199,
+      "solution_count": 199,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "三分",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "不定方程",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "中国剩余定理 CRT",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "二分",
+      "tag_count": 98,
+      "solution_count": 98,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "二分图",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "优先队列",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "位运算",
+      "tag_count": 25,
+      "solution_count": 25,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "倍增",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "函数与递归",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "分块",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "分治",
+      "tag_count": 9,
+      "solution_count": 9,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "分类讨论",
+      "tag_count": 16,
+      "solution_count": 16,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "前缀和",
+      "tag_count": 58,
+      "solution_count": 58,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "剪枝",
+      "tag_count": 11,
+      "solution_count": 11,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "动态规划",
+      "tag_count": 171,
+      "solution_count": 171,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "区间 DP",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "单调栈",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "单调队列",
+      "tag_count": 14,
+      "solution_count": 14,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "博弈论",
+      "tag_count": 11,
+      "solution_count": 11,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "双指针 two-pointer",
+      "tag_count": 20,
+      "solution_count": 20,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "各省省选",
+      "tag_count": 45,
+      "solution_count": 45,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "向量",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "哈希",
+      "tag_count": 9,
+      "solution_count": 9,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "图论",
+      "tag_count": 76,
+      "solution_count": 76,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "图论建模",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "图遍历",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "基环树",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "堆",
+      "tag_count": 14,
+      "solution_count": 14,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "字典树 Trie",
+      "tag_count": 9,
+      "solution_count": 9,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "字符串",
+      "tag_count": 69,
+      "solution_count": 69,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "容斥原理",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "差分",
+      "tag_count": 20,
+      "solution_count": 20,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "平衡树",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "并查集",
+      "tag_count": 34,
+      "solution_count": 34,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "广度优先搜索 BFS",
+      "tag_count": 31,
+      "solution_count": 31,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "强连通分量",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "扫描线",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "折半搜索 meet in the middle",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "拓扑排序",
+      "tag_count": 14,
+      "solution_count": 14,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "排列组合",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "排序",
+      "tag_count": 94,
+      "solution_count": 94,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "搜索",
+      "tag_count": 164,
+      "solution_count": 164,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "数学",
+      "tag_count": 232,
+      "solution_count": 232,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "数组",
+      "tag_count": 13,
+      "solution_count": 13,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "数论",
+      "tag_count": 27,
+      "solution_count": 27,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "整除分块",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "斐波那契数列",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "最大公约数 gcd",
+      "tag_count": 6,
+      "solution_count": 6,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "最短路",
+      "tag_count": 41,
+      "solution_count": 41,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "最近公共祖先 LCA",
+      "tag_count": 6,
+      "solution_count": 6,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "期望",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "构造",
+      "tag_count": 43,
+      "solution_count": 43,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "枚举",
+      "tag_count": 121,
+      "solution_count": 121,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "栈",
+      "tag_count": 16,
+      "solution_count": 16,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "树形 DP",
+      "tag_count": 11,
+      "solution_count": 11,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "树形",
+      "tag_count": 25,
+      "solution_count": 25,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "树形数据结构",
+      "tag_count": 14,
+      "solution_count": 14,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "树状数组",
+      "tag_count": 10,
+      "solution_count": 10,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "树的直径",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "树的遍历",
+      "tag_count": 13,
+      "solution_count": 13,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "树论",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "梦熊比赛",
+      "tag_count": 19,
+      "solution_count": 19,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "概率论",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "模拟",
+      "tag_count": 195,
+      "solution_count": 195,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "洛谷原创",
+      "tag_count": 142,
+      "solution_count": 142,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "洛谷月赛",
+      "tag_count": 105,
+      "solution_count": 105,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "洛谷比赛",
+      "tag_count": 13,
+      "solution_count": 13,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "深度优先搜索 DFS",
+      "tag_count": 40,
+      "solution_count": 40,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "状压 DP",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "状压",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "生成树",
+      "tag_count": 22,
+      "solution_count": 22,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "矩阵乘法",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "矩阵运算",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "离散化",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "筛法",
+      "tag_count": 21,
+      "solution_count": 21,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "素数",
+      "tag_count": 20,
+      "solution_count": 20,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "线性 DP",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "线性数据结构",
+      "tag_count": 10,
+      "solution_count": 10,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "线性递推",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "线段树",
+      "tag_count": 16,
+      "solution_count": 16,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "组合",
+      "tag_count": 27,
+      "solution_count": 27,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "组合数学",
+      "tag_count": 25,
+      "solution_count": 25,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "背包 DP",
+      "tag_count": 22,
+      "solution_count": 22,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "背包",
+      "tag_count": 22,
+      "solution_count": 22,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "蓝桥杯国赛",
+      "tag_count": 79,
+      "solution_count": 79,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "蓝桥杯省赛",
+      "tag_count": 74,
+      "solution_count": 74,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "蓝桥杯青少年组",
+      "tag_count": 13,
+      "solution_count": 13,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "计算几何",
+      "tag_count": 9,
+      "solution_count": 9,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "记忆化搜索",
+      "tag_count": 11,
+      "solution_count": 11,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "语言月赛",
+      "tag_count": 15,
+      "solution_count": 15,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "质数",
+      "tag_count": 20,
+      "solution_count": 20,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "贪心",
+      "tag_count": 221,
+      "solution_count": 221,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "进制",
+      "tag_count": 20,
+      "solution_count": 20,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "连通块",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "逆元",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "递归",
+      "tag_count": 31,
+      "solution_count": 31,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "递推",
+      "tag_count": 37,
+      "solution_count": 37,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "链表",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "队列",
+      "tag_count": 35,
+      "solution_count": 35,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "随机化",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "高精度",
+      "tag_count": 15,
+      "solution_count": 15,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及",
+      "category": "鸽笼原理",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "AC 自动机",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "APIO",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "BCSP-X",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "Catalan 数",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "cdq 分治",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "CSP-J 入门级",
+      "tag_count": 10,
+      "solution_count": 10,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "CSP-S 提高级",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "ICPC",
+      "tag_count": 82,
+      "solution_count": 82,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "IOI",
+      "tag_count": 14,
+      "solution_count": 14,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "KMP 算法",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "Manacher 算法",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "NOI 导刊",
+      "tag_count": 13,
+      "solution_count": 13,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "NOIP 提高组",
+      "tag_count": 32,
+      "solution_count": 32,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "NOIP 普及组",
+      "tag_count": 10,
+      "solution_count": 10,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "NOI",
+      "tag_count": 81,
+      "solution_count": 81,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "no_tag",
+      "tag_count": 417,
+      "solution_count": 417,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "SG 函数",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "ST 表",
+      "tag_count": 15,
+      "solution_count": 15,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "Tarjan",
+      "tag_count": 14,
+      "solution_count": 14,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "THUPC",
+      "tag_count": 14,
+      "solution_count": 14,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "USACO",
+      "tag_count": 203,
+      "solution_count": 203,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "三分",
+      "tag_count": 6,
+      "solution_count": 6,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "中国剩余定理 CRT",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "二分",
+      "tag_count": 117,
+      "solution_count": 117,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "二分图",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "优先队列",
+      "tag_count": 10,
+      "solution_count": 10,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "位运算",
+      "tag_count": 33,
+      "solution_count": 33,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "倍增",
+      "tag_count": 16,
+      "solution_count": 16,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "凸包",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "分块",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "分治",
+      "tag_count": 12,
+      "solution_count": 12,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "分类讨论",
+      "tag_count": 13,
+      "solution_count": 13,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "前缀和",
+      "tag_count": 72,
+      "solution_count": 72,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "剪枝",
+      "tag_count": 9,
+      "solution_count": 9,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "动态树 LCT",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "动态规划",
+      "tag_count": 257,
+      "solution_count": 257,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "动态规划优化",
+      "tag_count": 6,
+      "solution_count": 6,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "区间 DP",
+      "tag_count": 14,
+      "solution_count": 14,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "单调栈",
+      "tag_count": 9,
+      "solution_count": 9,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "单调队列",
+      "tag_count": 29,
+      "solution_count": 29,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "博弈论",
+      "tag_count": 20,
+      "solution_count": 20,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "双指针 two-pointer",
+      "tag_count": 16,
+      "solution_count": 16,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "双连通分量",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "可持久化",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "可持久化线段树",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "各省省选",
+      "tag_count": 83,
+      "solution_count": 83,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "后缀数组 SA",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "向量",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "哈希",
+      "tag_count": 23,
+      "solution_count": 23,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "图论",
+      "tag_count": 106,
+      "solution_count": 106,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "图论建模",
+      "tag_count": 14,
+      "solution_count": 14,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "图遍历",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "基环树",
+      "tag_count": 6,
+      "solution_count": 6,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "堆",
+      "tag_count": 25,
+      "solution_count": 25,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "字典树 Trie",
+      "tag_count": 13,
+      "solution_count": 13,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "字符串",
+      "tag_count": 33,
+      "solution_count": 33,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "容斥原理",
+      "tag_count": 6,
+      "solution_count": 6,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "差分",
+      "tag_count": 38,
+      "solution_count": 38,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "平衡树",
+      "tag_count": 6,
+      "solution_count": 6,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "并查集",
+      "tag_count": 46,
+      "solution_count": 46,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "广度优先搜索 BFS",
+      "tag_count": 40,
+      "solution_count": 40,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "强连通分量",
+      "tag_count": 12,
+      "solution_count": 12,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "扩展欧几里德算法",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "扫描线",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "折半搜索 meet in the middle",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "拓扑排序",
+      "tag_count": 21,
+      "solution_count": 21,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "排列组合",
+      "tag_count": 12,
+      "solution_count": 12,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "排序",
+      "tag_count": 73,
+      "solution_count": 73,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "搜索",
+      "tag_count": 159,
+      "solution_count": 159,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "数位 DP",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "数学",
+      "tag_count": 229,
+      "solution_count": 229,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "数组",
+      "tag_count": 46,
+      "solution_count": 46,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "数论",
+      "tag_count": 28,
+      "solution_count": 28,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "整除分块",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "斐波那契数列",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "最大公约数 gcd",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "最短路",
+      "tag_count": 60,
+      "solution_count": 60,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "最近公共祖先 LCA",
+      "tag_count": 22,
+      "solution_count": 22,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "期望",
+      "tag_count": 20,
+      "solution_count": 20,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "构造",
+      "tag_count": 61,
+      "solution_count": 61,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "枚举",
+      "tag_count": 105,
+      "solution_count": 105,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "栈",
+      "tag_count": 35,
+      "solution_count": 35,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "树形 DP",
+      "tag_count": 34,
+      "solution_count": 34,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "树形",
+      "tag_count": 53,
+      "solution_count": 53,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "树形数据结构",
+      "tag_count": 22,
+      "solution_count": 22,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "树状数组",
+      "tag_count": 43,
+      "solution_count": 43,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "树的直径",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "树的遍历",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "树论",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "树链剖分",
+      "tag_count": 6,
+      "solution_count": 6,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "根号分治",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "梦熊比赛",
+      "tag_count": 33,
+      "solution_count": 33,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "概率论",
+      "tag_count": 10,
+      "solution_count": 10,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "模拟",
+      "tag_count": 106,
+      "solution_count": 106,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "模拟退火",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "欧几里德",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "欧拉回路",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "洛谷原创",
+      "tag_count": 178,
+      "solution_count": 178,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "洛谷月赛",
+      "tag_count": 136,
+      "solution_count": 133,
+      "extra_count": 0,
+      "missing_count": 3,
+      "extra_pids": [],
+      "missing_pids": [
+        "P10445",
+        "P10512",
+        "P10511"
+      ]
+    },
+    {
+      "difficulty": "普及+",
+      "category": "洛谷比赛",
+      "tag_count": 19,
+      "solution_count": 19,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "深度优先搜索 DFS",
+      "tag_count": 39,
+      "solution_count": 39,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "状压 DP",
+      "tag_count": 18,
+      "solution_count": 18,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "状压",
+      "tag_count": 18,
+      "solution_count": 18,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "生成函数",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "生成树",
+      "tag_count": 12,
+      "solution_count": 12,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "矩阵乘法",
+      "tag_count": 10,
+      "solution_count": 10,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "矩阵加速",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "矩阵运算",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "离散化",
+      "tag_count": 14,
+      "solution_count": 14,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "离线处理",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "笛卡尔树",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "筛法",
+      "tag_count": 18,
+      "solution_count": 18,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "素数",
+      "tag_count": 18,
+      "solution_count": 18,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "线性 DP",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "线性代数",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "线性数据结构",
+      "tag_count": 11,
+      "solution_count": 11,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "线性递推",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "线段树",
+      "tag_count": 75,
+      "solution_count": 75,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "组合",
+      "tag_count": 43,
+      "solution_count": 43,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "组合数学",
+      "tag_count": 37,
+      "solution_count": 37,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "结构体",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "网络流",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "背包 DP",
+      "tag_count": 31,
+      "solution_count": 31,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "背包",
+      "tag_count": 31,
+      "solution_count": 31,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "莫队",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "蓝桥杯国赛",
+      "tag_count": 65,
+      "solution_count": 65,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "蓝桥杯省赛",
+      "tag_count": 45,
+      "solution_count": 45,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "蓝桥杯青少年组",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "计算几何",
+      "tag_count": 15,
+      "solution_count": 15,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "记忆化搜索",
+      "tag_count": 11,
+      "solution_count": 11,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "语言月赛",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "质数",
+      "tag_count": 18,
+      "solution_count": 18,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "贪心",
+      "tag_count": 197,
+      "solution_count": 197,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "费用流",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "进制",
+      "tag_count": 21,
+      "solution_count": 21,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "连通块",
+      "tag_count": 9,
+      "solution_count": 9,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "逆元",
+      "tag_count": 14,
+      "solution_count": 14,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "递归",
+      "tag_count": 22,
+      "solution_count": 22,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "递推",
+      "tag_count": 27,
+      "solution_count": 27,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "链表",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "队列",
+      "tag_count": 43,
+      "solution_count": 43,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "随机化",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "集训队互测",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "高精度",
+      "tag_count": 14,
+      "solution_count": 14,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及+",
+      "category": "鸽笼原理",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "BCSP-X",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "Catalan 数",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "CSP-J 入门级",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "CSP-S 提高级",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "ICPC",
+      "tag_count": 53,
+      "solution_count": 53,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "IOI",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "NOI 导刊",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "NOIP 提高组",
+      "tag_count": 20,
+      "solution_count": 20,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "NOIP 普及组",
+      "tag_count": 34,
+      "solution_count": 34,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "NOI",
+      "tag_count": 74,
+      "solution_count": 74,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "no_tag",
+      "tag_count": 379,
+      "solution_count": 379,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "THUPC",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "USACO",
+      "tag_count": 113,
+      "solution_count": 113,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "不定方程",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "中国剩余定理 CRT",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "二分",
+      "tag_count": 41,
+      "solution_count": 41,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "二分图",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "优先队列",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "位运算",
+      "tag_count": 19,
+      "solution_count": 19,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "函数与递归",
+      "tag_count": 9,
+      "solution_count": 9,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "分块",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "分治",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "分类讨论",
+      "tag_count": 9,
+      "solution_count": 9,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "前缀和",
+      "tag_count": 39,
+      "solution_count": 39,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "剪枝",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "动态规划",
+      "tag_count": 66,
+      "solution_count": 66,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "单调队列",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "博弈论",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "双指针 two-pointer",
+      "tag_count": 20,
+      "solution_count": 20,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "各省省选",
+      "tag_count": 13,
+      "solution_count": 13,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "哈希",
+      "tag_count": 10,
+      "solution_count": 10,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "图论",
+      "tag_count": 15,
+      "solution_count": 15,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "图论建模",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "图遍历",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "堆",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "字典树 Trie",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "字符串",
+      "tag_count": 134,
+      "solution_count": 134,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "容斥原理",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "差分",
+      "tag_count": 9,
+      "solution_count": 9,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "并查集",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "广度优先搜索 BFS",
+      "tag_count": 16,
+      "solution_count": 16,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "拓扑排序",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "排列组合",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "排序",
+      "tag_count": 119,
+      "solution_count": 119,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "搜索",
+      "tag_count": 109,
+      "solution_count": 109,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "数学",
+      "tag_count": 196,
+      "solution_count": 196,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "数组",
+      "tag_count": 36,
+      "solution_count": 36,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "数论",
+      "tag_count": 15,
+      "solution_count": 15,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "斐波那契数列",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "最大公约数 gcd",
+      "tag_count": 13,
+      "solution_count": 13,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "最短路",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "期望",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "构造",
+      "tag_count": 40,
+      "solution_count": 40,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "枚举",
+      "tag_count": 119,
+      "solution_count": 119,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "栈",
+      "tag_count": 11,
+      "solution_count": 11,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "树形",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "树形数据结构",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "树状数组",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "树的遍历",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "树论",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "梦熊比赛",
+      "tag_count": 27,
+      "solution_count": 27,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "模拟",
+      "tag_count": 329,
+      "solution_count": 329,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "欧拉函数",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "洛谷原创",
+      "tag_count": 134,
+      "solution_count": 134,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "洛谷月赛",
+      "tag_count": 118,
+      "solution_count": 118,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "洛谷比赛",
+      "tag_count": 6,
+      "solution_count": 6,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "深度优先搜索 DFS",
+      "tag_count": 29,
+      "solution_count": 29,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "状压 DP",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "状压",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "离散化",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "筛法",
+      "tag_count": 25,
+      "solution_count": 25,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "素数",
+      "tag_count": 25,
+      "solution_count": 25,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "线性数据结构",
+      "tag_count": 6,
+      "solution_count": 6,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "线性递推",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "线段树",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "组合",
+      "tag_count": 9,
+      "solution_count": 9,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "组合数学",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "结构体",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "背包 DP",
+      "tag_count": 24,
+      "solution_count": 24,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "背包",
+      "tag_count": 24,
+      "solution_count": 24,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "蓝桥杯国赛",
+      "tag_count": 41,
+      "solution_count": 41,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "蓝桥杯省赛",
+      "tag_count": 68,
+      "solution_count": 68,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "蓝桥杯青少年组",
+      "tag_count": 16,
+      "solution_count": 16,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "计算几何",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "记忆化搜索",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "语言月赛",
+      "tag_count": 94,
+      "solution_count": 94,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "质数",
+      "tag_count": 25,
+      "solution_count": 25,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "贪心",
+      "tag_count": 169,
+      "solution_count": 169,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "进制",
+      "tag_count": 27,
+      "solution_count": 27,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "连通块",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "逆元",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "递归",
+      "tag_count": 36,
+      "solution_count": 36,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "递推",
+      "tag_count": 36,
+      "solution_count": 36,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "链表",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "队列",
+      "tag_count": 11,
+      "solution_count": 11,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "随机化",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "集训队互测",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "高斯消元",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "高精度",
+      "tag_count": 17,
+      "solution_count": 17,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "普及-",
+      "category": "鸽笼原理",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "AC 自动机",
+      "tag_count": 23,
+      "solution_count": 23,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "APIO",
+      "tag_count": 36,
+      "solution_count": 36,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "Catalan 数",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "cdq 分治",
+      "tag_count": 16,
+      "solution_count": 16,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "CSP-S 提高级",
+      "tag_count": 6,
+      "solution_count": 6,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "ICPC",
+      "tag_count": 207,
+      "solution_count": 206,
+      "extra_count": 0,
+      "missing_count": 1,
+      "extra_pids": [],
+      "missing_pids": [
+        "P10745"
+      ]
+    },
+    {
+      "difficulty": "省选",
+      "category": "IOI",
+      "tag_count": 32,
+      "solution_count": 32,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "K-D Tree",
+      "tag_count": 9,
+      "solution_count": 9,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "KMP 算法",
+      "tag_count": 13,
+      "solution_count": 13,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "Kruskal 重构树",
+      "tag_count": 6,
+      "solution_count": 6,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "Lucas 定理",
+      "tag_count": 10,
+      "solution_count": 10,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "Manacher 算法",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "NOI 导刊",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "NOIP 提高组",
+      "tag_count": 21,
+      "solution_count": 21,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "NOI",
+      "tag_count": 96,
+      "solution_count": 96,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "no_tag",
+      "tag_count": 834,
+      "solution_count": 833,
+      "extra_count": 0,
+      "missing_count": 1,
+      "extra_pids": [],
+      "missing_pids": [
+        "P10745"
+      ]
+    },
+    {
+      "difficulty": "省选",
+      "category": "SG 函数",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "ST 表",
+      "tag_count": 14,
+      "solution_count": 14,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "Tarjan",
+      "tag_count": 11,
+      "solution_count": 11,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "THUPC",
+      "tag_count": 54,
+      "solution_count": 54,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "USACO",
+      "tag_count": 131,
+      "solution_count": 131,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "三分",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "不定方程",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "中国剩余定理 CRT",
+      "tag_count": 14,
+      "solution_count": 14,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "二分",
+      "tag_count": 141,
+      "solution_count": 141,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "二分图",
+      "tag_count": 33,
+      "solution_count": 33,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "优先队列",
+      "tag_count": 10,
+      "solution_count": 10,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "位运算",
+      "tag_count": 25,
+      "solution_count": 25,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "倍增",
+      "tag_count": 48,
+      "solution_count": 48,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "凸包",
+      "tag_count": 42,
+      "solution_count": 42,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "分块",
+      "tag_count": 61,
+      "solution_count": 61,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "分治",
+      "tag_count": 118,
+      "solution_count": 118,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "分类讨论",
+      "tag_count": 14,
+      "solution_count": 14,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "前缀和",
+      "tag_count": 54,
+      "solution_count": 54,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "剪枝",
+      "tag_count": 15,
+      "solution_count": 15,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "动态树 LCT",
+      "tag_count": 41,
+      "solution_count": 41,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "动态规划",
+      "tag_count": 351,
+      "solution_count": 351,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "动态规划优化",
+      "tag_count": 24,
+      "solution_count": 24,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "区间 DP",
+      "tag_count": 12,
+      "solution_count": 12,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "单调栈",
+      "tag_count": 10,
+      "solution_count": 10,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "单调队列",
+      "tag_count": 24,
+      "solution_count": 24,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "博弈论",
+      "tag_count": 23,
+      "solution_count": 23,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "原根",
+      "tag_count": 3,
+      "solution_count": 3,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "双指针 two-pointer",
+      "tag_count": 12,
+      "solution_count": 12,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "双连通分量",
+      "tag_count": 6,
+      "solution_count": 6,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "可并堆",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "可持久化",
+      "tag_count": 51,
+      "solution_count": 51,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "可持久化线段树",
+      "tag_count": 37,
+      "solution_count": 37,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "各省省选",
+      "tag_count": 442,
+      "solution_count": 442,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "后缀数组 SA",
+      "tag_count": 31,
+      "solution_count": 31,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "向量",
+      "tag_count": 10,
+      "solution_count": 10,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "哈希",
+      "tag_count": 45,
+      "solution_count": 45,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "图论",
+      "tag_count": 112,
+      "solution_count": 112,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "图论建模",
+      "tag_count": 37,
+      "solution_count": 37,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "图遍历",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "基环树",
+      "tag_count": 12,
+      "solution_count": 12,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "堆",
+      "tag_count": 18,
+      "solution_count": 18,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "字典树 Trie",
+      "tag_count": 19,
+      "solution_count": 19,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "字符串",
+      "tag_count": 69,
+      "solution_count": 69,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "容斥原理",
+      "tag_count": 53,
+      "solution_count": 53,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "差分",
+      "tag_count": 29,
+      "solution_count": 29,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "平衡树",
+      "tag_count": 74,
+      "solution_count": 74,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "并查集",
+      "tag_count": 49,
+      "solution_count": 49,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "广度优先搜索 BFS",
+      "tag_count": 26,
+      "solution_count": 26,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "强连通分量",
+      "tag_count": 19,
+      "solution_count": 19,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "快速傅里叶变换 FFT",
+      "tag_count": 37,
+      "solution_count": 37,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "快速数论变换 NTT",
+      "tag_count": 28,
+      "solution_count": 28,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "快速沃尔什变换 FWT",
+      "tag_count": 13,
+      "solution_count": 13,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "快速莫比乌斯变换 FMT",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "扩展欧几里德算法",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "扫描线",
+      "tag_count": 10,
+      "solution_count": 10,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "折半搜索 meet in the middle",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "拓扑排序",
+      "tag_count": 18,
+      "solution_count": 18,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "排列组合",
+      "tag_count": 11,
+      "solution_count": 11,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "排序",
+      "tag_count": 64,
+      "solution_count": 64,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "搜索",
+      "tag_count": 127,
+      "solution_count": 127,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "数位 DP",
+      "tag_count": 19,
+      "solution_count": 19,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "数学",
+      "tag_count": 253,
+      "solution_count": 255,
+      "extra_count": 2,
+      "missing_count": 0,
+      "extra_pids": [
+        "P6156",
+        "P5087"
+      ],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "数组",
+      "tag_count": 108,
+      "solution_count": 108,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "数论",
+      "tag_count": 61,
+      "solution_count": 61,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "整体二分",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "整除分块",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "斐波那契数列",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "斜率优化",
+      "tag_count": 28,
+      "solution_count": 28,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "最大公约数 gcd",
+      "tag_count": 13,
+      "solution_count": 13,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "最小割",
+      "tag_count": 34,
+      "solution_count": 34,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "最短路",
+      "tag_count": 55,
+      "solution_count": 55,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "最近公共祖先 LCA",
+      "tag_count": 34,
+      "solution_count": 34,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "期望",
+      "tag_count": 57,
+      "solution_count": 57,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "构造",
+      "tag_count": 80,
+      "solution_count": 81,
+      "extra_count": 1,
+      "missing_count": 0,
+      "extra_pids": [
+        "P2022"
+      ],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "枚举",
+      "tag_count": 144,
+      "solution_count": 144,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "栈",
+      "tag_count": 36,
+      "solution_count": 36,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "树上启发式合并",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "树形 DP",
+      "tag_count": 58,
+      "solution_count": 58,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "树形",
+      "tag_count": 74,
+      "solution_count": 74,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "树形数据结构",
+      "tag_count": 17,
+      "solution_count": 17,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "树状数组",
+      "tag_count": 77,
+      "solution_count": 77,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "树的直径",
+      "tag_count": 8,
+      "solution_count": 8,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "树的遍历",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "树论",
+      "tag_count": 7,
+      "solution_count": 7,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "树链剖分",
+      "tag_count": 59,
+      "solution_count": 59,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "根号分治",
+      "tag_count": 22,
+      "solution_count": 22,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "梦熊比赛",
+      "tag_count": 33,
+      "solution_count": 33,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "概率论",
+      "tag_count": 23,
+      "solution_count": 23,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "模拟",
+      "tag_count": 58,
+      "solution_count": 59,
+      "extra_count": 1,
+      "missing_count": 0,
+      "extra_pids": [
+        "P2021"
+      ],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "模拟退火",
+      "tag_count": 11,
+      "solution_count": 11,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "欧几里德",
+      "tag_count": 2,
+      "solution_count": 2,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "欧拉函数",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "欧拉回路",
+      "tag_count": 10,
+      "solution_count": 10,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "洛谷原创",
+      "tag_count": 191,
+      "solution_count": 191,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "洛谷月赛",
+      "tag_count": 165,
+      "solution_count": 165,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "洛谷比赛",
+      "tag_count": 21,
+      "solution_count": 21,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "深度优先搜索 DFS",
+      "tag_count": 55,
+      "solution_count": 55,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "点分治",
+      "tag_count": 25,
+      "solution_count": 25,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "状压 DP",
+      "tag_count": 67,
+      "solution_count": 67,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "状压",
+      "tag_count": 67,
+      "solution_count": 67,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "生成函数",
+      "tag_count": 22,
+      "solution_count": 22,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "生成树",
+      "tag_count": 44,
+      "solution_count": 44,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "矩阵乘法",
+      "tag_count": 22,
+      "solution_count": 22,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "矩阵加速",
+      "tag_count": 24,
+      "solution_count": 24,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "矩阵运算",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "离散化",
+      "tag_count": 20,
+      "solution_count": 20,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "离线处理",
+      "tag_count": 5,
+      "solution_count": 5,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "笛卡尔树",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "筛法",
+      "tag_count": 45,
+      "solution_count": 45,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "素数",
+      "tag_count": 42,
+      "solution_count": 42,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "线性代数",
+      "tag_count": 10,
+      "solution_count": 10,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "线性基",
+      "tag_count": 14,
+      "solution_count": 14,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "线性数据结构",
+      "tag_count": 4,
+      "solution_count": 4,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "线性递推",
+      "tag_count": 9,
+      "solution_count": 9,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "线段树",
+      "tag_count": 283,
+      "solution_count": 283,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "组合",
+      "tag_count": 70,
+      "solution_count": 70,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "组合数学",
+      "tag_count": 64,
+      "solution_count": 64,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "网络流",
+      "tag_count": 92,
+      "solution_count": 92,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "背包 DP",
+      "tag_count": 24,
+      "solution_count": 24,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "背包",
+      "tag_count": 24,
+      "solution_count": 24,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "莫比乌斯反演",
+      "tag_count": 30,
+      "solution_count": 30,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "莫队",
+      "tag_count": 31,
+      "solution_count": 31,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "蓝桥杯国赛",
+      "tag_count": 20,
+      "solution_count": 20,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "蓝桥杯省赛",
+      "tag_count": 9,
+      "solution_count": 9,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "蓝桥杯青少年组",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "虚树",
+      "tag_count": 16,
+      "solution_count": 16,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "计算几何",
+      "tag_count": 53,
+      "solution_count": 53,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "记忆化搜索",
+      "tag_count": 10,
+      "solution_count": 10,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "质数",
+      "tag_count": 42,
+      "solution_count": 42,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "贪心",
+      "tag_count": 135,
+      "solution_count": 135,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "费用流",
+      "tag_count": 36,
+      "solution_count": 36,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "进制",
+      "tag_count": 27,
+      "solution_count": 27,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "连通块",
+      "tag_count": 12,
+      "solution_count": 12,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "逆元",
+      "tag_count": 18,
+      "solution_count": 18,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "递归",
+      "tag_count": 38,
+      "solution_count": 38,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "递推",
+      "tag_count": 45,
+      "solution_count": 45,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "链表",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "队列",
+      "tag_count": 40,
+      "solution_count": 40,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "随机化",
+      "tag_count": 15,
+      "solution_count": 15,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "集训队互测",
+      "tag_count": 31,
+      "solution_count": 31,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "高斯消元",
+      "tag_count": 22,
+      "solution_count": 22,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "高精度",
+      "tag_count": 19,
+      "solution_count": 19,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    },
+    {
+      "difficulty": "省选",
+      "category": "鸽笼原理",
+      "tag_count": 1,
+      "solution_count": 1,
+      "extra_count": 0,
+      "missing_count": 0,
+      "extra_pids": [],
+      "missing_pids": []
+    }
+  ],
+  "extra_files_detail": [
+    {
+      "difficulty": "省选",
+      "category": "数学",
+      "pid": "P6156",
+      "filename": "P6156-简单题.md",
+      "file_path": "D:\\ChatgptKay\\KayAgi\\cpp\\luogu\\solution\\省选\\数学\\P6156-简单题.md"
+    },
+    {
+      "difficulty": "省选",
+      "category": "数学",
+      "pid": "P5087",
+      "filename": "P5087-数学.md",
+      "file_path": "D:\\ChatgptKay\\KayAgi\\cpp\\luogu\\solution\\省选\\数学\\P5087-数学.md"
+    },
+    {
+      "difficulty": "省选",
+      "category": "构造",
+      "pid": "P2022",
+      "filename": "P2022-有趣的数.md",
+      "file_path": "D:\\ChatgptKay\\KayAgi\\cpp\\luogu\\solution\\省选\\构造\\P2022-有趣的数.md"
+    },
+    {
+      "difficulty": "省选",
+      "category": "模拟",
+      "pid": "P2021",
+      "filename": "P2021-faebdc玩扑克.md",
+      "file_path": "D:\\ChatgptKay\\KayAgi\\cpp\\luogu\\solution\\省选\\模拟\\P2021-faebdc玩扑克.md"
+    }
+  ]
+}

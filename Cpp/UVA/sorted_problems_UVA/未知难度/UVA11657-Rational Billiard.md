@@ -1,0 +1,43 @@
+---
+title: "Rational Billiard"
+layout: "post"
+diff: 难度0
+pid: UVA11657
+tag: []
+---
+
+# Rational Billiard
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=78&page=show_problem&problem=2704
+
+[PDF](https://uva.onlinejudge.org/external/116/p11657.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11657/9b8238e9259cb01849bf7d778bf600d7bc5cd118.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11657/d4f703c3aac6eb05d55142892896645c5039dd1b.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11657/bf18da61f29b1268eacf40efae4015249e66cdbd.png)
+
+## 样例 #1
+
+### 输入
+
+```
+4 4 3 1 1 1 1 1
+4 4 3 1 2 2 1 1
+0 0 0 0 0 0 0 0
+```
+
+### 输出
+
+```
+HIT
+MISS
+```
+

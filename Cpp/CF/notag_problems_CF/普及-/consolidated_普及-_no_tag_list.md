@@ -1,0 +1,1067 @@
+# 无标签题目列表
+
+- CF1000A - Codehorses T-shirts
+- CF1008B - Turn the Rectangles
+- CF1011A - Stages
+- CF1015A - Points in Segments
+- CF1015C - Songs Compression
+- CF1020A - New Building for SIS
+- CF1020B - Badge
+- CF1027A - Palindromic Twist
+- CF1028A - Find Square
+- CF102B - Sum of Digits
+- CF1031A - Golden Plate
+- CF1032B - Personalized Cup
+- CF1033A - King Escape
+- CF1033B - Square Difference
+- CF1036A - Function Height
+- CF1038C - Gambling
+- CF1040A - Palindrome Dance
+- CF1043A - Elections
+- CF1047B - Cover Points
+- CF104A - Blackjack
+- CF1051A - Vasya And Password
+- CF1055A - Metro
+- CF105A - Transmigration
+- CF1060A - Phone Numbers
+- CF1060B - Maximum Sum of Digits
+- CF1061A - Coins
+- CF1062A - A Prank
+- CF1064A - Make a triangle!
+- CF1066A - Vova and Train
+- CF1068B - LCM
+- CF106A - Card Game
+- CF106B - Choosing Laptop
+- CF1070D - Garbage Disposal
+- CF1070K - Video Posts
+- CF1076A - Minimizing the String
+- CF1077A - Frog Jumping
+- CF1080A - Petya and Origami
+- CF1082A - Vasya and Book
+- CF1084A - The Fair Nut and Elevator
+- CF1084B - Kvass and the Fair Nut
+- CF108A - Palindromic Times
+- CF1090M - The Pleasant Walk
+- CF1092A - Uniform String
+- CF1092B - Teams Forming
+- CF1093B - Letters Rearranging
+- CF1095B - Array Stabilization
+- CF1099A - Snowball
+- CF1099B - Squares and Segments
+- CF1101B - Accordion
+- CF1101E - Polycarp's New Job
+- CF1102C - Doors Breaking and Repairing
+- CF1104A - Splitting into digits
+- CF1105A - Salem and Sticks
+- CF1106A - Lunar New Year and Cross Counting
+- CF1107A - Digits Sequence Dividing
+- CF1108A - Two distinct points
+- CF1108C - Nice Garland
+- CF1110A - Parity
+- CF1111A - Superhero Transformation
+- CF1113A - Sasha and His Trip
+- CF1114A - Got Any Grapes?
+- CF1114B - Yet Another Array Partitioning Task
+- CF1117A - Best Subsegment
+- CF1118B - Tanya and Candies
+- CF1119A - Ilya and a Colorful Walk
+- CF111A - Petya and Inequiations
+- CF1130A - Be Positive
+- CF1132A - Regular Bracket Sequence
+- CF1132B - Discounts
+- CF1136A - Nastya Is Reading a Book
+- CF1139A - Even Substrings
+- CF113A - Grammar Lessons
+- CF1140B - Good String
+- CF1140C - Playlist
+- CF1141B - Maximal Continuous Rest
+- CF1143A - The Doors
+- CF1144B - Parity Alternated Deletions
+- CF1145A - Thanos Sort
+- CF1145F - Neat Words
+- CF1148B - Born This Way
+- CF1149A - Prefix Sum Primes
+- CF1150A - Stock Arbitraging
+- CF1151A - Maxim and Biology
+- CF1152A - Neko Finds Grapes
+- CF1152B - Neko Performs Cat Furrier Transform
+- CF1153A - Serval and Bus
+- CF1154A - Restoring Three Numbers
+- CF1155A - Reverse a Substring
+- CF1156A - Inscribed Figures
+- CF1157A - Reachable Numbers
+- CF1157B - Long Number
+- CF1158A - The Party and Sweets
+- CF1163A - Eating Soup
+- CF1165A - Remainder
+- CF1165B - Polycarp Training
+- CF1165C - Good String
+- CF1166A - Silent Classroom
+- CF1166B - All the Vowels Please
+- CF1167C - News Distribution
+- CF1169B - Pairs
+- CF116B - Little Pigs and Wolves
+- CF1173B - Nauuo and Chess
+- CF1174A - Ehab Fails to Be Thanos
+- CF1174B - Ehab Is an Odd Person
+- CF1174C - Ehab and a Special Coloring Problem
+- CF1175A - From Hero to Zero
+- CF1176A - Divide it!
+- CF1177A - Digits Sequence (Easy Edition)
+- CF1183B - Equalize Prices
+- CF1183D - Candy Box (easy version)
+- CF1185A - Ropewalkers
+- CF1185B - Email from Polycarp
+- CF1187B - Letters Shop
+- CF1189B - Number Circle
+- CF1194B - Yet Another Crosses Problem
+- CF1195A - Drinks Choosing
+- CF1195B - Sport Mafia
+- CF1196C - Robot Breakout
+- CF1196D1 - RGB Substring (easy version)
+- CF1197A - DIY Wooden Ladder
+- CF1197B - Pillars
+- CF1199A - City Day
+- CF1199B - Water Lily
+- CF1201A - Important Exam
+- CF1203A - Circle of Students
+- CF1204A - BowWow and the Timetable
+- CF1206B - Make Product Equal One
+- CF1207B - Square Filling
+- CF1208A - XORinacci
+- CF1209A - Paint the Numbers
+- CF1209B - Koala and Lights
+- CF120D - Three Sons
+- CF1213B - Bad Prices
+- CF1214A - Optimal Currency Exchange
+- CF1215A - Yellow Cards
+- CF1215B - The Number of Products
+- CF1221A - 2048 Game
+- CF1221B - Knights
+- CF1221C - Perfect Team
+- CF1225A - Forgetting Things
+- CF1225B1 - TV Subscriptions (Easy Version)
+- CF1227A - Math Problem
+- CF1228B - Filling the Grid
+- CF122A - Lucky Division
+- CF1230B - Ania and Minimizing
+- CF1231C - Increasing Matrix
+- CF1234B1 - Social Network (easy version)
+- CF1238B - Kill 'Em All
+- CF1243B1 - Character Swap (Easy Version)
+- CF1244B - Rooms and Staircases
+- CF1245A - Good ol' Numbers Coloring
+- CF1248A - Integer Points
+- CF1248B - Grow The Tree
+- CF1249B1 - Books Exchange (easy version)
+- CF1249C1 - Good Numbers (easy version)
+- CF1251A - Broken Keyboard
+- CF1252A - Copying Homework
+- CF1253A - Single Push
+- CF1255B - Fridge Lockers
+- CF1256A - Payment Without Change
+- CF1257B - Magic Stick
+- CF125A - Measuring Lengths in Baden
+- CF1263A - Sweet Problem
+- CF1265A - Beautiful String
+- CF1266A - Competitive Programmer
+- CF1266B - Dice Tower
+- CF1272A - Three Friends
+- CF1276A - As Simple as One and Two
+- CF1277A - Happy Birthday, Polycarp!
+- CF1278A - Shuffle Hashing
+- CF1279B - Verse For Santa
+- CF127A - Wasted Time
+- CF1282A - Temporarily unavailable
+- CF1285B - Just Eat It!
+- CF1288B - Yet Another Meme Problem
+- CF1294B - Collecting Packages
+- CF1296A - Array with Odd Sum
+- CF1296B - Food Buying
+- CF129B - Students and Shoelaces
+- CF1300B - Assigning to Classes
+- CF1301A - Three Strings
+- CF1303B - National Project
+- CF1305A - Kuroni and the Gifts
+- CF1307A - Cow and Haybales
+- CF1311A - Add Odd or Subtract Even
+- CF1312A - Two Regular Polygons
+- CF1313A - Fast Food Restaurant
+- CF1315A - Dead Pixel
+- CF1316A - Grade Allocation
+- CF1321A - Contest for Robots
+- CF1322A - Unusual Competitions
+- CF1323A - Even Subset Sum Problem
+- CF1324A - Yet Another Tetris Problem
+- CF1324B - Yet Another Palindrome Problem
+- CF1324C - Frog Jumps
+- CF1326A - Bad Ugly Numbers
+- CF1326B - Maximums
+- CF1327B - Princesses and Princes
+- CF1327C - Game with Chips
+- CF1328B - K-th Beautiful String
+- CF1328C - Ternary XOR
+- CF1330A - Dreamoon and Ranking Collection
+- CF1332A - Exercising Walk
+- CF1333A - Little Artem
+- CF1333B - Kind Anton
+- CF1334A - Level Statistics
+- CF1334B - Middle Class
+- CF1335C - Two Teams Composing
+- CF1335D - Anti-Sudoku
+- CF1337B - Kana and Dragon Quest game
+- CF1339A - Filling Diamonds
+- CF1341A - Nastya and Rice
+- CF1342A - Road To Zero
+- CF1343A - Candies
+- CF1343B - Balanced Array
+- CF1345B - Card Constructions
+- CF134A - Average Numbers
+- CF1352B - Same Parity Summands
+- CF1352C - K-th Not Divisible by n
+- CF1353C - Board Moves
+- CF1355A - Sequence with Digits
+- CF1355B - Young Explorers
+- CF1358B - Maria Breaks the Self-isolation
+- CF1359A - Berland Poker
+- CF1359B - New Theatre Square
+- CF135A - Replacement
+- CF1360B - Honest Coach
+- CF1362A - Johnny and Ancient Computer
+- CF1363A - Odd Selection
+- CF1363B - Subsequence Hate
+- CF1365A - Matrix Game
+- CF1367B - Even Array
+- CF1369B - AccurateLee
+- CF136B - Ternary Logic
+- CF1370B - GCD Compression
+- CF1372A - Omkar and Completion
+- CF1373A - Donut Shops
+- CF1373B - 01 Game
+- CF1374B - Multiply by 2, divide by 6
+- CF1375A - Sign Flipping
+- CF137B - Permutation
+- CF137C - History
+- CF1380A - Three Indices
+- CF1380B - Universal Solution
+- CF1380C - Create The Teams
+- CF1382B - Sequential Nim
+- CF1384A - Common Prefixes
+- CF1388A - Captain Flint and Crew Recruitment
+- CF1388B - Captain Flint and a Long Voyage
+- CF1391B - Fix You
+- CF1392A - Omkar and Password
+- CF1393A - Rainbow Dash, Fluttershy and Chess Coloring
+- CF1395A - Boboniu Likes to Color Balls
+- CF1395B - Boboniu Plays Chess
+- CF1399A - Remove Smallest
+- CF1399B - Gifts Fixing
+- CF1400A - String Similarity
+- CF1401B - Ternary Sequence
+- CF1406B - Maximum Product
+- CF1407A - Ahahahahahahahaha
+- CF1409B - Minimum Product
+- CF1409C - Yet Another Array Restoration
+- CF1415B - Repainting Street
+- CF1417B - Two Arrays
+- CF1419A - Digit Game
+- CF1419B - Stairs
+- CF1419D1 - Sage's Birthday (easy version)
+- CF141A - Amusing Joke
+- CF141B - Hopscotch
+- CF1420A - Cubes Sorting
+- CF1421B - Putting Bricks in the Wall
+- CF1426C - Increase and Copy
+- CF1428B - Belted Rooms
+- CF1430B - Barrels
+- CF1433B - Yet Another Bookshelf
+- CF1433C - Dominant Piranha
+- CF1436B - Prime Square
+- CF1437A - Marketing Scheme
+- CF143A - Help Vasilisa the Wise 2
+- CF1440A - Buy the String
+- CF1443A - Kids Seating
+- CF1445A - Array Rearrangment
+- CF1445B - Elimination
+- CF1447B - Numbers Box
+- CF144B - Meeting
+- CF1450B - Balls of Steel
+- CF1451B - Non-Substring Subsequence
+- CF1452A - Robot Program
+- CF1454B - Unique Bid Auction
+- CF1455C - Ping-pong
+- CF145A - Lucky Conversion
+- CF1461B - Find the Spruce
+- CF1462C - Unique Number
+- CF1463A - Dungeon
+- CF1467A - Wizard of Orz
+- CF1468N - Waste Sorting
+- CF1469B - Red and Blue
+- CF1471B - Strange List
+- CF1472C - Long Jumps
+- CF1473B - String LCM
+- CF1480B - The Great Hero
+- CF1481B - New Colony
+- CF1484B - Restore Modulo
+- CF1485A - Add and Divide
+- CF1485B - Replace and Keep Sorted
+- CF1487B - Cat Cycle
+- CF1490C - Sum of Cubes
+- CF1490D - Permutation Transformation
+- CF1491B - Minimal Cost
+- CF1492B - Card Deck
+- CF1493B - Planet Lapituletti
+- CF1494B - Berland Crossword
+- CF1495A - Diamond Miner
+- CF1496B - Max and Mex
+- CF1497B - M-arrays
+- CF1497C1 - k-LCM (easy version)
+- CF1498A - GCD Sum
+- CF1499B - Binary Removals
+- CF14B - Young Photographer
+- CF1501B - Napoleon Cake
+- CF1504A - Déjà Vu
+- CF1504B - Flip the Bits
+- CF1506B - Partial Replacement
+- CF1506C - Double-ended Strings
+- CF1509B - TMT Document
+- CF1511B - GCD Length
+- CF1512B - Almost Rectangle
+- CF1515A - Phoenix and Gold
+- CF1515B - Phoenix and Puzzle
+- CF1519C - Berland Regional
+- CF151A - Soft Drinking
+- CF1520A - Do Not Be Distracted!
+- CF1520D - Same Differences
+- CF1520E - Arranging The Sheep
+- CF1520F1 - Guess the K-th Zero (Easy version)
+- CF1521B - Nastia and a Good Array
+- CF1523A - Game of Life
+- CF1525B - Permutation Sort
+- CF1527A - And Then There Were K
+- CF1529B - Sifid and Strange Subsequences
+- CF1530B - Putting Plates
+- CF1534A - Colour the Flag
+- CF1536B - Prinzessin der Verurteilung
+- CF1539A - Contest Start
+- CF153C - Caesar Cipher
+- CF1541B - Pleasant Pairs
+- CF1546A - AquaMoon and Two Arrays
+- CF1549B - Gregor and the Pawn Game
+- CF1550A - Find The Array
+- CF1550B - Maximum Cost Deletion
+- CF1551B1 - Wonderful Coloring - 1
+- CF1552A - Subsequence Permutation
+- CF1553B - Reverse String
+- CF1553C - Penalty
+- CF1554A - Cherry
+- CF1555B - Two Tables
+- CF1556A - A Variety of Operations
+- CF1556B - Take Your Places!
+- CF1557B - Moamen and k-subarrays
+- CF1559A - Mocha and Math
+- CF1559B - Mocha and Red and Blue
+- CF155B - Combination
+- CF1560C - Infinity Table
+- CF1562A - The Miracle and the Sleeper
+- CF1562B - Scenes From a Memory
+- CF1566C - MAX-MEX Cut
+- CF1566D1 - Seating Arrangements (easy version)
+- CF1567B - MEXor Mixup
+- CF1569B - Chess Tournament
+- CF1574B - Combinatorics Homework
+- CF157A - Game Outcome
+- CF1581A - CQXYM Count Permutations
+- CF1582A - Luntik and Concerts
+- CF1582B - Luntik and Subsequences
+- CF1583A - Windblume Ode
+- CF1583B - Omkar and Heavenly Tree
+- CF1584B - Coloring Rectangles
+- CF1584C - Two Arrays
+- CF1585B - Array Eversion
+- CF158B - Taxi
+- CF1591B - Array Eversion
+- CF1592B - Hemose Shopping
+- CF1594E1 - Rubik's Cube Coloring (easy version)
+- CF1598B - Groups
+- CF159B - Matchmaker
+- CF1601A - Array Elimination
+- CF1606B - Update Files
+- CF1607B - Odd Grasshopper
+- CF1607C - Minimum Extraction
+- CF1609B - William the Vigilant
+- CF160B - Unlucky Ticket
+- CF1610B - Kalindrome Array
+- CF1611B - Team Composition: Programmers and Mathematicians
+- CF1611C - Polycarp Recovers the Permutation
+- CF1613A - Long Comparison
+- CF1613B - Absent Remainder
+- CF1614A - Divan and a Store
+- CF1614B - Divan and a New Project
+- CF1618C - Paint the Array
+- CF1622B - Berland Music
+- CF1623B - Game on Ranges
+- CF1625B - Elementary Particles
+- CF1626B - Minor Reduction
+- CF1631B - Fun with Even Subarrays
+- CF1632B - Roof Construction
+- CF1635C - Differential Sorting
+- CF1637B - MEX and Array
+- CF1638A - Reverse
+- CF1638B - Odd Swap Sort
+- CF1644B - Anti-Fibonacci Permutation
+- CF1646B - Quality vs Quantity
+- CF1647A - Madoka and Math Dad
+- CF1647B - Madoka and the Elegant Gift
+- CF1647C - Madoka and Childish Pranks
+- CF1649B - Game of Ball Passing
+- CF1650B - DIV + MOD
+- CF1650C - Weight of the System of Nested Segments
+- CF1654B - Prefix Removals
+- CF1656B - Subtract Operation
+- CF1657B - XY Sequence
+- CF1657C - Bracket Sequence Deletion
+- CF1658B - Marin and Anti-coprime Permutation
+- CF165A - Supercentral Point
+- CF1660C - Get an Even String
+- CF1661A - Array Balancing
+- CF1666D - Deletive Editing
+- CF1667A - Make it Increasing
+- CF1668B - Social Distance
+- CF1669C - Odd/Even Increments
+- CF1669D - Colorful Stamp
+- CF1669E - 2-Letter Strings
+- CF1669F - Eating Candies
+- CF1669G - Fall Down
+- CF1669H - Maximal AND
+- CF1670B - Dorms War
+- CF1671B - Consecutive Points Segment
+- CF1672C - Unequal Array
+- CF1673A - Subtle Substring Subtraction
+- CF1674C - Infinite Replacement
+- CF1686A - Everything Everywhere All But One
+- CF1686B - Odd Subarrays
+- CF1689A - Lex String
+- CF1689B - Mystic Permutation
+- CF1690A - Print a Pedestal (Codeforces logo?)
+- CF1690B - Array Decrements
+- CF1690C - Restoring the Duration of Tasks
+- CF1690D - Black and White Stripe
+- CF1691B - Shoe Shuffling
+- CF1692C - Where's the Bishop?
+- CF1692D - The Clock
+- CF1692E - Binary Deque
+- CF1692F - 3SUM
+- CF1692G - 2^Sort
+- CF1694A - Creep
+- CF1694B - Paranoid String
+- CF1695A - Subrectangle Guess
+- CF1695B - Circle Game
+- CF1698B - Rising Sand
+- CF1699B - Almost Ternary Matrix
+- CF16B - Burglar and Matches
+- CF16C - Monitor
+- CF1700A - Optimal Path
+- CF1700B - Palindromic Numbers
+- CF1701B - Permutation
+- CF1702B - Polycarp Writes a String from Memory
+- CF1702C - Train and Queries
+- CF1702D - Not a Cheap String
+- CF1703C - Cypher
+- CF1703D - Double Strings
+- CF1703E - Mirror Grid
+- CF1719A - Chip Game
+- CF1720A - Burenka Plays with Fractions
+- CF1720B - Interesting Sum
+- CF1726A - Mainak and Array
+- CF1726B - Mainak and Interesting Sequence
+- CF1729C - Jumping on Tiles
+- CF1729D - Friends and the Restaurant
+- CF1732A - Bestie
+- CF1732B - Ugu
+- CF1733A - Consecutive Sum
+- CF1733B - Rule of League
+- CF1735B - Tea with Tangerines
+- CF1736A - Make A Equal to B
+- CF1737A - Ela Sorting Books
+- CF1738A - Glory Addicts
+- CF1739B - Array Recovery
+- CF173A - Rock-Paper-Scissors
+- CF1741A - Compare T-Shirt Sizes
+- CF1741B - Funny Permutation
+- CF1741C - Minimize the Thickness
+- CF1742C - Stripes
+- CF1743B - Permutation Value
+- CF1743C - Save the Magazines
+- CF1744C - Traffic Light
+- CF1746A - Maxmina
+- CF1746B - Rebellion
+- CF1749B - Death's Blessing
+- CF1754A - Technical Support
+- CF1758B - XOR = Average
+- CF1759B - Lost Permutation
+- CF1759C - Thermostat
+- CF1760D - Challenging Valleys
+- CF1760E - Binary Inversions
+- CF1761B - Elimination of a Ring
+- CF1762B - Make Array Good
+- CF1765E - Exchange
+- CF1765M - Minimum LCM
+- CF1766B - Notepad#
+- CF1768B - Quick Sort
+- CF1769B1 - Копирование файлов I
+- CF176A - Trading Business
+- CF1770A - Koxia and Whiteboards
+- CF1770B - Koxia and Permutation
+- CF1771A - Hossam and Combinatorics
+- CF1772B - Matrix Rotation
+- CF1772C - Different Differences
+- CF1775A2 - Gardener and the Capybaras (hard version)
+- CF1777B - Emordnilap
+- CF1778A - Flip Flop Sum
+- CF1779B - MKnez's ConstructiveForces Task
+- CF177B1 - Rectangular Game
+- CF1781B - Going to the Cinema
+- CF1783A - Make it Beautiful
+- CF1783B - Matrix of Differences
+- CF1786B - Cake Assembly Line
+- CF1787B - Number Factorization
+- CF1788A - One and Two
+- CF1788B - Sum of Two Numbers
+- CF1789A - Serval and Mocha's Array
+- CF1789B - Serval and Inversion Magic
+- CF178A1 - Educational Game
+- CF178A2 - Educational Game
+- CF178A3 - Educational Game
+- CF1790B - Taisia and Dice
+- CF1790C - Premutation
+- CF1791D - Distinct Split
+- CF1791E - Negatives and Positives
+- CF1791G1 - Teleporters (Easy Version)
+- CF1792A - GamingForces
+- CF1792B - Stand-up Comedian
+- CF1794B - Not Dividing
+- CF1795B - Ideal Point
+- CF1796B - Asterisk-Minor Template
+- CF1797B - Li Hua and Pattern
+- CF1798A - Showstopper
+- CF1800B - Count the Number of Pairs
+- CF1800C1 - Powering the Hero (easy version)
+- CF1800C2 - Powering the Hero (hard version)
+- CF1802B - Settlement of Guinea Pigs
+- CF1804B - Vaccination
+- CF1806B - Mex Master
+- CF1807D - Odd Queries
+- CF1807G1 - Subsequence Addition (Easy Version)
+- CF1808A - Lucky Numbers
+- CF1809B - Points on Plane
+- CF180C - Letter
+- CF180F - Mathematical Analysis Rocks!
+- CF1811B - Conveyor Belts
+- CF1811C - Restore the Array
+- CF1816B - Grid Reconstruction
+- CF1818B - Indivisible
+- CF1820B - JoJo's Incredible Adventures
+- CF1821A - Matching
+- CF1821B - Sort the Subarray
+- CF1823B - Sort with Step
+- CF1825B - LuoTianyi and the Table
+- CF1826A - Trust Nobody
+- CF1826B - Lunatic Never Content
+- CF1828B - Permutation Swap
+- CF1829D - Gold Rush
+- CF1829E - The Lakes
+- CF182B - Vasya's Calendar
+- CF1831B - Array merging
+- CF1832A - New Palindrome
+- CF1832B - Maximum Sum
+- CF1833B - Restore the Weather
+- CF1834B - Maximum Strength
+- CF1836B - Astrophysicists
+- CF1837B - Comparison String
+- CF1837C - Best Binary String
+- CF1838A - Blackboard List
+- CF1838B - Minimize Permutation Subarrays
+- CF1839B - Lamps
+- CF1840B - Binary Cafe
+- CF1840C - Ski Resort
+- CF1841B - Keep it Beautiful
+- CF1842B - Tenzing and Books
+- CF1843B - Long Long
+- CF1843C - Sum in Binary Tree
+- CF1844B - Permutations & Primes
+- CF1845B - Come Together
+- CF1847B - Hamon Odyssey
+- CF1848A - Vika and Her Friends
+- CF1849B - Monsters
+- CF1850D - Balanced Round
+- CF1850E - Cardboard for Pictures
+- CF1851C - Tiles Comeback
+- CF1855B - Longest Divisors Interval
+- CF1856B - Good Arrays
+- CF1857B - Maximum Rounding
+- CF1858C - Yet Another Permutation Problem
+- CF1859A - United We Stand
+- CF1859B - Olya and Game with Arrays
+- CF1860A - Not a Substring
+- CF1861B - Two Binary Strings
+- CF1862C - Flower City Fence
+- CF1863B - Split Sort
+- CF1863C - MEX Repetition
+- CF1867B - XOR Palindromes
+- CF1869A - Make It Zero
+- CF1869B - 2D Traveling
+- CF186B - Growing Mushrooms
+- CF1872B - The Corridor or There and Back Again
+- CF1872C - Non-coprime Split
+- CF1873E - Building an Aquarium
+- CF1878C - Vasilije in Cacak
+- CF1879B - Chips on the Board
+- CF1881B - Three Threadlets
+- CF1883B - Chemistry
+- CF1883C - Raspberries
+- CF1890B - Qingshan Loves Strings
+- CF1891B - Deja Vu
+- CF1894B - Two Out of Three
+- CF1895B - Points and Minimum Distance
+- CF1896B - AB Flipping
+- CF1899B - 250 Thousand Tons of TNT
+- CF1899C - Yarik and Array
+- CF18A - Triangle
+- CF18B - Platforms
+- CF1900B - Laura and Operations
+- CF1901B - Chip and Ribbon
+- CF1902B - Getting Points
+- CF1903B - StORage room
+- CF1904B - Collecting Game
+- CF1905B - Begginer's Zelda
+- CF1907C - Removal of Unattractive Pairs
+- CF1909B - Make Almost Equal With Mod
+- CF190A - Vasya and the Bus
+- CF1913B - Swap and Delete
+- CF1918B - Minimize Inversions
+- CF1919B - Plus-Minus Split
+- CF1920B - Summation Game
+- CF1921C - Sending Messages
+- CF1925B - A Balanced Problemset?
+- CF1926C - Vlad and a Sum of Sum of Digits
+- CF1926D - Vlad and Division
+- CF1929B - Sasha and the Drawing
+- CF192A - Funky Numbers
+- CF192B - Walking in the Rain
+- CF1931C - Make Equal Again
+- CF1935B - Informatics in MAC
+- CF194B - Square
+- CF1951B - Battle Cows
+- CF195A - Let's Watch Football
+- CF196A - Lexicographically Maximum Subsequence
+- CF1990A - Submission Bait
+- CF1990B - Array Craft
+- CF200B - Drinks
+- CF201A - Clear Symmetry
+- CF2036B - Startup
+- CF2051C - Preparing for the Exam
+- CF205B - Little Elephant and Sorting
+- CF2062B - Clockwork
+- CF2063B - Subsequence Update
+- CF2064B - Variety is Discouraged
+- CF2064C - Remove the Ends
+- CF20B - Equation
+- CF215A - Bicycle Chain
+- CF216A - Tiling with Hexagons
+- CF218A - Mountain Scenery
+- CF218B - Airport
+- CF219B - Special Offer! Super Price 999 Bourles!
+- CF220A - Little Elephant and Problem
+- CF225A - Dice Tower
+- CF227B - Effective Approach
+- CF22B - Bargaining Table
+- CF233A - Perfect Permutation
+- CF233B - Non-square Equation
+- CF236B - Easy Number Challenge
+- CF237B - Young Table
+- CF244A - Dividing Orange
+- CF245E - Mishap in Club
+- CF246A - Buggy Sorting
+- CF248A - Cupboards
+- CF248B - Chilly Willy
+- CF250A - Paper Work
+- CF253A - Boys and Girls
+- CF258A - Little Elephant and Bits
+- CF259A - Little Elephant and Chess
+- CF259B - Little Elephant and Magic Square
+- CF261A - Maxim and Discounts
+- CF263B - Squares
+- CF265B - Roadside Trees (Simplified Edition)
+- CF268B - Buttons
+- CF270A - Fancy Fence
+- CF271B - Prime Matrix
+- CF275A - Lights Out
+- CF276A - Lunch Rush
+- CF278A - Circle Line
+- CF279A - Point on Spiral
+- CF284B - Cows and Poker Game
+- CF285A - Slightly Decreasing Permutations
+- CF285C - Building Permutation
+- CF287A - IQ Test
+- CF288A - Polo the Penguin and Strings
+- CF289A - Polo the Penguin and Segments
+- CF289B - Polo the Penguin and Matrix
+- CF296A - Yaroslav and Permutations
+- CF297A - Parity Game
+- CF300A - Array
+- CF304A - Pythagorean Theorem II
+- CF304B - Calendar
+- CF30A - Accounting
+- CF30B - Codeforces World Finals
+- CF312A - Whose sentence is it?
+- CF313A - Ilya and Bank Account
+- CF315A - Sereja and Bottles
+- CF315B - Sereja and Array
+- CF316A1 - Special Task
+- CF31A - Worms Evolution
+- CF320A - Magic Numbers
+- CF322A - Ciel and Dancing
+- CF322B - Ciel and Flowers
+- CF328A - IQ Test
+- CF32C - Flea
+- CF32D - Constellation
+- CF330A - Cakeminator
+- CF334A - Candy Bags
+- CF334B - Eight Point Sets
+- CF337A - Puzzles
+- CF337B - Routine Problem
+- CF343A - Rational Resistance
+- CF344B - Simple Molecules
+- CF347B - Fixed Points
+- CF349A - Cinema Line
+- CF350A - TL
+- CF352B - Jeff and Periods
+- CF353A - Domino
+- CF355A - Vasya and Digital Root
+- CF357A - Group of Students
+- CF357B - Flag Day
+- CF35B - Warehouse
+- CF35D - Animals
+- CF361A - Levko and Table
+- CF362B - Petya and Staircases
+- CF363B - Fence
+- CF365A - Good Number
+- CF365B - The Fibonacci Segment
+- CF368A - Sereja and Coat Rack
+- CF368B - Sereja and Suffixes
+- CF369B - Valera and Contest
+- CF371A - K-Periodic Array
+- CF371B - Fox Dividing Cheese
+- CF373A - Collecting Beats is Fun
+- CF376A - Lever
+- CF376B - I.O.U.
+- CF378A - Playing with Dice
+- CF378B - Semifinals
+- CF381B - Sereja and Stairs
+- CF382A - Ksenia and Pan Scales
+- CF384A - Coder
+- CF385A - Bear and Raspberry
+- CF387A - George and Sleep
+- CF387B - George and Round
+- CF389B - Fox and Cross
+- CF38C - Blinds
+- CF390A - Inna and Alarm Clock
+- CF391A - Genetic Engineering
+- CF394A - Counting Sticks
+- CF397B - On Corruption and Numbers
+- CF39H - Multiplication Table
+- CF400A - Inna and Choose Options
+- CF400C - Inna and Huge Candy Matrix
+- CF401A - Vanya and Cards
+- CF402A - Nuts
+- CF402C - Searching for Graph
+- CF404A - Valera and X
+- CF408A - Line to Cashier
+- CF416A - Guess a number!
+- CF41B - Martian Dollar
+- CF41C - Email address
+- CF424A - Squats
+- CF427A - Police Recruits
+- CF427B - Prison Transfer
+- CF435A - Queue on Bus Stop
+- CF437A - The Child and Homework
+- CF437B - The Child and Set
+- CF439A - Devu, the Singer and Churu, the Joker
+- CF43C - Lucky Tickets
+- CF441B - Valera and Fruits
+- CF441C - Valera and Tubes
+- CF44B - Cola
+- CF44E - Anfisa the Monkey
+- CF450A - Jzzhu and Children
+- CF451A - Game With Sticks
+- CF459A - Pashmak and Garden
+- CF459B - Pashmak and Flowers
+- CF45E - Director
+- CF461A - Appleman and Toastman
+- CF462A - Appleman and Easy Task
+- CF462B - Appleman and Card Game
+- CF463B - Caisa and Pylons
+- CF465A - inc ARG
+- CF465B - Inbox (100500)
+- CF466A - Cheap Travel
+- CF467B - Fedor and New Game
+- CF469A - I Wanna Be the Guy
+- CF46A - Ball Game
+- CF46B - T-shirts from Sponsor
+- CF46C - Hamsters and Tigers
+- CF475A - Bayan Bus
+- CF476B - Dreamoon and WiFi
+- CF478A - Initial Bet
+- CF483A - Counterexample
+- CF485A - Factory
+- CF488A - Giga Tower
+- CF48B - Land Lot
+- CF491A - Up the hill
+- CF492B - Vanya and Lanterns
+- CF493B - Vasya and Wrestling
+- CF495A - Digital Counter
+- CF496A - Minimum Difficulty
+- CF499B - Lecture
+- CF507A - Amr and Music
+- CF508A - Pasha and Pixels
+- CF508B - Anton and currency you all know
+- CF50B - Choosing Symbol Pairs
+- CF513B1 - Permutations
+- CF515A - Drazil and Date
+- CF519B - A and B and Compilation Errors
+- CF519C - A and B and Team Training
+- CF51A - Cheaterius's Problem
+- CF522B - Photo to Remember
+- CF523D - Statistics of Recompressing Videos
+- CF525A - Vitaliy and Pie
+- CF527A - Playing with Paper
+- CF534A - Exam
+- CF535A - Tavas and Nafas
+- CF535B - Tavas and SaDDas
+- CF53C - Little Frog
+- CF544B - Sea and Islands
+- CF545A - Toy Cars
+- CF545B - Equidistant String
+- CF548A - Mike and Fax
+- CF54A - Presents
+- CF551A - GukiZ and Contest
+- CF552A - Vanya and Table
+- CF556B - Case of Fake Numbers
+- CF557A - Ilya and Diplomas
+- CF558A - Lala Land and Apple Trees
+- CF559A - Gerald's Hexagon
+- CF569B - Inventory
+- CF56C - Corporation Mail
+- CF572A - Arrays
+- CF57B - Martian Architecture
+- CF583A - Asphalting Roads
+- CF583B - Robot's Task
+- CF586A - Alena's Schedule
+- CF588A - Duff and Meat
+- CF58D - Calendar
+- CF592B - The Monster and the Squirrel
+- CF595A - Vitaly and Night
+- CF596A - Wilbur and Swimming Pool
+- CF596B - Wilbur and Array
+- CF597B - Restaurant
+- CF600B - Queries about less or equal elements
+- CF604A - Uncowed Forces
+- CF608A - Saitama Destroys Hotel
+- CF609B - The Best Gift
+- CF60A - Where Are My Flakes?
+- CF60B - Serial Time!
+- CF610A - Pasha and Stick
+- CF610B - Vika and Squares
+- CF612A - The Text Splitting
+- CF612B - HDD is Outdated Technology
+- CF614A - Link/Cut Tree
+- CF615A - Bulbs
+- CF617B - Chocolate
+- CF618B - Guess the Permutation
+- CF620B - Grandfather Dovlet’s calculator
+- CF621B - Wet Shark and Bishops
+- CF622B - The Time
+- CF625B - War of the Corporations
+- CF629B - Far Relative’s Problem
+- CF630A - Again Twenty Five!
+- CF630B - Moore's Law
+- CF630C - Lucky Numbers
+- CF630D - Hexagons!
+- CF630F - Selection of Personnel
+- CF630R - Game
+- CF637A - Voting for Photos
+- CF63A - Sinking Ship
+- CF63B - Settlers' Training
+- CF641A - Little Artem and Grasshopper
+- CF643A - Bear and Colors
+- CF644A - Parliament of Berland
+- CF645A - Amity Assessment
+- CF652B - z-sort
+- CF659C - Tanya and Toys
+- CF659D - Bicycle Race
+- CF65A - Harry Potter and Three Spells
+- CF660A - Co-prime Array
+- CF660B - Seating On Bus
+- CF664A - Complicated GCD
+- CF665B - Shopping
+- CF665C - Simple Strings
+- CF667B - Coat of Anticubism
+- CF66B - Petya and Countryside
+- CF670B - Game of Robots
+- CF670C - Cinema
+- CF672B - Different is Good
+- CF673A - Bear and Game
+- CF676A - Nicholas and Permutation
+- CF680A - Bear and Five Cards
+- CF680B - Bear and Finding Criminals
+- CF682A - Alyona and Numbers
+- CF682B - Alyona and Mex
+- CF686A - Free Ice Cream
+- CF686B - Little Robber Girl's Zoo
+- CF690A1 - Collective Mindsets (easy)
+- CF691B - s-palindrome
+- CF699A - Launch of Collider
+- CF699B - One Bomb
+- CF69B - Bets
+- CF703B - Mishka and trip
+- CF705B - Spider Man
+- CF706A - Beru-taxi
+- CF706B - Interesting drink
+- CF712A - Memory and Crow
+- CF714A - Meeting of Old Friends
+- CF714B - Filya and Homework
+- CF716A - Crazy Computer
+- CF719A - Vitya in the Countryside
+- CF719B - Anatoly and Cockroaches
+- CF721B - Passwords
+- CF723B - Text Document Analysis
+- CF725B - Food on the Plane
+- CF727A - Transformation: from A to B
+- CF731A - Night at the Museum
+- CF732B - Cormen — The Best Friend Of a Man
+- CF733B - Parade
+- CF735B - Urbanization
+- CF740A - Alyona and copybooks
+- CF740B - Alyona and flowers
+- CF743B - Chloe and the sequence
+- CF745A - Hongcow Learns the Cyclic Shift
+- CF745B - Hongcow Solves A Puzzle
+- CF746B - Decoding
+- CF746D - Green and Black Tea
+- CF747C - Servers
+- CF748A - Santa Claus and a Place in a Class
+- CF748B - Santa Claus and Keyboard Check
+- CF749A - Bachgold Problem
+- CF749B - Parallelogram is Back
+- CF74A - Room Leader
+- CF750B - New Year and North Pole
+- CF753A - Santa Claus and Candies
+- CF755A - PolandBall and Hypothesis
+- CF758B - Blown Garland
+- CF75A - Life Without Zeros
+- CF761A - Dasha and Stairs
+- CF764B - Timofey and cubes
+- CF765B - Code obfuscation
+- CF767A - Snacktower
+- CF768A - Oath of the Night's Watch
+- CF770A - New Password
+- CF774C - Maximum Number
+- CF777B - Game of Credit Cards
+- CF779A - Pupils Redistribution
+- CF779C - Dishonest Sellers
+- CF780A - Andryusha and Socks
+- CF785B - Anton and Classes
+- CF787B - Not Afraid
+- CF78B - Easter Eggs
+- CF792A - New Bus Route
+- CF792B - Counting-out Rhyme
+- CF793A - Oleg and shares
+- CF797B - Odd sum
+- CF799A - Carrot Cakes
+- CF79A - Bus Game
+- CF803B - Distances to Zero
+- CF808A - Lucky Year
+- CF808B - Average Sleep Time
+- CF80B - Depression
+- CF810A - Straight «A»
+- CF811A - Vladik and Courtesy
+- CF812A - Sagheer and Crossroads
+- CF813A - The Contest
+- CF817A - Treasure Hunt
+- CF818A - Diplomas and Certificates
+- CF81A - Plug-in
+- CF81B - Sequence Formatting
+- CF820A - Mister B and Book Reading
+- CF825A - Binary Protocol
+- CF825B - Five-In-a-Row
+- CF82A - Double Cola
+- CF831B - Keyboard Layouts
+- CF834B - The Festive Evening
+- CF837B - Flag of Berland
+- CF83A - Magical Array
+- CF841B - Godsend
+- CF842B - Gleb And Pizza
+- CF844A - Diversity
+- CF845B - Luba And The Ticket
+- CF847M - Weather Tomorrow
+- CF849A - Odds and Ends
+- CF851B - Arpa and an exam about geometry
+- CF854A - Fraction
+- CF854B - Maxim Buys an Apartment
+- CF859B - Lazy Security Guard
+- CF85B - Embassy Queue
+- CF862A - Mahmoud and Ehab and the MEX
+- CF863B - Kayaking
+- CF864C - Bus
+- CF868B - Race Against Time
+- CF869B - The Eternal Immortality
+- CF870B - Maximum of Maximums of Minimums
+- CF875A - Classroom Watch
+- CF876B - Divisiblity of Differences
+- CF87A - Trains
+- CF883M - Quadcopter Competition
+- CF886C - Petya and Catacombs
+- CF888B - Buggy Robot
+- CF88A - Chord
+- CF893A - Chess For Three
+- CF893B - Beautiful Divisors
+- CF899B - Months and Years
+- CF899C - Dividing the numbers
+- CF902A - Visiting a Friend
+- CF907A - Masha and Bears
+- CF908A - New Year and Counting Cards
+- CF90B - African Crossword
+- CF910B - Door Frames
+- CF911B - Two Cakes
+- CF913B - Christmas Spruce
+- CF915B - Browser
+- CF918B - Radio Station
+- CF919B - Perfect Number
+- CF919C - Seat Arrangements
+- CF926C - Is This a Zebra?
+- CF931B - World Cup
+- CF935B - Fafa and the Gates
+- CF938B - Run For Your Prize
+- CF946B - Weird Subtraction Process
+- CF946C - String Transformation
+- CF94A - Restoring Password
+- CF950A - Left-handers, Right-handers and Ambidexters
+- CF954A - Diagonal Walking
+- CF957A - Tritonic Iridescence
+- CF958B1 - Maximum Control (easy)
+- CF959A - Mahmoud and Ehab and the even-odd game
+- CF961B - Lecture Sleep
+- CF975A - Aramic script
+- CF975B - Mancala
+- CF977C - Less or Equal
+- CF978C - Letters
+- CF979A - Pizza, Pizza, Pizza!!!
+- CF981B - Businessmen Problems
+- CF982B - Bus of Characters
+- CF984B - Minesweeper
+- CF988B - Substrings Sort
+- CF998A - Balloons
+- CF999A - Mishka and Contest
+- CF99A - Help Far Away Kingdom
+- CF9B - Running Student

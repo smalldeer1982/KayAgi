@@ -1,0 +1,22 @@
+# 题号列表
+
+- CF101A - Homework
+- CF1041A - Heist
+- CF12B - Correct Solution?
+- CF12C - Fruits
+- CF1605B - Reverse Sort
+- CF1641A - Great Sequence
+- CF1923B - Monsters Attack!
+- CF2004C - Splitting Items
+- CF203C - Photographer
+- CF2046A - Swap Columns and Find a Path
+- CF2092A - Kamilka and the Sheep
+- CF2102B - The Picky Cat
+- CF34B - Sale
+- CF835B - The number on the board
+- CF845A - Chess Tourney
+- CF903C - Boxes Packing
+- CF911A - Nearest Minimums
+- CF934A - A Compatible Pair
+- CF985A - Chess Placing
+- CF990B - Micro-World

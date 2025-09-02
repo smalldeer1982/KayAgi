@@ -1,0 +1,40 @@
+---
+title: "Gleaming the Cubes"
+layout: "post"
+diff: 难度0
+pid: UVA737
+tag: []
+---
+
+# Gleaming the Cubes
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=9&page=show_problem&problem=678
+
+[PDF](https://uva.onlinejudge.org/external/7/p737.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA737/ce2b6a1d1437654461487aac1f60d8ffde29d84f.png)
+
+## 样例 #1
+
+### 输入
+
+```
+2
+0 0 0 10
+9 1 1 5
+3
+0 0 0 10
+9 1 1 5
+8 2 2 3
+0
+```
+
+### 输出
+
+```
+25
+9
+```
+

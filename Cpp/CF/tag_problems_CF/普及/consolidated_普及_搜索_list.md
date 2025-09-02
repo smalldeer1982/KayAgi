@@ -1,0 +1,28 @@
+# 题号列表
+
+- CF1006C - Three Parts of the Array
+- CF1030C - Vasya and Golden Ticket
+- CF1037D - Valid BFS?
+- CF1041C - Coffee Break
+- CF1063B - Labyrinth
+- CF1360E - Polygon
+- CF1676G - White-Black Balanced Subtrees
+- CF1681D - Required Length
+- CF1722F - L-shapes
+- CF1948C - Arrow Path
+- CF1968D - Permutation Game
+- CF2008D - Sakurako's Hobby
+- CF2027C - Add Zeros
+- CF2034C - Trapped in the Witch's Labyrinth
+- CF2041D - Drunken Maze
+- CF2115A - Gellyfish and Flaming Peony
+- CF292C - Beautiful IP Addresses
+- CF329B - Biridian Forest
+- CF35C - Fire Again
+- CF377A - Maze
+- CF4D - Mysterious Present
+- CF55B - Smallest number
+- CF585B - Phillip and Trains
+- CF659E - New Reform
+- CF978D - Almost Arithmetic Progression
+- CF986A - Fair

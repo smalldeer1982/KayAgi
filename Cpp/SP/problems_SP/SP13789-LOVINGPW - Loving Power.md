@@ -1,0 +1,38 @@
+---
+title: "LOVINGPW - Loving Power"
+layout: "post"
+diff: 难度0
+pid: SP13789
+tag: []
+---
+
+# LOVINGPW - Loving Power
+
+## 题目描述
+
+Angel Luis is now getting math class. His teacher is teaching to him the XOR operation.
+
+0 XOR 0 = 0
+
+0 XOR 1 = 1
+
+1 XOR 0 = 1
+
+1 XOR 1 = 0
+
+When is a number with more than a bit it operation is made to all bits. The teacher write two number x,y (0<=x<=N and 0<=y<=N) and make the XOR operation betwen x and y, Angel Luis would like to know how many pairs x,y such x XOR y = 2 $ ^{z &nbsp;} $ where z>=0.
+
+See that for N = 3 :
+
+0 XOR 1 = 2 $ ^{0} $
+
+0 XOR 2 = 2 $ ^{1} $
+
+3 XOR 1 = 2 $ ^{1} $
+
+2 XOR 3 = 2 $ ^{0} $
+
+So there is 4 pairs.
+
+Given N you should return how many pair module 1000000007.
+

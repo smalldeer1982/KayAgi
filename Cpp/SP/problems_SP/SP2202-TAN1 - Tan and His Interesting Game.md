@@ -1,0 +1,44 @@
+---
+title: "TAN1 - Tan and His Interesting Game"
+layout: "post"
+diff: 省选/NOI-
+pid: SP2202
+tag: []
+---
+
+# TAN1 - Tan and His Interesting Game
+
+## 输入格式
+
+The first line of the test data is the number of test case t,then t test case follow.
+
+For each test case:
+
+The first line contains a single integer M,the number of nodes in the tree(M<=100000).
+
+M lines follow, each contains two integers F $ _{i} $ and V $ _{i} $ . F $ _{i} $ is the father of node i (F $ _{i} $ =0 if node i is the root).V $ _{i} $ is the number on the node i.(0<=V $ _{i} $ <=40000)
+
+## 输出格式
+
+For each test case:
+
+The first and only line contains a single integer S, which means there are S triples(A,B,C) that (A,B),(B,C),(A,C) are all good games or all bad games.
+
+## 样例 #1
+
+### 输入
+
+```
+1
+3
+0 3
+1 5
+1 7
+```
+
+### 输出
+
+```
+0
+```
+

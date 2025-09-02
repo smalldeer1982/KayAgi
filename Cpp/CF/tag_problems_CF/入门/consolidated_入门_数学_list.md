@@ -1,0 +1,48 @@
+# 题号列表
+
+- CF124A - The number of positions
+- CF129A - Cookies
+- CF1593A - Elections
+- CF1605A - A.M. Deviation
+- CF1612A - Distance
+- CF1676B - Equal Candies
+- CF1716A - 2-3 Moves
+- CF1725A - Accumulation of Dominoes
+- CF1731A - Joey Takes Money
+- CF1747A - Two Groups
+- CF1767A - Cut the Triangle
+- CF1793A - Yet Another Promotion
+- CF1916A - 2023
+- CF1917A - Least Product
+- CF1977A - Little Nikita
+- CF1985B - Maximum Multiple Sum
+- CF1987A - Upload More RAM
+- CF1996A - Legs
+- CF1A - Theatre Square
+- CF2013A - Zhan's Blender
+- CF2020A - Find Minimum Operations
+- CF2024A - Profitable Interest Rate
+- CF2034A - King Keykhosrow's Mystery
+- CF2043A - Coin Transformation
+- CF2057A - MEX Table
+- CF2074A - Draw a Square
+- CF2086A - Cloudberry Jam
+- CF2090A - Treasure Hunt
+- CF2106A - Dr. TC
+- CF2112A - Race
+- CF2114A - Square Year
+- CF47A - Triangular numbers
+- CF492A - Vanya and Cubes
+- CF4A - Watermelon
+- CF52A - 123-sequence
+- CF546A - Soldier and Bananas
+- CF62A - A Student's Dream
+- CF723A - The New Year: Meeting Friends
+- CF732A - Buy a Shovel
+- CF747A - Display Size
+- CF822A - I'm bored with life
+- CF887A - Div. 64
+- CF919A - Supermarket
+- CF92A - Chips
+- CF935A - Fafa and his Company
+- CF9A - Die Roll

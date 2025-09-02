@@ -1,0 +1,39 @@
+# 题号列表
+
+- P11173 - 「CMOI R1」We Want To Run / Nilpotent
+- P11614 - [PA 2016] 任务排序 /  Szeregowanie zadań
+- P11816 - [PA 2019 Final] 摆棋 / Pionki
+- P12845 - [蓝桥杯 2025 国 A] 连锁反应【数据强度待检验】
+- P1820 - 麻将 加强加强版
+- P2474 - [SCOI2008] 天平
+- P2604 - [ZJOI2010] 网络扩容
+- P2805 - [NOI2009] 植物大战僵尸
+- P2944 - [USACO09MAR] Earthquake Damage 2 G
+- P3098 - [USACO13DEC] The Bessie Shuffle G
+- P3342 - [ZJOI2014] 璀灿光华
+- P3872 - [TJOI2010] 电影迷
+- P3882 - [JLOI2008] 将军
+- P3965 - [TJOI2013] 循环格
+- P3973 - [TJOI2015] 线性代数
+- P3980 - [NOI2008] 志愿者招募
+- P4012 - 深海机器人问题
+- P4013 - 数字梯形问题
+- P4033 - [Code+#2] 白金元首与独舞
+- P4049 - [JSOI2007] 合金
+- P4083 - [USACO17DEC] A Pie for a Pie G
+- P4142 - 洞穴遇险
+- P4258 - [WC2016] 挑战NPC
+- P4307 - [JSOI2009] 球队收益 / 球队预算
+- P4313 - 文理分科
+- P4819 - [中山市选] 杀人游戏
+- P5029 - T'ill It's Over
+- P5157 - [USACO18DEC] The Cow Gathering P
+- P7425 - [THUPC 2017] 机场
+- P7477 - 「C.E.L.U-02」划分可重集
+- P7624 - [AHOI2021初中组] 地铁
+- P7863 - 「EVOI-RD1」飞鸟和蝉
+- P7877 - 「SWTR-7」Spider Solitaire
+- P7984 - [USACO21DEC]  Tickets P
+- P8021 - [ONTAK2015] Bajtman i Okrągły Robin
+- P9697 - [GDCPC 2023] Canvas
+- P9837 - 汪了个汪

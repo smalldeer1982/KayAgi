@@ -1,0 +1,66 @@
+# 题号列表
+
+- P1084 - [NOIP 2012 提高组] 疫情控制
+- P10880 - [JRKSJ R9] 莫队的 1.5 近似构造
+- P11292 - 【MX-S6-T4】「KDOI-11」彩灯晚会
+- P12576 - [UOI 2021] 数字图
+- P12639 - [UOI 2020] Topological Sorting of a Tree
+- P12865 - [JOI Open 2025] 冒泡排序机 / Bubble Sort Machine
+- P13124 - [GCJ 2019 Finals] Sorting Permutation Unit
+- P13235 - [GCJ 2015 Finals] Pretty Good Proportion
+- P13592 - [NWRRC 2023] Loops
+- P2123 - 皇后游戏
+- P2159 - [SHOI2009] 舞会
+- P2160 - [SHOI2007] 书柜的尺寸
+- P2505 - [HAOI2012] 道路
+- P2597 - [ZJOI2012] 灾难
+- P2805 - [NOI2009] 植物大战僵尸
+- P2824 - [HEOI2016/TJOI2016] 排序
+- P2992 - [USACO10OPEN] Triangle Counting G
+- P3002 - [USACO10DEC] Threatening Letter G
+- P3162 - [CQOI2012] 组装
+- P3217 - [HNOI2011] 数矩形
+- P3244 - [HNOI2015] 落忆枫音
+- P3245 - [HNOI2016] 大数
+- P3436 - [POI 2006] PRO-Professor Szu
+- P3588 - [POI 2015] PUS
+- P3630 - [APIO2010] 信号覆盖
+- P3696 - Bushiroad的偶像派对
+- P3722 - [AH2017/HNOI2017] 影魔
+- P3732 - [HAOI2017] 供给侧改革
+- P3769 - [CH弱省胡策R2] TATT
+- P3809 - 【模板】后缀排序
+- P3810 - 【模板】三维偏序（陌上花开）
+- P3825 - [NOI2017] 游戏
+- P3863 - 序列
+- P3895 - [湖南集训] Hungry Rabbit
+- P3897 - [湖南集训] Crazy Rabbit
+- P3997 - [SHOI2013] 扇形面积并
+- P4099 - [HEOI2013] SAO
+- P4165 - [SCOI2007] 组队
+- P4196 - [CQOI2006] 凸多边形 /【模板】半平面交
+- P4204 - [NOI2006] 神奇口袋
+- P4372 - [USACO18OPEN] Out of Sorts P
+- P4390 - [BalkanOI 2007] Mokia 摩基亚
+- P4406 - [CQOI2005] 三角形面积并
+- P4423 - [BJWC2011] 最小三角形
+- P4467 - [SCOI2007] k短路
+- P4540 - [HNOI2006] 军机调度
+- P4934 - 礼物
+- P4964 - 绫小路的特别考试
+- P5010 - HMR的LIS Ⅲ
+- P5157 - [USACO18DEC] The Cow Gathering P
+- P5510 - 水晶
+- P5647 - ygg发神威
+- P6047 - 丝之割
+- P6466 - 分散层叠算法(Fractional Cascading)
+- P7153 - [USACO20DEC] Square Pasture G
+- P7831 - [CCO 2021] Travelling Merchant
+- P7877 - 「SWTR-7」Spider Solitaire
+- P8101 - [USACO22JAN] Multiple Choice Test P
+- P8276 - [USACO22OPEN] Hoof and Brain P
+- P8288 - 「DAOI R1」Fireworks
+- P8321 - 『JROI-4』沈阳大街 2
+- P9128 - [USACO23FEB] Fertilizing Pastures G
+- P9169 - [省选联考 2023] 过河卒
+- P9347 - 似曾相识燕归来

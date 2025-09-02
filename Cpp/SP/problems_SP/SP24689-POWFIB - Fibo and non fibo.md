@@ -1,0 +1,58 @@
+---
+title: "POWFIB - Fibo and non fibo"
+layout: "post"
+diff: 普及/提高-
+pid: SP24689
+tag: []
+---
+
+# POWFIB - Fibo and non fibo
+
+## 题目描述
+
+The problem is simple.
+
+Find **(a^b) % MOD**
+
+where ,
+
+a = Nth **non-fibonacci** number
+
+b = (Nth **fibonacci** number)%MOD
+
+MOD = 10^9+7
+
+Consider fibonacci series as 1,1,2,3,....
+
+**Note :** It is guaranteed that Nth non-fibonacci number will always be less than MOD value for every value of N used.
+
+## 输入格式
+
+First line contains T , the number of test cases
+
+## 输出格式
+
+Print T lines of output where each line corresponds to the required answer.
+
+**Announcement:** Constraints are updated. Sorry for inconvenience occurred.
+
+## 样例 #1
+
+### 输入
+
+```
+3
+3
+2
+1
+
+```
+
+### 输出
+
+```
+49
+6
+4
+```
+

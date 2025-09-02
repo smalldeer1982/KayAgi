@@ -1,0 +1,33 @@
+# 题号列表
+
+- P1117 - [NOI2016] 优秀的拆分
+- P11305 - [COTS 2016] 删除 Brisanje
+- P12727 - [KOI 2021 Round 2] 公共括号子串字典序
+- P12729 - [KOI 2021 Round 2] 最长公共括号子串
+- P12962 - [GCJ Farewell Round #4] Genetic Sequences
+- P13772 - [CERC 2021] Repetitions
+- P13856 - [CERC 2023] Labelled Paths
+- P2178 - [NOI2015] 品酒大会
+- P2336 - [SCOI2012] 喵星球上的点名
+- P2463 - [SDOI2008] Sandy 的卡片
+- P3181 - [HAOI2016] 找相同字符
+- P3649 - [APIO2014] 回文串
+- P3763 - [TJOI2017] DNA
+- P3804 - 【模板】后缀自动机（SAM）
+- P3809 - 【模板】后缀排序
+- P3975 - [TJOI2015] 弦论
+- P4051 - [JSOI2007] 字符加密
+- P4070 - [SDOI2016] 生成魔咒
+- P4081 - [USACO17DEC] Standing Out from the Herd P
+- P4112 - [HEOI2015] 最短不公共子串
+- P4248 - [AHOI2013] 差异
+- P5028 - Annihilate
+- P5231 - [JSOI2012] 玄武密码
+- P5346 - 【XR-1】柯南家族
+- P5353 - 树上后缀排序
+- P6095 - [JSOI2015] 串分割
+- P6793 - [SNOI2020] 字符串
+- P7409 - SvT
+- P7456 - [CERC2018] The ABCD Murderer
+- P7769 - 「CGOI-1」大师选徒
+- P9664 - [ICPC 2021 Macao R] LCS Spanning Tree

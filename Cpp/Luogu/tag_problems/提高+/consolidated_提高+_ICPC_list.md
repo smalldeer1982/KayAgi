@@ -1,0 +1,119 @@
+# 题号列表
+
+- P10553 - [ICPC 2024 Xi'an I] Guess The Tree
+- P10554 - [ICPC 2024 Xi'an I] Turn Off The Lights
+- P10555 - [ICPC 2024 Xi'an I] Fix the Tree
+- P10557 - [ICPC 2024 Xi'an I] Dumb Robot
+- P10739 - [SEERC 2020] Disk Sort
+- P10741 - [SEERC 2020] Fence Job
+- P10744 - [SEERC 2020] Modulo Permutations
+- P10819 - [EC Final 2020] City Brain
+- P12093 - [NERC2024] BitBitJump
+- P12108 - [NWRRC2024] Defective Script
+- P12308 - [ICPC 2022 WF] Toy Train Tracks
+- P12620 - [NAC 2025] A Totient Quotient
+- P12621 - [NAC 2025] Circle of Leaf
+- P12623 - [NAC 2025] Geometry Rush
+- P12625 - [NAC 2025] Mob Grinder
+- P12627 - [NAC 2025] Ornaments on a Tree
+- P12631 - [NAC 2025] Solar Farm
+- P12790 - [NERC 2022] Amazing Trick
+- P12791 - [NERC 2022] BinCoin
+- P12818 - [NERC 2021] Even Split
+- P12819 - [NERC 2021] Fancy Stack
+- P12823 - [NERC 2021] Job Lookup
+- P12903 - [NERC 2020] Digits
+- P13582 - [NWRRC 2023] Based Zeros
+- P13589 - [NWRRC 2023] Intersegment Activation
+- P13617 - [ICPC 2025 APC] Bit Counting Sequence
+- P13619 - [ICPC 2025 APC] Duplicates
+- P13651 - [CERC 2020] Art Transaction
+- P13653 - [CERC 2020] Pizzo Collectors
+- P13658 - [CERC 2020] Pickpockets
+- P13671 - [GCPC 2023] Freestyle Masonry
+- P13676 - [GCPC 2023] Kaldorian Knights
+- P13709 - [NWERC 2023] Jogging Tour
+- P13719 - [GCPC 2024] Dark Alley
+- P13720 - [GCPC 2024] Even Odd Game
+- P13722 - [GCPC 2024] Geometric Gridlock
+- P13727 - [GCPC 2024] Laundry
+- P13747 - [NWERC 2024] It's a Kind of Magic
+- P13763 - [CERC 2021] Airline
+- P13767 - [CERC 2021] Fishing
+- P13771 - [CERC 2021] Regional development
+- P13793 - [SWERC 2023] Supporting everyone
+- P13799 - [SWERC 2023] Break a leg!
+- P13802 - [SWERC 2023] Team selection
+- P13803 - [SWERC 2023] Broken trophy
+- P13806 - [CERC 2022] Combination Locks
+- P13847 - [CERC 2023] Cakes
+- P13848 - [CERC 2023] Drying Laundry
+- P13853 - [CERC 2023] Interactive Reconstruction[Can't judge yet]
+- P13854 - [CERC 2023] Jumbled Stacks
+- P13855 - [CERC 2023] Keys
+- P5801 - [SEERC 2019] Game on a Tree
+- P5869 - [SEERC 2018] Matrix Queries
+- P6252 - [ICPC 2019 WF] Beautiful Bridges
+- P6258 - [ICPC 2019 WF] Hobson's Trains
+- P6259 - [ICPC 2019 WF] Karel the Robot
+- P6894 - [ICPC 2014 WF] Crane Balancing
+- P6895 - [ICPC 2014 WF] Game Strategy
+- P6902 - [ICPC 2014 WF] Surveillance
+- P6907 - [ICPC 2015 WF] Cutting Cheese
+- P6908 - [ICPC 2015 WF] Evolution in Parallel
+- P6911 - [ICPC 2015 WF] Qanat
+- P6917 - [ICPC 2016 WF] Balanced Diet
+- P6920 - [ICPC 2016 WF] Clock Breaking
+- P6921 - [ICPC 2016 WF] Forever Young
+- P6926 - [ICPC 2016 WF] String Theory
+- P6927 - [ICPC 2016 WF] Swap Space
+- P6940 - [ICPC 2017 WF] Visual Python++
+- P6941 - [ICPC 2018 WF] Catch the Plane
+- P6948 - [ICPC 2018 WF] Single Cut of Failure
+- P6954 - [NEERC 2017] Connections
+- P6972 - [NEERC 2016] Kids Designing Kids
+- P6996 - [NEERC 2013] ASCII Puzzle
+- P7002 - [NEERC 2013] Green Energy
+- P7003 - [NEERC 2013] Hack Protection
+- P7009 - [CERC2013] Magical GCD
+- P7010 - [CERC2013] Subway
+- P7034 - [NWRRC 2016] Digital Addition
+- P7053 - [NWRRC 2015] Fygon
+- P7067 - [NWRRC 2014] Hiking in the Hills
+- P7070 - [NWRRC 2014] Kebab House
+- P7082 - [NWRRC 2013] Dwarf Tower
+- P7088 - [NWRRC 2013] J
+- P7089 - [NWRRC 2013] Kids in a Friendly Class
+- P7467 - [CERC2018] Game of Stones
+- P8129 - [ICPC 2020 WF] The Cost of Speed Limits
+- P8137 - [ICPC 2020 WF] ’S No Problem
+- P8142 - [ICPC 2020 WF] Which Planet is This?!
+- P9359 - [ICPC 2022 Xi'an R] Cells Coloring
+- P9439 - [ICPC 2021 WF] Crystal Crosswind
+- P9441 - [ICPC 2021 WF] Fair Division
+- P9446 - [ICPC 2021 WF] Prehistoric Programs
+- P9450 - [ICPC 2021 WF] Where Am I?
+- P9629 - [ICPC 2020 Nanjing R] Harmonious Rectangle
+- P9634 - [ICPC 2020 Nanjing R] Monster Hunter
+- P9658 - [ICPC 2021 Macao R] Laser Trap
+- P9662 - [ICPC 2021 Macao R] Cyclic Buffer
+- P9673 - [ICPC 2022 Jinan R] Quick Sort
+- P9718 - [EC Final 2022] Best Carry Player 2
+- P9721 - [EC Final 2022] Inversion
+- P9723 - [EC Final 2022] Chinese Checker
+- P9724 - [EC Final 2022] Chase Game
+- P9793 - [NERC 2018] Cactus Search
+- P9796 - [NERC 2018] Fractions
+- P9803 - [NERC 2018] Minegraphed
+- P9821 - [ICPC 2020 Shanghai R] Sum of Log
+- P9823 - [ICPC 2020 Shanghai R] The Journey of Geor Autumn
+- P9826 - [ICPC 2020 Shanghai R] Rice Arrangement
+- P9830 - [ICPC 2020 Shanghai R] Traveling in the Grid World
+- P9844 - [ICPC 2021 Nanjing R] Paimon Segment Tree
+- P9847 - [ICPC 2021 Nanjing R] Crystalfly
+- P9848 - [ICPC 2021 Nanjing R] Cloud Retainer's Game
+- P9849 - [ICPC 2021 Nanjing R] Xingqiu's Joke
+- P9873 - [EC Final 2021] Beautiful String
+- P9876 - [EC Final 2021] Prof. Pang and Poker
+- P9881 - [EC Final 2021] Elden Ring
+- P9890 - [ICPC 2018 Qingdao R] Tournament

@@ -1,0 +1,43 @@
+# 题号列表
+
+- P10116 - [LMXOI Round 1] Random
+- P10310 - 「Cfz Round 2」01 String
+- P10982 - Connected Graph
+- P11030 - 『DABOI Round 1』Blessings Repeated
+- P11159 - 【MX-X6-T5】 再生
+- P11316 - [RMI 2021] 去 M / NoM
+- P11487 - 「Cfz Round 5」Gnirts 10
+- P12376 - 「LAOI-12」Calculate
+- P12405 - 「CZOI-R3」星光闪耀
+- P12666 - [KOI 2023 Round 2] 草地上的蚁穴
+- P12837 - [蓝桥杯 2025 国 B] 近似回文字符串
+- P12839 - [蓝桥杯 2025 国 B] 涂格子
+- P13037 - [GCJ 2021 #2] Hidden Pancakes
+- P13064 - [GCJ 2020 #2] Wormhole in One
+- P13234 - [GCJ 2015 Finals] Campinatorics
+- P13380 - [GCJ 2011 #3] Perpetual Motion
+- P13473 - [GCJ 2008 #3] Endless Knight
+- P13696 - 「CyOI」出包魔法师
+- P2182 - 翻硬币
+- P2290 - [HNOI2004] 树的计数
+- P2606 - [ZJOI2010] 排列计数
+- P2675 - 《瞿葩的数字游戏》T3-三角圣地
+- P3048 - [USACO12FEB] Cow IDs S
+- P3807 - 【模板】卢卡斯定理/Lucas 定理
+- P3937 - Changing
+- P4562 - [JXOI2018] 游戏
+- P5135 - painting
+- P5377 - [THUPC 2019] 鸽鸽的分割
+- P5441 - 【XR-2】伤痕
+- P6162 - [Cnoi2020] 四角链
+- P6275 - [USACO20OPEN] Sprinklers 2: Return of the Alfalfa P
+- P6308 - 「Wdsr-1」笨蛋结构
+- P7118 - Galgame
+- P7322 - 「PMOI-4」排列变换
+- P9018 - [USACO23JAN] Moo Route G
+- P9035 - 「KDOI-04」Pont des souvenirs
+- P9149 - 串串题
+- P9346 - 无可奈何花落去
+- P9374 - 「DROI」Round 2 单图
+- P9475 - [_-0 A] 考试
+- P9823 - [ICPC 2020 Shanghai R] The Journey of Geor Autumn

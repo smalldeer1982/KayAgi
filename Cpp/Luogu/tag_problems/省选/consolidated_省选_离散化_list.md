@@ -1,0 +1,22 @@
+# 题号列表
+
+- P1667 - 数列
+- P2537 - [AHOI2005] 穿越磁场
+- P3071 - [USACO13JAN] Seating G
+- P3245 - [HNOI2016] 大数
+- P3471 - [POI 2008] POC-Trains
+- P3616 - 富金森林公园
+- P3657 - [USACO17FEB] Why Did the Cow Cross the Road II P
+- P3709 - 大爷的字符串题
+- P3721 - [AH2017/HNOI2017] 单旋
+- P3755 - [CQOI2017] 老C的任务
+- P3813 - [FJOI2017] 矩阵填数
+- P3928 - SAC E#1 - 一道简单题 Sequence2
+- P4168 - [Violet] 蒲公英
+- P4261 - [Code+#3] 白金元首与克劳德斯
+- P4404 - [JSOI2010] 缓存交换
+- P4479 - [BJWC2018] 第k大斜率
+- P4688 - [Ynoi Easy Round 2016] 掉进兔子洞
+- P4689 - [Ynoi Easy Round 2016] 这是我自己的发明
+- P5346 - 【XR-1】柯南家族
+- P6619 - [省选联考 2020 A/B 卷] 冰火战士

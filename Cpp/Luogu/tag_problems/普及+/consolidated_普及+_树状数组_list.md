@@ -1,0 +1,45 @@
+# 题号列表
+
+- P10087 - [ROIR 2022] 跳跃机器人 (Day 1)
+- P10235 - [yLCPC2024] C. 舞萌基本练习
+- P10374 - [AHOI2024 初中组] 操作
+- P10454 - 奇数码问题
+- P10673 - 【MX-S1-T2】催化剂
+- P10814 - 【模板】离线二维数点
+- P11012 - 「ALFR Round 4」B 颜料
+- P11048 - [蓝桥杯 2024 省 Java B] 拼十字
+- P1168 - 中位数
+- P12016 - [NOISG 2025 Finals] Thumper
+- P12385 - [蓝桥杯 2023 省 Python B] 异或和
+- P12570 - [UOI 2023] An Array and Medians of Subarrays
+- P12890 - [蓝桥杯 2025 国 Java B] 道具摆放
+- P12894 - [蓝桥杯 2025 国 Java B] 智能交通信号灯
+- P12958 - [GCJ Farewell Round #3] Evolutionary Algorithms
+- P13465 - [GCJ 2008 #1C] Increasing Speed Limits
+- P13486 - [GCJ 2008 Finals] Juice
+- P13520 - [KOI 2025 #2] 存放箱子
+- P13738 - [JOIGST 2025] 电波塔 / Radio Towers
+- P13773 - [CERC 2021] Single-track railway
+- P1438 - 无聊的数列
+- P1637 - 三元上升子序列
+- P2068 - 统计和
+- P2357 - 守墓人
+- P2717 - 寒假作业
+- P3368 - 【模板】树状数组 2
+- P3374 - 【模板】树状数组 1
+- P3608 - [USACO17JAN] Balanced Photo G
+- P3801 - 红色的幻想乡
+- P4392 - [BalticOI 2007] Sound 静音问题
+- P4868 - Preprefix sum
+- P4939 - Agent2
+- P5057 - [CQOI2006] 简单题
+- P5094 - [USACO04OPEN] MooFest G 加强版
+- P5200 - [USACO19JAN] Sleepy Cow Sorting G
+- P5367 - 【模板】康托展开
+- P5459 - [BJOI2016] 回转寿司
+- P6225 - [eJOI 2019] 异或橙子
+- P6278 - [USACO20OPEN] Haircut G
+- P7629 - [COCI 2011/2012 #1] SORT
+- P7715 - 「EZEC-10」Shape
+- P9579 - 「Cfz Round 1」Elevator
+- P9588 - 「MXOI Round 2」队列

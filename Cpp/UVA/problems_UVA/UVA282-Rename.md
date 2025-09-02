@@ -1,0 +1,57 @@
+---
+title: "Rename"
+layout: "post"
+diff: 难度0
+pid: UVA282
+tag: []
+---
+
+# Rename
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=218
+
+[PDF](https://uva.onlinejudge.org/external/2/p282.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA282/9d1486fd6c2f432361bc46d6c096cba383b49a1c.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA282/0247b71ad8bdebe596d63ecbc40fd414d0f0796d.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA282/74983f8222fd015791d8e092c103f32751e16aae.png)
+
+## 样例 #1
+
+### 输入
+
+```
+abFile001.c
+abFile001.cxx
+abprog001.c
+abfile.c
+abFile.c
+abFileprog.c
+end
+rename abFile*.c bprog*.cxx
+end
+acm.c
+end
+rename ac*.c ib*.cpp
+end
+```
+
+### 输出
+
+```
+rename abFile*.c bprog*.cxx
+mv abFile001.c bprog001.cxx
+mv abFile.c bprog.cxx
+mv abFileprog.c bprogprog.cxx
+rename ac*.c ib*.cpp
+mv acm.c ibm.cpp
+```
+

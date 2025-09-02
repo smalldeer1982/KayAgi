@@ -1,0 +1,22 @@
+# 题号列表
+
+- CF1016C - Vasya And The Mushrooms
+- CF1065C - Make It Equal
+- CF1179A - Valeriy and Deque
+- CF176C - Playing with Superglue
+- CF1922D - Berserk Monsters
+- CF1945G - Cook and Porridge
+- CF1970F2 - Playing Quidditch (Medium)
+- CF1970F3 - Playing Quidditch (Hard)
+- CF2045M - Mirror Maze
+- CF295C - Greg and Friends
+- CF31D - Chocolate
+- CF404D - Minesweeper 1D
+- CF460C - Present
+- CF47C - Crossword
+- CF613A - Peter and Snow Blower
+- CF750C - New Year and Rating
+- CF784E - Twisted Circuit
+- CF7B - Memory Manager
+- CF827A - String Reconstruction
+- CF848B - Rooter's Song

@@ -1,0 +1,98 @@
+# 题号列表
+
+- P10563 - [ICPC 2024 Xi'an I] Yet Another Maximum Matching Counting Problem
+- P10621 - [ICPC 2013 WF] Map Tiles
+- P10820 - [EC Final 2020] Tube Master III
+- P10825 - [EC Final 2020] Circle
+- P10828 - [EC Final 2020] Fillomino
+- P12094 - [NERC2024] Cactus without Bridges
+- P12099 - [NERC2024] Hunting Hoglins in Hogwarts
+- P12103 - [NERC2024] Legacy Screensaver
+- P12109 - [NWRRC2024] Eight-Shaped Figures
+- P12299 - [ICPC 2023 WF] A Recurring Problem
+- P12304 - [ICPC 2022/2023 WF] Bridging the Gap
+- P12311 - [ICPC 2022 WF] Archaeological Recovery
+- P12626 - [NAC 2025] Most Scenic Cycle
+- P12785 - [ICPC 2024 Yokohama R] Remodeling the Dungeon 2
+- P12792 - [NERC 2022] Cactus Meets Torus
+- P12799 - [NERC 2022] Jumbled Trees
+- P12801 - [NERC 2022] Lisa's Sequences
+- P12814 - [NERC 2021] Admissible Map
+- P12815 - [NERC 2021] Budget Distribution
+- P12820 - [NERC 2021] Global Warming
+- P12821 - [NERC 2021] Heroes of Might
+- P12824 - [NERC 2021] Kingdom Partition
+- P12855 - [NERC 2020 Online] Find a Square
+- P12857 - [NERC 2020 Online] Hit the Hay
+- P12905 - [NERC 2020] Fiber Shape
+- P12907 - [NERC 2020] Hard Optimization
+- P12936 - [NERC 2019] Cactus Revenge
+- P12940 - [NERC 2019] Game Relics
+- P12941 - [NERC 2019] Help BerLine
+- P13588 - [NWRRC 2023] H-Shaped Figures
+- P13615 - [ICPC 2025 APC] Antiparticle Antiphysics
+- P13623 - [ICPC 2025 APC] Symmetric Boundary
+- P13627 - [ICPC 2025 APC] Zig-zag
+- P13657 - [CERC 2020] Offices
+- P13666 - [GCPC 2023] Adolescent Architecture 2
+- P13721 - [GCPC 2024] Fair Fruitcake Fragmenting
+- P13764 - [CERC 2021] Building on the Moon
+- P13765 - [CERC 2021] Cactus cutting
+- P13845 - [CERC 2023] Attendance
+- P13850 - [CERC 2023] Phylogenetics
+- P6256 - [ICPC 2019 WF] Directing Rainfall
+- P6261 - [ICPC 2019 WF] Traffic Blights
+- P6892 - [ICPC 2014 WF] Baggage
+- P6897 - [ICPC 2014 WF] Messenger
+- P6898 - [ICPC 2014 WF] Metal Processing Plant
+- P6899 - [ICPC 2014 WF] Pachinko
+- P6901 - [ICPC 2014 WF] skiing
+- P6903 - [ICPC 2014 WF] Wire Crossing
+- P6905 - [ICPC 2015 WF] Asteroids
+- P6910 - [ICPC 2015 WF] Pipe Stream
+- P6914 - [ICPC 2015 WF] Tours
+- P6923 - [ICPC 2016 WF] Polygonal Puzzle
+- P6924 - [ICPC 2016 WF] Road Times
+- P6925 - [ICPC 2016 WF] Spin Doctor
+- P6936 - [ICPC 2017 WF] Scenery
+- P6938 - [ICPC 2017 WF] Son of Pipe Stream
+- P6943 - [ICPC 2018 WF] Conquer The World
+- P6947 - [ICPC 2018 WF] Panda Preserve
+- P6950 - [ICPC 2018 WF] Uncrossed Knight’s Tour
+- P6959 - [NEERC 2017] Hack
+- P6962 - [NEERC 2017] Knapsack Cryptosystem
+- P6965 - [NEERC 2016] Binary Code
+- P6967 - [NEERC 2016] Delight for a Cat
+- P7038 - [NWRRC 2016] Hard Cuts
+- P7054 - [NWRRC 2015] Graph
+- P7056 - [NWRRC 2015] Insider’s Information
+- P7058 - [NWRRC 2015] Kingdom Trip
+- P7064 - [NWRRC 2014] Expression
+- P7123 - [NEERC 2016] Indiana Jones and the Uniform Cave
+- P8135 - [ICPC 2020 WF] QC QC
+- P8138 - [ICPC 2020 WF] Space Walls
+- P8139 - [ICPC 2020 WF] Sweep Stakes
+- P8141 - [ICPC 2020 WF] What’s Our Vector, Victor?
+- P9366 - [ICPC 2022 Xi'an R] Square Grid
+- P9442 - [ICPC 2021 WF] Guardians of the Gallery
+- P9449 - [ICPC 2021 WF] Take On Meme
+- P9623 - [ICPC 2020 Nanjing R] Baby's First Suffix Array Problem
+- P9657 - [ICPC 2021 Macao R] the Matching System
+- P9665 - [ICPC 2021 Macao R] Colorful Tree
+- P9672 - [ICPC 2022 Jinan R] Grid Points
+- P9675 - [ICPC 2022 Jinan R] Shortest Path
+- P9678 - [ICPC 2022 Jinan R] Tree Distance
+- P9719 - [EC Final 2022] Minimum Suffix
+- P9722 - [EC Final 2022] Rectangle
+- P9726 - [EC Final 2022] Magic
+- P9798 - [NERC 2018] Harder Satisfiability
+- P9819 - [ICPC 2020 Shanghai R] Wowoear
+- P9828 - [ICPC 2020 Shanghai R] Octasection
+- P9845 - [ICPC 2021 Nanjing R] Paimon Polygon
+- P9850 - [ICPC 2021 Nanjing R] Ancient Magic Circle in Teyvat
+- P9877 - [EC Final 2021] Vacation
+- P9878 - [EC Final 2021] Check Pattern is Bad
+- P9882 - [EC Final 2021] Vision Test
+- P9884 - [EC Final 2021] Prof. Pang and Ants
+- P9885 - [ICPC 2018 Qingdao R] Sequence and Sequence
+- P9892 - [ICPC 2018 Qingdao R] Mirror

@@ -1,0 +1,40 @@
+---
+title: "CMPSSTR - Compare Substring"
+layout: "post"
+diff: 难度0
+pid: SP25176
+tag: []
+---
+
+# CMPSSTR - Compare Substring
+
+## 题目描述
+
+\* This problem is of autorship and property of TopCoder (www.topcoder.com/tc) and adapted by Alessandro B. for authorized use in URI OJ.  
+ \* Unauthorized reproduction of this problem statement without the prior written consent of TopCoder, Inc. is strictly prohibited.
+
+Find the longest common substring between the two informed Strings. The substring can be any part of the String, including the entire String. If there is no common substring, return 0. The search is _case sensitive_ ('x' != 'X').
+
+## 输入格式
+
+The input contains several test cases. Each test case is composed by two lines that contains a string each. Both input Strings will contain between 1 and 50, inclusive, letters (a-z, A-Z), and/or spaces.
+
+## 输出格式
+
+The length of the longest common substring between the two Strings.
+
+## 样例 #1
+
+### 输入
+
+```
+abcdef\ncdofhij\nTWO\nFOUR\nabracadabra\nopen\nHey This java is hot\nJava is a new paradigm
+```
+
+### 输出
+
+```
+2\n1\n0\n7
+\n\n
+```
+

@@ -1,0 +1,23 @@
+# 题号列表
+
+- P1038 - [NOIP 2003 提高组] 神经网络
+- P11022 - 「LAOI-6」Yet Another Graph Coloration Problem
+- P12026 - [USACO25OPEN] Compatible Pairs S
+- P12039 - [USTCPC 2025] 高位逼抢
+- P13359 - [GDCPC 2024] 不等式
+- P1347 - 排序
+- P1543 - [POI 2004] SZP
+- P1685 - 游览
+- P1983 - [NOIP 2013 普及组] 车站分级
+- P2419 - [USACO08JAN] Cow Contest S
+- P3116 - [USACO15JAN] Meeting Time S
+- P4316 - 绿豆蛙的归宿
+- P4673 - [BalticOI 2005] Bus Trip
+- P5603 - 小 C 与桌游
+- P6154 - 游走
+- P6560 - [SBCOI2020] 时光的流逝
+- P7113 - [NOIP2020] 排水系统
+- P7860 - [COCI 2015/2016 #2] ARTUR
+- P8269 - [USACO22OPEN] Visits S
+- P9901 - 『PG2』弯曲半平面直线同向图最大流
+- P9981 - [USACO23DEC] Minimum Longest Trip G

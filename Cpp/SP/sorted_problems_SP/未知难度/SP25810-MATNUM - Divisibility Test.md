@@ -1,0 +1,51 @@
+---
+title: "MATNUM - Divisibility Test"
+layout: "post"
+diff: 难度0
+pid: SP25810
+tag: []
+---
+
+# MATNUM - Divisibility Test
+
+## 题目描述
+
+Problem statement is simple and straight forward . You will be given a non-negative integer **P** of length **N** and you need to check whether it's divisible by **Q** ?
+
+Integer **P** will be given in its decimal representation with **P $ _{0} $** as leftmost digit and **P $ _{1} $** as second digit from left !
+
+Rest of the digit can be generated from the formula :
+
+ **P $ _{i} $ = ( 4\*P $ _{i-1} $ + P $ _{i-2} $ ) modulo Q** for  **2 <= i <= N-1**
+
+## 输入格式
+
+The first line contains one integer **T** - denoting the number of test cases.
+
+**T** lines follow each containing four integers **P $ _{0} $** , **P $ _{1} $** , **Q** and **N** !
+
+## 输出格式
+
+For each testcase output **YES** if the corresponding integer is divisible by **Q** and **NO** otherwise.
+
+## 样例 #1
+
+### 输入
+
+```
+4
+1 4 2 2
+1 4 2 1
+4 2 3 2
+3 4 7 3
+```
+
+### 输出
+
+```
+YES
+NO
+YES
+NO
+```
+

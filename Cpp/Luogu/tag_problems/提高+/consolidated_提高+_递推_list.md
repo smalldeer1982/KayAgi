@@ -1,0 +1,64 @@
+# 题号列表
+
+- P10128 - 「Daily OI Round 3」Xor Graph
+- P1050 - [NOIP 2005 普及组] 循环
+- P1108 - 低价购买
+- P12398 - 「FAOI-R9」决战黎明
+- P12561 - [UTS 2024] Matrix
+- P1315 - [NOIP 2011 提高组] 观光公交
+- P13355 - [GDCPC 2024] 循环赛
+- P1370 - Charlie的云笔记序列
+- P1397 - [NOI2013] 矩阵游戏
+- P1399 - [NOI2013] 快餐店
+- P1450 - [HAOI2008] 硬币购物
+- P1707 - 刷题比赛
+- P1758 - [NOI2009] 管道取珠
+- P1769 - 淘汰赛制
+- P1805 - 关灯
+- P2030 - 遥控车
+- P2051 - [AHOI2009] 中国象棋
+- P2059 - [JLOI2013] 卡牌游戏
+- P2215 - [HAOI2007] 上升序列
+- P2331 - [SCOI2005] 最大子矩阵
+- P2375 - [NOI2014] 动物园
+- P2519 - [HAOI2011] problem a
+- P2592 - [ZJOI2008] 生日聚会
+- P2841 - A*B Problem
+- P2883 - [USACO07MAR] Cow Traffic S
+- P2890 - [USACO07OPEN] Cheapest Palindrome G
+- P2893 - [USACO08FEB] Making the Grade G
+- P2943 - [USACO09MAR] Cleaning Up G
+- P2950 - [USACO09OPEN] Bovine Embroidery G
+- P2977 - [USACO10JAN] Cow Telephones G
+- P3182 - [HAOI2016] 放棋子
+- P3193 - [HNOI2008] GT考试
+- P3216 - [HNOI2011] 数学作业
+- P3431 - [POI 2005] AUT-The Bus
+- P3537 - [POI 2012] SZA-Cloakroom
+- P3625 - [APIO2009] 采油区域
+- P3708 - koishi的数学题
+- P3867 - [TJOI2009] 排列计数
+- P3873 - [TJOI2010] 天气预报
+- P3891 - [GDOI2014] 采集资源
+- P4060 - [Code+#1] 可做题
+- P4127 - [AHOI2009] 同类分布
+- P4133 - [BJOI2012] 最多的方案
+- P4158 - [SCOI2009] 粉刷匠
+- P4409 - [ZJOI2006] 皇帝的烦恼
+- P4550 - 收集邮票
+- P4644 - [USACO05DEC] Cleaning Shifts S
+- P4862 - 猜数
+- P4881 - hby与tkw的基情
+- P4910 - 帕秋莉的手环
+- P4996 - 咕咕咕
+- P5030 - 长脖子鹿放置
+- P5147 - 随机数生成器
+- P6042 - 「ACOI2020」学园祭
+- P6648 - [CCC 2019] Triangle: The Data Structure
+- P6856 - 「EZEC-4.5」子序列
+- P7495 - 异位坍缩
+- P7705 - 「Wdsr-2.7」天才⑨与数学递推式
+- P7977 - 「Stoi2033」世界未末日
+- P8850 - [JRKSJ R5] Jalapeno and Garlic
+- P9142 - [THUPC 2023 初赛] 欺诈游戏
+- P9849 - [ICPC 2021 Nanjing R] Xingqiu's Joke

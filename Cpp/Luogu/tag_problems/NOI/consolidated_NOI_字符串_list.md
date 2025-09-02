@@ -1,0 +1,23 @@
+# 题号列表
+
+- P10176 - 「OICon-02」Native Faith
+- P11730 - [集训队互测 2015] Sone2
+- P1335 - [NOI2013] 小 Q 的修炼
+- P13665 - 「TPOI-5D」「僕は…」
+- P3269 - [JLOI2016] 字符串覆盖
+- P3706 - [SDOI2017] 硬币游戏
+- P3783 - [SDOI2017] 天才黑客
+- P3881 - [JLOI2008] CODES
+- P4022 - [CTSC2012] 熟悉的文章
+- P4075 - [SDOI2016] 模式字符串
+- P4143 - 采集矿石
+- P4218 - [CTSC2010] 珠宝商
+- P4384 - [八省联考 2018] 制胡窜
+- P4548 - [CTSC2006] 歌唱王国
+- P4607 - [SDOI2018] 反回文串
+- P5115 - Check,Check,Check one two!
+- P6292 - 区间本质不同子串个数
+- P6385 - 『MdOI R2』Little Goth
+- P9348 - 小园香径独徘徊
+- P9623 - [ICPC 2020 Nanjing R] Baby's First Suffix Array Problem
+- P9719 - [EC Final 2022] Minimum Suffix

@@ -1,0 +1,133 @@
+# 题号列表
+
+- P10141 - [USACO24JAN] Merging Cells P
+- P10142 - [USACO24JAN] Mooball Teams III P
+- P10196 - [USACO24FEB] Lazy Cow P
+- P10281 - [USACO24OPEN] Grass Segments G
+- P10283 - [USACO24OPEN] Identity Theft P
+- P10284 - [USACO24OPEN] Splitting Haybales P
+- P10285 - [USACO24OPEN] Activating Robots P
+- P11458 - [USACO24DEC] All Pairs Similarity P
+- P11459 - [USACO24DEC] It's Mooin' Time P
+- P11675 - [USACO25JAN] Photo Op G
+- P11844 - [USACO25FEB] Friendship Editing G
+- P11845 - [USACO25FEB] Min Max Subarrays P
+- P11847 - [USACO25FEB] True or False Test P
+- P12030 - [USACO25OPEN] OohMoo Milk G
+- P12032 - [USACO25OPEN] Lazy Sort P
+- P1344 - [USACO4.4] 追查坏牛奶 Pollutant Control
+- P1452 - 【模板】旋转卡壳 | [USACO03FALL] Beauty Contest G
+- P1561 - [USACO12JAN] Mountain Climbing S
+- P1606 - [USACO07FEB] Lilypad Pond G
+- P1674 - [USACO05FEB] Secret Milking Machine G
+- P1715 - [USACO16DEC] Lots of Triangles P
+- P1848 - [USACO12OPEN] Bookshelf G
+- P2541 - [USACO16DEC] Robotic Cow Herd P
+- P2750 - [USACO5.5] 贰五语言Two Five
+- P2857 - [USACO06FEB] Steady Cow Assignment G
+- P2868 - [USACO07DEC] Sightseeing Cows G
+- P2877 - [USACO07JAN] Cow School G
+- P2891 - [USACO07OPEN] Dining G
+- P2900 - [USACO08MAR] Land Acquisition G
+- P2906 - [USACO08OPEN] Cow Neighborhoods G
+- P2917 - [USACO08NOV] Toys G
+- P2924 - [USACO08DEC] Largest Fence G
+- P2928 - [USACO09HOL] Cattle Bruisers G
+- P2930 - [USACO09HOL] Holiday Painting G
+- P2934 - [USACO09JAN] Safe Travel G
+- P2944 - [USACO09MAR] Earthquake Damage 2 G
+- P2961 - [USACO09NOV] Who Brings the Cookies? G
+- P2971 - [USACO10HOL] Cow Politics G
+- P2973 - [USACO10HOL] Driving Out the Piggies G
+- P2974 - [USACO10HOL] Cow War G
+- P2976 - [USACO10JAN] Shipping Around an Island G
+- P2987 - [USACO10MAR] StarCowraft G
+- P2992 - [USACO10OPEN] Triangle Counting G
+- P3002 - [USACO10DEC] Threatening Letter G
+- P3006 - [USACO11JAN] Bottleneck G
+- P3011 - [USACO11JAN] Traffic Lights S
+- P3023 - [USACO11OPEN] Soldering G
+- P3037 - [USACO11DEC] Simplifying the Farm G
+- P3039 - [USACO12JAN] Delivery Route S
+- P3041 - [USACO12JAN] Video Game G
+- P3042 - [USACO12JAN] Cow Run G
+- P3050 - [USACO12MAR] Large Banner G
+- P3059 - [USACO12NOV] Concurrently Balanced Strings G
+- P3060 - [USACO12NOV] Balanced Trees G
+- P3061 - [USACO12DEC] Crazy Fences S
+- P3071 - [USACO13JAN] Seating G
+- P3084 - [USACO13OPEN] Photo G
+- P3085 - [USACO13OPEN] Yin and Yang G
+- P3086 - [USACO13OPEN] Figure Eight G
+- P3091 - [USACO13NOV] Line of Sight G
+- P3098 - [USACO13DEC] The Bessie Shuffle G
+- P3103 - [USACO14FEB] Airplane Boarding G
+- P3108 - [USACO14OPEN] Cow Optics G
+- P3121 - [USACO15FEB] Censoring G
+- P3122 - [USACO15FEB] Fencing the Herd G
+- P3607 - [USACO17JAN] Subsequence Reversal P
+- P3657 - [USACO17FEB] Why Did the Cow Cross the Road II P
+- P3658 - [USACO17FEB] Why Did the Cow Cross the Road III P
+- P3665 - [USACO17OPEN] Switch Grass P
+- P3666 - [USACO17OPEN] COWBASIC P
+- P4081 - [USACO17DEC] Standing Out from the Herd P
+- P4083 - [USACO17DEC] A Pie for a Pie G
+- P4088 - [USACO18FEB] Slingshot P
+- P4182 - [USACO18JAN] Lifeguards P
+- P4183 - [USACO18JAN] Cow at Large P
+- P4184 - [USACO18JAN] Sprinklers P
+- P4187 - [USACO18JAN] Stamp Painting G
+- P4270 - [USACO18FEB] Cow Gymnasts P
+- P4271 - [USACO18FEB] New Barns P
+- P4372 - [USACO18OPEN] Out of Sorts P
+- P4876 - [USACO14MAR] The Lazy Cow G
+- P4953 - [USACO02FEB] Cow Cycling
+- P4954 - [USACO09OPEN] Tower of Hay G
+- P5155 - [USACO18DEC] Balance Beam P
+- P5156 - [USACO18DEC] Sort It Out P
+- P5157 - [USACO18DEC] The Cow Gathering P
+- P5203 - [USACO19JAN] Exercise Route P
+- P5204 - [USACO19JAN] Train Tracking 2 P
+- P5242 - [USACO19FEB] Cow Dating P
+- P5243 - [USACO19FEB] Moorio Kart P
+- P5853 - [USACO19DEC] Tree Depth P
+- P6007 - [USACO20JAN] Springboards G
+- P6009 - [USACO20JAN] Non-Decreasing Subsequences P
+- P6010 - [USACO20JAN] Falling Portals P
+- P6062 - [USACO05JAN] Muddy Fields G
+- P6080 - [USACO05DEC] Cow Patterns G
+- P6144 - [USACO20FEB] Help Yourself P
+- P6173 - [USACO16FEB] Circular Barn P
+- P6176 - [USACO16JAN] Lights Out P
+- P6243 - [USACO06OPEN] The Milk Queue G
+- P7152 - [USACO20DEC] Bovine Genetics G
+- P7153 - [USACO20DEC] Square Pasture G
+- P7154 - [USACO20DEC] Sleeping Cows P
+- P7414 - [USACO21FEB] Modern Art 3 G
+- P7529 - [USACO21OPEN] Permutation G
+- P7530 - [USACO21OPEN] United Cows of Farmer John P
+- P7532 - [USACO21OPEN] Balanced Subsets  P
+- P7984 - [USACO21DEC]  Tickets P
+- P7985 - [USACO21DEC] Paired Up P
+- P7986 - [USACO21DEC] HILO P
+- P8098 - [USACO22JAN] Tests for Haybales G
+- P8100 - [USACO22JAN] Counting Haybales P
+- P8101 - [USACO22JAN] Multiple Choice Test P
+- P8189 - [USACO22FEB] Redistributing Gifts G
+- P8193 - [USACO22FEB] Sleeping in Class P
+- P8276 - [USACO22OPEN] Hoof and Brain P
+- P8277 - [USACO22OPEN] Up Down Subsequence P
+- P8906 - [USACO22DEC] Breakdown P
+- P8908 - [USACO22DEC] Palindromes P
+- P9019 - [USACO23JAN] Tractor Paths P
+- P9020 - [USACO23JAN] Mana Collection P
+- P9021 - [USACO23JAN] Subtree Activation P
+- P9128 - [USACO23FEB] Fertilizing Pastures G
+- P9129 - [USACO23FEB] Piling Papers G
+- P9130 - [USACO23FEB] Hungry Cow P
+- P9131 - [USACO23FEB] Problem Setting P
+- P9132 - [USACO23FEB] Watching Cowflix P
+- P9192 - [USACO23OPEN] Pareidolia P
+- P9193 - [USACO23OPEN] Good Bitstrings P
+- P9984 - [USACO23DEC] A Graph Problem P
+- P9985 - [USACO23DEC] Train Scheduling P

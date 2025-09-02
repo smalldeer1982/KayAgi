@@ -1,0 +1,42 @@
+---
+title: "Warping N Dimensional Space"
+layout: "post"
+diff: 难度0
+pid: UVA11273
+tag: []
+---
+
+# Warping N Dimensional Space
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2248
+
+[PDF](https://uva.onlinejudge.org/external/112/p11273.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11273/2f28a8a64f0bdc3effd1290414cd6c9f09412872.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11273/1bfd40550882e737dfd98862976281c44f8bb8d0.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11273/bea02a7719baf88332da575c404731a5097a2287.png)
+
+## 样例 #1
+
+### 输入
+
+```
+10000
+10001
+```
+
+### 输出
+
+```
+2747606
+295638
+```
+

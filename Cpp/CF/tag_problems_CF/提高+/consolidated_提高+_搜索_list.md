@@ -1,0 +1,26 @@
+# 题号列表
+
+- CF1006F - Xor-Paths
+- CF1036C - Classy Numbers
+- CF1037E - Trips
+- CF1060E - Sergey and Subway
+- CF1065D - Three Pieces
+- CF149D - Coloring Brackets
+- CF1607F - Robot on the Board 2
+- CF1916E - Happy Life in University
+- CF1920F1 - Smooth Sailing (Easy Version)
+- CF1985H2 - Maximize the Largest Component (Hard Version)
+- CF2086E - Zebra-like Numbers
+- CF2091G - Gleb and Boating
+- CF2C - Commentator problem
+- CF369D - Valera and Fools
+- CF379F - New Year Tree
+- CF383C - Propagating tree
+- CF402E - Strictly Positive Matrix
+- CF509F - Progress Monitoring
+- CF525E - Anya and Cubes
+- CF607B - Zuma
+- CF739B - Alyona and a tree
+- CF754C - Vladik and chat
+- CF920E - Connected Components?
+- CF999E - Reachability from the Capital

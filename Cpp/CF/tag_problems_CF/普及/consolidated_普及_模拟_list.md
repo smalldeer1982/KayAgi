@@ -1,0 +1,48 @@
+# 题号列表
+
+- CF1011B - Planning The Expedition
+- CF1017C - The Phone Number
+- CF1023A - Single Wildcard Pattern Matching
+- CF103B - Cthulhu
+- CF1043C - Smallest Word
+- CF1066D - Boxes Packing
+- CF1073D - Berland Fair
+- CF10B - Cinema Cashier
+- CF1175B - Catch Overflow!
+- CF1360E - Polygon
+- CF159C - String Manipulation 1.0
+- CF1684C - Column Swapping
+- CF1696C - Fishingprince Plays With Array
+- CF18C - Stripe
+- CF1932D - Card Game
+- CF1950E - Nearly Shortest Repeating Substring
+- CF1970F1 - Playing Quidditch (Easy)
+- CF1974D - Ingenuity-2
+- CF19A - World Football Cup
+- CF2004D - Colored Portals
+- CF208A - Dubstep
+- CF2106D - Flower Boy
+- CF2118D1 - Red Light, Green Light (Easy version)
+- CF2121E - Sponsor of Your Problems
+- CF234E - Champions' League
+- CF24B - F1 Champions
+- CF2A - Winner
+- CF31B - Sysadmin Bob
+- CF327A - Flipping Game
+- CF3C - Tic-tac-toe
+- CF448D - Multiplication Table
+- CF44C - Holidays
+- CF463A - Caisa and Sugar
+- CF500C - New Year Book Reading
+- CF514A - Chewbaсca and Number
+- CF523A - Rotate, Flip and Zoom
+- CF591B - Rebranding
+- CF787A - The Monster
+- CF798B - Mike and strings
+- CF900B - Position in Fraction
+- CF940B - Our Tanya is Crying Out Loud
+- CF960B - Minimize the error
+- CF962A - Equator
+- CF978G - Petya's Exams
+- CF986B - Petr and Permutations
+- CF991D - Bishwock

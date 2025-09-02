@@ -1,0 +1,78 @@
+# 题号列表
+
+- P10633 - BZOJ2989 数列/BZOJ4170 极光
+- P10799 - 「CZOI-R1」三角形与树
+- P10863 - [HBCPC2024] Enchanted
+- P11456 - [USACO24DEC] Interstellar Intervals G
+- P11625 - [迷宫寻路 Round 3] 迷宫寻路大赛
+- P11656 - 「FAOI-R5」喷酒大赛
+- P11664 - [JOI 2025 Final] 缆车 / Mi Teleférico
+- P11828 - [TOIP2024] 距離函數
+- P12127 - [蓝桥杯 2024 省 B 第二场] 最强小队
+- P12406 - 「CZOI-R3」消除序列
+- P12502 - 「ROI 2025 Day1」天狼星的换班
+- P12670 - 「TFXOI Round 2」LQXZ & AGLT
+- P12685 - [国家集训队] 排队 加强版
+- P12691 - [KOI 2022 Round 1] 补给
+- P12930 - [USACO4.3] 逢低吸纳 Buy Low, Buy Lower 加强版
+- P13547 - [OOI 2022] Third grader's task
+- P13567 - 「CZOI-R5」折跃点
+- P1471 - 方差
+- P1966 - [NOIP 2013 提高组] 火柴排队
+- P1972 - [SDOI2009] HH的项链
+- P2076 - 曼哈顿距离最小生成树
+- P2148 - [SDOI2009] E&D
+- P2161 - [SHOI2009] 会场预约
+- P2163 - [SHOI2007] 园丁的烦恼
+- P2344 - [USACO11FEB] Generic Cow Protests G
+- P2448 - 无尽的生命
+- P2464 - [SDOI2008] 郁闷的小 J
+- P2672 - [NOIP 2015 普及组] 推销员
+- P2982 - [USACO10FEB] Slowing down G
+- P3069 - [USACO13JAN] Cow Lineup G
+- P3149 - 排序
+- P3253 - [JLOI2013] 删除物品
+- P3431 - [POI 2005] AUT-The Bus
+- P3459 - [POI 2007] MEG-Megalopolis
+- P3531 - [POI 2012] LIT-Letters
+- P3605 - [USACO17JAN] Promotion Counting P
+- P3656 - [USACO17FEB] Why Did the Cow Cross the Road I P
+- P3660 - [USACO17FEB] Why Did the Cow Cross the Road III G
+- P3787 - 冰精冻西瓜
+- P3970 - [TJOI2014] 上升子序列
+- P4054 - [JSOI2009] 计数问题
+- P4064 - [JXOI2017] 加法
+- P4113 - [HEOI2012] 采花
+- P4280 - [AHOI2008] 逆序对
+- P4303 - [AHOI2006] 基因匹配
+- P4375 - [USACO18OPEN] Out of Sorts G
+- P4514 - 上帝造题的七分钟
+- P4873 - [USACO14DEC] Cow Jog G
+- P4879 - ycz的妹子
+- P4969 - 神秘的703
+- P5142 - 区间方差
+- P5482 - [JLOI2011] 不等式组
+- P5522 - [yLOI2019] 棠梨煎雪
+- P5673 - 「SWTR-2」Picking Gifts
+- P5677 - [GZOI2017] 配对统计
+- P5852 - [USACO19DEC] Bessie's Snow Cow P
+- P6172 - [USACO16FEB] Load Balancing P
+- P6186 - [NOI Online #1 提高组] 冒泡排序
+- P6477 - [NOI Online #2 提高组] 子序列问题
+- P6564 - [POI 2007] 堆积木KLO
+- P6655 - [YsOI2020] 制高
+- P6688 - 可重集
+- P7169 - [eJOI 2020] Exam (Day1)
+- P7244 - 章节划分
+- P7394 - 「TOCO Round 1」History
+- P7416 - [USACO21FEB] No Time to Dry P
+- P7527 - [USACO21OPEN] United Cows of Farmer John G
+- P7619 - [COCI 2011/2012 #2] RASPORED
+- P7692 - [CEOI 2003] The Race
+- P7768 - 「CGOI-1」收税
+- P7818 - [RC-05] 排列
+- P8413 - 「SvR-1」Five of Pentacles
+- P8593 - 「KDOI-02」一个弹的投
+- P9097 - [PA 2020] Elektrownie i fabryki
+- P9491 - ZHY 的集合
+- P9639 - 「yyOI R1」youyou 的序列

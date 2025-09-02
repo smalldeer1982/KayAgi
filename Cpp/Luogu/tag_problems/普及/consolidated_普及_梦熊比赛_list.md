@@ -1,0 +1,21 @@
+# 题号列表
+
+- P10714 - 【MX-X1-T2】「KDOI-05」简单的有限网格问题
+- P10810 - 【MX-S2-T1】 变
+- P10853 - 【MX-X2-T2】「Cfz Round 4」Xor Counting
+- P10885 - 【MX-S3-T1】「FeOI Round 1」野心
+- P10995 - 【MX-J3-T2】 Substring
+- P10996 - 【MX-J3-T3】 Tuple
+- P11062 - 【MX-X4-T2】「Jason-1」加法
+- P11130 - 【MX-X5-T2】「GFOI Round 1」Interstellar
+- P11214 - 【MX-J8-T2】 黑洞
+- P11561 - 【MX-X7-T2】[LSOT-3] 姬誉蛙
+- P11643 - 【MX-X8-T2】「TAOI-3」终有一天，飞向水平线的彼方
+- P11798 - 【MX-X9-T2】『GROI-R3』XOR
+- P12006 - 【MX-X10-T2】[LSOT-4] 网易云
+- P12147 - 【MX-X11-T1】「蓬莱人形 Round 1」仅此而已，就已经足够了
+- P12420 - 【MX-X12-T3】「ALFR Round 5」变换
+- P12683 - 【MX-J15-T3】叉叉学习与自我和解
+- P13556 - 【MX-X15-T3】画圈圈
+- P13685 - 【MX-X16-T3】「DLESS-3」XOR and Impossible Problem
+- P13831 - 【MX-X18-T3】「FAOI-R6」比亚多西

@@ -1,0 +1,25 @@
+# 题号列表
+
+- P10141 - [USACO24JAN] Merging Cells P
+- P10384 - 「HOI R1」杂交选种
+- P10831 - [COTS 2023] 三角形 Trokuti
+- P11900 - 不知道
+- P12285 - [蓝桥杯 2024 国 Python A] 药剂
+- P12292 - [蓝桥杯 2024 国 Java A] 斗蛐蛐
+- P12983 - [GCJ 2022 Qualification] Twisty Little Passages
+- P13004 - [GCJ 2022 Finals] Schrödinger and Pavlov
+- P13068 - [GCJ 2020 #3] Pen Testing
+- P13207 - [GCJ 2016 Finals] Family Hotel
+- P13287 - [GCJ 2013 #1A] Good Luck
+- P13301 - [GCJ 2013 #3] Observation Wheel
+- P13320 - [GCJ 2012 #1B] Equal Sums
+- P13350 - 「ZYZ 2025」遗传
+- P3412 - 仓鼠找sugar II
+- P3616 - 富金森林公园
+- P4007 - 小 Y 和恐怖的奴隶主
+- P4065 - [JXOI2017] 颜色
+- P4235 - Hash?
+- P4492 - [HAOI2018] 苹果树
+- P4706 - 取石子
+- P5298 - [PKUWC2018] Minimax
+- P5415 - [YNOI2019] 游戏

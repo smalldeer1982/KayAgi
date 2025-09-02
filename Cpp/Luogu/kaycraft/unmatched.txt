@@ -1,0 +1,20 @@
+D:\KayCraft\C++\洛谷\比赛\洛谷入门赛\2024.12月入门赛\区泥土也妄想夺走我的专属宝物.cpp
+D:\KayCraft\C++\洛谷\比赛\洛谷入门赛\2024.9月入门赛\数字 Easy Version.cpp
+D:\KayCraft\C++\洛谷\比赛\洛谷入门赛\2025.7月入门赛 #1268 神的殒落\代数瓜子式.cpp
+D:\KayCraft\C++\洛谷\比赛\洛谷基础赛\#20\手写的从前.cpp
+D:\KayCraft\C++\洛谷\比赛\洛谷基础赛\#20\问题跳转.cpp
+D:\KayCraft\C++\洛谷\比赛\蒟蒻杯\第十轮\提取重点.cpp
+D:\KayCraft\C++\洛谷\比赛\蒟蒻杯\第十轮\最高分.cpp
+D:\KayCraft\C++\洛谷\比赛\蒟蒻杯\第十轮\黑白间隔.cpp
+D:\KayCraft\C++\洛谷\题目\Gesp\Gesp 二级\水仙花数.cpp
+D:\KayCraft\C++\洛谷\题目\Gesp\Gesp 五级\成绩排序chat.cpp
+D:\KayCraft\C++\洛谷\题目\Gesp\Gesp 五级\质数筛模版.cpp
+D:\KayCraft\C++\洛谷\题目\分支结构\苹果和虫子.cpp
+D:\KayCraft\C++\洛谷\题目\动态规划\区间dp\Treats for the Cows GS.cpp
+D:\KayCraft\C++\洛谷\题目\动态规划\区间dp\凸多边形的划分.cpp
+D:\KayCraft\C++\洛谷\题目\动态规划\树形dp\Choosing Capital for Treeland.cpp
+D:\KayCraft\C++\洛谷\题目\动态规划\线性dp\方格取数(1).cpp
+D:\KayCraft\C++\洛谷\题目\动态规划\线性dp\方格取数(2).cpp
+D:\KayCraft\C++\洛谷\题目\循环结构\求极差 最大跨度值.cpp
+D:\KayCraft\C++\洛谷\题目\搜索\枚举排列.cpp
+D:\KayCraft\C++\洛谷\题目\树形数据结构\线段树\【模板】线段树 2(分块).cpp

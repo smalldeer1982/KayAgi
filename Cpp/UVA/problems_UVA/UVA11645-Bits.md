@@ -1,0 +1,51 @@
+---
+title: "Bits"
+layout: "post"
+diff: 难度0
+pid: UVA11645
+tag: []
+---
+
+# Bits
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=78&page=show_problem&problem=2692
+
+[PDF](https://uva.onlinejudge.org/external/116/p11645.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11645/d3263a1c3c597599866b253af8ddf1b9abf52008.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11645/1328691533beb23814541c7a2b6b4a9e7ff1e365.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11645/b13f2489b46f7aea365839a080ca0204c5993985.png)
+
+## 样例 #1
+
+### 输入
+
+```
+0
+6
+15
+20
+21
+22
+-1
+```
+
+### 输出
+
+```
+Case 1: 0
+Case 2: 2
+Case 3: 12
+Case 4: 13
+Case 5: 13
+Case 6: 14
+```
+

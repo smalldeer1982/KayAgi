@@ -1,0 +1,43 @@
+---
+title: "INCPOWK - Increasing Powers of K"
+layout: "post"
+diff: 难度0
+pid: SP6221
+tag: []
+---
+
+# INCPOWK - Increasing Powers of K
+
+## 题目描述
+
+Let's define S $ _{k} $ as the increasing sequence a $ _{1} $ , a $ _{2} $ , a $ _{3} $ , ... consisting of all those   
+positive integers which are powers of K or sums of distinct powers of K.   
+   
+For example S $ _{3} $ = {1,3,4,9,10,12,13,27,28,30,...}   
+   
+Your task is given N and K find the N $ ^{th} $ term of the sequence S $ _{k} $ .
+
+## 输入格式
+
+The first line of the input contains a single integer T(1 <= T <= 10 $ ^{4} $ ) representing the   
+number of test cases. The next T lines consist of two numbers each one separated by a single space:   
+K (3 <= K <= 9) and N (1 <= N <= 10 $ ^{200} $ ).
+
+## 输出格式
+
+For each test case print a single line, the N $ ^{th} $ term of the sequence S $ _{k} $ .
+
+## 样例 #1
+
+### 输入
+
+```
+\n8 \n3 4 \n3 100 \n4 3 \n5 12 \n6 7 \n7 239 \n8 17 \n9 500\n\n
+```
+
+### 输出
+
+```
+\n9 \n981 \n5 \n150 \n43 \n958399 \n4097 \n48426822
+```
+

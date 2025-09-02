@@ -1,0 +1,43 @@
+---
+title: "NITK06 - MODIFY SEQUENCE"
+layout: "post"
+diff: 入门
+pid: SP16121
+tag: []
+---
+
+# NITK06 - MODIFY SEQUENCE
+
+## 题目描述
+
+Suppose we have a sequence of non-negative integers, Namely a $ _{1} $ , a $ _{2} $ , ..., a $ _{n} $ . At each time we can choose one term a $ _{i} $ with 0 < i < n and we subtract 1 from both a $ _{i} $ and a $ _{i+1} $ . We wonder whether we can get a sequence of all zeros after several operations.
+
+## 输入格式
+
+The first line is the number of test cases T (0 < T <= 20).
+
+The first line of each test case is a number N (0 < N <= 10000). The next line is N non-negative integers, 0 <= a $ _{i} $ <= 10 $ ^{9} $ .
+
+## 输出格式
+
+If it can be modified into all zeros with several operations output “YES” in a single line, otherwise output “NO” instead.
+
+## 样例 #1
+
+### 输入
+
+```
+2
+2
+1 2
+2
+2 2
+```
+
+### 输出
+
+```
+NO
+YES
+```
+

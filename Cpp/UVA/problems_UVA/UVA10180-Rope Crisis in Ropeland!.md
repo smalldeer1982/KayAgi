@@ -1,0 +1,43 @@
+---
+title: "Rope Crisis in Ropeland!"
+layout: "post"
+diff: 难度0
+pid: UVA10180
+tag: []
+---
+
+# Rope Crisis in Ropeland!
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=13&page=show_problem&problem=1121
+
+[PDF](https://uva.onlinejudge.org/external/101/p10180.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10180/f785d533ff6ee2852dd7b4c02a80fb30171ae02c.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10180/62ba37f9cfca6953baeba9cbb9141aea99387e72.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10180/56ba4ae3ec10b39314d726ccfa9f6bc428951318.png)
+
+## 样例 #1
+
+### 输入
+
+```
+2
+1 1 -1 -1 1
+1 1 -1 1 1
+```
+
+### 输出
+
+```
+3.571
+2.000
+```
+

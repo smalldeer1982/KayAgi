@@ -1,0 +1,21 @@
+# 题号列表
+
+- P12827 - 「DLESS-2」XOR and Even
+- P13406 - [GCJ 2010 #3] Different Sum
+- P1831 - 杠杆数
+- P2235 - [HNOI2002] Kathy函数
+- P2481 - [SDOI2010] 代码拍卖会
+- P3281 - [SCOI2013] 数数
+- P3286 - [SCOI2014] 方伯伯的商场之旅
+- P3303 - [SDOI2013] 淘金
+- P3311 - [SDOI2014] 数数
+- P3413 - SAC#1 - 萌数
+- P5308 - [COCI 2018/2019 #4] Akvizna
+- P5674 - 「SWTR-2」Magical Gates
+- P6371 - [COCI 2006/2007 #6] V
+- P6669 - [清华集训 2016] 组合数问题
+- P6754 - [BalticOI 2013] Palindrome-Free Numbers (Day1)
+- P7829 - [CCO 2021] Weird Numeral System
+- P8688 - [蓝桥杯 2019 省 A] 组合数问题
+- P9092 - [PA 2020] Liczba Potyczkowa
+- P9129 - [USACO23FEB] Piling Papers G

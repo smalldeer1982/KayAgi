@@ -1,0 +1,44 @@
+---
+title: "List of Conquests"
+layout: "post"
+diff: 难度0
+pid: UVA10420
+tag: []
+---
+
+# List of Conquests
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=16&page=show_problem&problem=1361
+
+[PDF](https://uva.onlinejudge.org/external/104/p10420.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10420/52e3f10ac11dbdbadb85ffc0443855ec5843f583.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10420/0a482bcf34c23a42016f1d9f49bca006ec4cc5b2.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10420/aba7d3e5cf6558ed7cec9cdb0c777b7d1945ed80.png)
+
+## 样例 #1
+
+### 输入
+
+```
+3
+Spain Donna Elvira
+England Jane Doe
+Spain Donna Anna
+```
+
+### 输出
+
+```
+England 1
+Spain 2
+```
+

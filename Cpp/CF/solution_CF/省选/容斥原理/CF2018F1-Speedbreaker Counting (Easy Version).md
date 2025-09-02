@@ -1,0 +1,279 @@
+# Speedbreaker Counting (Easy Version)
+
+## 题目描述
+
+[DRG - Limbo](https://soundcloud.com/drg72711/limbo)
+
+⠀
+
+
+
+This is the easy version of the problem. In the three versions, the constraints on $ n $ and the time limit are different. You can make hacks only if all the versions of the problem are solved.
+
+This is the statement of Problem D1B:
+
+- There are $ n $ cities in a row, numbered $ 1, 2, \ldots, n $ left to right.
+  - At time $ 1 $ , you conquer exactly one city, called the starting city.
+  - At time $ 2, 3, \ldots, n $ , you can choose a city adjacent to the ones conquered so far and conquer it.
+  
+  You win if, for each $ i $ , you conquer city $ i $ at a time no later than $ a_i $ . A winning strategy may or may not exist, also depending on the starting city. How many starting cities allow you to win?
+
+For each $ 0 \leq k \leq n $ , count the number of arrays of positive integers $ a_1, a_2, \ldots, a_n $ such that
+
+- $ 1 \leq a_i \leq n $ for each $ 1 \leq i \leq n $ ;
+- the answer to Problem D1B is $ k $ .
+
+The answer can be very large, so you have to calculate it modulo a given prime $ p $ .
+
+## 说明/提示
+
+In the first test case,
+
+- arrays with $ 1 $ good starting city: $ [1] $ .
+
+In the second test case,
+
+- arrays with $ 0 $ good starting cities: $ [1, 1] $ ;
+- arrays with $ 1 $ good starting city: $ [1, 2] $ , $ [2, 1] $ ;
+- arrays with $ 2 $ good starting cities: $ [2, 2] $ .
+
+In the third test case,
+
+- arrays with $ 0 $ good starting cities: $ [1, 1, 1] $ , $ [1, 1, 2] $ , $ [1, 1, 3] $ , $ [1, 2, 1] $ , $ [1, 2, 2] $ , $ [1, 3, 1] $ , $ [1, 3, 2] $ , $ [2, 1, 1] $ , $ [2, 1, 2] $ , $ [2, 2, 1] $ , $ [2, 2, 2] $ , $ [2, 3, 1] $ , $ [2, 3, 2] $ , $ [3, 1, 1] $ ;
+- arrays with $ 1 $ good starting city: $ [1, 2, 3] $ , $ [1, 3, 3] $ , $ [2, 1, 3] $ , $ [3, 1, 2] $ , $ [3, 1, 3] $ , $ [3, 2, 1] $ , $ [3, 3, 1] $ ;
+- arrays with $ 2 $ good starting cities: $ [2, 2, 3] $ , $ [2, 3, 3] $ , $ [3, 2, 2] $ , $ [3, 3, 2] $ ;
+- arrays with $ 3 $ good starting cities: $ [3, 2, 3] $ , $ [3, 3, 3] $ .
+
+## 样例 #1
+
+### 输入
+
+```
+11
+1 998244353
+2 998244353
+3 998244353
+4 998244353
+5 998244353
+6 998244353
+7 998244353
+8 998244353
+9 998244353
+10 102275857
+10 999662017```
+
+### 输出
+
+```
+0 1 
+1 2 1 
+14 7 4 2 
+183 34 19 16 4 
+2624 209 112 120 48 12 
+42605 1546 793 992 468 216 36 
+785910 13327 6556 9190 4672 2880 864 144 
+16382863 130922 61939 94992 50100 36960 14256 4608 576 
+382823936 1441729 657784 1086596 583344 488700 216000 96480 23040 2880 
+20300780 17572114 7751377 13641280 7376068 6810552 3269700 1785600 576000 144000 14400 
+944100756 17572114 7751377 13641280 7376068 6810552 3269700 1785600 576000 144000 14400```
+
+# 题解
+
+## 作者：EuphoricStar (赞：3)
+
+考虑如何解决 D1B。
+
+发现我们可以使用这样的策略（称其为策略 1）：设当前扩展到的区间为 $[i, j]$，若区间右侧存在一个 $k$ 使得 $a_k = k - i + 1$（即若下一步不往右走那么这个点的限制就无法满足），就往右走；否则往左走。这样对于一个固定的 $a$ 和出发点，移动的序列是确定的，于是可以考虑对移动序列计数。
+
+大眼观察或者打表可以发现**关键结论：合法的出发点一定是一段区间**。我们有更强的结论：**设 $I = \bigcap\limits_{i = 1}^n [i - a_i + 1, i + a_i - 1]$，那么合法的出发点集合要么是 $I$，要么是空集。**
+
+证明大概就是，首先 $I$ 之外的点一定不合法，然后考虑使用这样一种策略（称其为策略 2）：设当前扩展到的区间为 $[i, j]$，若区间左侧存在一个 $k$ 使得 $a_k = j - k + 1$ 就往左走，若区间右侧存在一个 $k$ 使得 $a_k = k - i + 1$ 就往右走，若都不满足就往任意一个方向走。按照策略 2，在 $I$ 中任意一个点出发，都会先走完 $I$ 中的所有点，再走到其他点（走到 $I$ 的左端点或者右端点时一定可以往另一个方向走）。所以 $I$ 中的出发点，要么全部合法，要么全部不合法。
+
+得到这个结论和移动的策略，计数就相对套路了。钦定一个合法区间 $[l, r]$，计算出 $[l, r]$ 都是合法出发点的方案数 $f_{l, r}$，最后做一个二维前缀和状物（容斥）即可算出每个区间 $[l, r]$ 恰好是合法出发点集合的方案数。
+
+考虑钦定完合法区间后如何计数。直接按照策略 1 对移动序列计数。考虑区间 DP，设 $g_{i, j, 0/1}$ 表示当前扩展到的区间为 $[i, j]$，下一步是否被钦定往右走的移动方案数。有转移：
+
+- $g_{i, j + 1, 1} \gets g_{i, j, 1} \times (n - (j - i + 2) + 1)$，转移系数的意义是 $a_{j + 1} \ge j - i + 2$。
+- $g_{i, j + 1, 0} \gets g_{i, j, 1}$，表示 $a_{j + 1}$ 就是那个要求往右走的点，需要满足 $a_{j + 1} = j - i + 2$。
+- $g_{i - 1, j, 0} \gets g_{i, j, 0} \times (n - (j - i + 2) + 1)$，转移系数的意义是 $a_{i - 1} \ge j - i + 2$。
+- $g_{i - 1, j, 1} \gets g_{i, j, 0} \times (n - (j - i + 2) + 1)$，转移系数意义同上。
+
+初值为 $g_{l, r, 0} = g_{l, r, 1} = 1$，表示钦定一开始扩展的区间就是 $[l, r]$（因为我们知道若 $[l, r]$ 是合法出发点区间那么一定可以先访问完 $[l, r]$ 中的所有点再访问其他点）。别忘了 $[l, r]$ 中 $a$ 的取值也需要确定。对于 $i \in [l, r]$，$a_i$ 需要 $\ge \max(i - l + 1, r - i + 1)$，所以 $f_{l, r} = g_{1, n, 0} \times \prod\limits_{i = l}^r (n - \max(i - l + 1, r - i + 1) + 1)$。
+
+枚举 $[l, r]$ 再区间 DP，时间复杂度 $O(n^4)$，可以通过 Easy Version。
+
+发现枚举 $[l, r]$ 再 DP 太浪费了。发现 DP 形式都相同，考虑使用**反推贡献系数**的 trick（这个 trick 在 [CF1810G](https://www.luogu.com.cn/problem/CF1810G) 也用到过）。更改 $g_{i, j, 0/1}$ 的定义，它表示原来 DP 数组的这一位对答案的贡献。初值为 $g_{1, n, 0} = 1$，转移倒过来即可。设 $h_i = \prod\limits_{j = 1}^i (n - \max(j, i - j + 1) + 1)$，那么 $f_{l, r} = (g_{l, r, 0} + g_{l, r, 1}) h_{r - l + 1}$。
+
+时间复杂度 $O(n^2)$。
+
+[$O(n^4)$ 代码](https://codeforces.com/problemset/submission/2018/286455722)
+
+[$O(n^2)$ 代码](https://codeforces.com/problemset/submission/2018/286456124)
+
+---
+
+## 作者：Hoks (赞：0)
+
+## 前言
+远古 VP 场，总算是补上了不是吗。
+
+思路来源官方题解，看了好久。
+
+摘自 [杂题选做](https://www.luogu.com.cn/training/597433)。
+## 思路分析
+和我写的翻译一样，首先你要会 D1B。
+
+对于 D1B，我们对于每个点考虑。
+
+对于城市 $i$，如果要满足这个城市，那么**初始城市**的范围就是 $[i-a_i+1,i+a_i-1]$。
+
+那么对于所有城市而言，目前可能的**初始城市**就是这 $n$ 个区间的交集。
+
+也就是，答案的上界就是这个交集的城市可行。
+
+我们考虑证明要么不存在答案，要么答案就是这个交集。
+
+考虑一个策略，就是如果当前在城市 $i$，左/右的城市现在不开始走就来不及了，那么就往左/右走，否则随便走。
+
+此时我们会发现，因为随便走的存在，我们可以先给这个交集走完，让交集中的任何**初始城市**都等价。
+
+而没有答案就是当我们走到城市 $i$ 时，左右两边的城市同时限制要走了，那么就不行了。
+
+那么这个结论就成立了，根据这个结论我们也就可以写出 D1B。
+
+[D1B 的实现](https://codeforces.com/contest/2018/submission/284266317)。
+
+然后我们来考虑这个题。
+
+不难发现对于 F1，$n$ 比较小，我们需要考虑的就是找到一个多项式时间复杂度处理这个问题。
+
+那不妨暴力一点。
+
+我们先钦定一下**初始城市**的区间，然后考虑对于这个区间去计算答案。
+
+然后我们就会碰到比较棘手的问题，就是对于这个**初始城市**的区间内的城市他的 $a_i$ 的取值种类。
+
+这个 $a_i$ 的取值显然是会对区间外的城市产生影响的，这样就变得很难处理了。
+
+考虑经典类二维前缀和容斥。
+
+因为对于 $[l,r]$ 出发**恰好可行**的方案数不好数，所以我们不妨数出 $[l,r]$ 出发可行的方案数，再通过容斥的方法算出**恰好可行**的方案数。
+
+然后我们来数这个出发可行的方案数。
+
+考虑来进行一个区间 dp。
+
+直接按照 D1B 的想法去进行判定是不太可行的，我们考虑另外一种判断当前方案是否可行的办法：
+- 如果当前区间右边有个城市不走就来不及了，那么就往右走，否则无脑往左走。
+
+在这个策略中，右边的城市一定会被满足上，而左边的城市也已经尽可能的满足，所以如果存在有解这个方法一定可以得到一条可行的扩展路径。
+
+不难发现比起 D1B 的判断方法，计算这个路径是更为简单的，所以我们就来考虑计算这个路径。
+
+定义 $f_{l,r,0/1}$ 表示当前已经占领城市区间为 $[l,r]$，是/否被强制向右走。
+
+然后我们从初始城市区间，也就是枚举出的 $[l,r]$ 进行 dp 状态的转移。
+
+那么式子写出来其实也就是：
+$$f_{l,r+1,1}\leftarrow f_{l,r,1}\times (n-(r-l+2)+1))$$
+$$f_{l,r+1,0}\leftarrow f_{l,r,1}$$
+$$f_{l-1,r,1}\leftarrow f_{l,r,0}\times (n-(r-l+2)+1))$$
+$$f_{l-1,r,0}\leftarrow f_{l,r,0}\times (n-(r-l+2)+1))$$
+
+这个转移式子是比较好理解的，因为只有 $f_{l,r,1}$ 时因为强制的原因我们才会往右走，所以用这个转移右边。
+
+其他几个都是等价的，只有我们从 $f_{l,r,1}$ 走到 $f_{l,r+1,0}$ 是唯一的，因为此时说明 $a_{r+1}$ 恰好符合上时间，也就是他是唯一的一个限制我们往右走的城市，那么他的取值也显然是唯一的。
+
+对于每个区间做完 dp 后再像上文一样容斥一下剩下来要处理的就是答案为 $0$ 的情况了。
+
+这个也直接容斥就行了，用 $n^n$ 减去其他所有答案的情况即可。
+## 代码
+
+```cpp
+#include<bits/stdc++.h>
+#define ls (p<<1)
+#define rs (ls|1)
+#define mid ((l+r)>>1)
+#define int long long
+using namespace std;
+const int N=80+10,M=610,INF=0x3f3f3f3f3f3f3f3f;
+int n,mod,f[N][N][2],ans[N][N],a[N];
+namespace Fast_IO
+{
+    static char buf[1000000],*paa=buf,*pd=buf,ot[10000000];int length=0;
+    #define getchar() paa==pd&&(pd=(paa=buf)+fread(buf,1,1000000,stdin),paa==pd)?EOF:*paa++
+    inline int read()
+    {
+        int x(0),t(1);char fc(getchar());
+        while(!isdigit(fc)){if(fc=='-') t=-1;fc=getchar();}
+        while(isdigit(fc)) x=(x<<1)+(x<<3)+(fc^48),fc=getchar();
+        return x*t;
+    }
+    inline void flush(){fwrite(ot,1,length,stdout);length=0;}
+    inline void put(char c){if(length==9999999) flush();ot[length++]=c;}
+    inline void put(string s){for(char c:s) put(c);}
+    inline void print(int x)
+    {
+        if(x<0) put('-'),x=-x;
+        if(x>9) print(x/10);
+        put(x%10+'0');
+    }
+    inline bool chk(char c) { return !(c>='a'&&c<='z'||c>='A'&&c<='Z'||c>='0'&&c<='9'); }
+    inline bool ck(char c) { return c!='\n'&&c!='\r'&&c!=-1&&c!=' '; }
+    inline void rd(char s[],int&n)
+    {
+        s[++n]=getchar();
+        while(chk(s[n])) s[n]=getchar();
+        while(ck(s[n])) s[++n]=getchar();
+        n--;
+    }
+}
+using namespace Fast_IO;
+inline int ksm(int x,int y,int mod)
+{
+    int res=1;
+    while(y){if(y&1) res=res*x%mod;x=x*x%mod;y>>=1;}
+    return res;
+}
+inline int calc(int l,int r)
+{
+    for(int i=1;i<=n;i++) for(int j=i;j<=n;j++) f[i][j][0]=f[i][j][1]=0;
+    f[l][r][0]=f[l][r][1]=1;
+    for(int len=r-l+1;len<n;len++)
+        for(int L=1,R=len;R<=n;L++,R++)
+        {
+            if(!(L<=l&&r<=R)) continue;
+            if(R<n)
+                f[L][R+1][1]=(f[L][R+1][1]+f[L][R][1]*(n-(R-L+2)+1))%mod,
+                f[L][R+1][0]=(f[L][R+1][0]+f[L][R][1])%mod;
+            if(L>1)
+                f[L-1][R][0]=(f[L-1][R][0]+f[L][R][0]*(n-(R-L+2)+1))%mod,
+                f[L-1][R][1]=(f[L-1][R][1]+f[L][R][0]*(n-(R-L+2)+1))%mod;
+        }
+    for(int i=l;i<=r;i++) f[1][n][0]=f[1][n][0]*(n-max(i-l+1,r-i+1)+1)%mod;
+    return f[1][n][0];
+}
+inline void solve()
+{
+    n=read(),mod=read();for(int i=0;i<=n;i++) a[i]=0;
+    for(int i=1;i<=n;i++) for(int j=i;j<=n;j++) ans[i][j]=calc(i,j);
+    for(int len=1;len<=n;len++)
+        for(int L=1,R=len;R<=n;L++,R++)
+        {
+            ans[L][R]=(ans[L][R]-ans[L-1][R]-ans[L][R+1]+ans[L-1][R+1]+mod+mod)%mod;
+            a[R-L+1]=(a[R-L+1]+ans[L][R])%mod;
+        }a[0]=ksm(n,n,mod);for(int i=1;i<=n;i++) a[0]=(a[0]-a[i]+mod)%mod;
+    for(int i=0;i<=n;i++) print(a[i]),put(' ');put('\n');
+    for(int i=1;i<=n;i++) for(int j=i;j<=n;j++) ans[i][j]=0;
+}
+signed main()
+{
+    int T=1;
+    T=read();
+    while(T--) solve();
+    genshin:;flush();return 0;
+}
+```
+
+---
+

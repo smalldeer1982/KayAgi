@@ -1,0 +1,59 @@
+---
+title: "Loading a Cargo Ship"
+layout: "post"
+diff: 难度0
+pid: UVA945
+tag: []
+---
+
+# Loading a Cargo Ship
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=11&page=show_problem&problem=886
+
+[PDF](https://uva.onlinejudge.org/external/9/p945.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA945/24f192151ec265c4965d7597d956576517cab384.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA945/6bc2645f5bf784fc87f36b1390f3b6317fc41770.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA945/5321310c98c430fcbdfabbce225f69defa326df1.png)
+
+## 样例 #1
+
+### 输入
+
+```
+3
+5
+10
+5
+8
+4
+3
+2
+1
+1
+2
+3
+4
+```
+
+### 输出
+
+```
+:3:
+211
+342
+=====
+123
+cargo weight: 16
+unused weight: 4
+unloaded weight: 4
+```
+

@@ -1,0 +1,35 @@
+# 题号列表
+
+- P10118 - 『STA - R4』And
+- P10308 - 「Cfz Round 2」Osmanthus
+- P10512 - 序列合并
+- P10650 - [ROI 2017] 排序幻觉 (Day 1)
+- P11008 - 『STA - R7』异或生成序列
+- P11016 - XOR Pairs
+- P11209 - 『STA - R8』小熊游景点 II
+- P13008 - 【MX-X13-T3】「KDOI-12」只有失去光明，才能逃脱黑暗。
+- P13110 - [GCJ 2019 #1B] Draupnir
+- P13493 - 【MX-X14-T3】心电感应
+- P13565 - 「CZOI-R5」按位或
+- P1468 - [USACO2.2] 派对灯 Party Lamps
+- P1558 - 色板游戏
+- P2114 - [NOI2014] 起床困难综合症
+- P4136 - 谁能赢呢？
+- P4144 - 大河的序列
+- P4310 - 绝世好题
+- P4932 - 浏览器
+- P5390 - [Cnoi2019] 数学作业
+- P6225 - [eJOI 2019] 异或橙子
+- P6883 - [COCI 2016/2017 #3] Kroničan
+- P7096 - [yLOI2020] 泸沽寻梦
+- P7442 - 「EZEC-7」维护序列
+- P7973 - [KSN2021] Binary Land
+- P8019 - [ONTAK2015] OR-XOR
+- P8279 - 「MCOI-08」Fill In REMATCH
+- P8453 - 「SWTR-8」美元巨大
+- P8743 - [蓝桥杯 2021 省 A] 异或数列
+- P8763 - [蓝桥杯 2021 国 ABC] 异或变换
+- P8842 - [传智杯 #4 初赛] 小卡与质数 2
+- P9187 - [USACO23OPEN] Field Day S
+- P9565 - [SDCPC 2023] Not Another Path Query Problem
+- P9915 - 「RiOI-03」3-2

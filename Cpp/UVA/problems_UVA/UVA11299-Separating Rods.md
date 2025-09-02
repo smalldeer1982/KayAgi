@@ -1,0 +1,44 @@
+---
+title: "Separating Rods"
+layout: "post"
+diff: 难度0
+pid: UVA11299
+tag: []
+---
+
+# Separating Rods
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2274
+
+[PDF](https://uva.onlinejudge.org/external/112/p11299.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11299/56cdefca1a60899e227fda174a6a88a1f77edfb1.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11299/2565730cecf127dde158c97c64b61c1ca41fdfaa.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11299/d4ffd1524a3bdbee2abe70dda3ac06563c9f14a6.png)
+
+## 样例 #1
+
+### 输入
+
+```
+10 5
+3 2 1 3 5 8 3 2 1 2
+3 2
+1 1 10
+```
+
+### 输出
+
+```
+8 31
+10 2
+```
+

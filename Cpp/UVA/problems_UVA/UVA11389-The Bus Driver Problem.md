@@ -1,0 +1,47 @@
+---
+title: "The Bus Driver Problem"
+layout: "post"
+diff: 普及/提高-
+pid: UVA11389
+tag: []
+---
+
+# The Bus Driver Problem
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=25&page=show_problem&problem=2384
+
+[PDF](https://uva.onlinejudge.org/external/113/p11389.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11389/d91c794ed9f10cb9da220f429dcd2408500a224b.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11389/6df276825d68086990cca97935e00431b83941f2.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11389/1f1ff104c080eb9a79333343c5538ed1bdc7bb84.png)
+
+## 样例 #1
+
+### 输入
+
+```
+2 20 5
+10 15
+10 15
+2 20 5
+10 10
+10 10
+0 0 0
+```
+
+### 输出
+
+```
+50
+0
+```
+

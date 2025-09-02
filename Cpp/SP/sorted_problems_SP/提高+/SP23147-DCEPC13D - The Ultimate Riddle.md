@@ -1,0 +1,49 @@
+---
+title: "DCEPC13D - The Ultimate Riddle"
+layout: "post"
+diff: 提高+/省选-
+pid: SP23147
+tag: []
+---
+
+# DCEPC13D - The Ultimate Riddle
+
+## 题目描述
+
+The Joker has played his cards again. This time he has chosen to attack DCE Coders. Gitanshu, and other coders have been abducted.
+
+Mishra has solved the first part of the riddle and estimated **N** locations. Now, it's upto you to choose **R** locations among these **N**.
+
+Calculate the number of ways you can chose the **R** locations . Since the answer can be large calculate the answer modulo **M** .
+
+## 输入格式
+
+First line contains **T** number of testcases .
+
+Each line contains 3 integers **N**,**R**,**M** .
+
+## 输出格式
+
+Output the required answer
+
+## 样例 #1
+
+### 输入
+
+```
+4
+5 2 1001
+5 2 6
+20 6 210
+13 4 39
+```
+
+### 输出
+
+```
+10
+4
+120
+13
+```
+

@@ -1,0 +1,22 @@
+# 题号列表
+
+- CF1025D - Recovering BST
+- CF107D - Crime Management
+- CF1682E - Unordered Swaps
+- CF1687C - Sanae and Giant Robot
+- CF1767E - Algebra Flash
+- CF241D - Numbers
+- CF243C - Colorado Potato Beetle
+- CF293B - Distinct Paths
+- CF57E - Chess
+- CF58E - Expression
+- CF600E - Lomsat gelral
+- CF627D - Preorder Test
+- CF633F - The Chocolate Spree
+- CF679C - Bear and Square Grid
+- CF827D - Best Edge Weight
+- CF888G - Xor-MST
+- CF912E - Prime Gift
+- CF962F - Simple Cycles Edges
+- CF983E - NN country
+- CF986C - AND Graph

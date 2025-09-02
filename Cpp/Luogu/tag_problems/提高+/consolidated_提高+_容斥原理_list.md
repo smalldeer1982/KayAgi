@@ -1,0 +1,31 @@
+# 题号列表
+
+- P10116 - [LMXOI Round 1] Random
+- P10390 - [蓝桥杯 2024 省 A] 因数计数
+- P10596 - BZOJ2839 集合计数
+- P10597 - BZOJ4665 小 w 的喜糖
+- P10891 - 【烂题杯 Round 1】消灭劳嗝
+- P10982 - Connected Graph
+- P11563 - 【MX-X7-T4】[LSOT-3] 命运
+- P12837 - [蓝桥杯 2025 国 B] 近似回文字符串
+- P13349 - 「ZYZ 2025」自然数序列
+- P13473 - [GCJ 2008 #3] Endless Knight
+- P13525 - [KOI 2025 #2] 新的情缘
+- P13747 - [NWERC 2024] It's a Kind of Magic
+- P1450 - [HAOI2008] 硬币购物
+- P2516 - [HAOI2010] 最长公共子序列
+- P2522 - [HAOI2011] Problem b
+- P2567 - [SCOI2010] 幸运数字
+- P3702 - [SDOI2017] 序列计数
+- P5123 - [USACO18DEC] Cowpatibility G
+- P5505 - [JSOI2011] 分特产
+- P5628 - 【AFOI-19】面基
+- P5664 - [CSP-S2019] Emiya 家今天的饭
+- P6076 - [JSOI2015] 染色问题
+- P6162 - [Cnoi2020] 四角链
+- P6521 - [CEOI 2010] pin (day2)
+- P6576 - [BalticOI 2017] Plus Minus
+- P6651 - 「SWTR-5」Chain
+- P8502 - 「CGOI-2」No cost too great
+- P8737 - [蓝桥杯 2020 国 B] 质数行者
+- P9489 - ZHY 的表示法

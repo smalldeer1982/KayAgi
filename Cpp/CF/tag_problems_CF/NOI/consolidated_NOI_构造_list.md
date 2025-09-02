@@ -1,0 +1,26 @@
+# 题号列表
+
+- CF1045E - Ancient civilizations
+- CF1526F - Median Queries
+- CF1637G - Birthday
+- CF1667F - Yin Yang
+- CF1687E - Become Big For Me
+- CF1710D - Recover the Tree
+- CF1748F - Circular Xor Reversal
+- CF1774H - Maximum Permutation
+- CF1970D3 - Arithmancy (Hard)
+- CF1984G - Magic Trick II
+- CF1991I - Grid Game
+- CF2034G1 - Simurgh's Watch (Easy Version)
+- CF2034G2 - Simurgh's Watch (Hard Version)
+- CF2035H - Peak Productivity Forces
+- CF2039H1 - Cool Swap Walk (Easy Version)
+- CF2039H2 - Cool Swap Walk (Hard Version)
+- CF2045L - Buggy DFS
+- CF2046E2 - Cheops and a Contest (Hard Version)
+- CF2048I1 - Kevin and Puzzle (Easy Version)
+- CF2048I2 - Kevin and Puzzle (Hard Version)
+- CF2081F - Hot Matrix
+- CF2086F - Online Palindrome
+- CF2096G - Wonderful Guessing Game
+- CF538H - Summer Dichotomy

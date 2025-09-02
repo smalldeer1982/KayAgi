@@ -1,0 +1,836 @@
+# 无标签题目列表
+
+- P10013 - [集训队互测 2023] Tree Topological Order Counting
+- P10044 - [CCPC 2023 北京市赛] 最小环
+- P10046 - [CCPC 2023 北京市赛] 哈密顿
+- P10047 - [CCPC 2023 北京市赛] 勿蹖宠物
+- P10060 - [SNOI2024] 树 V 图
+- P10061 - [SNOI2024] 矩阵
+- P10074 - [GDKOI2024 普及组] 刷野 III
+- P10075 - [GDKOI2024 普及组] 切割
+- P10079 - [GDKOI2024 普及组] EX 中缀表达式
+- P10080 - [GDKOI2024 提高组] 匹配
+- P10085 - [GDKOI2024 提高组] 染色
+- P10097 - [ROIR 2023] 彩点 (Day 1)
+- P10101 - [ROIR 2023] 一个普通的字符串问题 (Day 2)
+- P10105 - [GDKOI2023 提高组] 游戏
+- P10200 - [湖北省选模拟 2024] 花神诞日 / sabzeruz
+- P10202 - [湖北省选模拟 2024] 沉玉谷 / jade
+- P10203 - [湖北省选模拟 2024] 玩具销售员 / tartaglia
+- P10216 - 【模板】Pfaffian
+- P10220 - [省选联考 2024] 迷宫守卫
+- P10226 - [COCI 2023/2024 #3] Restorani
+- P10272 - 在四方城外
+- P10299 - [CCC 2024 S5] Chocolate Bar Partition
+- P10332 - [UESTCPC 2024] 一站到底
+- P10360 - [PA 2024] Desant 3
+- P10365 - [PA 2024] Kraniki
+- P10367 - [PA 2024] Żarówki
+- P10383 - 「HOI R1」杂分选约
+- P10399 - 『STA - R5』ReLyna
+- P10430 - [JOISC 2024] 鱼 3 (Day1)
+- P10432 - [JOISC 2024] 滑雪 2 (Day1)
+- P10438 - [JOISC 2024] 塔楼 (Day3)
+- P10439 - [JOISC 2024] 逃生路线 2 (Day4)
+- P10440 - [JOISC 2024] 环岛旅行
+- P10441 - [JOISC 2024] 乒乓球 (Day4)
+- P10509 - 停车场
+- P10524 - [XJTUPC 2024] 循环移位
+- P10525 - [XJTUPC 2024] 图上操作
+- P10529 - [XJTUPC 2024] 勘探队
+- P10559 - [ICPC 2024 Xi'an I] The Last Cumulonimbus Cloud
+- P10560 - [ICPC 2024 Xi'an I] Holes and Balls
+- P10583 - [蓝桥杯 2024 国 A] 异或路径
+- P10590 - 磁力块
+- P10612 - [BalticOI 2001] Box of Mirrors
+- P10614 - BZOJ3864 Hero meet devil
+- P10616 - [ICPC 2013 WF] Hey, Better Bettor
+- P10622 - [ICPC 2013 WF] Matryoshka
+- P10630 - [JOI Open 2017] 推土机
+- P10631 - [JOI Open 2017] 高尔夫
+- P10635 - BZOJ3517 翻硬币
+- P10689 - SuperMemo
+- P10699 - [SNCPC2024] 猜质数 I
+- P10700 - [SNCPC2024] 猜质数 II
+- P10706 - 悲哀（Sorrow）
+- P10707 - 永恒（Eternity）
+- P10738 - [SEERC 2020] 3-colorings
+- P10742 - [SEERC 2020] Simple Hull
+- P10743 - [SEERC 2020] AND = OR
+- P10745 - [SEERC 2020] One Piece
+- P10746 - [SEERC 2020] Codenames
+- P10747 - [SEERC 2020] Neo-Robin Hood
+- P10759 - [BalticOI 2024] Jobs
+- P10760 - [BalticOI 2024] Portal
+- P10772 - [NOISG 2021 Qualification] Departure
+- P10773 - [NOISG 2021 Qualification] Truck
+- P10785 - [NOI2024] 集合
+- P10786 - [NOI2024] 百万富翁
+- P10801 - [CEOI 2024] 海战
+- P10805 - [CEOI 2024] 加油站
+- P10813 - 【MX-S2-T4】 换
+- P10818 - [EC Final 2020] Random Shuffle
+- P10822 - [EC Final 2020] Prof. Pang's sequence
+- P10888 - 【MX-S3-T4】「FeOI Round 1」醒餞の鳥 (feat. Feryquitous)
+- P10918 - 小分图最大匹配
+- P10920 - 宇宙射线
+- P10930 - 异象石
+- P10936 - 导弹防御塔
+- P10938 - Vani和Cl2捉迷藏
+- P10940 - 舞动的夜晚
+- P10943 - Going Home
+- P10945 - Place the Robots
+- P10966 - K-Anonymous Sequence
+- P10977 - Cut the Sequence
+- P10979 - 任务安排 2
+- P11025 - [COTS 2020] 辣椒 Sadnice
+- P11026 - [COTS 2020] 抗疫 Autoritet
+- P11027 - [COTS 2020] 餐厅 Restoran
+- P11053 - [IOI 2024] 马赛克上色
+- P11058 - 合并香蕉
+- P11065 - 【MX-X4-T5】「Jason-1」占领高地
+- P11073 - Game King
+- P11123 - [ROIR 2024] 树根 (Day 1)
+- P11127 - [ROIR 2024] 二叉树的遍历 (Day 2)
+- P11179 - [ROIR 2018] 管道监控 (Day1)
+- P11183 - [ROIR 2018] 大数据处理 (Day2)
+- P11195 - [COTS 2021] 疫苗接种 Cijepise
+- P11220 - 【MX-S4-T4】「yyOI R2」youyou 的三进制数
+- P11256 - [GDKOI2023 普及组] 置换
+- P11269 - 【MX-S5-T3】IMAWANOKIWA (Construction ver.)
+- P11302 - [NOISG 2021 Finals] Tiles
+- P11333 - [NOISG 2020 Finals] Discharging
+- P11352 - [NOISG 2024 Finals] Coin
+- P11363 - [NOIP2024] 树的遍历
+- P11364 - [NOIP2024] 树上查询
+- P11392 - [JOI Open 2019] 三段跳び
+- P11398 - 众数
+- P11401 - [Code+#8 初赛] 普勒亚
+- P11402 - [Code+#8 初赛] 图
+- P11472 - 命运黄之瓜
+- P11478 - [COCI 2024/2025 #3] 处理器 / Procesor
+- P11488 - 「Cfz Round 5」Zhòng shù
+- P11509 - [ROIR 2017] 挖矿机器人 (Day 1)
+- P11513 - [ROIR 2017] 培训 (Day 2)
+- P11539 - [Code+#5] 方案计数
+- P11544 - [Code+#5] 法师
+- P11558 - [ROIR 2016] 和谐数列 (Day 2)
+- P11646 - 【MX-X8-T5】「TAOI-3」蓝宝石的存在证明
+- P11647 - 【MX-X8-T6】「TAOI-3」俄罗斯蓝猫
+- P11665 - [JOI 2025 Final] 只不过是长的领带 2 / Just Long Neckties 2
+- P11675 - [USACO25JAN] Photo Op G
+- P11699 - [ROIR 2025] 酸雨
+- P11700 - [ROIR 2025] 寻找宝藏
+- P11704 - [ROIR 2025] 旅行路线
+- P11745 - Dynamic K-th Problem
+- P11746 - Dynamic Color Problem
+- P11775 - [COTS 2013] 集合合并 / RAZGOVORI
+- P11776 - [COTS 2013] 图形计数 / POLIGONI
+- P11778 - [COTS 2012] 网格覆盖 / ARHIPELAG
+- P11795 - [JOI 2016 Final] 铁路票价 / Train Fare
+- P11802 - 【MX-X9-T6】『GROI-R3』Graph
+- P11866 - 「o.OI R1」na12xy
+- P11869 - [威海市赛2024] 状态图
+- P11920 - [PA 2025] 乘数 / Mnożenie cyfr
+- P11927 - [PA 2025] 重金属 / Heavy Metal
+- P11930 - [PA 2025] 吃树叶 / Liście
+- P11932 - [CrCPC 2024] 平凡的数论题
+- P11933 - [CrCPC 2024] 修路
+- P11935 - [CrCPC 2024] 萌萌交互题
+- P11937 - [CrCPC 2024] 传传爆
+- P11973 - [JOI Open 2020] 黑白点 / Monochrome Points
+- P11991 - [JOIST 2025] 多方通信 / Multi Communication
+- P12030 - [USACO25OPEN] OohMoo Milk G
+- P12032 - [USACO25OPEN] Lazy Sort P
+- P12118 - [NordicOI 2025] 点对处理 / Dodgeball Diplomacy
+- P12151 - 【MX-X11-T5】「蓬莱人形 Round 1」俄罗斯方块
+- P12152 - 【MX-X11-T6】「蓬莱人形 Round 1」催眠术
+- P12196 - [NOISG 2025 Prelim] Lasers 2
+- P12228 - 「WyOJ Round 1」持 · 山海为肩
+- P12296 - [ICPC 2023 WF] Schedule
+- P12297 - [ICPC 2022/2023 WF] Three Kinds of Dice
+- P12300 - [ICPC 2023 WF] Tilting Tiles
+- P12303 - [ICPC 2023 WF] Waterworld
+- P12305 - [ICPC 2023 WF] Alea Iacta Est
+- P12307 - [ICPC 2022 WF] Zoo Management
+- P12309 - [ICPC 2022 WF] Quartets
+- P12411 - 抱月
+- P12423 - 【MX-X12-T6】「ALFR Round 5」Coloring Nodes
+- P12429 - [BalticOI 2025] Developer
+- P12430 - [BalticOI 2025] Exponents
+- P12446 - [COTS 2025] 答好位 / Vrsta
+- P12447 - [COTS 2025] 砍树 / Stablo
+- P12448 - [COTS 2025] 观草 / Trava
+- P12449 - [COTS 2025] 吸尘 / Usisavač
+- P1295 - [TJOI2011] 书架
+- P1400 - [CERC2016] Easy Equation
+- P1500 - [集训队互测 2000] 丘比特的烦恼
+- P1691 - [ICPC 2016 WF] Oil
+- P1745 - [CERC2016] Lost Logic
+- P1777 - 帮助
+- P1791 - [国家集训队] 人员雇佣
+- P1819 - 公共子序列
+- P1945 - 无边的网格
+- P2143 - [JSOI2010] 巨额奖金
+- P2156 - [SDOI2009] 细胞探索
+- P2164 - [SHOI2007] 交通网络
+- P2223 - [HNOI2001] 软件开发
+- P2229 - [HNOI2002] 沙漠寻宝
+- P2232 - [HNOI2002] 填数游戏
+- P2248 - 分段
+- P2274 - [HNOI2002] 树的排序
+- P2276 - [HNOI2002] 农场的果树
+- P2284 - [HNOI2003] 密室之门
+- P2314 - [HNOI2005] 木梳
+- P2395 - BBCode转换Markdown
+- P2442 - 分数统计
+- P2445 - [SDOI2005] 动物园
+- P2460 - [SDOI2007] 科比的比赛
+- P2478 - [SDOI2010] 城市规划
+- P2496 - [SDOI2012] 体育课
+- P2499 - [SDOI2012] 象棋
+- P2526 - [SHOI2001] 小狗散步
+- P2529 - [SHOI2001] 击鼓传花
+- P2535 - [AHOI2012] 收集资源
+- P2541 - [USACO16DEC] Robotic Cow Herd P
+- P2624 - [HNOI2008] 明明的烦恼
+- P2685 - [TJOI2012] 桥
+- P2726 - [SHOI2005] 树的双中心
+- P2928 - [USACO09HOL] Cattle Bruisers G
+- P2930 - [USACO09HOL] Holiday Painting G
+- P2961 - [USACO09NOV] Who Brings the Cookies? G
+- P2971 - [USACO10HOL] Cow Politics G
+- P2976 - [USACO10JAN] Shipping Around an Island G
+- P2987 - [USACO10MAR] StarCowraft G
+- P2993 - [FJOI2014] 最短路径树问题
+- P3011 - [USACO11JAN] Traffic Lights S
+- P3037 - [USACO11DEC] Simplifying the Farm G
+- P3039 - [USACO12JAN] Delivery Route S
+- P3050 - [USACO12MAR] Large Banner G
+- P3059 - [USACO12NOV] Concurrently Balanced Strings G
+- P3091 - [USACO13NOV] Line of Sight G
+- P3198 - [HNOI2008] 遥远的行星
+- P3218 - [HNOI2011] 赛车游戏
+- P3221 - [HNOI2012] 双十字
+- P3251 - [JLOI2012] 时间流逝
+- P3266 - [JLOI2015] 骗我呢
+- P3268 - [JLOI2016] 圆的异或并
+- P3359 - 改造异或树
+- P3363 - Cool loves jiaoyi
+- P3427 - [POI 2005] DZI-Hollows
+- P3444 - [POI 2006] ORK-Ploughing
+- P3445 - [POI 2006] TAN-Dancing in Circles
+- P3446 - [POI 2006] EST-Aesthetic Text
+- P3447 - [POI 2006] KRY-Crystals
+- P3468 - [POI 2008] ROB-Robinson
+- P3477 - [POI 2008] PER-Permutation
+- P3481 - [POI 2009] PRZ-Algorithm Speedup
+- P3505 - [POI 2010] TEL-Teleportation
+- P3516 - [POI 2011] PRZ-Shift
+- P3541 - [POI 2010] Monotonicity
+- P3561 - [POI 2017] Turysta
+- P3562 - [POI 2013] LAS-Laser
+- P3614 - yyy棋 II
+- P3636 - 曲面
+- P3637 - 方程组
+- P3679 - [CERC2016] 二分毯 Bipartite Blanket
+- P3681 - [CERC2016] 舞动的盘子 Dancing Disks
+- P3734 - [HAOI2017] 方案数
+- P3762 - [TJOI2017] 龙舟
+- P3828 - [SHOI2012] 火柴游戏
+- P3849 - [TJOI2007] 足彩投注
+- P3851 - [TJOI2007] 脱险
+- P3876 - [TJOI2010] 数字序列
+- P3877 - [TJOI2010] 打扫房间
+- P3883 - [JLOI2008] 棋局定式
+- P3889 - [GDOI2014] 吃
+- P3890 - [GDOI2014] 比特矩阵
+- P3894 - [GDOI2014] 传送
+- P3896 - [湖南集训] Clever Rabbit
+- P3940 - 分组
+- P3962 - [TJOI2013] 数字根
+- P3971 - [TJOI2014] Alice and Bob
+- P3972 - [TJOI2014] 电影评分
+- P3989 - [SHOI2013] 阶乘字符串
+- P3996 - 失败的竞猜游戏
+- P4034 - [Code+#2] 寄蒜几盒
+- P4041 - [AHOI2014/JSOI2014] 奇怪的计算器
+- P4044 - [AHOI2014/JSOI2014] 保龄球
+- P4063 - [JXOI2017] 数列
+- P4067 - [SDOI2016] 储能表
+- P4077 - [SDOI2016] 硬币游戏
+- P4078 - [SDOI2016] 探险路线
+- P4164 - [JSOI2010] 挖宝藏
+- P4176 - [HNOI2006] 花仙子的魔法
+- P4193 - 数字
+- P4194 - 矩阵
+- P4209 - 学习小组
+- P4286 - [SHOI2008] 安全的航线
+- P4288 - [SHOI2014] 信号增幅仪
+- P4300 - [AHOI2006] 上学路线
+- P4333 - [JSOI2010] 游戏
+- P4347 - [CERC2015] Book Borders
+- P4350 - [CERC2015] Export Estimate
+- P4351 - [CERC2015] Frightful Formula
+- P4353 - [CERC2015] Hovering Hornet
+- P4354 - [CERC2015] Ice Igloos
+- P4371 - [Code+#4] 白金元首与七彩魔法
+- P4400 - [JSOI2008] Blue Mary的旅行
+- P4402 - [Cerc2007] robotic sort 机械排序
+- P4412 - [SHOI2004] 最小生成树
+- P4434 - [COCI 2017/2018 #2] ​​Usmjeri
+- P4443 - [COCI 2017/2018 #3] Dojave
+- P4444 - [COCI 2017/2018 #3] Sažetak
+- P4465 - [国家集训队] JZPSTR
+- P4466 - [国家集训队] 和与积
+- P4475 - 巧克力王国
+- P4476 - [BJWC2018] 数字统计
+- P4478 - [BJWC2018] 上学路线
+- P4483 - [BJWC2018] 神奇的钟点
+- P4494 - [HAOI2018] 反色游戏
+- P4522 - [COCI 2017/2018 #4] Vođe
+- P4543 - [JSOI2011] Apple 的美食
+- P4563 - [JXOI2018] 守卫
+- P4572 - [JSOI2013] 哈利波特与死亡圣器
+- P4582 - [FJOI2014] 树的重心
+- P4583 - [FJOI2015] 世界树
+- P4584 - [FJOI2015] 带子串包含约束LCS问题
+- P4591 - [TJOI2018] 碱基序列
+- P4597 - 序列 sequence
+- P4617 - [COCI 2017/2018 #5] Planinarenje
+- P4627 - [SHOI2010] 滚动的正四面体
+- P4629 - [SHOI2015] 聚变反应炉
+- P4633 - [POI 2004] WYS
+- P4636 - [SHOI2011] 直线拟合
+- P4638 - [SHOI2011] 银行家
+- P4639 - [SHOI2011] 编译优化
+- P4640 - [BJWC2008] 王之财宝
+- P4646 - [IOI 2007] flood 洪水
+- P4647 - [IOI 2007] sails 船帆
+- P4652 - [CEOI 2017] One-Way Streets
+- P4659 - [BalticOI 2008] 阀门
+- P4660 - [BalticOI 2008] 手套
+- P4663 - [BalticOI 2008] 魔法石
+- P4684 - [IOI 2008] Fish
+- P4685 - [IOI 2008] Linear Garden
+- P4694 - [PA 2013] Raper
+- P4696 - [CEOI 2011] Matching
+- P4698 - [CEOI 2011] Hotel
+- P4699 - [CEOI 2011] Teams
+- P4700 - [CEOI 2011] Traffic
+- P4701 - 粘骨牌
+- P4731 - [BalticOI 2015] Bowling
+- P4732 - [BalticOI 2015] Editor
+- P4738 - [CERC2017] Cumulative Code
+- P4745 - [CERC2017] Gambling Guide
+- P4747 - [CERC2017] Intrinsic Interval
+- P4750 - [CERC2017] Lunar Landscape
+- P4757 - [CERC2014] Parades
+- P4758 - [CERC2014] Mountainous landscape
+- P4761 - [CERC2014] Vocabulary
+- P4765 - [CERC2014] The Imp
+- P4778 - Counting swaps
+- P4793 - [AHOI2008] 矩形藏宝地
+- P4797 - [CEOI 2015] 波将金的路径 (Day1)
+- P4804 - [CCC 2016] 生命中的圆
+- P4807 - [CCC 2017] 地铁交通
+- P4808 - [CCC 2018] 平衡树
+- P4809 - [CCC 2018] 最大战略储备
+- P4820 - [国家集训队] 书堆
+- P4831 - Scarlet loves WenHuaKe
+- P4835 - [JSOI2014] 学生选课
+- P4839 - P 哥的桶
+- P4840 - P哥旋转
+- P4842 - 城市旅行
+- P4855 - MloVtry的idea
+- P4858 - [PA 2013] Karty
+- P4859 - 已经没有什么好害怕的了
+- P4864 - Jerry Loves Lines
+- P4876 - [USACO14MAR] The Lazy Cow G
+- P4882 - lty loves 96！
+- P4890 - Never·island
+- P4895 - 独钓寒江雪
+- P4919 - Marisa采蘑菇
+- P4938 - War1
+- P4941 - War2
+- P4950 - 完美数字
+- P4953 - [USACO02FEB] Cow Cycling
+- P4954 - [USACO09OPEN] Tower of Hay G
+- P4975 - 毒瘤之神TM菱树-①
+- P4976 - 毒瘤之神TM菱树-②
+- P4987 - 回文项链
+- P4988 - 重排DL
+- P4990 - 小埋与刺客传奇
+- P5039 - [SHOI2010] 最小生成树
+- P5060 - 旅行
+- P5061 - 秘密任务
+- P5083 - 函数
+- P5105 - 不强制在线的动态快速排序
+- P5106 - dkw的lcm
+- P5108 - 仰望半月的夜空
+- P5110 - 块速递推
+- P5127 - 子异和
+- P5130 - 纯粹的弹幕地狱
+- P5136 - sequence
+- P5137 - polynomial
+- P5165 - xtq的棋盘
+- P5166 - xtq的口令
+- P5167 - xtq 的神笔
+- P5169 - xtq的异或和
+- P5171 - Earthquake
+- P5173 - 传球
+- P5175 - 数列
+- P5179 - Fraction
+- P5193 - [TJOI2012] 炸弹
+- P5215 - [SHOI2014] 神秘金字塔
+- P5218 - 无聊的水题 II
+- P5219 - 无聊的水题 I
+- P5220 - 特工的信息流
+- P5222 - Game
+- P5223 - Function
+- P5224 - Candies
+- P5229 - [AHOI2013] 立方体
+- P5230 - [AHOI2013] 好方的蛇
+- P5232 - [JSOI2012] 智者的考验
+- P5233 - [JSOI2012] 爱之项链
+- P5234 - [JSOI2012] 越狱老虎桥
+- P5240 - Derivation
+- P5241 - 序列
+- P5245 - 【模板】多项式快速幂
+- P5257 - [JSOI2013] 密码
+- P5259 - [JSOI2013] 游戏中的学问
+- P5261 - [JSOI2013] 数字理论
+- P5270 - 无论怎样神树大人都会删库跑路
+- P5271 - OwenOwl 不学车也不删库
+- P5272 - 总而言之神J要去练习篮球
+- P5278 - 算术天才⑨与等差数列
+- P5290 - [十二省联考 2019] 春节十二响
+- P5299 - [PKUWC2018] Slay the Spire
+- P5306 - [COCI 2018/2019 #5] Transport
+- P5330 - [SNOI2019] 数论
+- P5338 - [TJOI2019] 甲苯先生的滚榜
+- P5341 - [TJOI2019] 甲苯先生和大中锋的字符串
+- P5348 - 密码解锁
+- P5349 - 幂
+- P5350 - 序列
+- P5351 - Ruri Loves Maschera
+- P5352 - Terrible Homework
+- P5361 - [SDOI2019] 热闹的聚会与尴尬的聚会
+- P5363 - [SDOI2019] 移动金币
+- P5364 - [SNOI2017] 礼物
+- P5369 - [PKUSC2018] 最大前缀和
+- P5370 - [PKUSC2018] 主斗地
+- P5371 - [SNOI2019] 纸牌
+- P5372 - [SNOI2019] 积木
+- P5464 - 缩小社交圈
+- P5465 - [PKUSC2018] 星际穿越
+- P5466 - [PKUSC2018] 神仙的游戏
+- P5467 - [PKUSC2018] PKUSC
+- P5471 - [NOI2019] 弹跳
+- P5478 - [BJOI2015] 骑士的旅行
+- P5479 - [BJOI2015] 隐身术
+- P5492 - [PKUWC2018] 随机算法
+- P5500 - [LnOI2019] 真正的 OIer 从不女装
+- P5504 - [JSOI2011] 柠檬
+- P5513 - [CEOI 2013] Board
+- P5554 - 篮球统计
+- P5561 - [Celeste-B] Mirror Magic
+- P5563 - [Celeste-B] No More Running
+- P5604 - 小 O 与排列
+- P5605 - 小 A 与两位神仙
+- P5618 - [SDOI2015] 道路修建
+- P5621 - [DBOI2019] 德丽莎世界第一可爱
+- P5624 - [Celeste-A] Black Moonrise
+- P5625 - [Celeste-A] Good Karma
+- P5634 - 数码排序【加强版】
+- P5637 - ckw的树
+- P5654 - 基础函数练习题
+- P5669 - [SDOI2018] 原题识别-改
+- P5688 - [CSP-S2019 江西] 散步
+- P5747 - [NOI2004] 曼哈顿
+- P5757 - [NOI2000] 古城之谜
+- P5772 - [JSOI2016] 位运算
+- P5781 - [IOI 2019] 矩形区域
+- P5803 - [SEERC 2019] Tree Permutations
+- P5807 - 【模板】BEST 定理 | Which Dreamed It
+- P5819 - 【L&K R-03】音游大计算
+- P5821 - 【L&K R-03】密码串匹配
+- P5862 - [IOI 2015] sorting
+- P5871 - [SEERC 2018] Inversion
+- P5890 - 小欧与回文串构造
+- P5892 - [IOI 2014] holiday 假期
+- P5893 - [IOI 2013] game 游戏
+- P5901 - [IOI 2009] Regions
+- P5902 - [IOI 2009] Salesman
+- P5904 - [POI 2014] HOT-Hotels 加强版
+- P5913 - [POI 2004] KAG
+- P5918 - [FJOI2015] 金币换位问题
+- P5919 - [POI 2004] MAK
+- P5940 - [POI 1997] 跳
+- P5944 - [POI 2002] 出圈游戏
+- P5952 - [POI 2018] 水箱
+- P5955 - [POI 2018] Pionek
+- P5966 - [POI 2016] Hydrorozgrywka
+- P5974 - [CEOI 2006] ANTENNA
+- P5982 - [PA 2019] Trzy kule
+- P5983 - [PA 2019] Osady i warownie 2
+- P5985 - [PA 2019] Muzyka pop
+- P5986 - [PA 2019] Szprotki i szczupaki
+- P5987 - [PA 2019] Terytoria
+- P5996 - [PA 2014] Muzeum
+- P5998 - [PA 2014] Plemiona
+- P5999 - [CEOI 2016] kangaroo
+- P6000 - [CEOI 2016] match
+- P6001 - [CEOI 2016] popeala
+- P6053 - [RC-02] XOR
+- P6055 - [RC-02] GCD
+- P6062 - [USACO05JAN] Muddy Fields G
+- P6074 - 最小路径
+- P6077 - [BalticOI 2007] Escape
+- P6080 - [USACO05DEC] Cow Patterns G
+- P6085 - [JSOI2013] 吃货 JYY
+- P6090 - [CEOI 2019] 立方填词
+- P6128 - [JSOI2012] 幼儿园的游戏
+- P6134 - [JSOI2015] 最小表示
+- P6137 - [IOI 2012] 理想城
+- P6138 - [IOI 2012] 骑马比武竞赛
+- P6164 - 【模板】后缀平衡树
+- P6168 - [IOI 2016] railroad
+- P6220 - [COCI 2019/2020 #6] Skandi
+- P6224 - [BJWC2014] 数据
+- P6231 - [JSOI2013] 公交系统
+- P6237 - [CEOI 2012] Printed Circuit Board
+- P6243 - [USACO06OPEN] The Milk Queue G
+- P6253 - [ICPC 2019 WF] Checks Post Facto
+- P6257 - [ICPC 2019 WF] First of Her Name
+- P6260 - [ICPC 2019 WF] Miniature Golf
+- P6379 - [PA 2010] Planning the Roadworks
+- P6407 - [SDOI2012] 棋盘覆盖
+- P6413 - [COCI 2008/2009 #3] NAJKRACI
+- P6425 - [COCI 2008/2009 #2] CAVLI
+- P6431 - [COCI 2008/2009 #1] KRTICA
+- P6452 - [COCI 2008/2009 #4] TREZOR
+- P6486 - [COCI 2010/2011 #4] DUGOVI
+- P6498 - [COCI 2016/2017 #2] Zamjene
+- P6499 - [COCI 2016/2017 #2] Burza
+- P6534 - [COCI 2015/2016 #1] UZASTOPNI
+- P6543 - [CEOI 2014] 007
+- P6551 - [COCI 2010/2011 #2] CRNI
+- P6556 - The Forest
+- P6570 - [NOI Online #3 提高组] 优秀子序列
+- P6575 - [BalticOI 2017] Friends
+- P6585 - 中子衰变
+- P6604 - [HNOI2016] 序列 加强版
+- P6616 - 环 Rings
+- P6640 - [BJOI2020] 封印
+- P6682 - [BalticOI 2020] 染色 (Day1)
+- P6683 - [BalticOI 2020] 混合调料 (Day1)
+- P6684 - [BalticOI 2020] 小丑 (Day1)
+- P6689 - 序列
+- P6727 - [COCI 2015/2016 #5] OOP
+- P6740 - [BalticOI 2014] Sequence (Day1)
+- P6751 - [IOI 2019] 视觉程序
+- P6772 - [NOI2020] 美食家
+- P6800 - 【模板】Chirp Z-Transform
+- P6802 - [CEOI 2020] 道路
+- P6804 - [CEOI 2020] 权力药水
+- P6805 - [CEOI 2020] 春季大扫除
+- P6817 - [PA 2013] Filary
+- P6819 - [PA 2012 Finals] Binary Dodgeball
+- P6821 - [PA 2012 Finals] Tanie linie
+- P6822 - [PA 2012 Finals] Tax
+- P6845 - [CEOI 2019] Dynamic Diameter
+- P6846 - [CEOI 2019] Amusement Park
+- P6847 - [CEOI 2019] Magic Tree
+- P6854 - Tram
+- P6864 - [RC-03] 记忆
+- P6868 - [COCI 2019/2020 #5] Matching
+- P6891 - [JOISC 2020] ビルの飾り付け 4
+- P6906 - [ICPC 2015 WF] Catering
+- P6913 - [ICPC 2015 WF] Tile Cutting
+- P6916 - [ICPC 2015 WF] Window Manager
+- P6918 - [ICPC 2016 WF] Branch Assignment
+- P6922 - [ICPC 2016 WF] Longest Rivers
+- P6928 - [ICPC 2016 WF] What Really Happened on Mars?
+- P6929 - [ICPC 2017 WF] Airport Construction
+- P6930 - [ICPC 2017 WF] Get a Clue!
+- P6931 - [ICPC 2017 WF] Mission Improbable
+- P6932 - [ICPC 2017 WF] Money for Nothing
+- P6935 - [ICPC 2017 WF] Replicate Replicate Rfplicbte
+- P6939 - [ICPC 2017 WF] Tarot Sham Boast
+- P6944 - [ICPC 2018 WF] Gem Island
+- P6945 - [ICPC 2018 WF] Getting a Jump on Crime
+- P6949 - [ICPC 2018 WF] Triangles
+- P6952 - [NEERC 2017] Archery Tournament
+- P6957 - [NEERC 2017] The Final Level
+- P6958 - [NEERC 2017] The Great Wall
+- P6960 - [NEERC 2017] Interactive Sort
+- P6961 - [NEERC 2017] Journey from Petersburg to Moscow
+- P6963 - [NEERC 2017] Laminar Family
+- P6966 - [NEERC 2016] Cactus Construction
+- P6970 - [NEERC 2016] Game on Graph
+- P6973 - [NEERC 2016] List of Primes
+- P6975 - [NEERC 2015] Cactus Jubilee
+- P6976 - [NEERC 2015] Distance on Triangulation
+- P6980 - [NEERC 2015] Hypercube
+- P6981 - [NEERC 2015] Iceberg Orders
+- P6982 - [NEERC 2015] Jump
+- P6983 - [NEERC 2015] King’s Inspection
+- P6984 - [NEERC 2015] Landscape Improved
+- P6987 - [NEERC 2014] Cactus Generator（征集SPJ）
+- P6988 - [NEERC 2014] Damage Assessment
+- P6989 - [NEERC 2014] Epic Win!
+- P6991 - [NEERC 2014] Gomoku
+- P6992 - [NEERC 2014] Hidden Maze
+- P6993 - [NEERC 2014] Improvements
+- P6998 - [NEERC 2013] Cactus Automorphisms
+- P6999 - [NEERC 2013] Dictionary
+- P7000 - [NEERC 2013] Easy Geometry
+- P7004 - [NEERC 2013] Interactive Interception
+- P7007 - [CERC2013] Rubik's Rectangle
+- P7011 - [CERC2013] Escape
+- P7013 - [CERC2013] History course
+- P7014 - [CERC2013] Chain & Co.
+- P7016 - [CERC2013] Captain Obvious and the Rabbit-Man
+- P7022 - [NWRRC 2017] Dividing Marbles
+- P7024 - [NWRRC 2017] Fygon 2.0
+- P7025 - [NWRRC 2017] Grand Test
+- P7026 - [NWRRC 2017] Hidden Supervisors
+- P7032 - [NWRRC 2016] Boys and Girls
+- P7035 - [NWRRC 2016] Easy Reading
+- P7037 - [NWRRC 2016] Gangsters in Central City
+- P7046 - 「MCOI-03」诗韵
+- P7062 - [NWRRC 2014] Combinator Expression
+- P7065 - [NWRRC 2014] Fragmentation
+- P7081 - [NWRRC 2013] Correcting Curiosity
+- P7086 - [NWRRC 2013] Heavy Chain Clusterization
+- P7087 - [NWRRC 2013] Intellectual Property
+- P7090 - [NWRRC 2013] Lonely Mountain
+- P7092 - 计数题
+- P7093 - [CERC2014] Can't stop playing
+- P7115 - [NOIP2020] 移球游戏
+- P7116 - [NOIP2020] 微信步数
+- P7130 - 「RdOI R1」平衡常数(balance)
+- P7131 - 「RdOI R1」变换(turn)
+- P7134 - 小 H 的序列
+- P7163 - [COCI 2020/2021 #2] Svjetlo
+- P7173 - 【模板】有负圈的费用流
+- P7180 - [BalticOI 2004] REPEATS
+- P7202 - [COCI 2019/2020 #1] Trobojnica
+- P7212 - [JOISC 2020] ジョイッターで友だちをつくろう
+- P7221 - [JSOI2010] 蔬菜庆典
+- P7239 - 3D Cube
+- P7242 - [COCI 2019/2020 #4] Klasika
+- P7246 - 手势密码
+- P7247 - 教材运送
+- P7278 - 纯洁憧憬
+- P7279 - 光棱碎片
+- P7283 - [COCI 2020/2021 #4] Janjetina
+- P7307 - [COCI 2018/2019 #1] Teoretičar
+- P7315 - [COCI 2018/2019 #3] Sajam
+- P7316 - [COCI 2018/2019 #3] NLO
+- P7317 - [COCI 2018/2019 #3] Praktični
+- P7327 - 「MCOI-07」Dream and Discs
+- P7328 - 「MCOI-07」Dream and Machine Learning
+- P7329 - 「MCOI-07」Dream and More Discs
+- P7347 - 「MCOI-04」纯水精灵
+- P7350 - 「MCOI-04」Dream and Strings
+- P7352 - 炉心融解
+- P7400 - [COCI 2020/2021 #5] Magenta
+- P7407 - [JOI 2021 Final] ロボット (Robot)
+- P7414 - [USACO21FEB] Modern Art 3 G
+- P7457 - [CERC2018] The Bridge on the River Kawaii
+- P7463 - [CERC2018] The Lord of the Kings
+- P7481 - 梦现时刻
+- P7482 - 不条理狂诗曲
+- P7504 - 「HMOI R1」可爱的德丽莎
+- P7511 - 三到六
+- P7515 - [省选联考 2021 A 卷] 矩阵游戏
+- P7516 - [省选联考 2021 A/B 卷] 图函数
+- P7519 - [省选联考 2021 A/B 卷] 滚榜
+- P7520 - [省选联考 2021 A 卷] 支配
+- P7525 - Shelter
+- P7546 - [BJWC2014] 珠链
+- P7553 - [COCI 2020/2021 #6] Geometrija
+- P7560 - [JOISC 2021] フードコート (Day1)
+- P7565 - [JOISC 2021] ビーバーの会合 2 (Day3)
+- P7569 - 「MCOI-05」粘液
+- P7580 - 「RdOI R2」因数和(sum)
+- P7596 - 「EZEC-8」游戏蛇
+- P7597 - 「EZEC-8」猜树 加强版
+- P7648 - [COCI 2012/2013 #5] MNOGOMET
+- P7669 - [JOI2018] Commuter Pass
+- P7670 - [JOI2018] Snake Escaping
+- P7703 - 「MCOI-09」Dream and Strings REMATCH
+- P7707 - 「Wdsr-2.7」百花齐放的太阳花田
+- P7735 - [NOI2021] 轻重边
+- P7736 - [NOI2021] 路径交点
+- P7737 - [NOI2021] 庆典
+- P7738 - [NOI2021] 量子通信
+- P7747 - [COCI 2011/2012 #3] TRAKA
+- P7781 - 「MCOI-Zero / AC6-M07」Selumna Peak
+- P7782 - 「MCOI-Zero / AC6-M03」 Sipli Field
+- P7790 - [COCI 2016/2017 #6] Gauss
+- P7802 - [COCI 2015/2016 #6] SAN
+- P7803 - [JOI Open 2021] Crossing
+- P7805 - [JOI Open 2021] Monster Game
+- P7823 - 「RdOI R3」闹钟
+- P7824 - 「RdOI R3」毒水
+- P7844 - 「dWoi R2」FFT / 狒狒贴
+- P7851 - 「JZOI-2」信号塔
+- P7889 - 「MCOI-06」Eert Tuc Knil
+- P7905 - 黄牛の争
+- P7920 - [Kubic] Permutation
+- P7929 - [COCI 2021/2022 #1] Logičari
+- P7930 - [COCI 2021/2022 #1] Set
+- P7931 - [COCI 2021/2022 #1] Volontiranje
+- P7946 - 「Wdcfr-1」Yet Another Cirno Game (hard version)
+- P7950 - [✗✓OI R1] 后方之水
+- P7951 - [✗✓OI R1] 右方之火
+- P7952 - [✗✓OI R1] 天动万象
+- P7968 - [COCI 2021/2022 #2] Osumnjičeni
+- P8018 - [COCI 2016/2017 #5] Strelice
+- P8029 - [COCI 2021/2022 #3] Akcija
+- P8037 - [COCI 2015/2016 #7] Prokletnik
+- P8043 - [COCI 2016/2017 #7] KLAVIR
+- P8057 - D ToPTree
+- P8069 - [BalticOI 2002] L Game © Edward de Bono (Day2)
+- P8125 - [BalticOI 2021] The short shank (Day2)
+- P8126 - [BalticOI 2021] The Collection Game (Day2)
+- P8133 - [ICPC 2020 WF] Ley Lines
+- P8136 - [ICPC 2020 WF] Quests
+- P8140 - [ICPC 2020 WF] Trailing Digits
+- P8157 - 「PMOI-5」肥宅快乐水
+- P8171 - [CEOI 2021] Diversity
+- P8172 - [CEOI 2021] L-triominoes
+- P8180 - 「EZEC-11」Unmemorable
+- P8253 - [NOI Online 2022 提高组] 如何正确地排序
+- P8300 - [COCI 2012/2013 #2] INSPEKTOR
+- P8303 - [CoE R4 C] 网格
+- P8304 - [CoE R4 D] 01 串
+- P8305 - [CoE R4 E] 伪随机
+- P8313 - [COCI 2021/2022 #4] Izbori
+- P8314 - [COCI 2021/2022 #4] Parkovi
+- P8326 - [COCI 2021/2022 #5] Fliper
+- P8327 - [COCI 2021/2022 #5] Radio
+- P8328 - [COCI 2021/2022 #5] Usmjeravanje
+- P8339 - [AHOI2022] 钥匙
+- P8358 - 「WHOI-1」HanawoTori
+- P8360 - [SNOI2022] 军队
+- P8361 - [SNOI2022] 倍增
+- P8382 - [POI 2004] Gra
+- P8391 - [BalticOI 2022] Event Hopping (Day1)
+- P8393 - [BalticOI 2022] Stranded Far From Home (Day2)
+- P8407 - [COCI 2021/2022 #6]  Superpozicija
+- P8424 - [JOI Open 2022] 跷跷板（Seesaw）
+- P8440 - Aleph-0 (Fan-made LGC 7)
+- P8441 - 旭日东升
+- P8461 - 「REOI-p1」回忆
+- P8464 - 「REOI-1」渺茫的希望
+- P8465 - 「REOI-1」调整圣剑
+- P8476 - 「GLR-R3」惊蛰
+- P8490 - [IOI 2022] 鲶鱼塘
+- P8494 - [IOI 2022] 最罕见的昆虫
+- P8496 - [NOI2022] 众数
+- P8499 - [NOI2022] 挑战 NPC Ⅱ
+- P8565 - Sultan Rage
+- P8747 - [蓝桥杯 2021 省 B] 双向排序
+- P8821 - [集训队互测 2022] 树链剖分
+- P8851 - 『JROI-7』T2nz.
+- P8857 - [POI 2002] 滑雪者
+- P8989 - [北大集训 2021] 随机游走
+- P8991 - [北大集训 2021] 出题高手
+- P8993 - [北大集训 2021] 算术
+- P8996 - [CEOI 2022] Abracadabra
+- P9001 - [CEOI 2022] Parking
+- P9003 - [RC-07] Game Theory
+- P9004 - [RC-07] Abnormal Permutation Tuples
+- P9005 - [RC-07] 超超立方体
+- P9030 - [COCI 2022/2023 #1] Berilij（暂无spj）
+- P9039 - [PA 2021] Drzewo czerwono-czarne
+- P9047 - [PA 2021] Poborcy podatkowi
+- P9055 - [集训队互测 2021] 数列重排
+- P9081 - [PA 2018] Magiczne wieże
+- P9084 - [PA 2018] Skwarki
+- P9096 - [PA 2020] Sen o podboju
+- P9103 - [PA 2020] Bardzo skomplikowany test
+- P9104 - [PA 2020] Królewski bal
+- P9108 - [PA 2020] Malowanie płotu
+- P9113 - [IOI 2009] Hiring
+- P9120 - [春季测试 2023] 密码锁
+- P9162 - variance
+- P9164 - 「INOH」Round 1 - 狂气
+- P9167 - [省选联考 2023] 城市建造
+- P9181 - [COCI 2022/2023 #5] Zastave
+- P9225 - 「PEOI Rd1」寻宝（treasure）
+- P9252 - [PA 2022] Wielki Zderzacz Termionów
+- P9258 - [PA 2022] Drybling Bajtessiego
+- P9261 - [PA 2022] Płótno
+- P9262 - [PA 2022] Łamigłówka
+- P9270 - [CEOI 2013] 有轨电车 / Tram
+- P9271 - [CEOI 2013] 停车场 / Splot
+- P9295 - [POI 2020] Gang Biciaków / 布茨帮
+- P9297 - [POI 2020] Licznik długu / 债务计数器
+- P9308 - 「DTOI-5」#1f1e33
+- P9329 - [JOISC 2023] Two Currencies (Day1)
+- P9332 - [JOISC 2023] Belt Conveyor（交互，无法评测） (Day2)
+- P9333 - [JOISC 2023] Council (Day2)
+- P9340 - [JOISC 2023] Tourism (Day3)
+- P9351 - [JOI 2023 Final] Maze
+- P9361 - [ICPC 2022 Xi'an R] Contests
+- P9368 - [ICPC 2022 Xi'an R] Streets
+- P9393 - 紫丁香
+- P9440 - [ICPC 2021 WF] Dungeon Crawler
+- P9443 - [ICPC 2021 WF] Hand of the Free Marked
+- P9444 - [ICPC 2021 WF] Islands from the Sky
+- P9445 - [ICPC 2021 WF] Mosaic Browsing
+- P9447 - [ICPC 2021 WF] Spider Walk
+- P9478 - [NOI2023] 方格染色
+- P9481 - [NOI2023] 贸易
+- P9482 - [NOI2023] 字符串
+- P9514 - [JOI Open 2023] 花园
+- P9520 - [JOISC 2022] 监狱
+- P9521 - [JOISC 2022] 京都观光
+- P9522 - [JOISC 2022] 错误拼写
+- P9523 - [JOISC 2022] 复制粘贴 3
+- P9529 - [JOISC 2022] 一流团子师傅
+- P9545 - [湖北省选模拟 2023] 环山危路 / road
+- P9546 - [湖北省选模拟 2023] 山路长环 / ring
+- P9550 - 「PHOI-1」晚宴筵
+- P9555 - 「CROI · R1」浣熊的阴阳鱼
+- P9558 - [SDCPC 2023] Trie
+- P9596 - [JOI Open 2018] 冒泡排序 2
+- P9597 - [JOI Open 2018] 猫或狗
+- P9600 - [IOI 2023] 封锁时刻
+- P9604 - [IOI 2023] 超车
+- P9620 - 歌姬
+- P9621 - 下次再见
+- P9624 - [ICPC 2020 Nanjing R] Certain Scientific Railgun
+- P9668 - [ICPC 2022 Jinan R] Torch
+- P9674 - [ICPC 2022 Jinan R] Set of Intervals
+- P9731 - [CEOI 2023] Balance
+- P9733 - [CEOI 2023] The Ties That Guide Us (incursion)
+- P9739 - [COCI 2022/2023 #2] Kruhologija
+- P9747 - 「KDOI-06-S」签到题
+- P9758 - [COCI 2022/2023 #3] Baltazar
+- P9760 - [COCI 2022/2023 #3] Skrivača
+- P9770 - [HUSTFC 2023] 逆 KMP
+- P9773 - [HUSTFC 2023] 序列配对
+- P9776 - [HUSTFC 2023] 狭义线段树
+- P9781 - [HUSTFC 2023] 近似递增序列
+- P9790 - [ROIR 2020] 海报 (Day 2)
+- P9791 - [NERC 2018] Alice the Fan
+- P9792 - [NERC 2018]  Bimatching
+- P9794 - [NERC 2018]  Distance Sum
+- P9799 - [NERC 2018]  Interval-Free Permutations
+- P9800 - [NERC 2018] JS Minification
+- P9801 - [NERC 2018] King Kog’s Reception
+- P9807 - [POI 2022 ~2023R1] wyp
+- P9808 - [POI 2022 ~2023R1] zbo
+- P9818 - 游戏王
+- P9864 - [POI 2021 ~2022R2] age
+- P9895 - [ICPC 2018 Qingdao R] Airdrop
+- P9907 - [COCI 2023/2024 #1] Mostovi
+- P9910 - [COCI 2023/2024 #2] Dizalo
+- P9922 - [POI 2023/2024 R1] CzatBBB
+- P9933 - [NFLSPC #6] 9.pop_book();

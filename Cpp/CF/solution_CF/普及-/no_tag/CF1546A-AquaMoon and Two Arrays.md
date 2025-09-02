@@ -1,0 +1,812 @@
+# AquaMoon and Two Arrays
+
+## 题目描述
+
+AquaMoon and Cirno are playing an interesting game with arrays. Cirno has prepared two arrays $ a $ and $ b $ , both consist of $ n $ non-negative integers. AquaMoon can perform the following operation an arbitrary number of times (possibly zero):
+
+- She chooses two indices $ i $ and $ j $ ( $ 1 \le i, j \le n $ ), then decreases the $ i $ -th element of array $ a $ by $ 1 $ , and increases the $ j $ -th element of array $ a $ by $ 1 $ . The resulting values at $ i $ -th and $ j $ -th index of array $ a $ are $ a_i - 1 $ and $ a_j + 1 $ , respectively. Each element of array $ a $ must be non-negative after each operation. If $ i = j $ this operation doesn't change the array $ a $ .
+
+AquaMoon wants to make some operations to make arrays $ a $ and $ b $ equal. Two arrays $ a $ and $ b $ are considered equal if and only if $ a_i = b_i $ for all $ 1 \leq i \leq n $ .
+
+Help AquaMoon to find a sequence of operations that will solve her problem or find, that it is impossible to make arrays $ a $ and $ b $ equal.
+
+Please note, that you don't have to minimize the number of operations.
+
+## 说明/提示
+
+In the first example, we do the following operations:
+
+- $ i = 2 $ , $ j = 1 $ : $ [1, 2, 3, 4] \rightarrow [2, 1, 3, 4] $ ;
+- $ i = 3 $ , $ j = 1 $ : $ [2, 1, 3, 4] \rightarrow [3, 1, 2, 4] $ ;
+
+In the second example, it's impossible to make two arrays equal.
+
+## 样例 #1
+
+### 输入
+
+```
+4
+4
+1 2 3 4
+3 1 2 4
+2
+1 3
+2 1
+1
+0
+0
+5
+4 3 2 1 0
+0 1 2 3 4```
+
+### 输出
+
+```
+2
+2 1
+3 1
+-1
+0
+6
+1 4
+1 4
+1 5
+1 5
+2 5
+2 5```
+
+# 题解
+
+## 作者：Mistybranch (赞：3)
+
+[传送门](https://www.luogu.com.cn/problem/CF1546A)
+
+题目大概意思是：给你两个数组 $a$ 和 $b$，每次可以选择两个下标 $i$ 和 $j$，将 $a_i$ 减一，$a_j$ 加一。问能否将数组 $a$ 变成数组 $b$，如果可以则输出所有 $i$ 和 $j$，否则输出 $-1$。
+
+看一眼数据，$1 \leq n \leq 100$，考虑暴力。接着又发现其实 $i$ 和 $j$ 是互不干扰的，考虑单独看每一个数要进行几次操作。
+
+```
+4 3 2 1 0
+0 1 2 3 4
+```
+在这种情况下，从 $a_i$ 到 $b_i$ 需要加的数组成的数组 $c$ 为：
+
+```
+-4 -2 0 2 4
+```
+我们发现，**可以将数组 $a$ 变成数组 $b$ 的条件为，$c$ 的所有数之和为 $0$**（因为减一的次数应该与加一的次数相等）。
+
+```cpp
+c1 = 0;
+c2 = 0;//代码中 c1 代表减一的次数，c2 代表加一的次数。
+
+for (int i = 1; i <= n; i++) {
+	if (a[i] > b[i]) {
+		c1 += a[i] - b[i];
+	}
+	
+	else {
+		c2 += b[i] - a[i];
+	}
+}
+  
+if (c1 != c2) {
+	printf("-1\n");
+	continue;
+}
+```
+
+
+所以说我们记录需要进行减一和加一操作的数组下标：
+
+- 需要进行减一操作的数组下标为：$1,1,1,1,2,2$；
+- 需要进行加一操作的数组下标为：$4,4,5,5,5,5$。
+
+我们可以用 vector 来存储下标。
+
+```cpp
+for (int i = 1; i <= n; i++) {
+	if (a[i] > b[i]) {
+		for (int j = 1; j <= a[i] - b[i]; j++) {
+			de.push_back(i);
+		}
+	}
+	
+	else {
+		for (int j = 1; j <= b[i] - a[i]; j++) {
+			in.push_back(i);
+		}
+	}
+}
+```
+那么最后我们只需要输出 $c1$ 来代表操作次数。具体操作只要输出一个减一操作的数组下标和一个加一操作的数组下标即可。
+
+以样例为例即为：
+
+- $1,4$
+- $1,4$
+- $1,5$
+- $1,5$
+- $2,5$
+- $2,5$
+
+
+```cpp
+printf("%d\n", c1);
+
+for (int i = 0; i < c1; i++) {
+	printf("%d %d\n", de[i], in[i]);
+}
+```
+完整代码：
+
+```cpp
+ 
+ 
+#include <bits/stdc++.h>
+#include <iostream>
+
+using namespace std;
+ 
+int n, a[109], b[109]; 
+vector<int> in, de;
+
+int main () {
+	int T, c1, c2;
+	
+	scanf("%d", &T);
+	
+	while (T--) {
+		in.clear();
+		de.clear();
+		
+		scanf("%d", &n);
+		
+		for (int i = 1; i <= n; i++) {
+			scanf("%d", &a[i]);
+		}
+		
+		for (int i = 1; i <= n; i++) {
+			scanf("%d", &b[i]);
+		}
+		
+		c1 = 0;
+		c2 = 0;
+		
+		for (int i = 1; i <= n; i++) {
+			if (a[i] > b[i]) {
+				c1 += a[i] - b[i];
+				
+				for (int j = 1; j <= a[i] - b[i]; j++) {
+					de.push_back(i);
+				}
+			}
+			
+			else {
+				c2 += b[i] - a[i];
+				
+				for (int j = 1; j <= b[i] - a[i]; j++) {
+					in.push_back(i);
+				}
+			}
+		}
+		
+		if (c1 != c2) {
+			printf("-1\n");
+			continue;
+		}
+		
+		printf("%d\n", c1);
+		
+		for (int i = 0; i < c1; i++) {
+			printf("%d %d\n", de[i], in[i]);
+		}
+	} 
+	
+	return 0;
+}
+```
+
+
+---
+
+## 作者：张语诚ZYC (赞：2)
+
+## 粗略翻译
+
+有两个数组，称为 $A$ 和 $B$，对于每一次，你可以使 $A$ 序列中任意一个元素 $+1$ ，同时使任意一个元素 $-1$。现在要求你~~一顿乱搞~~，使 $A$ 数组变成 $B$数组。
+
+## 简单分析
+
+先说结论：**在不考虑次数的情况下：如果 $A$ 中所有元素和等于 $B$ 中所有元素和，那么一定有解，否则无解。**
+
+**~~学了这么多年的质量守恒定律不是白学的~~**
+
+还是利用守恒的思想，每一个操作都是 $+1$ 或 $-1$，所以数组的元素的和不会变。同理，即使操作多次，数组的元素的和不变。也就证明了**如果 $A$ 中所有元素和不等于 $B$ 中所有元素和，那么一定无解。**
+那么，如何证明如果 $A$ 中所有元素和等于 $B$ 中所有元素和，那么一定有解呢？这里提供一种思路：从 $A$ 数组的第二个元素开始，减到 $0$，加到第一个元素之上，一直操作到最后一个元素。从 $A$ 数组的第二个元素开始减，减到 $B$ 数组的每一个个大小，分别加到对应元素之上，一直操作到最后一个元素。
+
+
+## 关于构造解
+
+利用分析中的思想：把其他所有元素有~~乱搞~~到 $0$，累加到第一个元素，再减到 $B$ 数组，把对应元素操作相加。即为 $A$ 和 $B$ 对应位置的元素的差。
+
+再分析一下，最少的次数：知道了两个数组的差，把较多的补给较少的，反之亦然。**由于题目有 $100$ 次限制**，所以把差值中所有 $+1$ 或 $-1$ 个数统计出来，小于 $100$ 且大于 $-100$ 有解，输出，否则无解。
+
+---
+
+## 作者：xkcdjerry (赞：1)
+
+首先，想让 $a$ 数组和 $b$ 数组相等等效于让 $a$ 数组与 $b$ 数组的差为 $0$ 。那么可以构造 $c_i = a_i - b_i$ ，问题转化为使用题中给出的操作（后称 $F$ ）使得 $c$ 变为全 $0$ 数组。  
+
+由于 $F$ 一定是加一个 $1$ ，减一个 $1$ ，那么无论执行多少次都不会改变数组和，即无解情况为且仅为 $c$ 的和不为 $0$ 。  
+
+如果有解，可以每次寻找 $c_i >0$ , $c_j < 0$ 并输出 $i$ 和 $j$ 。
+
+可以遍历 $c_i >0$ ，并一个指针扫 $c_j < 0$ ，可以省去 `sort` 操作，把时间复杂度从 $O(n\log n+\sum_{i=1}^{i \leqslant n}abs(a_i-b_i))$ 优化为 $O(n+\sum_{i=1}^{i \leqslant n}abs(a_i-b_i))$ 。  
+
+奉上丑陋的赛时代码：  
+```cpp
+/*
+    Code by xkcdjerry
+    Time: 2021-07-11
+    Generated by cf-tools
+*/
+#include <cstdio>
+
+
+#define int long long
+#define N 110
+int a[N];
+int n;
+void once()
+{
+    scanf("%lld",&n);
+	int sum=0;
+	for(int i=0;i<n;i++) scanf("%lld",a+i);
+	int t;
+	for(int i=0;i<n;i++)
+	{
+		scanf("%lld",&t);
+		sum+=(a[i]-=t);
+	}
+	if(sum)
+	{
+		puts("-1");
+		return;
+	}
+	int m=0;
+	for(int i=0;i<n;i++)
+		if(a[i]>0) m+=a[i];
+	printf("%lld\n",m);
+	int p=0;
+	for(int i=0;i<n;i++)
+		for(int j=0;j<a[i];j++)
+		{
+			while(a[p]>=0) p++;
+			//i-1,j+1
+			printf("%lld %lld\n",i+1,p+1);
+			a[p]++;
+		}
+}
+#undef int
+
+
+int main()
+{
+    int t;
+    scanf("%d",&t);
+    while(t--) once();
+    return 0;
+}
+```
+
+---
+
+## 作者：NXYorz (赞：1)
+
+[题目链接](https://www.luogu.com.cn/problem/CF1546A)
+
+--------
+
+### 题目大意
+
+给你两个序列 $A,B$，每一次你可以使 $A$ 序列中任意一个元素 $+1$ ，同时使任意一个元素 $-1$。
+
+问你是否可以在一顿操作下，把 $A$ 序列变成 $B$ 序列。如果可以输出操作次数和每一次的操作方式(即哪一个元素 $-1$, 哪一个元素 $+1$ 的位置。
+
+如果不能得到序列 $B$ ，输出 $-1$ ，多次询问。
+
+任意输出一组解即可。
+
+--------
+
+### 分析
+
+- 对于判断是否由 $A$ 序列得到 $B$ 序列，~~可以从守恒的角度考虑~~。发现这种操作对于 $A$ 序列的**和**是没有影响的。
+如果 $A$ 序列的和等于 $B$ 序列的和，~~即序列 $A$ 守恒~~。那么一定存在一组解，反之，一定不存在。
+
+- 如果存在解，那么只需要将序列 $A,B$ 对应位置的元素做差，就可以得到该位置需要输出的次数,存起来最后输出即可。
+
+复杂度 $O(T N^2)$。
+
+------
+
+### $\texttt{Code}$
+```c++
+#include<cstdio>
+
+using namespace std;
+
+const int N = 101;
+
+int t,n,sum;
+int a[N],b[N],ans1[N],ans2[N];
+
+void work()
+{
+	sum = 0; scanf("%d",&n);
+	ans1[0] = 0 , ans2[0] = 0;
+	for(int i = 1; i <= n; i++)
+		scanf("%d",&a[i]);
+	for(int i = 1; i <= n; i++)
+	{
+		scanf("%d",&b[i]) , sum += a[i] - b[i];
+		if(a[i] - b[i] < 0)
+		{
+			int der = b[i] - a[i];
+			for(int j = 1; j <= der; j++)
+				ans1[++ans1[0]] = i;
+		}
+		else
+		{
+			int der = a[i] - b[i];
+			for(int j = 1; j <= der; j++)
+				ans2[++ans2[0]] = i;
+		}
+	}
+	if(sum != 0) {printf("-1\n"); return;}
+	printf("%d\n",ans1[0]);
+	for(int i = 1; i <= ans1[0]; i++)
+		printf("%d %d\n",ans2[i],ans1[i]);
+	return;
+}
+int main()
+{
+//	freopen("aa.in","r",stdin);
+	scanf("%d",&t);
+	while(t--) 
+		work();
+}
+```
+
+--------
+
+~~空格加上了qwq~~
+
+---
+
+## 作者：yimuhua (赞：0)
+
+## 题目大意：
+
+给你两个数组 $a$ 和 $b$，每次可以选择两个下标 $i$ 和 $j$，将 $a_{i}$ 减一，$a_{j}$ 加一。问能否将数组 $a$ 变成数组 $b$，如果可以则输出所有 $i$ 和 $j$，否则输出 $-1$。
+
+## 思路：
+
+观察数据，发现其实 $i$ 和 $j$ 是互不干扰的，单独看每一个数要进行几次操作。
+
+```
+4 3 2 1 0
+0 1 2 3 4
+```
+在这种情况下，从 $a_{i}$ 到 $b_{i}$ 需要加的数组成的数组 $c$ 为：
+
+```
+-4 -2 0 2 4
+```
+
+不难看出，将数组 $a$ 变成数组 $b$ 的条件为，数组 $c$ 的所有数之和为 $0$（因为减一的次数应该与加一的次数相等）。
+
+所以说我们记录需要进行减一和加一操作的数组下标：
+
+*	需要进行减一操作的数组下标为：1，1，1，1，2，2；
+
+*	需要进行加一操作的数组下标为：4，4，5，5，5，5。
+
+我们可以用队列来存储下标。
+
+## AC代码：
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+int t, n, a[105], b[105];
+int main() {
+    cin >> t;
+    while(t--) {
+        int sum = 0;
+        cin >> n;
+        for(int i = 1; i <= n; i++)
+            cin >> a[i];
+        for(int i = 1; i <= n; i++)
+            cin >> b[i], sum += (b[i] - a[i]);//输入，求数组c
+        if(sum) {
+            cout << -1 << endl;//无解，下一组(不要return 0)
+            continue;
+        }
+        queue<int> q1, q2;//建立队列
+        for(int i = 1; i <= n; i++)
+            if(a[i] > b[i])//需要减的
+                for(int j = 1; j <= a[i] - b[i]; j++)
+                    q1.push(i);
+            else
+                for(int j = 1; j <= b[i] - a[i]; j++)
+                    q2.push(i);
+        cout << q1.size() << endl;
+        while(!q1.empty())//输出下标
+            cout << q1.front() << ' ' << q2.front() << endl, q1.pop(), q2.pop();//输出完弹出
+    }
+    return 0;
+}
+```
+
+
+---
+
+## 作者：wangyibo201026 (赞：0)
+
+## 一道模拟水题
+
+首先，我的判 $-1$ 的方式就跟以上题解不太一样。
+
+设 $c_i = b_i - a_i$，则如果数组 $c$ 里所有数的和不等于 $0$ 的话，则必定输出 $-1$，因为每次操作都是一加一减，在数组 $c$ 里就是正数和负数，则两个数组的和肯定是一样的，同时数组 $c$ 里的数正负相抵，结果自然为 $0$，所以如上。
+
+其次，设立队列 $q1$ 和 $q2$，存储减的数的下标的是 $q1$，存储加的数的下标的是 $q2$。则循环数组 $c$，如果 $c_i$ 是负数，那么说明 $a_i > b_i$，并且要在 $q1$ 里存储 $a_i - b_i$ 个 $i$，如果 $c_i$ 是正数，那么说明 $b_i > a_i$，并且要在 $q2$ 里存储 $b_i - a_i$ 个 $i$。上面这一点可以自己理解。
+
+## 模拟时刻
+
+既然看了，来手动验证一下是否正确。
+
+这里以最后一组数据为例，则数组 $c$ 为：
+
+```
+-4 -2 0 2 4
+```
+
+第一个数应该向 $q1$ 里添加 $4$ 个 $1$，第二个数应该向 $q1$ 里添加 $2$ 个 $2$，第三个数不添加，第四个数向 $q2$ 里添加 $2$ 个 $4$，第五个数向 $q2$ 里添加 $4$ 个 $5$。
+
+然后输出 $q1$ 或 $q2$ 长度，最后将 $q1$ 和 $q2$ 一起输出即可。
+
+你会发现是对的。
+
+## 代码时刻
+
+给大家食用代码的时候到了：
+
+```cpp
+#include<bits/stdc++.h>
+
+using namespace std;
+
+int t;
+
+int main(){
+	cin >> t;
+	while(t--){
+		int n, a[105], b[105], c[105], ans = 0;   //由于清空太麻烦，所以直接定义在里面，个人建议定义成函数
+		cin >> n;
+		for(int i = 1; i <= n; i++){
+			cin >> a[i];
+		}
+		for(int i = 1; i <= n; i++){
+			cin >> b[i];
+			c[i] = b[i] - a[i];    //记录c数组
+			ans += c[i];
+		}
+		if(ans != 0){   //特判-1，如果实在不理解可以利用以上题解的方法
+			cout << -1 << endl;
+		}
+		else{
+			queue<int> q1;   //设立队列
+			queue<int> q2;
+			for(int i = 1; i <= n; i++){
+				if(c[i] < 0){   如果a[i] > b[i]
+					for(int j = 1; j <= abs(c[i]); j++){  //a[i] - b[i] = abs(c[i])
+						q1.push(i);
+					}
+				}
+				else{   //如果b[i] > a[i]
+					for(int j = 1; j <= abs(c[i]); j++){   //b[i] - a[i] = abs(c[i])
+						q2.push(i);
+					}
+				}
+			}
+			cout << q1.size() << endl;   //记得一定要输出长度
+			while(!q1.empty()){
+				int x1 = q1.front(), x2 = q2.front();
+				q1.pop();   //一定要pop掉，否则会死循环
+				q2.pop();
+				cout << x1 << " " << x2 << endl;    //endl
+			}
+		}
+	}
+	return 0;
+}
+```
+
+
+---
+
+## 作者：fls233666 (赞：0)
+
+
+首先注意到没有交换数字之类的操作，所以对于每个位置 $i$ ，我们只要考虑 **$a_i$ 与 $b_i$ 的差值**即可。我们把这个差值记为 $c_i$。
+
+然后可以发现，由于当 $i=j$ 时，进行操作不能改变数组。所以 **对于每次操作，必然要有一个数增加，一个数减少。**
+
+通过操作的这一特性，我们首先可以得到无解的条件：**数组 $a$ 不能转化为数组 $b$ ,当且仅当 $\sum_{i=1}^{n}c_i \neq 0 $** 。我们可以在计算 $c_i$ 时直接求和，然后判断是否有解。
+
+最后考虑如何输出方案。我们可以将 $c_i<0$ 的下标位置与 $c_i>0$ 的位置分别记录。然后按 $c_i$ 大小得到每组的 $(i,j)$ 输出即可。
+
+大致思路如上，下面放上代码：
+
+```cpp
+#include<iostream>
+#include<cstdio>
+#include<vector>
+#define ll long long
+#define rgt register int
+using namespace std;
+
+const int mxn = 111; 
+
+int n,sc;
+int a[mxn],b[mxn],c[mxn];
+int f[2][mxn];
+vector <int> ansi,ansj;
+
+int main(){
+	int test;
+	scanf("%d",&test);
+	while(test--){
+    
+		sc=f[0][0]=f[1][0]=0;
+		ansi.clear();
+		ansj.clear();  //初始化
+        
+		scanf("%d",&n);  //读入数据
+		for(rgt i=1;i<=n;i++)
+			scanf("%d",&a[i]);
+		for(rgt i=1;i<=n;i++){
+			scanf("%d",&b[i]);
+			c[i]=b[i]-a[i]; //计算c[i]
+			sc+=c[i];  //求和
+		}
+        
+		if(sc){
+			printf("-1\n");
+			continue;
+		}  //判断无解
+        
+		for(rgt i=1;i<=n;i++){
+			if(c[i]<0){
+				f[0][0]++;
+				f[0][f[0][0]]=i;
+			}
+			if(c[i]>0){
+				f[1][0]++;
+				f[1][f[1][0]]=i;
+			}
+		}  //分别存储c[i]<0与c[i]>0的下标位置
+        
+		for(rgt i=1;i<=f[0][0];i++){
+			while(c[f[0][i]]){
+				ansi.push_back(f[0][i]);
+				c[f[0][i]]++;
+			}
+		}  //得到每次操作的i
+        
+		for(rgt i=1;i<=f[1][0];i++){
+			while(c[f[1][i]]){
+				ansj.push_back(f[1][i]);
+				c[f[1][i]]--;
+			}
+		}  //得到每次操作的j
+        
+		printf("%d\n",ansi.size());
+		for(rgt i=0;i<ansi.size();i++)
+			printf("%d %d\n",ansi[i],ansj[i]);	
+		//输出答案
+    }
+    return 0;
+}
+```
+
+
+---
+
+## 作者：qinyihao (赞：0)
+
+首先，如果 $a$ 的元素之和不等于 $b$ 的元素之和，那么解就不存在。
+
+每次找到一个满足 $a_i > b_i$ 的位置，并找到这样一个满足 $a_j < b_j$ 。然后让 $a_i - 1$ , $a_j + 1$ ，直到两个数组变得相同。
+
+[code](https://www.luogu.com.cn/paste/53j9zgx5)
+
+---
+
+## 作者：__cht (赞：0)
+
+### [题目链接](https://www.luogu.com.cn/problem/CF1546A)
+
+比较水的一个 div2T1。
+
+### 思路
+
+首先看看是否相等，这个可以直接循环判断。
+
+```cpp
+                      bool flag = false;
+                      for(int i = 0; i < n; i ++) 
+                          if(a[i] != b[i])
+                          {
+                              flag = true;
+                              break;
+                          }
+                      if(flag == false) 
+                      {
+                          cout << 0 << endl;
+                      }
+```
+
+然后我们再判断是否可以操作完成。
+
+**构建一个数组c，使 $c_i = a_i - b_i$ （重点）**
+
+若 $c_i$ 为负数，则说明当前数需要增加，而为整数则说明需要减少。
+
+一次 $i,j$ 的操作只能抵消掉一对正负1，如果正负数量不相等，则不能通过操作使得两数列相等。
+
+最后就是输出操作的过程。
+
+这个时候可以先计算出次数，也就是 $c$ 数组中所有正数的和（前面在看是否可以完成的时候可以顺便统计）
+
+然后再找 $c_i < 0$ 的，和 $c_i > 0$ 的互相抵消，直到抵消完毕即可。
+
+### 完整代码
+
+```
+#include<bits/stdc++.h>
+using namespace std;
+const int N = 110;
+int T;
+int n;
+int a[N], b[N], c[N];
+int main()
+{
+    cin >>T;
+    while(T --)
+    {
+        cin >> n;
+        for(int i = 0; i < n; i ++) cin >> a[i];
+        for(int i = 0; i < n; i ++) cin >> b[i];
+        for(int i = 0; i < n; i ++) c[i] = a[i] - b[i];
+        bool flag = false;
+        for(int i = 0; i < n; i ++) 
+            if(a[i] != b[i])
+            {
+                flag = true;
+                break;
+            }
+        if(flag == false) 
+        {
+            cout << 0 << endl;
+        }
+        else
+        {
+            long long int  suma = 0, sumb = 0;
+            for(int i = 0; i < n; i ++)
+            {
+                if(c[i] < 0) suma += abs(c[i]);
+                if(c[i] > 0) sumb += c[i];
+            }
+            if(suma != sumb) cout << "-1" << endl;
+            else
+            {
+                cout << suma << endl;
+                for(int i = 0; i < n; i ++)
+                {
+                    while(c[i] > 0)
+                    {
+                        for(int j = 0; j < n; j ++)
+                        {
+                            while(c[j] < 0 && c[i] > 0)
+                            {
+                                c[i] --, c[j] ++;
+                                cout << i + 1 << ' ' << j + 1 << endl;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    return 0;
+}
+```
+
+---
+
+## 作者：fsy_juruo (赞：0)
+
+显然每次改动时 $\sum_{i=1}^{n} a_i$ 不会变。故 $\sum_{i=1}^{n} a_i \neq \sum_{i=1}^{n} b_i$ 时无解，否则有解。
+
+至于构造解，记 $d_i = a_i - b_i$，每次操作时，只需任取一个 $d_i > 0$ 将其 $-1$，任取一个 $d_j < 0$ 将其 $+1$ 即可。
+
+```cpp
+#include <bits/stdc++.h>
+#define LL long long
+#define ULL unsigned long long
+#define LD long double
+#define reg register
+#define _rep(i, x, y) for(int i = x; i <= y; i++)
+#define _per(i, x, y) for(int i = x; i >= y; i--)
+template <typename T>
+inline void read(T &x) {
+	x = 0; T f = (T) 1;
+	char c = getchar();
+	for(; !isdigit(c); c = getchar()) {if(c == '-') f = -f;}
+	for(; isdigit(c); c = getchar()) x = x * 10 + c - 48;
+	x *= f;
+}
+template <typename T, typename... Args>
+inline void read(T& x, Args&... args) {
+    read(x); read(args...);
+}
+template <typename T>
+inline void write(T x) {
+	if(x < 0) {x = -x; putchar('-');}
+	if(x > 9) write(x / 10);
+	putchar(x % 10 + '0');
+}
+template <typename T>
+inline void writesp(T x, char sp = ' ') {write(x); putchar(sp);}
+
+int t, n, a[110], b[110], sa, sb;
+struct node {
+	int pos, delta;
+} d[110];
+bool cmp(node A, node B) {
+	return A.delta > B.delta;
+}
+int main() {
+	read(t);
+	while(t--) {
+		read(n); sa = sb = 0;
+		_rep(i, 1, n) read(a[i]), sa += a[i];
+		_rep(i, 1, n) read(b[i]), sb += b[i], d[i].delta = a[i] - b[i];
+		if(sa != sb) {
+			puts("-1");
+		} else {
+			_rep(i, 1, n) d[i].pos = i;
+			std::sort(d + 1, d + n + 1, cmp);
+			int sum = 0;
+			for(int i = 1; d[i].delta > 0; i++) sum += d[i].delta;
+			std::cout << sum << std::endl;
+			int r = n;
+			for(int i = 1; d[i].delta > 0; i++) {
+				while(d[i].delta) {
+					if(d[r].delta == 0) --r;
+					printf("%d %d\n", d[i].pos, d[r].pos);
+					--d[i].delta; ++d[r].delta;
+				}
+			}
+		}
+	}
+	return 0;
+}
+```
+
+---
+

@@ -1,0 +1,88 @@
+# 题号列表
+
+- CF1029E - Tree with Small Distances
+- CF1030E - Vasya and Good Sequences
+- CF1051D - Bicolorings
+- CF1067A - Array Without Local Maximums
+- CF10D - LCIS
+- CF1446C - Xor Tree
+- CF1627D - Not Adding
+- CF1635D - Infinite Set
+- CF1637D - Yet Another Minimization Problem
+- CF1650F - Vitaly and Advanced Useless Algorithms
+- CF1650G - Counting Shortcuts
+- CF1678B2 - Tokitsukaze and Good 01-String (hard version)
+- CF1680E - Moving Chips
+- CF1714D - Color with Occurrences
+- CF1716C - Robot in a Hallway
+- CF1716D - Chip Move
+- CF1728D - Letter Picking
+- CF1731C - Even Subarrays
+- CF1861D - Sorting By Multiplication
+- CF18E - Flag 2
+- CF1932F - Feed Cats
+- CF1941E - Rudolf and k Bridges
+- CF1948D - Tandem Repeats?
+- CF1950G - Shuffling Songs
+- CF1954D - Colored Balls
+- CF1955F - Unfair Game
+- CF1955G - GCD on a grid
+- CF1957C - How Does the Rook Move?
+- CF1969C - Minimizing the Sum
+- CF1970E2 - Trails (Medium)
+- CF1976C - Job Interview
+- CF1977C - Nikita and LCM
+- CF1984C2 - Magnitude (Hard Version)
+- CF1987D - World is Mine
+- CF1989D - Smithing Skill
+- CF1998D - Determine Winning Islands in Race
+- CF2000F - Color Rows and Columns
+- CF2003D2 - Turtle and a MEX Problem (Hard Version)
+- CF2005C - Lazy Narek
+- CF2005E1 - Subtangle Game (Easy Version)
+- CF201C - Fragile Bridges
+- CF2020E - Expected Power
+- CF2022C - Gerrymandering
+- CF2023B - Skipping
+- CF2025D - Attribute Checks
+- CF2027D1 - The Endspeaker (Easy Version)
+- CF2028D - Alice's Adventures in Cards
+- CF2037G - Natlan Exploring
+- CF2043C - Sums on Segments
+- CF2049D - Shift + Esc
+- CF2053E - Resourceful Caterpillar Sequence
+- CF2070D - Tree Jumps
+- CF2075D - Equalization
+- CF2078D - Scammy Game Ad
+- CF2081A - Math Division
+- CF2091F - Igor and Mountain
+- CF2096C - Wonderful City
+- CF2110D - Fewer Batteries
+- CF2114F - Small Operations
+- CF213B - Numbers
+- CF219D - Choosing Capital for Treeland
+- CF245H - Queries for Number of Palindromes
+- CF264B - Good Sequences
+- CF295C - Greg and Friends
+- CF2B - The least round way
+- CF316D1 - PE Lesson
+- CF404D - Minesweeper 1D
+- CF41D - Pawn
+- CF431C - k-Tree
+- CF459E - Pashmak and Graph
+- CF463D - Gargari and Permutations
+- CF467C - George and Job
+- CF474D - Flowers
+- CF478D - Red-Green Towers
+- CF479E - Riding in a Lift
+- CF505C - Mr. Kitayuta, the Treasure Hunter
+- CF510D - Fox And Jumping
+- CF558C - Amr and Chemistry
+- CF566F - Clique in the Divisibility Graph
+- CF580D - Kefa and Dishes
+- CF63E - Sweets Game
+- CF66E - Petya and Post
+- CF721C - Journey
+- CF767C - Garland
+- CF837D - Round Subset
+- CF9D - How many trees?

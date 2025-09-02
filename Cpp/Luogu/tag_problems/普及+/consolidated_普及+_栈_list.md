@@ -1,0 +1,37 @@
+# 题号列表
+
+- B4273 - [蓝桥杯青少年组省赛 2023] 最大的矩形纸片
+- P10279 - [USACO24OPEN] The 'Winning' Gene S
+- P10334 - [UESTCPC 2024] 饮料
+- P10473 - 表达式计算4
+- P10798 - 「CZOI-R1」消除威胁
+- P1169 - [ZJOI2007] 棋盘制作
+- P1175 - 表达式的转换
+- P1198 - [JSOI2008] 最大数
+- P12271 - [蓝桥杯 2024 国 Python B] 括号与字母
+- P12347 - [蓝桥杯 2025 省 A 第二场] 栈与乘积
+- P12501 - 「ROI 2025 Day1」奥林匹克楼梯
+- P13286 - [GCJ 2013 #1A] Manage your Energy
+- P1363 - 幻象迷宫
+- P13731 - 【MGVOI R1-C】收集括号（brackets）
+- P1575 - 正误问题
+- P1823 - [COI 2007] Patrik 音乐会的等待
+- P2017 - [USACO09DEC] Dizzy Cows G
+- P2214 - [USACO14MAR] Mooo Moo S
+- P2341 - [USACO03FALL / HAOI2006] 受欢迎的牛 G
+- P2441 - 角色属性树
+- P2558 - [AHOI2002] 网络传输
+- P3551 - [POI 2013] USU-Take-out
+- P3719 - [AHOI2017初中组] rexp
+- P3952 - [NOIP 2017 提高组] 时间复杂度
+- P4147 - 玉蟾宫
+- P4316 - 绿豆蛙的归宿
+- P4940 - Portal2
+- P6155 - 修改
+- P6182 - [USACO10OPEN] Time Travel S
+- P6503 - [COCI 2010/2011 #3] DIFERENCIJA
+- P6510 - 奶牛排队
+- P7229 - [COCI 2015/2016 #3] SLON
+- P8815 - [CSP-J 2022] 逻辑表达式
+- P9218 - 「TAOI-1」Apollo
+- P9290 - [ROI 2018]  Decryption

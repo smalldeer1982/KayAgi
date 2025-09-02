@@ -1,0 +1,70 @@
+# 题号列表
+
+- P10191 - [USACO24FEB] Test Tubes S
+- P1039 - [NOIP 2003 提高组] 侦探推理
+- P1050 - [NOIP 2005 普及组] 循环
+- P1053 - [NOIP 2005 提高组] 篝火晚会
+- P1054 - [NOIP 2005 提高组] 等价表达式
+- P11413 - [EPXLQ2024 fall round] 好排列
+- P11787 - 「FAOI-R4」蒲公英的约定
+- P12360 - [eJOI 2024] 足球决斗 / CF Duels
+- P12790 - [NERC 2022] Amazing Trick
+- P13055 - [GCJ 2020 #1A] Square Dance
+- P1312 - [NOIP 2011 提高组] Mayan 游戏
+- P13651 - [CERC 2020] Art Transaction
+- P1448 - [NOI1998] 围巾裁剪
+- P1662 - 数7
+- P1741 - Diamond A&B(2)
+- P1751 - 贪吃虫
+- P1761 - 正方形
+- P1871 - 对撞机
+- P2102 - 地砖铺设
+- P2125 - 图书馆书架上的书
+- P2127 - 序列排序
+- P2139 - 小Z的掷骰游戏
+- P2205 - [USACO13JAN] Painting the Fence S
+- P2208 - [USACO13OPEN] What's Up With Gravity S
+- P2278 - [HNOI2003] 操作系统
+- P2354 - [NOI2014] 随机数生成器
+- P2379 - 整式的计算【数据有误】
+- P2391 - 白雪皑皑
+- P2413 - yyy loves physics IV
+- P2503 - [HAOI2006] 均分数据
+- P2582 - 函数
+- P2659 - 美丽的序列
+- P2779 - [AHOI2016初中组] 黑白序列
+- P2801 - 教主的魔法
+- P3013 - [USACO11FEB] The Lost Cows G
+- P3112 - [USACO14DEC] Guard Mark G
+- P3113 - [USACO14DEC] Marathon G
+- P3253 - [JLOI2013] 删除物品
+- P3492 - [POI 2009] TAB-Arrays
+- P3500 - [POI 2010] TES-Intelligence Test
+- P3507 - [POI 2010] GRA-The Minima Game
+- P3617 - 电阻网络
+- P3682 - [CERC2016] 自由的套娃 Free Figurines
+- P3787 - 冰精冻西瓜
+- P3797 - 妖梦斩木棒
+- P3878 - [TJOI2010] 分金币
+- P3945 - 三体问题【std 疑似有误】
+- P4035 - [JSOI2008] 球形空间产生器
+- P4105 - [HEOI2014] 南园满地堆轻絮
+- P4212 - 外太空旅行
+- P4422 - [COCI 2017/2018 #1] Deda
+- P4753 - River Jumping
+- P4754 - True Vegetable
+- P4818 - [USACO15DEC] Bessie's Dream G
+- P4828 - Nagisa loves Tomoya
+- P4944 - PION贪吃蛇
+- P5013 - 水の斗牛
+- P5033 - 跑酷
+- P5380 - [THUPC 2019] 鸭棋
+- P6259 - [ICPC 2019 WF] Karel the Robot
+- P6920 - [ICPC 2016 WF] Clock Breaking
+- P7119 - Mivik 的游戏
+- P7426 - [THUPC 2017] 体育成绩统计
+- P7876 - 「SWTR-7」Scores（hard version）
+- P8302 - [CoE R4 B/Stoi2041] 龙拳
+- P8767 - [蓝桥杯 2021 国 A] 冰山
+- P8777 - [蓝桥杯 2022 省 A] 扫描游戏
+- P8904 - [USACO22DEC] Mountains G

@@ -1,0 +1,29 @@
+# 题号列表
+
+- P10672 - 【MX-S1-T1】 壁垒
+- P10713 - 【MX-X1-T1】「KDOI-05」简单的无限网格问题
+- P10781 - 【MX-J1-T1】『FLA - III』Spectral
+- P10782 - 【MX-J1-T2】『FLA - III』Ilumina
+- P10840 - 【MX-J2-T1】Turtle and Sequences
+- P10841 - 【MX-J2-T2】Turtle and Strings
+- P10852 - 【MX-X2-T1】「Cfz Round 4」Awaken
+- P11035 - 【MX-X3-T2】「RiOI-4」消えた夏の夢
+- P11061 - 【MX-X4-T1】「Jason-1」IO++
+- P11129 - 【MX-X5-T1】「GFOI Round 1」Inverted World
+- P11155 - 【MX-X6-T1】 Subtask Dependency
+- P11156 - 【MX-X6-T2】もしも
+- P11560 - 【MX-X7-T1】[LSOT-3] 分蛋糕
+- P11642 - 【MX-X8-T1】「TAOI-3」幸运草
+- P11797 - 【MX-X9-T1】『GROI-R3』Another Me
+- P12146 - 【MX-X11-T0】「蓬莱人形 Round 1」糖果曲奇巧克力
+- P12419 - 【MX-X12-T2】「ALFR Round 5」Dream of Sky
+- P12681 - 【MX-J15-T1】叉叉学习数据类型
+- P12682 - 【MX-J15-T2】叉叉学习位运算
+- P13007 - 【MX-X13-T2】「KDOI-12」不要去思考未来，把这留给未来的你。
+- P13492 - 【MX-X14-T2】反转时光
+- P13555 - 【MX-X15-T2】系绳绳
+- P13683 - 【MX-X16-T1】「DLESS-3」XOR and Greater Sum
+- P13684 - 【MX-X16-T2】「DLESS-3」XOR and Multiply
+- P13752 - 【MX-X17-T1】Walk,Walk,Walk
+- P13753 - 【MX-X17-T2】The median of sum
+- P13830 - 【MX-X18-T2】「FAOI-R6」二进制与一 III（bit）

@@ -1,0 +1,40 @@
+# 题号列表
+
+- CF1009F - Dominant Indices
+- CF1015F - Bracket Substring
+- CF1031E - Triple Flips
+- CF1038E - Maximum Matching
+- CF1039C - Network Safety
+- CF1041F - Ray in the tube
+- CF10E - Greedy Change
+- CF121E - Lucky Array
+- CF147B - Smile House
+- CF17C - Balance
+- CF1905F - Field Should Not Be Empty
+- CF1913F - Palindromic Problem
+- CF196D - The Next Good String
+- CF2085F2 - Serval and Colorful Array (Hard Version)
+- CF213E - Two Permutations
+- CF235E - Number Challenge
+- CF261D - Maxim and Increasing Subsequence
+- CF295D - Greg and Caves
+- CF311B - Cats Transport
+- CF429D - Tricky Function
+- CF449C - Jzzhu and Apples
+- CF57E - Chess
+- CF590C - Three States
+- CF599E - Sandy and Nuts
+- CF626F - Group Projects
+- CF632E - Thief in a Shop
+- CF633F - The Chocolate Spree
+- CF749E - Inversions After Shuffle
+- CF809D - Hitchhiking in the Baltic States
+- CF815D - Karen and Cards
+- CF827E - Rusty String
+- CF840C - On the Bench
+- CF845G - Shortest Path Problem?
+- CF896C - Willem, Chtholly and Seniorious
+- CF920G - List Of Integers
+- CF940F - Machine Learning
+- CF962F - Simple Cycles Edges
+- CF981F - Round Marriage

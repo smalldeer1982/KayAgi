@@ -1,0 +1,24 @@
+# 题号列表
+
+- CF1023D - Array Restoration
+- CF1042D - Petya and Array
+- CF1679C - Rooks Defenders
+- CF1691D - Max GEQ Sum
+- CF1709D - Rorororobot
+- CF1945F - Kirill and Mushrooms
+- CF1955E - Long Inversions
+- CF2001D - Longest Max Min Subsequence
+- CF2021C2 - Adjust The Presentation (Hard Version)
+- CF2023B - Skipping
+- CF2030D - QED's Favorite Permutation
+- CF2057D - Gifts Order
+- CF242E - XOR on Segment
+- CF374D - Inna and Sequence
+- CF460C - Present
+- CF527C - Glass Carving
+- CF627B - Factory Repairs
+- CF66E - Petya and Post
+- CF899E - Segments Removal
+- CF914D - Bash and a Tough Math Puzzle
+- CF91B - Queue
+- CF961E - Tufurama

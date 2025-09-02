@@ -1,0 +1,53 @@
+---
+title: "Secret Problemsetters' Union"
+layout: "post"
+diff: 难度0
+pid: UVA11537
+tag: []
+---
+
+# Secret Problemsetters' Union
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=27&page=show_problem&problem=2532
+
+[PDF](https://uva.onlinejudge.org/external/115/p11537.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11537/3a8ffe1b12c9753ebeb61bab3e98c67f1aa5c346.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11537/71375f2f94baa59959b00d5ddb0bf81a6c26b246.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11537/73dae8a13c6fe7181da0302a28dd6eb7745ae686.png)
+
+## 样例 #1
+
+### 输入
+
+```
+1
+3
+I 1 3 0 1
+I 2 5 0 3
+I 3 4 2 3
+I 1 2 5 3
+U 1 4
+U 2 2
+M
+U 1 3
+I 1 0 1 1
+Q
+```
+
+### 输出
+
+```
+14 3
+45 30
+32 18
+```
+

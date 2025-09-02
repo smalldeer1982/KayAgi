@@ -1,0 +1,33 @@
+# 题号列表
+
+- P10591 - BZOJ4671 异或图
+- P10717 - 【MX-X1-T5】「KDOI-05」简单的树上问题
+- P10890 - 【烂题杯 Round 1】可持久化糖果树
+- P11174 - 「CMOI R1」Looking For Edge Of Ground／City Planning
+- P11270 - 【MX-S5-T4】魔法少女们
+- P11288 - [COTS 2017] 模板 Z1
+- P11714 - [清华集训 2014] 主旋律
+- P11821 - [PA 2019 Final] 数图 / Grafy 加强版
+- P12020 - CF1033F 加强版
+- P12445 - [COTS 2025] 数好图 / Promet
+- P12471 - [Math×Girl] 染色
+- P12472 - [集训队互测 2024] 基础 ABC 练习题
+- P12486 - [集训队互测 2024] 木桶效应
+- P13275 - [NOI2025] 集合
+- P2595 - [ZJOI2009] 多米诺骨牌
+- P4091 - [HEOI2016/TJOI2016] 求和
+- P4827 - [集训队互测 2011] Crash 的文明世界
+- P5293 - [HNOI2019] 白兔之舞
+- P5438 - 【XR-2】记忆
+- P6151 - [集训队作业2019] 青春猪头少年不会梦到兔女郎学姐
+- P6276 - [USACO20OPEN] Exercise P
+- P6277 - [USACO20OPEN] Circus P
+- P6295 - 有标号 DAG 计数
+- P7293 - [USACO21JAN] Sum of Distances P
+- P7418 - [USACO21FEB] Counting Graphs P
+- P8329 - [ZJOI2022] 树
+- P9091 - 「SvR-2」Let's Meet at a Higher Place
+- P9157 - 「GLR-R4」夏至
+- P9480 - [NOI2023] 深搜
+- P9563 - [SDCPC 2023] Be Careful 2
+- P9850 - [ICPC 2021 Nanjing R] Ancient Magic Circle in Teyvat

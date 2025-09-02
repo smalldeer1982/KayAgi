@@ -1,0 +1,27 @@
+# 题号列表
+
+- CF1017A - The Rank
+- CF10A - Power Consumption Calculation
+- CF149A - Business trip
+- CF155A - I_love_%username%
+- CF1629A - Download More RAM
+- CF1978A - Alice and Books
+- CF1980B - Choosing Cubes
+- CF1986A - X Axis
+- CF22A - Second Order Statistics
+- CF230A - Dragons
+- CF29A - Spit Problem
+- CF339A - Helpful Maths
+- CF386A - Second-Price Auction
+- CF405A - Gravity Flip
+- CF456A - Laptops
+- CF59B - Fortune Telling
+- CF609A - USB Flash Drives
+- CF621A - Wet Shark and Odd and Even
+- CF6A - Triangle
+- CF758A - Holiday Of Equality
+- CF864A - Fair Game
+- CF870A - Search for Pretty Integers
+- CF914A - Perfect Squares
+- CF919A - Supermarket
+- CF984A - Game

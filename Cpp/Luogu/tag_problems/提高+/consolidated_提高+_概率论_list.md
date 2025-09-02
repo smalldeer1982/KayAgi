@@ -1,0 +1,21 @@
+# 题号列表
+
+- P11070 - 「QMSOI R1」 三服同构
+- P12040 - [USTCPC 2025] 公平抉择
+- P12468 - [Math×Girl] 距离
+- P13025 - [GCJ 2021 Qualification] Cheating Detection
+- P13031 - [GCJ 2021 #1B] Digit Blocks
+- P13057 - [GCJ 2020 #1B] Blindfolded Bullseye
+- P13134 - [GCJ 2018 Qualification] Go, Gopher!
+- P13203 - [GCJ 2016 #3] Forest University
+- P13249 - [GCJ 2014 #1A] Proper Shuffle
+- P13333 - [GCJ 2012 Finals] Upstairs/Downstairs
+- P13433 - [GCJ 2009 #1A] Collecting Cards
+- P13476 - [GCJ 2008 APAC SemiFinal] Millionaire
+- P13480 - [GCJ 2008 AMER SemiFinal] Test Passing Probability
+- P4257 - 可爱の#10数字划分
+- P4927 - [1007] 梦美与线段树
+- P5389 - [Cnoi2019] 数学课
+- P6089 - [JSOI2015] 非诚勿扰
+- P7495 - 异位坍缩
+- P9475 - [_-0 A] 考试

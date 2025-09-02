@@ -1,0 +1,63 @@
+# 题号列表
+
+- P10186 - [YDOI R1] Lattice
+- P10269 - 实力派
+- P10322 - 高洁（Purity）
+- P10636 - BZOJ3518 点组计数
+- P10663 - BZOJ4833 最小公倍佩尔数
+- P10664 - BZOJ3328 PYXFIB
+- P10855 - 【MX-X2-T4】「Cfz Round 4」Gcd with Xor
+- P10895 - 选择困难症
+- P11014 - 「ALFR Round 4」D 罪人的终幕
+- P11211 - 『STA - R8』随机数生成器
+- P11658 - 「FAOI-R5」波特检测
+- P11694 - [JRKSJ ExR] 淇宝的划分
+- P11772 - 报社天狗
+- P11888 - 「Stoi2025」爱的飞行日记
+- P11957 - 「ZHQOI R1」幂和
+- P12010 - 【MX-X10-T6】[LSOT-4] 集合
+- P12239 - [蓝桥杯 2023 国 Java A] 游戏的得分
+- P12390 - 调和级数求和 2
+- P12470 - [Math×Girl] 互质与整除
+- P12735 - 回报
+- P12771 - [POI 2018 R3] 多项式 Polynomial
+- P13046 - [GCJ 2021 Finals] Divisible Divisions
+- P1316 - Mivik 写书
+- P13208 - [GCJ 2016 Finals] Gallery of Pillars
+- P13381 - [GCJ 2011 #3] Mystery Square
+- P13568 - [CCPC 2024 重庆站] 乘积，欧拉函数，求和
+- P13673 - [GCPC 2023] Highway Combinatorics
+- P1393 - Mivik 的标题
+- P1998 - DGF 等比求和
+- P4270 - [USACO18FEB] Cow Gymnasts P
+- P4491 - [HAOI2018] 染色
+- P4512 - 【模板】多项式除法
+- P4721 - 【模板】分治 FFT
+- P4725 - 【模板】多项式对数函数（多项式 ln）
+- P4841 - [集训队作业2013] 城市规划
+- P5205 - 【模板】多项式开根
+- P5264 - 多项式三角函数
+- P5273 - 【模板】多项式幂函数（加强版）
+- P5277 - 【模板】多项式开根（加强版）
+- P5394 - 【模板】下降幂多项式乘法
+- P5435 - 基于值域预处理的快速 GCD
+- P5488 - 差分与前缀和
+- P5641 - 【CSGRound2】开拓者的卓识
+- P5667 - 拉格朗日插值2
+- P5825 - 排列计数
+- P6300 - 悔改
+- P6694 - 强迫症
+- P6736 - 「Wdsr-2」白泽教育
+- P7423 - 「PMOI-2」简单构造题
+- P7431 - [THUPC 2017] 小 L 的计算题
+- P7435 - 简单的排列计数
+- P7493 - [传智杯 #3 决赛] 旅人1969
+- P7779 - 『JROI-2 / Stoi2039』等你下课
+- P7884 - 【模板】Meissel-Lehmer
+- P8058 - [BalkanOI 2003] Farey 序列
+- P8193 - [USACO22FEB] Sleeping in Class P
+- P9135 - [THUPC 2023 初赛] 快速 LCM 变换
+- P9511 - 『STA - R3』大豆
+- P9551 - 「PHOI-1」斗之魂
+- P9654 - 『GROI-R2』 记忆碎片
+- P9660 - [ICPC 2021 Macao R] Pass the Ball!

@@ -1,0 +1,42 @@
+# 题号列表
+
+- P1954 - [NOI2010] 航空管制
+- P1973 - [NOI2011] NOI 嘉年华
+- P3042 - [USACO12JAN] Cow Run G
+- P3071 - [USACO13JAN] Seating G
+- P3084 - [USACO13OPEN] Photo G
+- P3195 - [HNOI2008] 玩具装箱
+- P3228 - [HNOI2013] 数列
+- P3341 - [ZJOI2014] 消棋子
+- P3438 - [POI 2006] ZAB-Frogs
+- P3470 - [POI 2008] BBB-BBB
+- P3474 - [POI 2008] KUP-Plot purchase
+- P3564 - [POI 2014] BAR-Salad Bar
+- P3587 - [POI 2015] POD
+- P3628 - [APIO2010] 特别行动队
+- P3638 - [APIO2013] 机器人
+- P3714 - [BJOI2017] 树的难题
+- P3994 - 高速公路（疑似错题）
+- P4032 - [Code+#2] 火锅盛宴
+- P4072 - [SDOI2016] 征途
+- P4182 - [USACO18JAN] Lifeguards P
+- P4196 - [CQOI2006] 凸多边形 /【模板】半平面交
+- P4259 - [Code+#3] 寻找车位
+- P4360 - [CEOI 2004] 锯木厂选址
+- P4370 - [Code+#4] 组合数问题2
+- P4404 - [JSOI2010] 缓存交换
+- P4722 - 【模板】最大流 加强版 / 预流推进
+- P4744 - [Wind Festival] Iron Man
+- P4833 - 萨塔尼亚的一生之敌
+- P4852 - yyf hates choukapai
+- P4971 - 断罪者
+- P5665 - [CSP-S2019] 划分
+- P5785 - [SDOI2012] 任务安排
+- P6087 - [JSOI2015] 送礼物
+- P6326 - Shopping
+- P6563 - [SBCOI2020] 一直在你身旁
+- P7561 - [JOISC 2021] 道路の建設案 (Road Construction) (Day2)
+- P7894 - 『JROI-3』1÷0
+- P8118 - 「RdOI R3.5」Mystery
+- P8316 - [CQOI2016] 伪光滑数 加强版
+- P8338 - [AHOI2022] 排列

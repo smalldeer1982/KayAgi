@@ -1,0 +1,38 @@
+# 题号列表
+
+- P10034 - 「Cfz Round 3」Circle
+- P10321 - 奉献（Dedication）
+- P11010 - 『STA - R7』Divide and Merge Game
+- P11417 - [Sloi 2024]D1T1 精卫
+- P13732 - 【MGVOI R1-D】图上的数（graph）
+- P13747 - [NWERC 2024] It's a Kind of Magic
+- P1463 - [POI 2001 ] [HAOI2007] 反素数
+- P2155 - [SDOI2008] 沙拉公主的困惑
+- P2158 - [SDOI2008] 仪仗队
+- P2312 - [NOIP 2014 提高组] 解方程
+- P2398 - GCD SUM
+- P2455 - [SDOI2006] 线性方程组
+- P2485 - [SDOI2011] 计算器
+- P2568 - GCD
+- P3306 - [SDOI2013] 随机数生成器
+- P3702 - [SDOI2017] 序列计数
+- P3792 - 由乃与大母神原型和偶像崇拜
+- P3807 - 【模板】卢卡斯定理/Lucas 定理
+- P3846 - [TJOI2007] 可爱的质数/【模板】BSGS
+- P3927 - SAC E#1 - 一道中档题 Factorial
+- P4255 - 公主の#18文明游戏
+- P4257 - 可爱の#10数字划分
+- P4388 - 付公主的矩形
+- P4397 - [JLOI2014] 聪明的燕姿
+- P4454 - [CQOI2018] 破解D-H协议
+- P4626 - 一道水题 II
+- P4741 - [Wind Festival] Finding RhFe
+- P4780 - Phi的反函数
+- P5011 - 水の造题
+- P6091 - 【模板】原根
+- P6280 - [USACO20OPEN] Exercise G
+- P6381 - 『MdOI R2』Odyssey
+- P7854 - 「EZEC-9」GCD Tree
+- P8961 - 「WHOI-4」ggcd
+- P8980 - 「DROI」Round 1 游戏
+- P9007 - [入门赛 #9] 最澄澈的空与海 (Hard Version)

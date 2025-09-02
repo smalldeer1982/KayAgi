@@ -1,0 +1,31 @@
+# 题号列表
+
+- P10632 - Normal
+- P10718 - 【MX-X1-T6】「KDOI-05」简单的图上问题
+- P11832 - [省选联考 2025] 图排列
+- P13183 - [GCJ 2017 Finals] Stack Management
+- P13184 - [GCJ 2017 Finals] Teleporters
+- P13236 - [GCJ 2015 Finals] Taking Over The World
+- P13715 - In the End
+- P1753 - 矩阵链排序问题
+- P2304 - [NOI2015] 小园丁与老司机
+- P2305 - [NOI2014] 购票
+- P3549 - [POI 2013] MUL-Multidrink
+- P3756 - [CQOI2017] 老C的方块
+- P4073 - [WC2013] 平面图
+- P4249 - [WC2007] 剪刀石头布
+- P4382 - [八省联考 2018] 劈配
+- P4429 - [BJOI2018] 染色
+- P4542 - [ZJOI2011] 营救皮卡丘
+- P5180 - 【模板】支配树
+- P5247 - 【模板】动态图连通性
+- P5295 - [北京省选集训2019] 图的难题
+- P5508 - 寻宝
+- P5538 - 【XR-3】Namid[A]me
+- P5540 - [BalkanOI 2011] timeismoney
+- P6965 - [NEERC 2016] Binary Code
+- P7295 - [USACO21JAN] Paint by Letters P
+- P8581 - [CoE R5] X 细胞
+- P8596 - 「KDOI-02」一个截的拦
+- P9249 - [集训队互测 2018] 完美的旅行
+- P9850 - [ICPC 2021 Nanjing R] Ancient Magic Circle in Teyvat

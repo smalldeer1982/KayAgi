@@ -1,0 +1,53 @@
+---
+title: "Stars"
+layout: "post"
+diff: 难度0
+pid: UVA10206
+tag: []
+---
+
+# Stars
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=14&page=show_problem&problem=1147
+
+[PDF](https://uva.onlinejudge.org/external/102/p10206.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10206/85e2e10d40a5b7127c258014e409b35aa36a2911.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10206/333e54e431429b2731720dfd04d886afbbf9c625.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10206/02db7d3406e70f1c1553f0ee6d06ca37a4eef804.png)
+
+## 样例 #1
+
+### 输入
+
+```
+4
+1 2 1
+2 1 4
+4 1 5
+4 3 2
+1
+3 Triangulum
+1 1
+3 1
+2 4
+0
+```
+
+### 输出
+
+```
+Map #1
+Triangulum occurs 1 time(s) in the map.
+Brightest occurrence: (1,2) (4,1) (4,3)
+-----
+```
+

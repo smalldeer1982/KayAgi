@@ -1,0 +1,63 @@
+# 题号列表
+
+- CF1029F - Multicolored Markers
+- CF1033D - Divisors
+- CF1140E - Palindrome-less Arrays
+- CF1175C - Electrification
+- CF1180B - Nick and Array
+- CF1537D - Deleting Divisors
+- CF1561D1 - Up the Strip (simplified version)
+- CF1648C - Tyler and Strings
+- CF1670D - Very Suspicious
+- CF1673D - Lost Arithmetic Progression
+- CF1682C - LIS or Reverse LIS?
+- CF1687A - The Enchanted Forest
+- CF1696E - Placing Jinas
+- CF1699C - The Third Problem
+- CF1713D - Tournament Countdown
+- CF1717D - Madoka and The Corruption Scheme
+- CF1725C - Circular Mirror
+- CF1731C - Even Subarrays
+- CF1735D - Meta-set
+- CF1750D - Count GCD
+- CF1764D - Doremy's Pegging Game
+- CF1793D - Moscow Gorillas
+- CF1810D - Climbing the Tree
+- CF1931G - One-Dimensional Puzzle
+- CF1934C - Find a Mine
+- CF1942C2 - Bessie's Birthday Cake (Hard Version)
+- CF1955F - Unfair Game
+- CF1957C - How Does the Rook Move?
+- CF1992E - Novice's Mistake
+- CF1995B2 - Bouquet (Hard Version)
+- CF1995C - Squaring
+- CF1999F - Expected Median
+- CF2008F - Sakurako's Box
+- CF2008H - Sakurako's Test
+- CF2018A - Cards Partition
+- CF2033F - Kosuke's Sloth
+- CF2038G - Guess One Character
+- CF2039C2 - Shohag Loves XOR (Hard Version)
+- CF2040C - Ordered Permutations
+- CF2040D - Non Prime Tree
+- CF2044F - Easy Demon Problem
+- CF2045B - ICPC Square
+- CF2048D - Kevin and Competition Memories
+- CF2053D - Refined Product Optimality
+- CF2086D - Even String
+- CF2089A - Simple Permutation
+- CF2092E - She knows...
+- CF2114F - Small Operations
+- CF2117F - Wildflower
+- CF2120D - Matrix game
+- CF213B - Numbers
+- CF2B - The least round way
+- CF33C - Wonderful Randomized Sum
+- CF520E - Pluses everywhere
+- CF526C - Om Nom and Candies
+- CF57C - Array
+- CF613A - Peter and Snow Blower
+- CF900C - Remove Extra One
+- CF911D - Inversion Counting
+- CF949B - A Leapfrog in the Array
+- CF961E - Tufurama

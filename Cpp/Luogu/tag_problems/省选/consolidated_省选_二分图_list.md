@@ -1,0 +1,35 @@
+# 题号列表
+
+- P10598 - BZOJ2162 男生女生
+- P10610 - 异界之门
+- P10683 - [COTS 2024] 划分 Particija
+- P10919 - 运输规划
+- P11225 - [COTS 2019] 疏散 Sklonište
+- P12793 - [NERC 2022] Dominoes
+- P12995 - [GCJ 2022 #2] Saving the Jelly
+- P13003 - [GCJ 2022 Finals] Slide Parade
+- P13038 - [GCJ 2021 #2] Retiling
+- P13052 - [GCJ 2020 Qualification] Indicium
+- P13074 - [GCJ 2020 Finals] Replace All
+- P13174 - [GCJ 2017 #2] Shoot the Turrets
+- P13201 - [GCJ 2016 #2] Freeform Factory
+- P13358 - [GDCPC 2024] 小班课
+- P13708 - [NWERC 2023] Isolated Island
+- P1402 - 酒店之王
+- P1963 - [NOI2009] 变换序列
+- P2825 - [HEOI2016/TJOI2016] 游戏
+- P3209 - [HNOI2010] 平面图判定
+- P3231 - [HNOI2013] 消毒
+- P3731 - [HAOI2017] 新型城市化
+- P3882 - [JLOI2008] 将军
+- P3967 - [TJOI2014] 匹配
+- P4055 - [JSOI2009] 游戏
+- P4068 - [SDOI2016] 数字配对
+- P4134 - [BJOI2012] 连连看
+- P4251 - [SCOI2015] 小凸玩矩阵
+- P4474 - 王者之剑
+- P4589 - [TJOI2018] 智力竞赛
+- P7684 - [CEOI 2005] Depot Rearrangement
+- P7730 - [JDWOI-1] 蜀道难
+- P7863 - 「EVOI-RD1」飞鸟和蝉
+- P9542 - [湖北省选模拟 2023] 棋圣 / alphago

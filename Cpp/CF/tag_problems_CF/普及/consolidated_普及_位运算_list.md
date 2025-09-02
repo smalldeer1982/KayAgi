@@ -1,0 +1,21 @@
+# 题号列表
+
+- CF1659B - Bit Flipping
+- CF1722G - Even-Odd XOR
+- CF1775B - Gardener and the Array
+- CF1944B - Equal XOR
+- CF1957B - A BIT of a Construction
+- CF1971G - XOUR
+- CF1973B - Cat, Fox and the Lonely Array
+- CF1981B - Turtle and an Infinite Sequence
+- CF1988C - Increasing Sequence with Fixed OR
+- CF2020C - Bitwise Balancing
+- CF2030C - A TRUE Battle
+- CF2048C - Kevin and Binary Strings
+- CF2072C - Creating Keys for StORages Has Become My Main Skill
+- CF2074C - XOR and Triangle
+- CF2085C - Serval and The Formula
+- CF2094E - Boneca Ambalabu
+- CF2108B - SUMdamental Decomposition
+- CF276D - Little Girl and Maximum XOR
+- CF611B - New Year and Old Property

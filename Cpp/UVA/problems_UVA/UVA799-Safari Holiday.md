@@ -1,0 +1,46 @@
+---
+title: "Safari Holiday"
+layout: "post"
+diff: 难度0
+pid: UVA799
+tag: []
+---
+
+# Safari Holiday
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=9&page=show_problem&problem=740
+
+[PDF](https://uva.onlinejudge.org/external/7/p799.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA799/450d480b39a0f8053d992ebe0c2ef3d7e7a5ac10.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA799/c4c10c4175ec1f6250f8893c47a07127dc411c60.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA799/a029e9817b28e6c4f454c2353012243d3a840e90.png)
+
+## 样例 #1
+
+### 输入
+
+```
+4 1
+4 2
+4 3
+4 4
+```
+
+### 输出
+
+```
+No solution
+2 persons/group, 3 days
+2 persons/group, 3 days
+4 persons/group, 1 day
+```
+

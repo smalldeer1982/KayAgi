@@ -1,0 +1,39 @@
+# 题号列表
+
+- CF1025D - Recovering BST
+- CF1036F - Relatively Prime Powers
+- CF1059D - Nature Reserve
+- CF1070L - Odd Federalization
+- CF1311E - Construct the Binary Tree
+- CF1381C - Mastermind
+- CF1491F - Magnets
+- CF1491G - Switch and Flip
+- CF1667C - Half Queen Cover
+- CF1696F - Tree Recovery
+- CF1715F - Crop Squares
+- CF1738F - Connectivity Addicts
+- CF1775F - Laboratory on Pluto
+- CF1868D - Flower-like Pseudotree
+- CF1896F - Bracket Xoring
+- CF1906L - Palindromic Parentheses
+- CF1917E - Construct Matrix
+- CF1979F - Kostyanych's Theorem
+- CF1991G - Grid Reset
+- CF2022D2 - Asesino (Hard Version)
+- CF2029F - Palindrome Everywhere
+- CF2031F - Penchick and Even Medians
+- CF2046E1 - Cheops and a Contest (Easy Version)
+- CF2057G - Secret Message
+- CF2081C - Quaternary Matrix
+- CF2089D - Conditional Operators
+- CF2103E - Keep the Sum
+- CF2108E - Spruce Dispute
+- CF74E - Shift It!
+- CF814E - An unavoidable detour for home
+- CF827E - Rusty String
+- CF871E - Restore the Tree
+- CF896C - Willem, Chtholly and Seniorious
+- CF901D - Weighting a Tree
+- CF981F - Round Marriage
+- CF989E - A Trance of Nightfall
+- CF993E - Nikita and Order Statistics

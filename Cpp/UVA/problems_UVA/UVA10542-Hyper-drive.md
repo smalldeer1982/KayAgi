@@ -1,0 +1,47 @@
+---
+title: "Hyper-drive"
+layout: "post"
+diff: 难度0
+pid: UVA10542
+tag: []
+---
+
+# Hyper-drive
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=17&page=show_problem&problem=1483
+
+[PDF](https://uva.onlinejudge.org/external/105/p10542.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10542/f4278350b3816f0e86dad639f20629c840f6bdbb.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10542/4976062a311252e257ff279df626dac1b94a02b1.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10542/c1a70ff57751d751cbb65578e00327251b48a1da.png)
+
+## 样例 #1
+
+### 输入
+
+```
+2
+2
+10 10
+10 13
+1
+10
+20
+```
+
+### 输出
+
+```
+Case 1: 0
+Case 2: 10
+```
+

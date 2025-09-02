@@ -1,0 +1,43 @@
+---
+title: "MiniMice"
+layout: "post"
+diff: 难度0
+pid: UVA11411
+tag: []
+---
+
+# MiniMice
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=26&page=show_problem&problem=2406
+
+[PDF](https://uva.onlinejudge.org/external/114/p11411.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11411/12a7bb9202688744d7dd88b2bcf8f09436e64a2b.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11411/51c0c784c7b657730f6b9016977f5e82b5791eb6.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11411/01b27ac0938a1752168c29b1f657e150a853fbb6.png)
+
+## 样例 #1
+
+### 输入
+
+```
+2
+5 8
+21 24
+```
+
+### 输出
+
+```
+2
+4
+```
+

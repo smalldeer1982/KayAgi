@@ -1,0 +1,52 @@
+---
+title: "Counting Stars"
+layout: "post"
+diff: 普及/提高-
+pid: UVA11244
+tag: []
+---
+
+# Counting Stars
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2201
+
+[PDF](https://uva.onlinejudge.org/external/112/p11244.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11244/7a286f2da9e6de00cd2d783ddc5659edeb2f845a.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11244/5979f51e9451e098e46a91b6ad6b57e3eb9b3a95.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11244/d0ec23831fcea6c8aef743a5ee00a6a5e8cb675b.png)
+
+## 样例 #1
+
+### 输入
+
+```
+5 5
+.....
+....*
+....*
+...*.
+*....
+4 3
+...
+.*.
+...
+*.*
+0 0
+```
+
+### 输出
+
+```
+1
+3
+```
+

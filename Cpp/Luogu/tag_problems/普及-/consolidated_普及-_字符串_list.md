@@ -1,0 +1,136 @@
+# 题号列表
+
+- B3640 - T3 句子反转
+- B3654 - [语言月赛202208] 影子字符串
+- B3680 - [语言月赛202211] BAN-PICK
+- B3690 - [语言月赛202212] 盒武器
+- B3703 - [语言月赛202301] 新年快乐
+- B3713 - [语言月赛202302] 对了，还有花，少女，银河
+- B3726 - [语言月赛202303] String Problem P
+- B3748 - [语言月赛202304] 写大作业
+- B3783 - [语言月赛202306] 棋
+- B3810 - [语言月赛 202307] 扶苏和串
+- B3812 - [语言月赛 202307] std::string
+- B3819 - [语言月赛 202308] 小粉兔处理题解审核志愿者轮换
+- B3829 - [NICA #2] 字符串入门题
+- B3843 - [GESP202306 三级] 密码合规
+- B3859 - [语言月赛 202309] 真的没有 idea 啦
+- B3891 - [语言月赛 202311] 基因
+- B3892 - [语言月赛 202311] 方程求解
+- B3900 - [NICA #3] 数字显示屏
+- B3911 - [语言月赛 202312] 铅球杯
+- B3935 - [语言月赛 202402] 数字串
+- B3946 - [语言月赛 202403] 2014
+- B3950 - [语言月赛 202403] szmgo
+- B3958 - [GESP202403 四级] 相似字符串
+- B3967 - [语言月赛 202404] 非众数
+- B3979 - [信息与未来 2024] 红绿灯
+- B3990 - [语言月赛 202406] 通配符匹配
+- B4014 - [语言月赛 202407] respect
+- B4039 - [GESP202409 三级] 回文拼接
+- B4086 - [语言月赛 202412] 正在联系教练退赛
+- B4195 - [海淀区小学组 2023] 纸牌游戏
+- B4200 - [常州市赛 2020] 重点单词
+- B4249 - [语言月赛 202503] 洗牌
+- B4262 - [GESP202503 三级] 词频统计
+- B4267 - [朝阳区小学组 2019] word
+- B4278 - [蓝桥杯青少年组国赛 2023] 简单算术题
+- B4318 - [语言月赛 202504] 古诗求和
+- B4332 - [语言月赛 202505] 简易 JSON 解析
+- B4369 - [语言月赛 202507] LZW 压缩
+- P10170 - [DTCPC 2024] 小方和小立方
+- P1030 - [NOIP 2001 普及组] 求先序排列
+- P1042 - [NOIP 2003 普及组] 乒乓球
+- P1051 - [NOIP 2005 提高组] 谁拿了最多奖学金
+- P1055 - [NOIP 2008 普及组] ISBN 号码
+- P1067 - [NOIP 2009 普及组] 多项式输出
+- P1071 - [NOIP 2009 提高组] 潜伏者
+- P1079 - [NOIP 2012 提高组] Vigenère 密码
+- P10836 - 『FLA - I』歌静河
+- P1087 - [NOIP 2004 普及组] FBI 树
+- P1098 - [NOIP 2007 提高组] 字符串的展开
+- P1100 - 高低位交换
+- P1101 - 单词方阵
+- P1104 - 生日
+- P11120 - [ROIR 2024] 登机 (Day 1)
+- P1203 - [USACO1.1] 坏掉的项链 Broken Necklace
+- P12035 - [USTCPC 2025] Hackergame
+- P12171 - [蓝桥杯 2025 省 Python B] 最长字符串
+- P12173 - [蓝桥杯 2025 省 Python B] 最多次数
+- P12278 - [蓝桥杯 2024 国 Python A] 设置密码
+- P12310 - [ICPC 2022 WF] Compression
+- P12592 - 重生有惊喜
+- P12611 - [CCC 2025 Junior] Product Codes
+- P12871 - [蓝桥杯 2025 国 Python A] 倒排索引
+- P12887 - [蓝桥杯 2025 国 Java B] 答题数量
+- P12946 - [GCJ Farewell Round #1] Colliding Encoding
+- P12984 - [GCJ 2022 #1A] Double or One Thing
+- P1303 - A*B Problem
+- P13049 - [GCJ 2020 Qualification] Nesting Depth
+- P1305 - 新二叉树
+- P13059 - [GCJ 2020 #1C] Overexcited Fan
+- P1308 - [NOIP 2011 普及组] 统计单词数
+- P13103 - [GCJ 2019 Qualification] You Can Go Your Own Way
+- P13132 - [GCJ 2018 Qualification] Saving The Universe Again
+- P13307 - 域名判断
+- P13311 - [GCJ 2012 Qualification] Speaking in Tongues
+- P13393 - [GCJ 2010 #1B] File Fix-it
+- P13426 - [COCI 2020/2021 #2] Crtanje
+- P13498 - 「Cfz Round 6」Yumemi
+- P13549 - 热辣滚烫
+- P13726 - [GCPC 2024] Kitten of Chaos
+- P13739 - [NWERC 2024] Alphabetical Aristocrats
+- P13849 - [CERC 2023] Equal Schedules
+- P1449 - 后缀表达式
+- P1498 - 南蛮图腾
+- P1553 - 数字反转（升级版）
+- P1572 - 计算分数
+- P1581 - A+B Problem（升级版）
+- P1598 - 垂直柱状图
+- P1601 - A+B Problem（高精）
+- P1603 - 斯诺登的密码
+- P1618 - 三连击（升级版）
+- P1628 - 合并序列
+- P1689 - 方程求解
+- P1703 - 那个什么密码2
+- P1724 - 东风谷早苗
+- P1740 - Diamond A&B(1)
+- P1781 - 宇宙总统
+- P1808 - 单词分类
+- P1898 - 缘分计算
+- P1957 - 口算练习题
+- P1981 - [NOIP 2013 普及组] 表达式求值
+- P2067 - Cytus-Holyknight
+- P2069 - 松鼠吃果子
+- P2108 - 学英语
+- P2142 - 高精度减法
+- P2191 - 小Z的情书
+- P2373 - yyy2015c01 的 IDE 之 Call Stack
+- P2562 - [AHOI2002] Kitty猫基因编码
+- P2614 - 计算器弹琴
+- P2708 - 硬币翻转
+- P2799 - 国王的魔镜
+- P2908 - [USACO08OPEN] Word Power S
+- P2957 - [USACO09OCT] Barn Echoes G
+- P3405 - [USACO16DEC] Cities and States S
+- P3612 - [USACO17JAN] Secret Cow Code S
+- P3692 - 夏幻的考试
+- P3879 - [TJOI2010] 阅读理解
+- P3955 - [NOIP 2017 普及组] 图书管理员
+- P4432 - [COCI 2017/2018 #2] ​​ZigZag
+- P4470 - [BJWC2018] 售票
+- P4896 - OIer们的烦恼
+- P5833 - [USACO19DEC] Livestock Lineup B
+- P6354 - [COCI 2007/2008 #3] TAJNA
+- P6535 - [COCI 2013/2014 #1] TRENER
+- P6553 - Strings of Monody
+- P7055 - [NWRRC 2015] Hash Code Hacker
+- P8573 - 「DTOI-2」星之灵
+- P8835 - [传智杯 #3 决赛] 子串
+- P8846 - 『JROI-7』PMK 配匹串符字
+- P8871 - [传智杯 #5 初赛] C-莲子的排版设计学
+- P8892 - 「UOI-R1」磁铁
+- P8964 - 梦幻 | Reopening of  Dream
+- P9539 - 「AWOI Round 2 B」树学
+- P9680 - string[_view]
+- P9853 - [入门赛 #17] 方程求解

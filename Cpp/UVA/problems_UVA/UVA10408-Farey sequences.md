@@ -1,0 +1,50 @@
+---
+title: "Farey sequences"
+layout: "post"
+diff: 难度0
+pid: UVA10408
+tag: []
+---
+
+# Farey sequences
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=16&page=show_problem&problem=1349
+
+[PDF](https://uva.onlinejudge.org/external/104/p10408.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10408/02263efaa8ae79da43a18a7c4d719ec4233d151e.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10408/2dd3f0d5fd84d2b05f8d7ae8afadd8adb6655a58.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10408/f90f1dc665099e6e04fc5898d9150c678a50cbe5.png)
+
+## 样例 #1
+
+### 输入
+
+```
+5 5
+5 1
+5 9
+5 10
+117 348
+288 10000
+```
+
+### 输出
+
+```
+1/2
+1/5
+4/5
+1/1
+9/109
+78/197
+```
+

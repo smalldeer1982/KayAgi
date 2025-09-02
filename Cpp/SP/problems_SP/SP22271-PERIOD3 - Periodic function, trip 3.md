@@ -1,0 +1,40 @@
+---
+title: "PERIOD3 - Periodic function, trip 3"
+layout: "post"
+diff: 难度0
+pid: SP22271
+tag: []
+---
+
+# PERIOD3 - Periodic function, trip 3
+
+## 题目描述
+
+Solar cycle predictions are used by various agencies and many industry groups. The solar cycle is important for determining the lifetime of satellites in low-Earth orbit, as the drag on the satellites correlates with the solar cycle \[...\]. [(NOAA)](http://www.swpc.noaa.gov/products/solar-cycle-progression)
+
+![400 Years of Sunspot Observation](../../content/francky:Sun400 "400 Years of Sunspot Observation")[(Solar Cycle)](http://en.wikipedia.org/wiki/Solar_cycle)
+
+## 输入格式
+
+ On the first line, you will be given an integer _N_. On the second line, you will be given integers _y_ : the first (0-indexed) _N×N_ values of a periodic function _f_ that is sum of periodic functions all with as period an integer _N_ at maximum. On the third line, you will be given _N×N_ integers _x_.
+
+## 输出格式
+
+ Print _f(x)_ for all required _x_. See sample for details.
+
+## 样例 #1
+
+### 输入
+
+```
+3
+15 3 17 2 16 4 15 3 17
+10 100 1000 10000 100000 1000000 10000000 100000000 1000000000
+```
+
+### 输出
+
+```
+16 16 16 16 16 16 16 16 16
+```
+

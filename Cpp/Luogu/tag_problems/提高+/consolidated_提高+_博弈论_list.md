@@ -1,0 +1,31 @@
+# 题号列表
+
+- P10398 - 『STA - R5』Remove and Decrease Game
+- P10501 - Cutting Game
+- P10506 - 魔法珠
+- P10507 - Georgia and Bob
+- P10609 - 排除干扰
+- P11133 - 【MX-X5-T5】「GFOI Round 1」World Ender
+- P13119 - [GCJ 2019 #3] Zillionim
+- P13214 - [GCJ 2015 Qualification] Ominous Omino
+- P13309 - 演剧
+- P13720 - [GCPC 2024] Even Odd Game
+- P13755 - 【MX-X17-T4】Yet another Game problem
+- P2148 - [SDOI2009] E&D
+- P2575 - 高手过招
+- P2964 - [USACO09NOV] A Coin Game S
+- P4096 - [HEOI2013] Eden 的博弈树
+- P4101 - [HEOI2014] 人人尽说江南好
+- P5675 - [GZOI2017] 取石子游戏
+- P6639 - 「JYLOI Round 1」让
+- P7356 - 「PMOI-1」游戏
+- P7395 - 弹珠游戏（2021 CoE-I C）
+- P7413 - [USACO21FEB] Stone Game G
+- P7443 - 「EZEC-7」加边
+- P7864 - 「EVOI-RD1」摘叶子
+- P7977 - 「Stoi2033」世界未末日
+- P8369 - [POI 2000] 条纹
+- P8606 - [蓝桥杯 2013 国 B] 高僧斗法
+- P9133 - [THUPC 2023 初赛] 大富翁
+- P9142 - [THUPC 2023 初赛] 欺诈游戏
+- P9220 - 「TAOI-1」椎名真昼

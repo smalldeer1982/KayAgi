@@ -1,0 +1,75 @@
+# 题号列表
+
+- CF110A - Nearly Lucky Number
+- CF112A - Petya and Strings
+- CF118A - String Task
+- CF129A - Cookies
+- CF12A - Super Agent
+- CF131A - cAPS lOCK
+- CF133A - HQ9+
+- CF1462B - Last Year's Substring
+- CF14A - Letter
+- CF1617A - Forbidden Subsequence
+- CF1634A - Reverse and Concatenate
+- CF1644A - Doors and Keys
+- CF16A - Flag
+- CF1759A - Yes-Yes?
+- CF1985A - Creating Words
+- CF2010C1 - Message Transmission Error (easy version)
+- CF2065A - Skibidus and Amog'u
+- CF2065B - Skibidus and Ohio
+- CF2091A - Olympiad Date
+- CF2094A - Trippi Troppi
+- CF20A - BerOS file system
+- CF228A - Is your horseshoe on the other hoof?
+- CF236A - Boy or Girl
+- CF23A - You're Given a String...
+- CF25B - Phone numbers
+- CF265A - Colorful Stones (Simplified Edition)
+- CF266A - Stones on the Table
+- CF271A - Beautiful Year
+- CF281A - Word Capitalization
+- CF282A - Bit++
+- CF32B - Borze
+- CF339A - Helpful Maths
+- CF36A - Extra-terrestrial Intelligence
+- CF41A - Translation
+- CF43A - Football
+- CF43B - Letter
+- CF454A - Little Pony and Crystal Mine
+- CF45A - Codecraft III
+- CF48A - Rock-paper-scissors
+- CF49A - Sleuth
+- CF519A - A and B and Chess
+- CF520A - Pangram
+- CF53A - Autocomplete
+- CF546A - Soldier and Bananas
+- CF58A - Chat room
+- CF59A - Word
+- CF5A - Chat Server's Outgoing Traffic
+- CF61A - Ultra-Fast Mathematician
+- CF672A - Summer Camp
+- CF68A - Irrational problem
+- CF710A - King Moves
+- CF71A - Way Too Long Words
+- CF721A - One-dimensional Japanese Crossword
+- CF733A - Grasshopper And the String
+- CF766A - Mahmoud and Longest Uncommon Subsequence
+- CF776A - A Serial Killer
+- CF802G - Fake News (easy)
+- CF837A - Text Volume
+- CF863A - Quasi-palindrome
+- CF864B - Polycarp and Letters
+- CF867A - Between the Offices
+- CF868A - Bark to Unlock
+- CF887A - Div. 64
+- CF894A - QAQ
+- CF897A - Scarborough Fair
+- CF898A - Rounding
+- CF909A - Generate Login
+- CF932A - Palindromic Supersequence
+- CF96A - Football
+- CF976A - Minimum Binary Number
+- CF977A - Wrong Subtraction
+- CF981A - Antipalindrome
+- CF987A - Infinity Gauntlet

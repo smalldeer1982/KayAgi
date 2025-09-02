@@ -1,0 +1,35 @@
+# 题号列表
+
+- CF1010C - Border
+- CF1012B - Chemical table
+- CF1016D - Vasya And The Matrix
+- CF1041E - Tree Reconstruction
+- CF1375D - Replace by MEX
+- CF1637F - Towers
+- CF1656E - Equal Tree Sums
+- CF1672E - notepad.exe
+- CF1684E - MEX vs DIFF
+- CF1714F - Build a Tree and That Is It
+- CF1738D - Permutation Addicts
+- CF1748D - ConstructOR
+- CF1764F - Doremy's Experimental Tree
+- CF1781E - Rectangle Shrinking
+- CF1787E - The Harmonization of XOR
+- CF1792E - Divisors and Table
+- CF1799E - City Union
+- CF1852B - Imbalanced Arrays
+- CF1918G - Permutation of Given
+- CF1919D - 01 Tree
+- CF1934D2 - XOR Break — Game Version
+- CF1956D - Nene and the Mex Operator
+- CF1970B3 - Exact Neighbours (Hard)
+- CF2025F - Choose Your Queries
+- CF401D - Roman and Numbers
+- CF45G - Prime Problem
+- CF482B - Interesting Array
+- CF490E - Restoring Increasing Sequence
+- CF621E - Wet Shark and Blocks
+- CF780D - Innokenty and a Football League
+- CF946E - Largest Beautiful Number
+- CF989C - A Mist of Florescence
+- CF990F - Flow Control

@@ -1,0 +1,71 @@
+# 题号列表
+
+- P10193 - [USACO24FEB] Bessla Motors G
+- P10422 - [蓝桥杯 2023 国 A] 迷宫探险
+- P1073 - [NOIP 2009 提高组] 最优贸易
+- P10819 - [EC Final 2020] City Brain
+- P11535 - [NOISG 2023 Finals] Airplane
+- P11564 - 【MX-X7-T5】[LSOT-3] 你的列车是生存战略
+- P1186 - 玛丽卡
+- P11860 - [CCC 2025 Senior] 熔岩路 / Floor is Lava
+- P12332 - [蓝桥杯 2023 省 Java B] 魔法阵
+- P12407 - 「CZOI-R3」数字变换
+- P13332 - [GCJ 2012 Finals] Zombie Smash
+- P13404 - [GCJ 2010 #3] Fence
+- P13471 - [GCJ 2008 #3] Portal
+- P13515 - [KOI 2025 #1] 木槿花开了
+- P13534 - [OOI 2023] The way home / 回家的路
+- P13563 - 「WWOI R1」WSM 游戏
+- P1491 - 集合位置
+- P1613 - 跑路
+- P1772 - [ZJOI2006] 物流运输
+- P1783 - 海滩防御
+- P1930 - [USACO3.3] 亚瑟王的宫殿
+- P2149 - [SDOI2009] Elaxia的路线
+- P2371 - [国家集训队] 墨墨的等式
+- P2407 - [SDOI2009] 地图复原
+- P2446 - [SDOI2010] 大陆争霸
+- P2865 - [USACO06NOV] Roadblocks G
+- P2876 - [USACO07JAN] Problem Solving G
+- P2885 - [USACO07NOV] Telephone Wire G
+- P2886 - [USACO07NOV] Cow Relays G
+- P2966 - [USACO09DEC] Cow Toll Paths G
+- P3001 - [USACO10DEC] Big Macs Around the World G
+- P3036 - [USACO16DEC] Lasers and Mirrors G
+- P3053 - [USACO12OPEN] Unlocking Blocks S
+- P3102 - [USACO14FEB] Secret Code S
+- P3106 - [USACO14OPEN] Dueling GPSs S
+- P3110 - [USACO14DEC] Piggy Back S
+- P3115 - [USACO15JAN] Cow Routing S
+- P3125 - [USACO15OPEN] Bessie's Birthday Buffet S
+- P3275 - [SCOI2011] 糖果
+- P3489 - [POI 2009] WIE-Hexer
+- P3659 - [USACO17FEB] Why Did the Cow Cross the Road I G
+- P3716 - [CTSC2000] 冰原探险
+- P3720 - [AHOI2017初中组] guide
+- P3786 - 萃香抱西瓜
+- P3831 - [SHOI2012] 回家的路
+- P3946 - ことりのおやつ（小鸟的点心）
+- P3953 - [NOIP 2017 提高组] 逛公园
+- P4042 - [AHOI2014/JSOI2014] 骑士游戏
+- P4162 - [SCOI2009] 最长距离
+- P4277 - 河城荷取的烟花
+- P4366 - [Code+#4] 最短路
+- P4442 - [COCI 2017/2018 #3] Portal
+- P4772 - 灰化肥，会挥发
+- P4822 - [BJWC2012] 冻结
+- P5122 - [USACO18DEC] Fine Dining G
+- P5700 - [CTSC1998] 罗杰游戏
+- P6096 - [JSOI2015] 地铁线路
+- P6233 - [eJOI 2019] Awesome Arrowland Adventure
+- P6768 - [USACO05MAR] Ombrophobic Bovines 发抖的牛
+- P6880 - [JOI 2020 Final] オリンピックバス
+- P7231 - [COCI 2015/2016 #3] DOMINO
+- P7297 - [USACO21JAN] Telephone G
+- P7473 - [NOI Online 2021 入门组] 重力球
+- P7733 - [JDWOI-2] 抢救实验数据
+- P8060 - [POI 2003] Sums
+- P8731 - [蓝桥杯 2020 国 AB] 出租车
+- P9377 - [THUPC 2023 决赛] 百合
+- P9402 - [POI 2020/2021 R3] Droga do domu
+- P9724 - [EC Final 2022] Chase Game

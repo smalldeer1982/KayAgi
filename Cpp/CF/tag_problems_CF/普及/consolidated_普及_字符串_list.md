@@ -1,0 +1,30 @@
+# 题号列表
+
+- CF1005D - Polycarp and Div 3
+- CF1009B - Minimum Ternary String
+- CF1023A - Single Wildcard Pattern Matching
+- CF1023C - Bracket Subsequence
+- CF1025C - Plasticine zebra
+- CF1043C - Smallest Word
+- CF1070H - BerOS File Suggestion
+- CF123A - Prime Permutation
+- CF190C - STL
+- CF2010C2 - Message Transmission Error (hard version)
+- CF2045C - Saraga
+- CF208A - Dubstep
+- CF219A - k-String
+- CF2A - Winner
+- CF31B - Sysadmin Bob
+- CF514A - Chewbaсca and Number
+- CF518A - Vitaly and Strings
+- CF522A - Reposts
+- CF523A - Rotate, Flip and Zoom
+- CF525B - Pasha and String
+- CF5C - Longest Regular Bracket Sequence
+- CF761B - Dasha and friends
+- CF778A - String Game
+- CF798B - Mike and strings
+- CF900B - Position in Fraction
+- CF940C - Phone Numbers
+- CF979B - Treasure Hunt
+- CF982A - Row

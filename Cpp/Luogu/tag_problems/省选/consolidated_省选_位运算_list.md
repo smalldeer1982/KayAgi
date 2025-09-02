@@ -1,0 +1,27 @@
+# 题号列表
+
+- P10157 - [LSOT-2] Tree and Xor
+- P10872 - [COTS 2022] 移位 Maliand
+- P12758 - [POI 2017 R3] 奇偶路口 Crossroads of parity
+- P13552 - 鱼类考古学
+- P13714 - 淘汰（Hard ver.）
+- P13833 - 【MX-X18-T5】「FAOI-R6」纯蓝
+- P3211 - [HNOI2011] XOR和路径
+- P3220 - [HNOI2012] 与非
+- P3631 - [APIO2011] 方格染色
+- P3646 - [APIO2015] 巴厘岛的雕塑
+- P4540 - [HNOI2006] 军机调度
+- P4577 - [FJOI2018] 领导集团问题
+- P4892 - GodFly的寻宝之旅
+- P5523 - [yLOI2019] 珍珠
+- P5670 - 秘籍-反复异或
+- P6623 - [省选联考 2020 A 卷] 树
+- P7826 - 「RdOI R3」RBT
+- P7842 - 「C.E.L.U-03」探险者笔记 III
+- P7966 - [COCI 2021/2022 #2] Hiperkocka
+- P7978 - 「Stoi2033」听见下雨的声音
+- P8434 - 「WHOI-2」D&D
+- P8569 - [JRKSJ R6] 第七学区
+- P8582 - [CoE R5] 斑马王子
+- P9746 - 「KDOI-06-S」合并序列
+- P9838 - 挑战 NPC IV

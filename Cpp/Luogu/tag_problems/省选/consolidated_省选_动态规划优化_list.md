@@ -1,0 +1,26 @@
+# 题号列表
+
+- P10538 - [APIO2024] 星际列车
+- P10879 - 「KDOI-07」对树链剖分的爱
+- P11173 - 「CMOI R1」We Want To Run / Nilpotent
+- P11216 - 【MX-J8-T4】 2048
+- P11292 - 【MX-S6-T4】「KDOI-11」彩灯晚会
+- P11459 - [USACO24DEC] It's Mooin' Time P
+- P11598 - [NOISG 2018 Finals] Safety
+- P13272 - [NOI2025] 序列变换
+- P13505 - [OOI 2024] Big Persimmon
+- P2120 - [ZJOI2007] 仓库建设
+- P6007 - [USACO20JAN] Springboards G
+- P6173 - [USACO16FEB] Circular Barn P
+- P6734 - 「Wdsr-2」阴阳玉
+- P7435 - 简单的排列计数
+- P7483 - 50 年后的我们
+- P7576 - 「PMOI-3」期望乘积
+- P7962 - [NOIP2021] 方差
+- P7985 - [USACO21DEC] Paired Up P
+- P8145 - [JRKSJ R4] kth
+- P8277 - [USACO22OPEN] Up Down Subsequence P
+- P8863 - 「KDOI-03」构造数组
+- P8983 - 「DROI」Round 1 失控
+- P9476 - [_-0 B] 地铁
+- P9985 - [USACO23DEC] Train Scheduling P

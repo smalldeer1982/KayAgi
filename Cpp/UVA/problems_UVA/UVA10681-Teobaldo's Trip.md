@@ -1,0 +1,49 @@
+---
+title: "Teobaldo's Trip"
+layout: "post"
+diff: 难度0
+pid: UVA10681
+tag: []
+---
+
+# Teobaldo's Trip
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=18&page=show_problem&problem=1622
+
+[PDF](https://uva.onlinejudge.org/external/106/p10681.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10681/693800596c147d4fbbf31d909ee9f298a1f33f29.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10681/7ea35d239de106d2d66bb07287a1506ead8e6d06.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10681/a319fd322a2ad292881b5e8407df582c73b95a05.png)
+
+## 样例 #1
+
+### 输入
+
+```
+3 2
+1 2
+2 3
+3 1 2
+3 2
+1 2
+1 3
+1 3 2
+0 0
+```
+
+### 输出
+
+```
+Yes, Teobaldo can travel.
+No, Teobaldo can not travel.
+```
+

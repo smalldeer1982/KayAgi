@@ -1,0 +1,52 @@
+# 题号列表
+
+- CF1000C - Covered Points Count
+- CF1011B - Planning The Expedition
+- CF1019A - Elections
+- CF1023C - Bracket Subsequence
+- CF1029C - Maximal Intersection
+- CF1030C - Vasya and Golden Ticket
+- CF1031B - Curiosity Has No Limits
+- CF1041B - Buying a TV Set
+- CF1073D - Berland Fair
+- CF1167B - Lost Numbers
+- CF1681D - Required Length
+- CF1748B - Diverse Substrings
+- CF18C - Stripe
+- CF1914D - Three Activities
+- CF1920C - Partitioning the Array
+- CF1996D - Fun
+- CF2067C - Devyatkino
+- CF2072D - For Wizards, the Exam Is Easy, but I Couldn't Handle It
+- CF2074D - Counting Points
+- CF208A - Dubstep
+- CF2108C - Neo's Escape
+- CF2112C - Coloring Game
+- CF2113C - Smilo and Minecraft
+- CF230B - T-primes
+- CF327A - Flipping Game
+- CF398A - Cards
+- CF3C - Tic-tac-toe
+- CF417A - Elimination
+- CF425A - Sereja and Swaps
+- CF42A - Guilty — to the kitchen!
+- CF448D - Multiplication Table
+- CF466C - Number of Ways
+- CF55B - Smallest number
+- CF591B - Rebranding
+- CF757B - Bash's Big Day
+- CF75C - Modified GCD
+- CF761B - Dasha and friends
+- CF762A - k-th divisor
+- CF776B - Sherlock and his girlfriend
+- CF814C - An impassioned circulation of affection
+- CF897B - Chtholly's request
+- CF917A - The Monster
+- CF922B - Magic Forest
+- CF933A - A Twisty Movement
+- CF937B - Vile Grasshoppers
+- CF940B - Our Tanya is Crying Out Loud
+- CF94B - Friends
+- CF962C - Make a Square
+- CF978D - Almost Arithmetic Progression
+- CF987C - Three displays

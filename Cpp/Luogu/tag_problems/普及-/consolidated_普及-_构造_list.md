@@ -1,0 +1,42 @@
+# 题号列表
+
+- B3999 - [洛谷 202406GESP 模拟 四级] 锣鼓工厂
+- B4162 - [BCSP-X 2024 12 月初中组] 稳定原子
+- B4371 - [GXPC-S 2025] 序列 / sequence
+- P10306 - 「Cfz Round 2」How to Prove
+- P10672 - 【MX-S1-T1】 壁垒
+- P10733 - [NOISG 2019 Prelim] Lost Array
+- P10782 - 【MX-J1-T2】『FLA - III』Ilumina
+- P1087 - [NOIP 2004 普及组] FBI 树
+- P11007 - 『STA - R7』Odtlcsu
+- P11020 - 「LAOI-6」Radiation
+- P12373 - 「LAOI-12」命运。
+- P12973 - 一道搞笑的构造题
+- P13711 - [NWERC 2023] Lateral Damage
+- P1416 - 攻击火星
+- P1795 - 无穷的序列
+- P1827 - [USACO3.4] 美国血统 American Heritage
+- P5595 - 【XR-4】歌唱比赛
+- P7055 - [NWRRC 2015] Hash Code Hacker
+- P7107 - 天选之人
+- P7227 - [COCI 2015/2016 #3] ESEJ
+- P7427 - [THUPC 2017] 玩游戏
+- P7714 - 「EZEC-10」排列排序
+- P7852 - 「EZEC-9」Yet Another Easy Problem
+- P7873 - 「SWTR-7」Scores（easy version）
+- P8468 - [Aya Round 1 C] 文文的构造游戏
+- P8536 - 「Wdoi-2」幻胧月睨
+- P8589 - 『JROI-8』对了，还有花，少女，银河
+- P8846 - 『JROI-7』PMK 配匹串符字
+- P8847 - [JRKSJ R5] 1-1 A
+- P8942 - Digital Fortress
+- P9015 - [USACO23JAN] Moo Route S
+- P9033 - 「KDOI-04」XOR Sum
+- P9048 - [PA 2021] Zakłócenia
+- P9373 - 「DROI」Round 2 构造与取模
+- P9397 - 「DBOI」Round 1 DTTM
+- P9492 - 「SFCOI-3」进行一个拆的解
+- P9508 - 『STA - R3』存在
+- P9539 - 「AWOI Round 2 B」树学
+- P9652 - 『GROI-R2』 紫水晶
+- P9687 - Maps.

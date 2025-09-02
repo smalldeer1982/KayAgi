@@ -1,0 +1,42 @@
+# 题号列表
+
+- B3624 - 猫粮规划
+- B4016 - 树的直径
+- B4158 - [BCSP-X 2024 12 月小学高年级组] 质数补全
+- B4279 - [蓝桥杯青少年组国赛 2023] 数独填数
+- P10050 - [CCO 2022] Alternating Heights
+- P10095 - [ROIR 2023] 斐波那契乘积 (Day 1)
+- P1037 - [NOIP 2002 普及组] 产生数
+- P10386 - [蓝桥杯 2024 省 A] 五子棋对弈
+- P10477 - Subway tree systems
+- P10490 - Missile Defence System
+- P1118 - [USACO06FEB] Backward Digit Sums G/S
+- P1123 - 取数游戏
+- P1135 - 奇怪的电梯
+- P1219 - [USACO1.5] 八皇后 Checker Challenge
+- P12317 - [蓝桥杯 2024 国 C] 树的结点值
+- P1330 - 封锁阳光大学
+- P13321 - [GCJ 2012 #1C] Diamond Inheritance
+- P13425 - [COCI 2020/2021 #1] Bajka
+- P2052 - [NOI2011] 道路修建
+- P2196 - [NOIP 1996 提高组] 挖地雷
+- P2420 - 让我们异或吧
+- P2853 - [USACO06DEC] Cow Picnic S
+- P3848 - [TJOI2007] 跳棋
+- P3864 - [USACO1.2] 命名那个数字 Name That Number
+- P3884 - [JLOI2009] 二叉树问题
+- P3915 - 树的分解
+- P3958 - [NOIP 2017 提高组] 奶酪
+- P4017 - 最大食物链计数
+- P5198 - [USACO19JAN] Icy Perimeter S
+- P5429 - [USACO19OPEN] Fence Planning S
+- P6111 - [USACO18JAN] MooTube S
+- P6207 - [USACO06OCT] Cows on Skates G
+- P6591 - [YsOI2020] 植树
+- P6606 - [Code+#7] 最小路径串
+- P6691 - 选择题
+- P7228 - [COCI 2015/2016 #3] MOLEKULE
+- P7995 - [USACO21DEC] Walking Home B
+- P8838 - [传智杯 #3 决赛] 面试
+- P9014 - [USACO23JAN] Following Directions S
+- P9304 - 「DTOI-5」3-1

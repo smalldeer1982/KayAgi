@@ -1,0 +1,49 @@
+---
+title: "TFSETS - Triple-Free Sets"
+layout: "post"
+diff: 省选/NOI-
+pid: SP707
+tag: []
+---
+
+# TFSETS - Triple-Free Sets
+
+## 题目描述
+
+ A set **S** of positive integers is called _strongly triple-free_ if, for any integer **x**, the sets {**x**, 2**x**} and {**x**, 3**x**} are not subsets of **S**. Let's define **F(n)** as a number of strongly triple-free subsets of {1, 2, ..., **n**}, where **n** is a natural number.
+
+ You need to write a program which being given a number **n** calculates the number **F(n)** modulo 1 000 000 001.
+
+## 输入格式
+
+ The first line of input contains integer **T** (1 ≤ **T** ≤ 500) - the number of testcases. Then descriptions of **T** testcases follow.
+
+ The description of the testcase consists of one line. The line contains an integer number **n** (1 ≤ **n** ≤ 100 000).
+
+## 输出格式
+
+ For each testcase in the input your program should output one line. This line should contain one integer number which is the number **F(n)** modulo 1 000 000 001.
+
+## 样例 #1
+
+### 输入
+
+```
+5
+3
+1
+10
+20
+39
+```
+
+### 输出
+
+```
+5
+2
+198
+43776
+971827200
+```
+

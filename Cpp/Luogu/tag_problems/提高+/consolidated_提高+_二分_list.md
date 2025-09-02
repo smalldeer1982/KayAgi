@@ -1,0 +1,125 @@
+# 题号列表
+
+- P1039 - [NOIP 2003 提高组] 侦探推理
+- P10572 - [JRKSJ R8] +1-1
+- P10735 - [NOISG 2019 Prelim] Square or Rectangle?
+- P10768 - 「CROI · R2」落月摇情
+- P10843 - 【MX-J2-T4】Turtle and Cycles
+- P10992 - [蓝桥杯 2023 国 Python A] 最长同类子串
+- P1129 - [ZJOI2007] 矩阵游戏
+- P1155 - [NOIP 2008 提高组] 双栈排序
+- P11604 - [PA 2016] 卡牌 / Gra w karty
+- P11607 - [PA 2016] 寻踪 / Ciepło-zimno
+- P11625 - [迷宫寻路 Round 3] 迷宫寻路大赛
+- P11761 - [IAMOI R1] 明码标价
+- P11807 - [PA 2017] 抄作业
+- P11830 - [省选联考 2025] 幸运数字
+- P11833 - [省选联考 2025] 推箱子
+- P11971 - 「ALFR Round 7」T4 xor xor
+- P12360 - [eJOI 2024] 足球决斗 / CF Duels
+- P12398 - 「FAOI-R9」决战黎明
+- P12537 - [XJTUPC 2025] 罗斯飞鸽
+- P12604 - 「FAOI-R6」魂灵之影
+- P12701 - [KOI 2022 Round 2] 升级
+- P12818 - [NERC 2021] Even Split
+- P1285 - 队员分组
+- P13010 - 【MX-X13-T5】「KDOI-12」茫茫人海如都市的晚高峰，迎面的车终将相遇，迎面的车终将分别。
+- P13033 - [GCJ 2021 #1C] Roaring Years
+- P13057 - [GCJ 2020 #1B] Blindfolded Bullseye
+- P13091 - [FJCPC 2025] 中位数
+- P13117 - [GCJ 2019 #2] New Elements: Part 2
+- P13141 - [GCJ 2018 #1B] Transmutation
+- P13147 - [GCJ 2018 #2] Costume Change
+- P13179 - [GCJ 2017 Finals] Dice Straight
+- P13194 - [GCJ 2016 #1B] Technobabble
+- P13322 - [GCJ 2012 #1C] Out of Gas
+- P13380 - [GCJ 2011 #3] Perpetual Motion
+- P13442 - [GCJ 2009 #2] Stock Charts
+- P13443 - [GCJ 2009 #2] Watering Plants
+- P13472 - [GCJ 2008 #3] No Cheating
+- P13477 - [GCJ 2008 APAC SemiFinal] Modern Art Plagiarism
+- P13494 - 【MX-X14-T4】分门别类
+- P13514 - [KOI 2025 #1] 干草堆
+- P13619 - [ICPC 2025 APC] Duplicates
+- P13696 - 「CyOI」出包魔法师
+- P13793 - [SWERC 2023] Supporting everyone
+- P13802 - [SWERC 2023] Team selection
+- P13806 - [CERC 2022] Combination Locks
+- P1407 - [国家集训队] 稳定婚姻
+- P1559 - 运动员最佳匹配问题
+- P1640 - [SCOI2010] 连续攻击游戏
+- P1663 - 山
+- P1704 - 寻找最优美做题曲线
+- P1768 - 天路
+- P1783 - 海滩防御
+- P1800 - software
+- P1948 - [USACO08JAN] Telephone Lines S
+- P2030 - 遥控车
+- P2055 - [ZJOI2009] 假期的宿舍
+- P2071 - 座位安排
+- P2115 - [USACO14MAR] Sabotage G
+- P2319 - [HNOI2006] 超级英雄
+- P2457 - [SDOI2006] 仓库管理员的烦恼
+- P2491 - [SDOI2011] 消防
+- P2589 - [ZJOI2006] 碗的叠放
+- P2619 - [国家集训队] Tree I
+- P2650 - 弹幕考察
+- P2680 - [NOIP 2015 提高组] 运输计划
+- P2698 - [USACO12MAR] Flowerpot S
+- P2798 - 爆弹虐场
+- P2898 - [USACO08JAN] Haybale Guessing G
+- P3017 - [USACO11MAR] Brownie Slicing G
+- P3033 - [USACO11NOV] Cow Steeplechase G
+- P3101 - [USACO14JAN] Ski Course Rating G
+- P3104 - [USACO14MAR] Counting Friends G
+- P3132 - [USACO16JAN] Angry Cows G
+- P3500 - [POI 2010] TES-Intelligence Test
+- P3501 - [POI 2010] ANT-Antisymmetry
+- P3503 - [POI 2010] KLO-Blocks
+- P3606 - [USACO17JAN] Building a Tall Barn P
+- P3667 - [USACO17OPEN] Bovine Genomics G
+- P3933 - Chtholly Nota Seniorious
+- P3957 - [NOIP 2017 普及组] 跳房子
+- P3966 - [TJOI2013] 单词
+- P4014 - 分配问题
+- P4064 - [JXOI2017] 加法
+- P4090 - [USACO17DEC] Greedy Gift Takers P
+- P4105 - [HEOI2014] 南园满地堆轻絮
+- P4155 - [SCOI2015] 国旗计划
+- P4304 - [TJOI2013] 攻击装置
+- P4322 - [JSOI2016] 最佳团体
+- P4376 - [USACO18OPEN] Milking Order G
+- P4803 - [CCO 2015] 太阳能飞行
+- P5021 - [NOIP 2018 提高组] 赛道修建
+- P5030 - 长脖子鹿放置
+- P5428 - [USACO19OPEN] Cow Steeplechase II S
+- P5835 - [USACO19DEC] Meetings S
+- P6003 - [USACO20JAN] Loan Repayment S
+- P6083 - [JSOI2015] symmetry
+- P6142 - [USACO20FEB] Delegation P
+- P6172 - [USACO16FEB] Load Balancing P
+- P6185 - [NOI Online #1 提高组] 序列
+- P6268 - [SHOI2002] 舞会
+- P6592 - [YsOI2020] 幼儿园
+- P6594 - [YsOI2020] 换寝室
+- P6608 - [Code+#7] 神秘序列
+- P6677 - [COCI 2019/2020 #2] Checker
+- P6711 - [BalticOI 2005] Polygon
+- P6761 - [BalticOI 2010] BEARs (Day1)
+- P6768 - [USACO05MAR] Ombrophobic Bovines 发抖的牛
+- P7109 - 滴水不漏
+- P7368 - [USACO05NOV] Asteroids G
+- P7837 - 「Wdoi-3」夜雀 cooking
+- P7977 - 「Stoi2033」世界未末日
+- P8023 - [ONTAK2015] Tasowanie
+- P8099 - [USACO22JAN] Minimizing Haybales P
+- P8113 - [Cnoi2021] 自我主义的平衡者
+- P8274 - [USACO22OPEN] Balancing a Tree G
+- P8346 - 「Wdoi-6」最澄澈的空与海
+- P8487 - 「HGOI-1」Binary search Ex
+- P8660 - [蓝桥杯 2017 国 A] 区间移位
+- P8765 - [蓝桥杯 2021 国 AB] 翻转括号序列
+- P8955 - 「VUSC」Card Tricks
+- P9089 - 「SvR-2」Work
+- P9359 - [ICPC 2022 Xi'an R] Cells Coloring
+- P9378 - [THUPC 2023 决赛] 物理实验

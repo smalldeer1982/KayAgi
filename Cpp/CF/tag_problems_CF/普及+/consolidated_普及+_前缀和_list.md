@@ -1,0 +1,31 @@
+# 题号列表
+
+- CF1016C - Vasya And The Mushrooms
+- CF1042D - Petya and Array
+- CF1054D - Changing Array
+- CF1060C - Maximum Subrectangle
+- CF1073C - Vasya and Robot
+- CF10D - LCIS
+- CF148E - Porcelain
+- CF1731C - Even Subarrays
+- CF1731D - Valiant's New Map
+- CF1748C - Zero-Sum Prefixes
+- CF1758D - Range = √Sum
+- CF1921G - Mischievous Shooter
+- CF1923D - Slimes
+- CF1957D - A BIT of an Inequality
+- CF1982D - Beauty of the mountains
+- CF2008H - Sakurako's Test
+- CF2013D - Minimize the Difference
+- CF201C - Fragile Bridges
+- CF2026D - Sums of Segments
+- CF2091F - Igor and Mountain
+- CF2106F - Goblin
+- CF245H - Queries for Number of Palindromes
+- CF33C - Wonderful Randomized Sum
+- CF467C - George and Job
+- CF474D - Flowers
+- CF479E - Riding in a Lift
+- CF578C - Weakness and Poorness
+- CF665E - Beautiful Subarrays
+- CF873B - Balanced Substring

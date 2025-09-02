@@ -1,0 +1,651 @@
+题号	原始标签	处理后标签	是否为空标签	原始是否为空
+AT_abc133_f	线段树, 树状数组, 树链剖分	线段树, 树状数组, 树链剖分	否	否
+AT_abc134_f			是	是
+AT_abc136_f			是	是
+AT_abc137_f			是	是
+AT_abc138_f	数位 DP	数位 DP	否	否
+AT_abc147_f			是	是
+AT_abc155_f			是	是
+AT_abc157_f			是	是
+AT_abc163_f			是	是
+AT_abc164_f			是	是
+AT_abc168_f			是	是
+AT_abc175_f			是	是
+AT_abc176_f			是	是
+AT_abc180_f	动态规划 DP, 组合数学, 差分	动态规划 DP, 组合数学, 差分	否	否
+AT_abc193_f			是	是
+AT_abc196_f			是	是
+AT_abc198_f			是	是
+AT_abc200_f			是	是
+AT_abc201_f			是	是
+AT_abc208_f			是	是
+AT_abc210_f			是	是
+AT_abc212_h			是	是
+AT_abc213_f			是	是
+AT_abc213_g	动态规划 DP, 状态合并	动态规划 DP, 状态合并	否	否
+AT_abc213_h			是	是
+AT_abc214_g			是	是
+AT_abc214_h			是	是
+AT_abc217_h			是	是
+AT_abc218_h			是	是
+AT_abc219_f			是	是
+AT_abc219_h			是	是
+AT_abc220_g			是	是
+AT_abc221_g			是	是
+AT_abc221_h			是	是
+AT_abc223_h			是	是
+AT_abc224_h			是	是
+AT_abc225_f			是	是
+AT_abc225_g			是	是
+AT_abc228_g			是	是
+AT_abc228_h			是	是
+AT_abc230_g			是	是
+AT_abc231_g			是	是
+AT_abc231_h			是	是
+AT_abc232_g			是	是
+AT_abc232_h			是	是
+AT_abc233_h			是	是
+AT_abc234_h			是	是
+AT_abc236_g			是	是
+AT_abc236_h			是	是
+AT_abc237_g			是	是
+AT_abc237_h			是	是
+AT_abc239_g			是	是
+AT_abc239_h			是	是
+AT_abc240_g			是	是
+AT_abc240_h			是	是
+AT_abc241_g			是	是
+AT_abc241_h			是	是
+AT_abc242_h			是	是
+AT_abc244_h			是	是
+AT_abc246_h	动态 DP	动态 DP	否	否
+AT_abc247_h			是	是
+AT_abc248_g			是	是
+AT_abc248_h			是	是
+AT_abc249_g			是	是
+AT_abc250_h			是	是
+AT_abc251_g			是	是
+AT_abc253_h			是	是
+AT_abc254_g			是	是
+AT_abc254_h			是	是
+AT_abc255_g			是	是
+AT_abc255_h			是	是
+AT_abc256_h			是	是
+AT_abc258_h			是	是
+AT_abc259_g			是	是
+AT_abc259_h			是	是
+AT_abc261_g			是	是
+AT_abc261_h			是	是
+AT_abc264_h			是	是
+AT_abc265_f	动态规划 DP, 前缀和	动态规划 DP, 前缀和	否	否
+AT_abc266_h			是	是
+AT_abc267_g			是	是
+AT_abc267_h			是	是
+AT_abc268_h			是	是
+AT_abc269_g			是	是
+AT_abc270_h			是	是
+AT_abc272_f			是	是
+AT_abc273_g	动态规划 DP, 组合数学	动态规划 DP, 组合数学	否	否
+AT_abc275_g			是	是
+AT_abc276_g			是	是
+AT_abc277_f			是	是
+AT_abc277_h	2-SAT	2-SAT	否	否
+AT_abc278_g	博弈论, SG 函数	博弈论, SG 函数	否	否
+AT_abc279_g			是	是
+AT_abc280_g	容斥原理	容斥原理	否	否
+AT_abc282_h	二分, 分治	二分, 分治	否	否
+AT_abc285_g	网络流, 二分图	网络流, 二分图	否	否
+AT_abc286_h	计算几何	计算几何	否	否
+AT_abc288_g			是	是
+AT_abc291_g			是	是
+AT_abc291_h			是	是
+AT_abc293_h			是	是
+AT_abc295_h			是	是
+AT_abc296_h			是	是
+AT_abc297_h			是	是
+AT_abc298_g			是	是
+AT_abc298_h			是	是
+AT_abc301_f			是	是
+AT_abc301_h			是	是
+AT_abc302_h			是	是
+AT_abc303_h			是	是
+AT_abc304_h			是	是
+AT_abc306_g			是	是
+AT_abc307_h			是	是
+AT_abc308_h			是	是
+AT_abc309_g			是	是
+AT_abc310_g			是	是
+AT_abc313_f	根号分治	根号分治	否	否
+AT_abc313_g	类欧几里得算法	类欧几里得算法	否	否
+AT_abc313_h	动态规划 DP	动态规划 DP	否	否
+AT_abc314_h	计算几何, 三分, 模拟退火	计算几何, 三分, 模拟退火	否	否
+AT_abc315_h	cdq 分治, 快速数论变换 NTT	cdq 分治, 快速数论变换 NTT	否	否
+AT_abc317_g	网络流, 二分图	网络流, 二分图	否	否
+AT_abc318_h	多项式, 生成函数	多项式, 生成函数	否	否
+AT_abc319_f	动态规划 DP, 贪心, 状态合并	动态规划 DP, 贪心, 状态合并	否	否
+AT_abc320_g			是	是
+AT_abc322_g			是	是
+AT_abc324_g			是	是
+AT_abc326_g			是	是
+AT_abc327_g			是	是
+AT_abc329_g	动态规划 DP, 数论, 前缀和, Ad-hoc	动态规划 DP, 数论, 前缀和	否	否
+AT_abc332_g			是	是
+AT_abc333_g	Stern-Brocot 树	Stern-Brocot 树	否	否
+AT_abc335_g			是	是
+AT_abc336_g			是	是
+AT_abc338_g			是	是
+AT_abc340_g	虚树	虚树	否	否
+AT_abc344_g	二分, 扫描线	二分, 扫描线	否	否
+AT_abc347_g	网络流	网络流	否	否
+AT_abc348_g	线段树, 整体二分	线段树, 整体二分	否	否
+AT_abc349_g	Manacher 算法	Manacher 算法	否	否
+AT_abc351_g	O2优化		是	否
+AT_abc352_g	快速数论变换 NTT	快速数论变换 NTT	否	否
+AT_abc354_g	网络流, 数学	网络流, 数学	否	否
+AT_abc355_g	动态规划 DP, 凸完全单调性（wqs 二分）	动态规划 DP, 凸完全单调性（wqs 二分）	否	否
+AT_abc356_g	凸包	凸包	否	否
+AT_abc361_g	并查集, 双指针 two-pointer	并查集, 双指针 two-pointer	否	否
+AT_abc364_g	状态合并	状态合并	否	否
+AT_abc365_f	线段树	线段树	否	否
+AT_abc373_g	贪心, 分治, 二分图, 费用流	贪心, 分治, 二分图, 费用流	否	否
+AT_abc374_g	强连通分量, 二分图, 标签476	强连通分量, 二分图, 标签476	否	否
+AT_abc376_g	贪心, 优先队列	贪心, 优先队列	否	否
+AT_abc383_g	动态规划 DP, 动态规划优化, 凸包	动态规划 DP, 动态规划优化, 凸包	否	否
+AT_abc384_g	莫队, 树状数组, 分块	莫队, 树状数组, 分块	否	否
+AT_abc386_g	动态规划 DP, 容斥原理	动态规划 DP, 容斥原理	否	否
+AT_abc387_g			是	是
+AT_abc389_g			是	是
+AT_abc390_g			是	是
+AT_abc391_g	动态规划 DP	动态规划 DP	否	否
+AT_abc392_g	多项式, 快速傅里叶变换 FFT, 快速数论变换 NTT	多项式, 快速傅里叶变换 FFT, 快速数论变换 NTT	否	否
+AT_abc395_g	标签464	标签464	否	否
+AT_abc396_g	快速沃尔什变换 FWT	快速沃尔什变换 FWT	否	否
+AT_abc397_g	二分, 网络流, 最小割	二分, 网络流, 最小割	否	否
+AT_abc400_g	动态规划 DP, 动态规划优化, 状态合并	动态规划 DP, 动态规划优化, 状态合并	否	否
+AT_abc405_g	数学, 莫队, 分块	数学, 莫队, 分块	否	否
+AT_abc407_g	网络流, 费用流	网络流, 费用流	否	否
+AT_abc408_g	类欧几里得算法, Stern-Brocot 树	类欧几里得算法, Stern-Brocot 树	否	否
+AT_abl_f			是	是
+AT_acl1_d			是	是
+AT_acl1_e			是	是
+AT_agc001_d	图论, 构造	图论, 构造	否	否
+AT_agc001_e			是	是
+AT_agc002_d	并查集, 栈, 整体二分	并查集, 栈, 整体二分	否	否
+AT_agc002_e	模拟, 博弈论, 图论建模, 构造	模拟, 博弈论, 图论建模, 构造	否	否
+AT_agc002_f			是	是
+AT_agc003_d	数论, 素数判断, 质数, 筛法, 根号分治	数论, 素数判断, 质数, 筛法, 根号分治	否	否
+AT_agc003_e	递归, 栈, 差分	递归, 栈, 差分	否	否
+AT_agc003_f	矩阵乘法, 构造	矩阵乘法, 构造	否	否
+AT_agc004_e	动态规划 DP, 前缀和	动态规划 DP, 前缀和	否	否
+AT_agc005_d	动态规划 DP, 容斥原理	动态规划 DP, 容斥原理	否	否
+AT_agc005_e	博弈论	博弈论	否	否
+AT_agc005_f			是	是
+AT_agc006_c	倍增, 期望, 差分	倍增, 期望, 差分	否	否
+AT_agc006_d	贪心, 二分, 枚举	贪心, 二分, 枚举	否	否
+AT_agc006_f			是	是
+AT_agc007_c	期望	期望	否	否
+AT_agc007_d	动态规划 DP	动态规划 DP	否	否
+AT_agc007_f	贪心	贪心	否	否
+AT_agc009_c			是	是
+AT_agc010_c	递归	递归	否	否
+AT_agc010_d			是	是
+AT_agc010_f			是	是
+AT_agc011_d			是	是
+AT_agc011_e	贪心, 高精度, 二分	贪心, 高精度, 二分	否	否
+AT_agc012_c			是	是
+AT_agc012_d			是	是
+AT_agc013_c			是	是
+AT_agc013_e			是	是
+AT_agc014_d			是	是
+AT_agc014_e	线段树, 深度优先搜索 DFS, 队列	线段树, 深度优先搜索 DFS, 队列	否	否
+AT_agc015_d			是	是
+AT_agc015_e			是	是
+AT_agc016_d			是	是
+AT_agc016_e	枚举	枚举	否	否
+AT_agc017_c			是	是
+AT_agc017_d			是	是
+AT_agc018_c			是	是
+AT_agc018_d	贪心	贪心	否	否
+AT_agc019_c			是	是
+AT_agc019_d			是	是
+AT_agc020_d			是	是
+AT_agc020_e	字符串, 枚举, 记忆化搜索, 位运算	字符串, 枚举, 记忆化搜索, 位运算	否	否
+AT_agc021_c	构造	构造	否	否
+AT_agc021_d			是	是
+AT_agc022_e	动态规划 DP	动态规划 DP	否	否
+AT_agc023_f			是	是
+AT_agc024_d			是	是
+AT_agc024_e			是	是
+AT_agc025_d			是	是
+AT_agc026_d			是	是
+AT_agc026_e			是	是
+AT_agc027_b			是	是
+AT_agc027_d			是	是
+AT_agc028_b			是	是
+AT_agc028_c			是	是
+AT_agc029_e			是	是
+AT_agc030_c			是	是
+AT_agc030_d			是	是
+AT_agc031_c	构造	构造	否	否
+AT_agc031_d	置换, Ad-hoc	置换	否	否
+AT_agc032_c	欧拉回路, 分类讨论	欧拉回路	否	否
+AT_agc032_d	动态规划 DP, 线段树	动态规划 DP, 线段树	否	否
+AT_agc032_e	贪心, 二分	贪心, 二分	否	否
+AT_agc033_d	动态规划 DP, 动态规划优化	动态规划 DP, 动态规划优化	否	否
+AT_agc034_c	数学, 贪心, 二分	数学, 贪心, 二分	否	否
+AT_agc034_d	二分图, 费用流	二分图, 费用流	否	否
+AT_agc034_e	树形 DP	树形 DP	否	否
+AT_agc035_c	位运算, 构造	位运算, 构造	否	否
+AT_agc035_d	动态规划 DP, 记忆化搜索, 区间 DP, 动态规划优化	动态规划 DP, 记忆化搜索, 区间 DP, 动态规划优化	否	否
+AT_agc037_d	网络流, 二分图	网络流, 二分图	否	否
+AT_agc037_e	贪心	贪心	否	否
+AT_agc038_c	数学, 莫比乌斯反演	数学, 莫比乌斯反演	否	否
+AT_agc038_d	分类讨论		是	否
+AT_agc039_c	数论, 位运算	数论, 位运算	否	否
+AT_agc039_d	数学, 期望	数学, 期望	否	否
+AT_agc040_c	容斥原理	容斥原理	否	否
+AT_agc041_d	动态规划 DP, 背包 DP	动态规划 DP, 背包 DP	否	否
+AT_agc043_c	博弈论, SG 函数	博弈论, SG 函数	否	否
+AT_agc043_d	动态规划 DP	动态规划 DP	否	否
+AT_agc044_c	字典树 Trie	字典树 Trie	否	否
+AT_agc045_b	数学, 贪心, 前缀和	数学, 贪心, 前缀和	否	否
+AT_agc045_c	动态规划 DP	动态规划 DP	否	否
+AT_agc047_c	原根, 数论, 快速傅里叶变换 FFT	原根, 数论, 快速傅里叶变换 FFT	否	否
+AT_agc049_d	背包 DP, 差分	背包 DP, 差分	否	否
+AT_agc050_a	构造, Ad-hoc	构造	否	否
+AT_agc050_c	动态规划 DP, 前缀和	动态规划 DP, 前缀和	否	否
+AT_agc050_d	动态规划 DP, 概率论, 期望	动态规划 DP, 概率论, 期望	否	否
+AT_agc051_d	矩阵树定理, 欧拉回路	矩阵树定理, 欧拉回路	否	否
+AT_agc052_b	树的遍历, 位运算, 构造	树的遍历, 位运算, 构造	否	否
+AT_agc053_c	贪心, 概率论, 期望	贪心, 概率论, 期望	否	否
+AT_agc055_c	动态规划 DP, 数学, 排列组合	动态规划 DP, 数学, 排列组合	否	否
+AT_agc056_c	差分约束	差分约束	否	否
+AT_agc059_c	并查集	并查集	否	否
+AT_agc060_c	动态规划 DP, 组合数学, 排列组合, 概率论	动态规划 DP, 组合数学, 排列组合, 概率论	否	否
+AT_agc061_c	动态规划 DP, 动态规划优化, 容斥原理	动态规划 DP, 动态规划优化, 容斥原理	否	否
+AT_agc062_b	动态规划 DP	动态规划 DP	否	否
+AT_agc063_c	构造	构造	否	否
+AT_agc064_d	动态规划 DP	动态规划 DP	否	否
+AT_agc065_c	数学, 构造, Ad-hoc	数学, 构造	否	否
+AT_agc067_a	二分图, Ad-hoc	二分图	否	否
+AT_agc069_a	动态规划 DP	动态规划 DP	否	否
+AT_agc069_b	并查集, 二分图	并查集, 二分图	否	否
+AT_agc070_a	数论	数论	否	否
+AT_aising2019_e			是	是
+AT_aising2020_f			是	是
+AT_apc001_e			是	是
+AT_arc002_4			是	是
+AT_arc003_4			是	是
+AT_arc009_4			是	是
+AT_arc011_4			是	是
+AT_arc012_4			是	是
+AT_arc015_4			是	是
+AT_arc016_4	动态规划 DP, 二分, 期望	动态规划 DP, 二分, 期望	否	否
+AT_arc018_4			是	是
+AT_arc019_3			是	是
+AT_arc019_4			是	是
+AT_arc020_4			是	是
+AT_arc024_4			是	是
+AT_arc025_4			是	是
+AT_arc027_4			是	是
+AT_arc029_4			是	是
+AT_arc031_4			是	是
+AT_arc032_4			是	是
+AT_arc034_4			是	是
+AT_arc038_c			是	是
+AT_arc038_d			是	是
+AT_arc039_d			是	是
+AT_arc043_c			是	是
+AT_arc046_d			是	是
+AT_arc047_b			是	是
+AT_arc047_d			是	是
+AT_arc048_d			是	是
+AT_arc050_d			是	是
+AT_arc051_d			是	是
+AT_arc052_d			是	是
+AT_arc055_b			是	是
+AT_arc056_d			是	是
+AT_arc057_c			是	是
+AT_arc058_c	枚举, 状态合并, 进制	枚举, 状态合并, 进制	否	否
+AT_arc060_d			是	是
+AT_arc061_d	数学, 枚举, 逆元	数学, 枚举	否	否
+AT_arc062_c	枚举, 哈希 hashing	枚举, 哈希 hashing	否	否
+AT_arc064_d			是	是
+AT_arc065_c	枚举, 广度优先搜索 BFS, 概率论	枚举, 广度优先搜索 BFS, 概率论	否	否
+AT_arc065_d			是	是
+AT_arc066_c			是	是
+AT_arc067_c	动态规划 DP	动态规划 DP	否	否
+AT_arc067_d			是	是
+AT_arc068_c			是	是
+AT_arc069_d	线段树, 强连通分量, 分块	线段树, 强连通分量, 分块	否	否
+AT_arc070_c			是	是
+AT_arc072_c			是	是
+AT_arc072_d	单调队列, 概率论, 队列	单调队列, 概率论, 队列	否	否
+AT_arc073_c			是	是
+AT_arc073_d	线段树, 前缀和	线段树, 前缀和	否	否
+AT_arc074_c			是	是
+AT_arc074_d			是	是
+AT_arc076_d	贪心, 网络流, 排序	贪心, 网络流, 排序	否	否
+AT_arc078_d			是	是
+AT_arc079_d			是	是
+AT_arc081_d			是	是
+AT_arc082_c			是	是
+AT_arc085_c			是	是
+AT_arc085_d			是	是
+AT_arc086_c	虚树	虚树	否	否
+AT_arc089_c			是	是
+AT_arc090_d			是	是
+AT_arc091_d			是	是
+AT_arc092_d			是	是
+AT_arc093_c			是	是
+AT_arc095_c			是	是
+AT_arc095_d			是	是
+AT_arc096_c			是	是
+AT_arc097_d			是	是
+AT_arc099_c			是	是
+AT_arc099_d			是	是
+AT_arc101_c			是	是
+AT_arc101_d			是	是
+AT_arc102_c			是	是
+AT_arc103_b			是	是
+AT_arc103_d			是	是
+AT_arc104_e			是	是
+AT_arc104_f			是	是
+AT_arc105_e			是	是
+AT_arc105_f			是	是
+AT_arc106_e			是	是
+AT_arc106_f			是	是
+AT_arc107_e			是	是
+AT_arc108_e			是	是
+AT_arc108_f			是	是
+AT_arc109_e			是	是
+AT_arc110_f			是	是
+AT_arc111_e			是	是
+AT_arc111_f			是	是
+AT_arc112_e			是	是
+AT_arc113_e			是	是
+AT_arc114_d			是	是
+AT_arc114_e			是	是
+AT_arc115_f			是	是
+AT_arc118_d			是	是
+AT_arc119_d			是	是
+AT_arc119_e			是	是
+AT_arc119_f			是	是
+AT_arc120_e			是	是
+AT_arc120_f			是	是
+AT_arc121_d			是	是
+AT_arc121_e			是	是
+AT_arc121_f			是	是
+AT_arc122_e			是	是
+AT_arc123_e			是	是
+AT_arc124_e	动态规划 DP	动态规划 DP	否	否
+AT_arc125_e			是	是
+AT_arc126_e			是	是
+AT_arc127_d			是	是
+AT_arc127_e			是	是
+AT_arc128_d			是	是
+AT_arc128_e			是	是
+AT_arc130_d			是	是
+AT_arc133_d			是	是
+AT_arc135_d			是	是
+AT_arc136_e			是	是
+AT_arc139_c			是	是
+AT_arc139_d			是	是
+AT_arc140_d			是	是
+AT_arc140_e			是	是
+AT_arc141_d			是	是
+AT_arc141_e			是	是
+AT_arc143_e			是	是
+AT_arc144_d			是	是
+AT_arc146_c			是	是
+AT_arc146_d			是	是
+AT_arc146_e			是	是
+AT_arc147_e			是	是
+AT_arc148_e			是	是
+AT_arc149_d			是	是
+AT_arc149_e			是	是
+AT_arc150_d			是	是
+AT_arc151_e			是	是
+AT_arc152_e			是	是
+AT_arc153_d	动态规划 DP, 数位 DP	动态规划 DP, 数位 DP	否	否
+AT_arc155_d	博弈论, 莫比乌斯反演, SG 函数	博弈论, 莫比乌斯反演, SG 函数	否	否
+AT_arc156_d	数位 DP, 生成函数, Lucas 定理	数位 DP, 生成函数, Lucas 定理	否	否
+AT_arc157_d	数论, 组合数学	数论, 组合数学	否	否
+AT_arc157_e	树形 DP	树形 DP	否	否
+AT_arc158_d	数论, 随机化	数论, 随机化	否	否
+AT_arc158_e	分治, 扫描线	分治, 扫描线	否	否
+AT_arc159_f	动态规划 DP, cdq 分治	动态规划 DP, cdq 分治	否	否
+AT_arc160_d	组合数学, 容斥原理	组合数学, 容斥原理	否	否
+AT_arc160_e	双连通分量, 构造	双连通分量, 构造	否	否
+AT_arc160_f	动态规划 DP, 动态规划优化	动态规划 DP, 动态规划优化	否	否
+AT_arc162_d	树形 DP, Prüfer 序列	树形 DP, Prüfer 序列	否	否
+AT_arc162_e	动态规划 DP, 组合数学	动态规划 DP, 组合数学	否	否
+AT_arc162_f	动态规划 DP, 动态规划优化, 前缀和	动态规划 DP, 动态规划优化, 前缀和	否	否
+AT_arc163_d	动态规划 DP, 组合数学	动态规划 DP, 组合数学	否	否
+AT_arc164_e	动态规划 DP	动态规划 DP	否	否
+AT_arc165_d	强连通分量	强连通分量	否	否
+AT_arc165_e	树形 DP, 期望	树形 DP, 期望	否	否
+AT_arc167_e	数学, 构造, 标签482	数学, 构造, 标签482	否	否
+AT_arc168_e	动态规划 DP, 凸完全单调性（wqs 二分）	动态规划 DP, 凸完全单调性（wqs 二分）	否	否
+AT_arc169_d	数学, 贪心, 数论	数学, 贪心, 数论	否	否
+AT_arc170_e	动态规划 DP, 矩阵加速, 概率论, 期望, 矩阵乘法	动态规划 DP, 矩阵加速, 概率论, 期望, 矩阵乘法	否	否
+AT_arc171_e	数学, 组合数学	数学, 组合数学	否	否
+AT_arc172_d	数学, 随机化, Ad-hoc	数学, 随机化	否	否
+AT_arc172_e	数学, 数论	数学, 数论	否	否
+AT_arc173_d	负权环	负权环	否	否
+AT_arc173_e	线性基	线性基	否	否
+AT_arc174_e	树状数组, 组合数学, 排列组合	树状数组, 组合数学, 排列组合	否	否
+AT_arc176_d	矩阵加速, 期望, 矩阵乘法	矩阵加速, 期望, 矩阵乘法	否	否
+AT_arc176_e	网络流	网络流	否	否
+AT_arc177_d	线段树, 概率论, 单调栈	线段树, 概率论, 单调栈	否	否
+AT_arc177_e	贪心, 状态合并	贪心, 状态合并	否	否
+AT_arc178_d	动态规划 DP, 区间 DP	动态规划 DP, 区间 DP	否	否
+AT_arc179_d	树形 DP	树形 DP	否	否
+AT_arc179_e	哈希 hashing, 扫描线	哈希 hashing, 扫描线	否	否
+AT_arc180_d	线段树, 扫描线	线段树, 扫描线	否	否
+AT_arc182_c	矩阵加速, 矩阵乘法	矩阵加速, 矩阵乘法	否	否
+AT_arc183_d	贪心, 构造	贪心, 构造	否	否
+AT_arc183_e	图论建模, 最近公共祖先 LCA	图论建模, 最近公共祖先 LCA	否	否
+AT_arc184_b	快速沃尔什变换 FWT, 标签464	快速沃尔什变换 FWT, 标签464	否	否
+AT_arc184_c	动态规划 DP, 数学	动态规划 DP, 数学	否	否
+AT_arc184_d	动态规划 DP	动态规划 DP	否	否
+AT_arc185_c	多项式, 快速傅里叶变换 FFT, 快速数论变换 NTT	多项式, 快速傅里叶变换 FFT, 快速数论变换 NTT	否	否
+AT_arc185_d	动态规划 DP, 概率论, 期望	动态规划 DP, 概率论, 期望	否	否
+AT_arc186_a	动态规划 DP, 强连通分量, 二分图, 构造, 标签465	动态规划 DP, 强连通分量, 二分图, 构造, 标签465	否	否
+AT_arc186_d	组合数学, 容斥原理	组合数学, 容斥原理	否	否
+AT_arc186_e	贪心	贪心	否	否
+AT_arc187_c	动态规划 DP, 排序	动态规划 DP, 排序	否	否
+AT_arc187_d	颜色段均摊（珂朵莉树 ODT）	颜色段均摊（珂朵莉树 ODT）	否	否
+AT_arc190_c	动态规划 DP, 根号分治	动态规划 DP, 根号分治	否	否
+AT_arc190_d	图论建模, 矩阵乘法	图论建模, 矩阵乘法	否	否
+AT_asaporo2_f			是	是
+AT_atc002_c			是	是
+AT_autumn_fest_08			是	是
+AT_awtf2024_a			是	是
+AT_caddi2018_d			是	是
+AT_cf16_exhibition_final_e			是	是
+AT_cf17_final_d			是	是
+AT_cf17_final_e	并查集	并查集	否	否
+AT_cf17_final_f			是	是
+AT_cf17_final_g			是	是
+AT_cf17_final_j			是	是
+AT_cf_2015_morning_hard_b			是	是
+AT_codefestival_2016_final_e			是	是
+AT_codefestival_2016_final_f	动态规划 DP, 图论	动态规划 DP, 图论	否	否
+AT_codefestival_2016_final_h			是	是
+AT_codefestival_2016_qualB_e			是	是
+AT_codefestival_2016_qualC_e			是	是
+AT_code_festival_2017_quala_d			是	是
+AT_code_festival_2017_quala_f	线段树	线段树	否	否
+AT_code_festival_2017_qualb_d			是	是
+AT_code_festival_2018_final_i			是	是
+AT_code_festival_final_h			是	是
+AT_code_festival_final_i			是	是
+AT_code_festival_morning_hard_c			是	是
+AT_code_formula_2014_final_g			是	是
+AT_ddcc2017_final_d			是	是
+AT_ddcc2017_final_e			是	是
+AT_ddcc2020_final_c	后缀数组 SA	后缀数组 SA	否	否
+AT_ddcc2020_qual_e			是	是
+AT_discovery_2016_final_d			是	是
+AT_discovery_2016_qual_c			是	是
+AT_diverta2019_2_e			是	是
+AT_diverta2019_e			是	是
+AT_dp_z	斜率优化	斜率优化	否	否
+AT_dwacon2018_final_d	进制, 向量, 构造	进制, 向量, 构造	否	否
+AT_dwacon5th_prelims_d			是	是
+AT_dwacon6th_prelims_c			是	是
+AT_dwacon6th_prelims_d			是	是
+AT_dwango2015_finals_2			是	是
+AT_dwango2015_prelims_4			是	是
+AT_dwango2016qual_e			是	是
+AT_hhkb2020_f	概率论, 期望, 积分	概率论, 期望, 积分	否	否
+AT_hitachi2020_d			是	是
+AT_hitachi2020_e			是	是
+AT_icpc2012autumn_b	模拟, 字符串, 枚举	模拟, 字符串, 枚举	否	否
+AT_icpc2013summer_day3_h			是	是
+AT_icpc2013summer_day3_j			是	是
+AT_icpc2014autumn_f			是	是
+AT_icpc2015spring_a			是	是
+AT_icpc2015summer_day3_a	并查集, 后缀自动机 SAM, 后缀数组 SA	并查集, 后缀自动机 SAM, 后缀数组 SA	否	否
+AT_icpc2015summer_day3_c	动态规划 DP, 组合数学	动态规划 DP, 组合数学	否	否
+AT_icpc2015summer_day3_e	数论, 扩展欧几里德算法	数论, 扩展欧几里德算法	否	否
+AT_iroha2019_day4_l			是	是
+AT_jag2018summer_day2_i			是	是
+AT_joi2013ho5			是	是
+AT_joi2014ho5			是	是
+AT_joi2015ho_d			是	是
+AT_joi2016ho_c	树状数组, 枚举	树状数组, 枚举	否	否
+AT_joi2017ho_d			是	是
+AT_joi2018ho_d			是	是
+AT_joi2018ho_e			是	是
+AT_joi2019ho_e			是	是
+AT_joi2021ho_c			是	是
+AT_joi2021ho_d			是	是
+AT_joigsc2022_g			是	是
+AT_joisc2012_invitation			是	是
+AT_joisc2012_kangaroo			是	是
+AT_joisc2014_c			是	是
+AT_joisc2014_g			是	是
+AT_joisc2014_i	线段树, 单调队列, cdq 分治	线段树, 单调队列, cdq 分治	否	否
+AT_joisc2014_j			是	是
+AT_joisc2014_k			是	是
+AT_joisc2015_c	搜索, 2015, 线段树, 离散化, JOI（日本）	搜索, 线段树, 离散化	否	否
+AT_joisc2015_d	2015, 最短路, 构造, 差分, JOI（日本）	最短路, 构造, 差分	否	否
+AT_joisc2015_f			是	是
+AT_joisc2016_a			是	是
+AT_joisc2016_c			是	是
+AT_joisc2016_d			是	是
+AT_joisc2016_f			是	是
+AT_joisc2016_i			是	是
+AT_joisc2016_l			是	是
+AT_joisc2017_b			是	是
+AT_joisc2017_c			是	是
+AT_joisc2017_e			是	是
+AT_joisc2017_f			是	是
+AT_joisc2017_h			是	是
+AT_joisc2017_j			是	是
+AT_joisc2018_a			是	是
+AT_joisc2018_c	动态规划 DP, 组合数学	动态规划 DP, 组合数学	否	否
+AT_joisc2018_d			是	是
+AT_joisc2018_f			是	是
+AT_joisc2018_h			是	是
+AT_joisc2018_j			是	是
+AT_joisc2018_k			是	是
+AT_joisc2019_a			是	是
+AT_joisc2019_b			是	是
+AT_joisc2019_c			是	是
+AT_joisc2019_d	线段树, 扫描线	线段树, 扫描线	否	否
+AT_joisc2019_e			是	是
+AT_joisc2019_g			是	是
+AT_joisc2019_i			是	是
+AT_joisc2019_j			是	是
+AT_joisc2020_e			是	是
+AT_joisc2020_g			是	是
+AT_joisc2020_i			是	是
+AT_joisc2020_j			是	是
+AT_joisc2021_c			是	是
+AT_joisc2021_e			是	是
+AT_joisc2021_j			是	是
+AT_joisc2021_k			是	是
+AT_joisc2022_a			是	是
+AT_joisc2022_b			是	是
+AT_joisc2022_d			是	是
+AT_joisc2022_j			是	是
+AT_jsc2019_final_d			是	是
+AT_jsc2019_final_e			是	是
+AT_jsc2019_final_f	莫队, 多项式, 背包 DP, 容斥原理	莫队, 多项式, 背包 DP, 容斥原理	否	否
+AT_jsc2019_final_g	虚树	虚树	否	否
+AT_jsc2019_final_h	线段树, 分块	线段树, 分块	否	否
+AT_jsc2019_qual_e			是	是
+AT_jsc2021_g			是	是
+AT_keyence2019_e			是	是
+AT_keyence2021_e			是	是
+AT_kupc2016_i			是	是
+AT_kupc2018_k			是	是
+AT_kupc2019_k			是	是
+AT_kupc2020_h			是	是
+AT_kupc2020_m			是	是
+AT_mujin_pc_2016_d			是	是
+AT_mujin_pc_2017_c			是	是
+AT_mujin_pc_2018_f			是	是
+AT_mujin_pc_2018_g			是	是
+AT_m_solutions2019_f			是	是
+AT_nikkei2019_2_final_d			是	是
+AT_nikkei2019_2_final_h	Manacher 算法	Manacher 算法	否	否
+AT_nikkei2019_final_f			是	是
+AT_nikkei2019_qual_f			是	是
+AT_nomura2020_d			是	是
+AT_nomura2020_e			是	是
+AT_pakencamp_2021_day2_i			是	是
+AT_pakencamp_2021_day2_o	线段树, 后缀数组 SA	线段树, 后缀数组 SA	否	否
+AT_panasonic2020_f			是	是
+AT_qupc2018_h	Manacher 算法	Manacher 算法	否	否
+AT_qupc2018_j	差分, 根号分治	差分, 根号分治	否	否
+AT_relay2_i			是	是
+AT_relay2_j			是	是
+AT_s8pc_2_e			是	是
+AT_s8pc_4_e			是	是
+AT_s8pc_5_f			是	是
+AT_s8pc_6_h			是	是
+AT_snuke21_h			是	是
+AT_snuke21_i			是	是
+AT_snuke21_j			是	是
+AT_soundhound2018_d			是	是
+AT_tdpc_concatenation			是	是
+AT_tdpc_eel	动态规划 DP, 树形 DP	动态规划 DP, 树形 DP	否	否
+AT_tdpc_fibonacci			是	是
+AT_tdpc_graph			是	是
+AT_tdpc_grid			是	是
+AT_tdpc_lexicographical			是	是
+AT_tdpc_string			是	是
+AT_tenka1_2012_8			是	是
+AT_tenka1_2013_qualA_d			是	是
+AT_tenka1_2013_qualA_e			是	是
+AT_tenka1_2013_qualB_c			是	是
+AT_tenka1_2014_final_d	莫队	莫队	否	否
+AT_tenka1_2014_qualA_e			是	是
+AT_tenka1_2014_qualB_d			是	是
+AT_tenka1_2015_qualA_d			是	是
+AT_tenka1_2015_qualB_d			是	是
+AT_tenka1_2016_final_c			是	是
+AT_tenka1_2016_qualB_d			是	是
+AT_tenka1_2017_e			是	是
+AT_tenka1_2018_e			是	是
+AT_tenka1_2018_f			是	是
+AT_tenka1_2019_e			是	是
+AT_tenka1_2019_f			是	是
+AT_tokiomarine2020_e			是	是
+AT_toyota2023spring_final_g			是	是
+AT_ttpc2024_1_a			是	是
+AT_ttpc2024_1_b			是	是
+AT_ttpc2024_1_c			是	是
+AT_ttpc2024_1_e			是	是
+AT_ttpc2024_1_l			是	是
+AT_ttpc2024_1_m			是	是
+AT_utpc2011_7			是	是
+AT_utpc2011_8	网络流	网络流	否	否
+AT_wtf19_a			是	是
+AT_wtf19_c1			是	是
+AT_yahoo_procon2019_qual_d			是	是
+AT_yahoo_procon2019_qual_e	动态规划 DP, 容斥原理, 线性基	动态规划 DP, 容斥原理, 线性基	否	否

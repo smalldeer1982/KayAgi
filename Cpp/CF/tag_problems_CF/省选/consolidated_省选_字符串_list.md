@@ -1,0 +1,25 @@
+# 题号列表
+
+- CF1012D - AB-Strings
+- CF1015F - Bracket Substring
+- CF1017E - The Supersonic Rocket
+- CF1065E - Side Transmutations
+- CF1073G - Yet Another LCP Problem
+- CF107D - Crime Management
+- CF1202E - You Are Given Some Strings...
+- CF163E - e-Government
+- CF17C - Balance
+- CF17E - Palisection
+- CF1913F - Palindromic Problem
+- CF196D - The Next Good String
+- CF217E - Alien DNA
+- CF264D - Colorful Stones
+- CF482C - Game with Strings
+- CF484C - Strange Sorting
+- CF580E - Kefa and Watch
+- CF589C - Polycarp's Masterpiece
+- CF679C - Bear and Square Grid
+- CF754E - Dasha and cyclic table
+- CF827E - Rusty String
+- CF884F - Anti-Palindromize
+- CF965E - Short Code

@@ -1,0 +1,143 @@
+# 题号列表
+
+- P10157 - [LSOT-2] Tree and Xor
+- P10196 - [USACO24FEB] Lazy Cow P
+- P10285 - [USACO24OPEN] Activating Robots P
+- P10598 - BZOJ2162 男生女生
+- P10602 - [CEOI 2009] Harbingers
+- P10610 - 异界之门
+- P10628 - [JOI Open 2024] 图书馆 3
+- P10683 - [COTS 2024] 划分 Particija
+- P10685 - [COTS 2024] 兔子 Zečevi
+- P1084 - [NOIP 2012 提高组] 疫情控制
+- P10919 - 运输规划
+- P11147 - 「SFMOI Round I」Strange Dino Game
+- P11189 - 「KDOI-10」水杯降温
+- P11210 - 『STA - R8』强制在线动态二维数点
+- P11225 - [COTS 2019] 疏散 Sklonište
+- P11237 - [KTSC 2024 R1] 警察与小偷
+- P11264 - [COTS 2018] 逃遁 Bijeg
+- P11286 - [COTS 2017] 盗道 Krimošten
+- P11295 - [NOISG 2022 Qualification] Dragonfly
+- P11305 - [COTS 2016] 删除 Brisanje
+- P11597 - [NOISG 2018 Finals] City Mapping【缺样例】
+- P11733 - [集训队互测 2015] 上帝之手
+- P11845 - [USACO25FEB] Min Max Subarrays P
+- P12038 - [USTCPC 2025] 送温暖
+- P12479 - [集训队互测 2024] 长野原龙势流星群
+- P12532 - [XJTUPC 2025] Primal Core Optimization: Attribute Balance
+- P12793 - [NERC 2022] Dominoes
+- P12995 - [GCJ 2022 #2] Saving the Jelly
+- P13003 - [GCJ 2022 Finals] Slide Parade
+- P13038 - [GCJ 2021 #2] Retiling
+- P13052 - [GCJ 2020 Qualification] Indicium
+- P13074 - [GCJ 2020 Finals] Replace All
+- P13123 - [GCJ 2019 Finals] Board Meeting [Can't Judge yet]
+- P13153 - [GCJ 2018 Finals] Jurisdiction Restrictions
+- P13155 - [GCJ 2018 Finals] Go, Gophers!
+- P13174 - [GCJ 2017 #2] Shoot the Turrets
+- P13201 - [GCJ 2016 #2] Freeform Factory
+- P13262 - [GCJ 2014 #3] Crime House
+- P13329 - [GCJ 2012 #3] Havannah
+- P13330 - [GCJ 2012 #3] Quality Food
+- P13356 - [GDCPC 2024] 图
+- P13358 - [GDCPC 2024] 小班课
+- P13708 - [NWERC 2023] Isolated Island
+- P1402 - 酒店之王
+- P1485 - 火枪打怪
+- P1527 - [国家集训队] 矩阵乘法
+- P1674 - [USACO05FEB] Secret Milking Machine G
+- P1752 - 点菜
+- P1848 - [USACO12OPEN] Bookshelf G
+- P1852 - 跳跳棋
+- P1963 - [NOI2009] 变换序列
+- P2218 - [HAOI2007] 覆盖问题
+- P2468 - [SDOI2010] 粟粟的书架
+- P2570 - [ZJOI2010] 贪吃的老鼠
+- P2601 - [ZJOI2009] 对称的正方形
+- P2688 - 大海战
+- P2824 - [HEOI2016/TJOI2016] 排序
+- P2825 - [HEOI2016/TJOI2016] 游戏
+- P2839 - [国家集训队] middle
+- P2857 - [USACO06FEB] Steady Cow Assignment G
+- P2868 - [USACO07DEC] Sightseeing Cows G
+- P3191 - [HNOI2007] 紧急疏散EVACUATE
+- P3209 - [HNOI2010] 平面图判定
+- P3222 - [HNOI2012] 射箭
+- P3231 - [HNOI2013] 消毒
+- P3291 - [SCOI2016] 妖怪
+- P3324 - [SDOI2015] 星际战争
+- P3332 - [ZJOI2013] K大数查询
+- P3438 - [POI 2006] ZAB-Frogs
+- P3511 - [POI 2010] MOS-Bridges
+- P3515 - [POI 2011] Lightning Conductor
+- P3517 - [POI 2011] WYK-Plot
+- P3523 - [POI 2011] DYN-Dynamite
+- P3527 - [POI 2011] MET-Meteors
+- P3534 - [POI 2012] STU-Well
+- P3553 - [POI 2013] INS-Inspector
+- P3554 - [POI 2013] LUK-Triumphal arch
+- P3564 - [POI 2014] BAR-Salad Bar
+- P3576 - [POI 2014] MRO-Ant colony
+- P3580 - [POI 2014] ZAL-Freight
+- P3705 - [SDOI2017] 新生舞会
+- P3731 - [HAOI2017] 新型城市化
+- P3810 - 【模板】三维偏序（陌上花开）
+- P3839 - [IOI 2017] The Big Prize
+- P3882 - [JLOI2008] 将军
+- P3967 - [TJOI2014] 匹配
+- P4055 - [JSOI2009] 游戏
+- P4068 - [SDOI2016] 数字配对
+- P4083 - [USACO17DEC] A Pie for a Pie G
+- P4134 - [BJOI2012] 连连看
+- P4251 - [SCOI2015] 小凸玩矩阵
+- P4474 - 王者之剑
+- P4501 - [ZJOI2018] 胖
+- P4589 - [TJOI2018] 智力竞赛
+- P4602 - [CTSC2018] 混合果汁
+- P4661 - [BalticOI 2008] 网格
+- P4846 - LJJ爱数书
+- P4947 - PION后缀自动机
+- P4983 - 忘情
+- P5537 - 【XR-3】系统设计
+- P5549 - [BJ United Round #3] 观察星象
+- P5574 - [CmdOI2019] 任务分配问题
+- P5633 - 最小度限制生成树
+- P5647 - ygg发神威
+- P5785 - [SDOI2012] 任务安排
+- P6010 - [USACO20JAN] Falling Portals P
+- P6021 - 洪水
+- P6038 - 「ACOI2020」惊吓路径
+- P6087 - [JSOI2015] 送礼物
+- P6095 - [JSOI2015] 串分割
+- P6436 - 「EZEC-1」越狱
+- P6466 - 分散层叠算法(Fractional Cascading)
+- P6589 - 『JROI-1』 关系树
+- P6619 - [省选联考 2020 A/B 卷] 冰火战士
+- P6638 - 「JYLOI Round 1」常规
+- P7206 - [COCI 2019/2020 #3] Lampice
+- P7340 - 『MdOI R4』Balance
+- P7357 - 「PMOI-1」中位数
+- P7424 - [THUPC 2017] 天天爱射击
+- P7430 - [THUPC 2017] 组合数问题
+- P7518 - [省选联考 2021 A/B 卷]  宝石
+- P7561 - [JOISC 2021] 道路の建設案 (Road Construction) (Day2)
+- P7577 - 「PMOI-3」简单模拟题
+- P7624 - [AHOI2021初中组] 地铁
+- P7684 - [CEOI 2005] Depot Rearrangement
+- P7730 - [JDWOI-1] 蜀道难
+- P7862 - [COCI 2015/2016 #2] DRŽAVA
+- P7863 - 「EVOI-RD1」飞鸟和蝉
+- P8058 - [BalkanOI 2003] Farey 序列
+- P8434 - 「WHOI-2」D&D
+- P8541 - 「Wdoi-2」死亡之后愈发愉悦
+- P8568 - [JRKSJ R6] func
+- P9051 - [PA 2021] Wystawa
+- P9144 - [THUPC 2023 初赛] 最后的活动
+- P9200 - 「GMOI R2-T3」粒子环游
+- P9399 - 「DBOI」Round 1 人生如树
+- P9462 - 「EZEC-14」终点
+- P9542 - [湖北省选模拟 2023] 棋圣 / alphago
+- P9576 - 「TAOI-2」Ciallo～(∠・ω< )⌒★
+- P9916 - 「RiOI-03」Just a Q. (Easy ver.)
+- P9918 - 「RiOI-03」Just a Q. (Hard ver.)

@@ -1,0 +1,42 @@
+---
+title: "DSUBSEQ - Distinct Subsequences"
+layout: "post"
+diff: 难度0
+pid: SP2416
+tag: []
+---
+
+# DSUBSEQ - Distinct Subsequences
+
+## 题目描述
+
+Given a string, count the number of distinct subsequences of it ( including empty subsequence ). For the uninformed, A subsequence of a string is a new string which is formed from the original string by deleting some of the characters without disturbing the relative positions of the remaining characters.   
+For example, "AGH" is a subsequence of "ABCDEFGH" while "AHG" is not.
+
+## 输入格式
+
+First line of input contains an integer T which is equal to the number of test cases. You are required to process all test cases. Each of next T lines contains a string s.
+
+## 输出格式
+
+Output consists of T lines. Ith line in the output corresponds to the number of distinct subsequences of ith input string. Since, this number could be very large, you need to output ans%1000000007 where ans is the number of distinct subsequences.
+
+## 样例 #1
+
+### 输入
+
+```
+3
+AAA
+ABCDEFG
+CODECRAFT
+```
+
+### 输出
+
+```
+4
+128
+496
+```
+

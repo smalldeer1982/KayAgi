@@ -1,0 +1,48 @@
+# 题号列表
+
+- CF1003A - Polycarp's Pockets
+- CF1017A - The Rank
+- CF114A - Cifera
+- CF118A - String Task
+- CF124A - The number of positions
+- CF12A - Super Agent
+- CF133A - HQ9+
+- CF16A - Flag
+- CF1750B - Maximum Substring
+- CF1912L - LOL Lovers
+- CF2112A - Race
+- CF214A - System of Equations
+- CF23A - You're Given a String...
+- CF26A - Almost Prime
+- CF271A - Beautiful Year
+- CF27A - Next Test
+- CF29A - Spit Problem
+- CF456A - Laptops
+- CF47A - Triangular numbers
+- CF48A - Rock-paper-scissors
+- CF492A - Vanya and Cubes
+- CF4A - Watermelon
+- CF520A - Pangram
+- CF58A - Chat room
+- CF629A - Far Relative’s Birthday Cake
+- CF633A - Ebony and Ivory
+- CF672A - Summer Camp
+- CF68A - Irrational problem
+- CF6A - Triangle
+- CF747A - Display Size
+- CF758A - Holiday Of Equality
+- CF791A - Bear and Big Brother
+- CF802G - Fake News (easy)
+- CF868A - Bark to Unlock
+- CF869A - The Artful Expedient
+- CF894A - QAQ
+- CF898A - Rounding
+- CF898B - Proper Nutrition
+- CF903A - Hungry Student Problem
+- CF909A - Generate Login
+- CF914A - Perfect Squares
+- CF915A - Garden
+- CF935A - Fafa and his Company
+- CF939B - Hamster Farm
+- CF967A - Mind the Gap
+- CF981A - Antipalindrome

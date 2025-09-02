@@ -1,0 +1,813 @@
+# Bottle Arrangement
+
+## 题目描述
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/CF2041J/b0ec31716bac16850c9b08672302c1d21bc3b7be.png) 图片由 ChatGPT 4o 生成。Mayaw 在著名的 Epah（台湾原住民小米酒，Epah 是 Pangcah 语中对台湾原住民小米酒的称呼，Pangcah 是台湾最大的原住民族群）酒吧工作，该酒吧位于 Fata'an 村。为了展示其丰富的藏酒，酒吧有一个两排的酒架，每排正好可以放下 $n$ 瓶酒。酒架的后排已经放好了 $n$ 瓶酒，第 $i$ 个位置的酒瓶高度为 $a_i$。酒吧老板还有另外 $n$ 瓶高度各不相同的酒，分别为 $b_1, \ldots, b_n$，希望 Mayaw 将它们放在前排。
+
+为了保证酒架上所有酒瓶都能被看到，老板要求后排每个酒瓶都不能被前排对应位置的酒瓶挡住。也就是说，如果在前排第 $i$ 个位置放高度为 $h$ 的酒瓶，则必须满足 $h < a_i$。
+
+然而，并不是所有满足上述条件的摆放方式都能让老板满意。为了向附近的 Maxi 山致敬，老板还要求前排酒瓶的高度从左到右呈现出“山峰”形状。具体来说，前排酒瓶的高度序列应先（非严格）递增，再（非严格）递减。
+
+不幸的是，有时无法完全满足老板的要求。因此，Mayaw 还可以通过去掉酒瓶的瓶盖（瓶盖高度为 $1$）来略微降低酒瓶的高度。也就是说，去掉瓶盖后，酒瓶高度会恰好减少 $1$。当然，暴露 Epah 于空气中会影响其品质，因此应尽量少去除瓶盖。
+
+你能帮 Mayaw 计算出，为了满足老板的所有要求，最少需要去除多少个瓶盖吗？如果无论去除多少瓶盖都无法满足要求，则输出 $-1$。
+
+注意，后排酒瓶的位置是固定的，Mayaw 不能对其进行调整。
+
+## 说明/提示
+
+
+
+由 ChatGPT 4.1 翻译
+
+## 样例 #1
+
+### 输入
+
+```
+5
+2 4 6 5 4
+1 2 3 4 5```
+
+### 输出
+
+```
+0```
+
+## 样例 #2
+
+### 输入
+
+```
+5
+2 3 6 5 4
+1 2 3 4 5```
+
+### 输出
+
+```
+0```
+
+## 样例 #3
+
+### 输入
+
+```
+5
+6 2 6 6 6
+1 2 3 4 5```
+
+### 输出
+
+```
+1```
+
+## 样例 #4
+
+### 输入
+
+```
+5
+7 2 7 7 7
+1 3 4 5 6```
+
+### 输出
+
+```
+-1```
+
+## 样例 #5
+
+### 输入
+
+```
+10
+18 20 16 18 16 10 13 6 4 10
+19 10 9 15 4 16 6 12 3 17```
+
+### 输出
+
+```
+4```
+
+# 题解
+
+## 作者：喵仔牛奶 (赞：4)
+
+## Solution
+
+本篇题解参考了 [Gold14526](https://www.luogu.com.cn/user/345930) 的题解，但是将他的做法优化到了除排序外线性，并且代码十分简短。
+
+将 $b$ 从小到大排序。求出整个序列最靠左的最小值的位置 $p$，考虑 $b_n$ 放在哪里：
+- 如果放在 $p$：剩下的怎么放都合法，若 $b_n=a_p$ 需要操作一次。
+- 如果放在 $[1,p)$：$[p,n]$ 单调递增，直接将最小的几个数 $b_1,b_2,\cdots,b_{n-p+1}$ 放在 $[p,n]$ 里面。若 $b_{n-p+1}=a_p$ 需要操作一次。
+- 如果放在 $(p,n]$：$[1,p]$ 单调递减，直接将最小的几个数 $b_1,b_2,\cdots,b_{p}$ 放在 $[1,p]$ 里面。若 $b_{p}=a_p$ 需要操作一次。
+
+正确性证明：考虑证明放在 $[1,p)$ 时的正确性。如果放的不是这些数，设放在 $p$ 处的是 $x$，若 $x<a_p$，由于对于 $[1,p)$ 而言，$<a_p$ 的数是一样的，并不能使答案更小；若 $x=a_p$，则已经增加了 $1$ 的代价，$b_{n-p+1}$ 在 $[1,p)$ 中最多比原来减少 $1$ 的代价，且不会使不合法的情况变得合法，也不能使答案更小。
+
+发现这样变为了 $a,b$ 规模都缩小的子问题，枚举三种情况，后两种递归解决即可。可以发现递归解决实际上是在遍历笛卡尔树，建立笛卡尔树即可快速处理。复杂度除排序外线性。
+
+## Code
+
+```cpp
+#include <bits/stdc++.h>
+#define REP(i, l, r) for (int i = (l); i <= (r); ++ i)
+using namespace std;
+const int N = 1e6 + 5;
+int n, tp, a[N], b[N], ls[N], rs[N], s[N];
+int slv(int p, int L, int R) { // a 序列还剩下 [L,R]，p 是 [L,R] 的最小值
+	if (L > R) return 0;
+	int w = 1e9, t1 = n - (p - L), t2 = n - (R - p);
+	if (b[t1] <= a[p]) w = min(w, slv(ls[p], L, p - 1) + (b[t1] == a[p]));
+	if (b[t2] <= a[p]) w = min(w, slv(rs[p], p + 1, R) + (b[t2] == a[p]));
+	return w; // b[n] 放在 p 只有 l=r 才会进行，不需要特判
+}
+int main() {
+	cin >> n;
+	REP(i, 1, n) cin >> a[i];
+	REP(i, 1, n) cin >> b[i];
+	REP(i, 1, n) {
+		int x = 0;
+		while (tp && a[s[tp]] > a[i]) x = s[tp --];
+		if (tp) rs[s[tp]] = i;
+		ls[i] = x, s[++ tp] = i;
+	}
+	sort(b + 1, b + 1 + n);
+	int w = slv(s[1], 1, n); 
+	cout << (w < 1e9 ? w : -1) << '\n';
+	return 0;
+}
+```
+
+---
+
+## 作者：Gold14526 (赞：4)
+
+$\rm Problem:$[Bottle Arrangement](https://www.luogu.com.cn/problem/CF2041J)
+
+$\rm Difficulty:2700$
+
+### 题意
+
+给出长度为 $n$ 的两个序列 $a,b$，要求给 $b$ 序列中的若干个数减一并重排，设重排后的序列为 $b'$，要求 $b'$ 满足：
+
+- $b'$ 是个单峰序列。
+- $b'_i<a_i$。
+
+求减一次数的最小值，或报告无解。
+
+$1\le n\le5\times10^5$
+
+$1\le a_i,b_i\le10^9$
+
+### 做法
+
+先将 $b$ 序列从小到大排序，接下来的 $b$ 序列指从小到大排序后的 $b$ 序列。
+
+考虑扣出序列最小值 $mn$ 的所有位置 $p_1,p_2,...,p_k$。
+
+我们可以枚举单峰序列的峰在哪个 $[p_i,p_{i+1}]$ 中（或者是 $[1,p_1]$ 或 $[p_k,n]$），设 $len=p_{i+1}-p_i-1$，则我们可以贪心的将 $b$ 序列的前 $n-len$ 个数放在 $[1,p_i],[p_{i+1},n]$ 中，所需减 $1$ 的次数就是 $b$ 序列前 $n-len$ 个数中 $mn$ 的个数，不过如果 $b_{n-len}$ 已经大于 $mn$ 那么说明这种操作是不合法的，必须选择其他的 $[p_i,p_{i+1}]$。
+
+于是我们只需解决在 $[p_i+1,p_{i+1}-1]$ 中放入 $b$ 序列的后 $len$ 个数的子问题，做法与上面类似，只需不断递归分治即可。
+
+分治时间复杂度为 $O(n)$，但是由于要找 $p$ 序列，需要用一些数据结构维护一下，所以时间复杂度为 $O(n\log n)$。
+
+### 代码
+
+（本人大码量体质，实际上代码写得很清晰）
+
+```cpp
+#include<bits/stdc++.h>
+#define cint const int
+#define iint inline int
+#define uint unsigned int
+#define iuint inline unsigned int
+#define cuint const unsigned int
+#define ll long long
+#define cll const long long
+#define ill inline long long
+#define ull unsigned long long
+#define iull inline unsigned long long
+#define cull const unsigned long long
+#define sh short
+#define csh const short
+#define ish inline short
+#define ush unsigned short
+#define iush inline unsigned short
+#define cush const unsigned short
+using namespace std;
+iint read()
+{
+	int x=0;
+	char ch=getchar();
+	while(ch<'0'||ch>'9')
+	{
+		ch=getchar();
+	}
+	while(ch>='0'&&ch<='9')
+	{
+		x=(x<<1)+(x<<3)+(ch-'0');
+		ch=getchar();
+	}
+	return x;
+}
+cint inf=1e9;
+int n;
+int a[500001],b[500001];
+namespace T{//segment tree
+	struct node{
+		int l,r,mn;
+	}t[2000001];
+	void Build(cint p,cint l,cint r)
+	{
+		t[p].l=l;
+		t[p].r=r;
+		if(l==r)
+		{
+			t[p].mn=a[l];
+			return;
+		}
+		cint mid=l+r>>1;
+		Build(p<<1,l,mid);
+		Build(p<<1|1,mid+1,r);
+		t[p].mn=min(t[p<<1].mn,t[p<<1|1].mn);
+	}
+	void build()
+	{
+		Build(1,1,n);
+	}
+	int Ask(cint p,cint l,cint r)
+	{
+		if(t[p].l>r||t[p].r<l)return inf;
+		if(t[p].l>=l&&t[p].r<=r)return t[p].mn;
+		return min(Ask(p<<1,l,r),Ask(p<<1|1,l,r));
+	}
+	int ask(cint l,cint r)
+	{
+		return Ask(1,l,r);
+	}
+	int Find(cint p,cint l,cint r,cint x)
+	{
+		if(t[p].l>r||t[p].r<l)return -1;
+		if(t[p].l>=l&&t[p].r<=r&&t[p].mn!=x)return -1;
+		if(t[p].l==t[p].r)return t[p].l;
+		int L=Find(p<<1,l,r,x);
+		if(L!=-1)return L;
+		return Find(p<<1|1,l,r,x);
+	}
+	int find(cint l,cint r,cint x)
+	{
+		return Find(1,l,r,x);
+	}
+}
+int find(cint l,cint r,cint x)
+{
+	cint mid=l+r+1>>1;
+	if(l>=r)return mid;
+	if(b[mid]<x)return find(mid,r,x);
+	return find(l,mid-1,x);
+}
+int solve(cint l,cint r)
+{
+	if(l>r)return 0;
+	int mn=T::ask(l,r);
+	vector<int>p;
+	int w=l;
+	p.push_back(l-1);
+	while(1)
+	{
+		w=T::find(w,r,mn);
+		if(w==-1)break;
+		p.push_back(w);
+		++w;
+	}
+	int lst=find(0,n,mn);
+	p.push_back(r+1);
+	int ans=inf;
+	for(int i=0;i<p.size()-1;++i)
+	{
+		cint pl=p[i]+1,pr=p[i+1]-1;
+		cint len=pr-pl+1,tp=n-len;
+		if(b[tp]>mn)continue;
+		if(tp<=lst)
+		{
+			ans=min(ans,solve(pl,pr));
+		}
+		else
+		{
+			ans=min(ans,solve(pl,pr)+tp-lst);
+		}
+	}
+	return ans;
+}
+int main()
+{
+	n=read();
+	for(int i=1;i<=n;++i)
+	{
+		a[i]=read();
+	}
+	for(int i=1;i<=n;++i)
+	{
+		b[i]=read();
+	}
+	T::build();
+	sort(b+1,b+n+1);
+	int ans=solve(1,n);
+	printf("%d",(ans==inf?-1:ans));
+	return 0;
+}
+```
+
+---
+
+## 作者：H_W_Y (赞：2)
+
+首先考虑暴力 dp，我们按照 $b_i$ 从大到小插入到序列中。
+
+也就是设 $f_{l,r}$ 表示将 $b$ 的前 $r-l+1$ 大放到区间 $[l,r]$ 中的答案。那么转移就是枚举当前的 $b_{r-l+1}$ 放到 $l$ 还是 $r$，判断一下代价就可以了。
+
+时间复杂度 $\mathcal O(n^2)$。
+
+
+
+---
+
+
+
+于是考虑优化。
+
+发现我们从大往小扫 $b_i$ 的过程当中，能放 $b_i$ 的位置是不断增多的。下面设当前扫到的 $i$ 且 $b_i = x$。
+
+也就是说我们可以把序列 $a$ 每个元素看成 $0$ 或 $1$，$1$ 则表示当前 $a_j \gt x$，反之就是 $0$。
+
+那么如果一个区间 $[l,r]$ 包含 $0$，那么 $f_{l,r} = + \infty$，是没有用的。
+
+所以我们只需要去考虑那些 $1$ 构成的连续段，而且连续段越长越好，因为这些为 $1$ 的位置对于之后更小的 $b_i$ 都是本质相同的了，所以我们并不关心他们究竟是什么。
+
+现在的思路就是去维护每个 $1$ 的连续段的答案， 每个答案表示把 $\ge x$ 的 $b_i$ 放到这个连续段中的一个区间的代价最小值。
+
+
+
+---
+
+
+
+设现在扫到了第 $i$ 个，如果一个连续段长度 $\lt i-1$，那么就一定不合法了。
+
+因为 $b$ 的 $i$ 个数根本放不进去，并且它在被合并到一个合法的连续段之前就永远不合法了（答案为 $+\infty$）。
+
+反之如果 $len \ge i$，那么之前是合法的，现在也是合法的。
+
+而对于 $len = i-1$ 的情况就要特殊一些，因为如果这个连续段 $[l,r]$ 旁边 $a_{l-1}=x$ 或者 $a_{r+1}=x$，那么我们把 $x$ 放到 $l-1/r+1$ 是可以花费 $1$ 的代价让连续段继续合法；反之就是不合法的。
+
+那么每一次我们用一个 set 维护当前合法的连续段的左端点和长度就可以了，对于那些实际长度 $i-1$ 但是可以花费 $1$ 的代价变得合法的，我们就把它看成长度为 $i$ 就可以了。
+
+然后每次处理完删去不合法的连续段，其实就是把长度 $\lt i$ 的删了。
+
+
+
+---
+
+
+
+每次扫从 $i \to i+1$ 时，我们要做的只是让有些位置变成 $1$。
+
+而这些位置变成 $1$ 显然可以合并一些连续段，而合并两个连续段实际上就是答案取 $\min$。
+
+这个东西可以用并查集维护。
+
+
+
+---
+
+
+
+这样就做完了，实现中注意第一个位置有一些细节，时间复杂度 $\mathcal O(n \log n)$。[代码](https://codeforces.com/contest/2041/submission/293084968)。
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+#define pii pair<int,int>
+#define fi first
+#define se second
+
+const int N=1e6+5,inf=1e9;
+int n,a[N],b[N],fa[N],ans[N],sz[N],len[N],id[N];
+bool vis[N];
+set<pii> S;
+
+int find(int x){return x==fa[x]?x:fa[x]=find(fa[x]);}
+
+void ckmn(int &a,int b){a=min(a,b);}
+
+void merge(int u,int v){
+  u=find(u),v=find(v);
+  if(u==v) return;
+  if(ans[u]!=inf) S.erase({sz[u]+len[u],u});
+  if(ans[v]!=inf) S.erase({sz[v]+len[v],v});
+  fa[v]=u,sz[u]+=sz[v],len[u]=len[v]=0;
+  ans[u]=min(ans[u],ans[v]);
+  
+  if(ans[u]!=inf) S.insert({sz[u],u});
+}
+
+int main(){
+  ios::sync_with_stdio(false);cin.tie(0);cout.tie(0);
+  cin>>n;
+  for(int i=1;i<=n;i++) cin>>a[i],ans[i]=inf,sz[i]=1,fa[i]=id[i]=i;
+  for(int i=1;i<=n;i++) cin>>b[i];
+  
+  if(n==1){
+  	if(a[1]>b[1]) cout<<"0\n";
+  	else if(a[1]==b[1]) cout<<"1\n";
+  	else cout<<"-1\n";
+  	return 0;
+  }
+  
+  sort(id+1,id+n+1,[&](int x,int y){return a[x]>a[y];});
+  sort(b+1,b+n+1,[&](int x,int y){return x>y;});
+  
+  for(int i=1,j=1;i<=n;i++){
+  	while(j<=n&&a[id[j]]>b[i]){
+  	  int pos=id[j];
+  	  if(i==1) ans[pos]=0,S.insert({1,pos});
+  	  else if(i==2&&a[pos]==b[1]) ans[pos]=1,S.insert({1,pos});
+  	  
+	  if(vis[pos-1]) merge(pos-1,pos);
+	  if(vis[pos+1]) merge(pos,pos+1);
+	  vis[pos]=1;
+	  ++j;
+	}
+	int k=j;
+	while(k<=n&&a[id[k]]==b[i]){
+	  int pos=id[k];
+	  if(vis[pos-1]){
+	  	int l=find(pos-1);
+	  	if(ans[l]!=inf&&sz[l]==i-1&&!len[l]){
+	  	  S.erase({sz[l],l});
+	  	  S.insert({sz[l]+1,l}),++len[l],++ans[l];
+		}
+	  }
+	  if(vis[pos+1]){
+	  	int l=pos+1;
+	  	if(ans[l]!=inf&&sz[l]==i-1&&!len[l]){
+	  	  S.erase({sz[l],l});
+	  	  S.insert({sz[l]+1,l}),++len[l],++ans[l];
+		}
+	  }
+	  ++k;
+	}
+	
+	while(S.size()&&(*S.begin()).fi<i) ans[(*S.begin()).se]=inf,S.erase(S.begin());
+  }
+  if(!S.size()) cout<<"-1\n";
+  else cout<<ans[(*S.begin()).se]<<'\n';
+  return 0;
+}
+```
+
+---
+
+## 作者：happybob (赞：0)
+
+题意：
+
+给出长度为 $n$ 的两个序列 $a,b$，保证 $b$ 中的数两两不同。要求给 $b$ 序列中的若干个数减一并重排，一个数不能多次减一。设重排后的序列为 $b'$，要求 $b'$ 满足：
+
+- $b'$ 是非严格单峰序列。
+- 对于所有 $1 \leq i \leq n$，有 $b'_i<a_i$。
+
+求减一次数的最小值，或报告无解。
+
+$1\le n\le5\times10^5$，$1\le a_i,b_i\le10^9$。
+
+时限 $5$ 秒。
+
+解法：
+
+看不懂其他题解。
+
+先考虑能否判断答案是否为 $0$。
+
+显然序列 $b$ 的顺序无关紧要，假设 $b$ 小到大排序。
+
+不难发现单峰序列生成方式是，初始序列为空，将 $b_n$ 加入序列，然后枚举 $i$ 从 $n-1$ 到 $1$，将 $b_i$ 插入目前序列左侧或右侧。
+
+枚举峰顶所在位置 $p$。我们可以对于每个 $i$ 求出 $t_i$ 表示最大的 $b_{t_i} < a_i$，也就是说 $b'_i$ 被确定的时间不超过 $t_i$。然后题意变成你有一个时间戳初始为 $n$，有一个区间初始为 $[p,p]$，每次时间戳减 $1$，然后你可以将区间左端点左移 $1$ 或右端点右移 $1$，并且要求每个位置 $i$ 第一次加入区间时时间戳不超过 $t_i$。显然等价于找到一个区间 $[l,r]$ 使得 $l \leq p \leq r$ 且 $t_{l-1}<n-(r-l+1)$ 与 $t_{r+1} < n-(r-l+1)$，这里假设 $t_0 = t_{n+1}=-\infty$。这个区间中的位置作为峰顶都是不行的，下文称这些区间为封锁区间。显然一个被其他区间包含的区间没有意义，所以只需要对于每个 $l$ 求出最右的 $r$ 即可。又可以发现 $l$ 固定时限制了一个 $r$ 的范围，并要求 $t_{r+1}+r$ 符合某个大小限制，线段树上二分找到这个位置即可。
+
+已经确定了答案是否为 $0$，接着考虑如何计算答案。发现一个封锁区间若通过题目中的操作能变为非封锁区间，必然有 $t_{l-1}=n-(r-l+1)$ 或 $t_{r+1}=n-(r-l+1)$。对应的花费为 $f(a_{l-1})$ 与 $f(a_{r+1})$，$f(x)$ 定义为若 $b$ 序列中有 $x$，则 $f(x)=1$，否则 $f(x)=+\infty$，对应着能否通过减一操作使得 $t$ 增加一。
+
+不妨考虑 $t_{l-1}=n-(r-l+1)$，此时 $r$ 唯一确定。同理对于 $t_{r+1}=n-(r-l+1)$，$l$ 唯一确定。于是得到若干区间 $[l,r]$，要选择若干 $a$ 中的数使得每个封锁区间都变为非封锁区间。看似比较奇怪，但是显然如果一个区间只有一侧能操作则只能操作那个数，如果一个区间两侧都能操作，那么必然有 $t_{l-1}=t_{r+1}$，换句话说只需要操作 $f(a_{l-1})$ 与 $f(a_{r+1})$ 较小的那个即可。扫描线枚举峰顶，动态维护所有区间的端点的 $a$ 值的集合即可。
+
+另一方面，有些封锁区间 $[l,r]$ 是不能被操作成非封锁区间的，还是用线段树二分就能找到所有极大区间 $[l,r]$，维护差分即可。
+
+复杂度 $O(n \log n)$。
+
+[Submission Link.](https://codeforces.com/problemset/submission/2041/298416074)
+
+---
+
+## 作者：Albert_van (赞：0)
+
+[题](https://www.luogu.com.cn/problem/CF2041J) [题](https://mirror.codeforces.com/problemset/problem/2041/J)。神秘转化题，限制叠得特别多，但是一个一个拆开会发现都是好做的。首先这个单峰就是前增后减，枚举一个分界点 $p\in[1,n)$ 令重排后 $b$ 在 $[1,p]$ 单调不减、$[p+1,n]$ 单调不增。考虑这个单调很难处理，以前缀单调不减为例，既然不关心 $b$ 的具体排列，那么 $b_i\le b_j(i\le j),b_j<a_j$ 就可以合并成一条限制 $b_i<a_j$。记 $s_i=\min\{a_i,\cdots,a_p\}(i\le p)$，$s_i(i>p)$ 同理是前缀 $\min$，限制即 $b_i<s_i$，那么只要 $b$ 和 $s$ **排序后**满足 $\forall i,b_i\le s_i$，就必然可以重排 $b$ 以满足题目要求，且此时最小揭瓶盖数即为 $\sum_i [b_i=s_i]$。
+
+先考虑判断是否有解，即把 $b_i$ 全部减去 $1$ 然后判断排序后是否 $\forall i,b_i<s_i$。很难在扫 $p$ 的过程中动态维护 $s_i$ 的排序结果，考虑这种逐下标比较的常用套路，记 $l_i=\sum_k[b_k<s_i]$，限制改写为：
+$$
+\forall v\in[0,n),|\{i:l_i\le v\}|\le v
+$$
+$l_i\le v$ 的 $s_i$ 必然要匹配 $b$ 的前 $v$ 小，如果有 $>v$ 个这样的 $i$ 就会出现 $b$ 不够用。充分性也是显然的。考虑扫 $p$ 过程中动态维护 $c_v=|\{i:l_i\le v\}|-v$。从前往后扫 $p$，$i\le p$ 的 $l_i$ 对 $c$ 的贡献很好处理，用单调栈维护 $s_i$，修改为 $\mathcal O(n)$ 次 $s_i$ 的区间减即 $c_v$ 的区间加，$i>p$ 的部分也是一样的，可以可持久化或者先行从后往前扫一遍记录修改并撤销。查询即 $c$ 的全局 $\max$ 是否 $\le 0$。
+
+然后考虑最小化揭瓶盖数。把 $b_i$ 全部加回来 $1$。考虑拿这个 $b$ 再去跑一遍上述过程，你会发现，因为 $b_i$ **两两不同**，所以 $l_i$（相较于 $b_i$ 全部减去 $1$ 时）最多减少 $1$，所以原来 $c_{\max}\le 0$ 时，新的 $c_{\max}$ 必然**不超过** $1$；进一步地，每一个 $|\{i:l_i\le v\}|=v+1$ 的位置 $v$ 都需要恰好一次揭瓶盖（找到那个 $l_i=v$ 的 $i$ 令 $b_i$ 减一，因为这个 $l_i$ 是 $b_i$ 加一得到的，所以减回去必然使得 $l_i$ 增加），所以数全局 $\max$ 个数即可。
+
+回顾，最优解的策略根据可行解的判断调整而来，有一定启发性。实现注意两次扫描线之间清空。单 $\log$，略微卡常。
+
+```cpp
+#include <cstdio>
+#include <vector>
+#include <algorithm>
+
+using namespace std;
+
+void re(int &x){
+	x=0;int c=getchar();
+	while(c<'0'||c>'9') c=getchar();
+	while(c>='0'&&c<='9') x=(x<<3)+(x<<1)+(c^48),c=getchar();
+}
+
+const int N=514114;
+
+struct node{int m,c;};
+node operator+(node a,node b){
+	if(a.m<b.m) swap(a,b);
+	return {a.m,a.c+(a.m==b.m)*b.c};
+}
+
+namespace sgt{
+	#define ls(x) (x<<1)
+	#define rs(x) (x<<1|1)
+	int tg[N*3];node s[N*3];
+	void build(int now,int ln,int rn){
+		if(ln==rn) return s[now]={-ln,1},void();
+		tg[now]=0;int mid=ln+rn>>1;
+		build(ls(now),ln,mid);
+		build(rs(now),mid+1,rn);
+		s[now]=s[ls(now)]+s[rs(now)];
+	}
+	void ad(int x,int d){s[x].m+=d;tg[x]+=d;}
+	void downtag(int x){if(tg[x]) ad(ls(x),tg[x]),ad(rs(x),tg[x]),tg[x]=0;}
+	void upd(int now,int ln,int rn,int l,int r,int d){
+		if(l>r) return ;
+		if(l<=ln&&rn<=r) return ad(now,d);
+		downtag(now);int mid=ln+rn>>1;
+		if(l<=mid) upd(ls(now),ln,mid,l,r,d);
+		if(r>mid) upd(rs(now),mid+1,rn,l,r,d);
+		s[now]=s[ls(now)]+s[rs(now)];
+	}
+}using namespace sgt;
+
+struct Up{int l,r,d;};
+vector<Up> U[N];
+
+int a[N],ar[N],b[N],p[N],t,ans=N,n;bool fl[N];
+
+void xhj(){
+	build(1,0,n);
+	for(int i=1;i<=n;++i) a[i]=lower_bound(b+1,b+n+1,ar[i])-b-1;
+	a[p[t=0]=n+1]=-1;for(int i=n;i;--i){
+		U[i].push_back({a[i],n,-1});upd(1,0,n,a[i],n,1);
+		while(a[p[t]]>=a[i]) U[i].push_back({a[i],a[p[t]]-1,p[t]-p[t-1]}),
+			upd(1,0,n,a[i],a[p[t]]-1,p[t-1]-p[t]),--t;
+		p[++t]=i;
+	}
+	a[p[t=0]=0]=-1;for(int i=1;i<=n;++i){
+		for(auto[l,r,d]:U[i]) upd(1,0,n,l,r,d);
+		U[i].clear();upd(1,0,n,a[i],n,1);
+		while(a[p[t]]>=a[i]) upd(1,0,n,a[i],a[p[t]]-1,p[t]-p[t-1]),--t;
+		p[++t]=i;
+		if(fl[i]) ans=min(ans,s[1].m>0?s[1].c:0);
+		fl[i]=s[1].m<=0;
+	}
+}
+
+int main()
+{
+	re(n);for(int i=1;i<=n;++i) re(ar[i]);
+	for(int i=1;i<=n;++i) re(b[i]),--b[i];
+	sort(b+1,b+n+1);xhj();
+	for(int i=1;i<=n;++i) ++b[i];
+	xhj();printf("%d",ans<N?ans:-1);
+}
+```
+
+---
+
+## 作者：居然有个高手 (赞：0)
+
+好题。
+
+考虑对于一个给定的 $b$ 序列如何 check。有一个 $O(n^2)$ 的 $f_{l,r}$ 表示前 $r-l+1$ 大的 $b_i$ 能否放进 $[l,r]$ 中。但是这明显没有利用完全性质。
+
+将 $b$ 从大往小排序，若存在一个长度 $\ge i$ 的包含 $j$ 的连续段，满足其中的值都大于 $b_i$，那么我们记 $f_{i,j} = 1$。最后，若有一个 $j$ 满足其 $f_{i,j}$ 均为 $1$，那么此 $b_i$ 序列合法，且此时 $b_1$ 填在 $j$ 这个位置。
+
+必要性是显然的，若 $i$ 时刻 $j$ 这个连通块都没有 $i$ 个位置 $\ge b_i$ 显然非法。
+
+充分性同样易证，如果对于每个时刻都有这样的连通块，那么我们显然可以将每次新增加的 $b_i$ 填在最后一个加入该连通块的位置。
+
+此时，我们只需要支持将某个位置设为 $1$（表示其 $\ge b_i$），同时对所有长度 $\ge i$ 的连续段，将其中的 $f_{i,j}$ 设为 $1$。关于连续段的维护是并查集的经典问题，而对于找到所有长度 $\ge i$ 的连续段，我们可以参考优秀的拆分，对总计 $n\ln n$ 个关键点进行询问，若满足条件则对区间赋值做简单差分。此刻将 check 做到 $O(n\ln n)$。
+
+考虑 $b_i -1$ 的意义，其仅对第 $i$ 大值产生影响。此时我们多出了一些 $=b_i$ 的位置，将这些位置及关于这些位置连通的位置的 $f_{i,j}$ 设为 $1$ 的代价为 $1$。不妨仿照上述过程，在差分过程中维护 $c_{i,0/1}$ 表示当前位置 $j$ 的 $f_{i,j}$ 设为 $1$ 的代价能否为 $0/1$，简单讨论即可维护。
+
+时间复杂度：$O(n\ln n)$。
+
+代码：
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+const int N=5e5+5;
+inline int read(){
+    int x=0,f=1;char ch=getchar();
+    while(ch<'0'||ch>'9'){if(ch=='-')f=-1;ch=getchar();}
+    while(ch>='0'&&ch<='9')x=(x<<3)+(x<<1)+(ch^48),ch=getchar();
+    return x*f;
+}
+int n,b[N],fa[N],L[N],R[N],c[N][2],sum,ok;
+bool vis[N];
+struct node{
+    int c,v,op;
+};
+vector<node>v[N];
+inline int find(int x){
+    return x==fa[x]?x:fa[x]=find(fa[x]);
+}
+inline void merge(int x,int y){
+    x=find(x),y=find(y);
+    fa[x]=y;L[y]=min(L[y],L[x]);R[y]=max(R[y],R[x]);
+}
+struct qwq{
+    int x,id;
+    inline bool operator<(qwq b){
+        return x>b.x;
+    }
+}a[N];
+int main(){
+    n=read();
+    for(int i = 1;i<=n;i++)a[i].x=read(),a[i].id=i;
+    sort(a+1,a+n+1);
+    for(int i = 1;i<=n;i++)b[i]=read();
+    sort(b+1,b+n+1,greater<int>());
+    for(int i = 1,lst=1;i<=n;i++){
+        while(lst<=n&&a[lst].x>b[i]){
+            int x=a[lst].id;
+            vis[x]=1;fa[x]=x;L[x]=R[x]=x;
+            if(vis[x-1])merge(x,x-1);
+            if(vis[x+1])merge(x,x+1);
+            lst++;
+        }
+        for(int j = i;j<=n;j+=i){
+            if(!vis[j])continue;
+            int x=find(j);
+            // cerr<<i<<' '<<j<<' '<<x<<endl;
+            if(R[x]-L[x]+1<i)continue;
+            v[L[x]].push_back({i,0,1});v[R[x]+1].push_back({i,0,-1});
+        }   
+        while(lst<=n&&a[lst].x==b[i]){
+            int x=a[lst].id;
+            vis[x]=1;fa[x]=x;L[x]=R[x]=x;
+            if(vis[x-1])merge(x,x-1);
+            if(vis[x+1])merge(x,x+1);
+            lst++;
+        }
+        for(int j = i;j<=n;j+=i){
+            if(!vis[j])continue;
+            int x=find(j);
+            if(R[x]-L[x]+1<i)continue;
+            v[L[x]].push_back({i,1,1});v[R[x]+1].push_back({i,1,-1});
+        }   
+    }
+    int ans = 1e9;
+    for(int i = 1;i<=n;i++){
+        for(auto[a,v,op]:v[i]){
+            if(op==1){
+                c[a][v]++;
+                if(c[a][v]==1){
+                    if(!c[a][v^1])ok++,sum+=v;
+                    else if(v==0)sum--;
+                }
+            }
+            else{
+                c[a][v]--;
+                if(c[a][v]==0){
+                    if(!c[a][v^1])ok--,sum-=v;
+                    else if(v==0)sum++;
+                }
+            }
+        }
+        if(ok==n)ans=min(ans,sum);
+        // cerr<<i<<' '<<ok<<endl;
+    }
+    if(ans==1e9)printf("-1");
+    else printf("%d",ans);
+    return 0;
+}
+```
+
+---
+
+## 作者：_Ch1F4N_ (赞：0)
+
+好题。
+
+我们一步步来思考，先看看怎么 check 答案是否为 $0$。
+
+单峰的限制比较恶心，但是你考虑枚举峰顶后可以拆成一个不降和一个不增，这个我们比较熟悉。
+
+不过你发现 $a$ 的限制更恶心，我们考虑一下找出一些特殊情况使得对于重排后的 $b$ 序列的某些位置不用管这个 $a$ 限制。
+
+你发现对于不降的部分而言，所有前缀最小 $a$ 都会使得其前面的位置的 $a$ 限制失效！更进一步地，为了这个限制不被后面的失效掉，你只需要找到最靠后的最小值即可，这个最小值前面的部分没有 $a$ 的限制，不增的部分同理，找到第一个最小值，这个位置后面没有 $a$ 的限制，那么我们是不是可以将问题拆解为两个位置之间的问题加上前后的填法？
+
+有点问题，具体而言，前后最小值可能不同，填前后两部分的策略并没有那么简单，怎么办呢？
+
+考虑缩小考虑的范围，具体而言，我们只让全局最小值位置去使得其他位置限制失效，也就是假若有全局最小值位置 $p_1,p_2,\cdots,p_k$，假若峰在 $[p_i,p_{i+1}]$ 内，我们就把问题变为 $[1,p_i],[p_{i+1},n]$ 的填法与 $(p_i,p_{i+1})$ 的填法，而 $[1,p_i],[p_{i+1},n]$ 的填法是好做的，把剩余可选的数中选若干个最小的填上去判断是否合法即可，不用给后面的留吗？不需要，因为后面的限制一定大于 $a_{p_i}$ 所以小于这个的数留谁都是无所谓的，所以得到剩余可选的数是 $b$ 排序后的一段后缀，而且峰在同一个 $[p_i,p_{i+1}]$ 内的问题可以一起向下递归，因此可以设计函数 $solve(l,r,P)$ 表示处理峰在 $[l,r]$ 内的填法，剩余可选的数为 $b$ 排序后的 $[P,n]$ 是否可行，用线段树快速找出所有 $p$，然后枚举 $[p_i,p_{i+1}]$，前后填若干个数判断是否可行再向下递归，不难发现一个值只会被找出并处理一次，因此时间复杂度 $O(n \log n)$。
+
+还没完呢，前面处理的问题是判断答案是否为 $0$，现在要处理最小操作次数，不难发现填 $[l,p_i],[p_{i+1},r]$ 时若最大数等于 $a_{p_i}$ 需要做填的 $a_{p_i}$ 的个数次操作，大于 $a_{p_i}$ 时无论怎么操作都不可行，小于时无需操作，因此前面的做法稍加修改即可，具体可以看代码。
+
+
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+const int inf = 1e9+114;
+const int maxn = 5e5+114;
+pair<int,int> tr[maxn<<2];
+int a[maxn],b[maxn];
+int n;
+void build(int cur,int lt,int rt){
+    if(lt==rt){
+        tr[cur]=make_pair(a[lt],lt);
+        return ;
+    }
+    int mid=(lt+rt)>>1;
+    build(cur<<1,lt,mid);
+    build(cur<<1|1,mid+1,rt);
+    tr[cur]=min(tr[cur<<1],tr[cur<<1|1]);
+}
+pair<int,int> ask(int cur,int lt,int rt,int l,int r){
+    if(l>r) return make_pair(inf,inf);
+    if(r<lt||rt<l) return make_pair(inf,inf);
+    if(l<=lt&&rt<=r) return tr[cur];
+    int mid=(lt+rt)>>1;
+    return min(ask(cur<<1,lt,mid,l,r),ask(cur<<1|1,mid+1,rt,l,r));
+}
+int solve(int l,int r,int p){
+    //a[l,r] b[p,n]
+    if(l==r){
+        return (b[p]<a[l]?0:(b[p]<=a[l]?1:inf));
+    }
+    if(l>r) return 0;
+    vector<int> minpos;
+    pair<int,int> now=ask(1,1,n,l,r);
+    int minval=now.first;
+    minpos.push_back(now.second);
+    while(now.second+1<=r){
+        now=ask(1,1,n,now.second+1,r);
+        if(now.first!=minval) break;
+        minpos.push_back(now.second);
+    }
+    int L=p,R=n+1;
+    while(L+1<R){
+        int mid=(L+R)>>1;
+        if(b[mid]<minval) L=mid;
+        else R=mid;
+    }
+    int mxpos=(b[L]<minval?L:L-1);
+    int ans=inf;
+    //[l,minpos[0]]
+    if(b[p+r-minpos[0]]<minval) ans=min(ans,solve(l,minpos[0]-1,p+r-minpos[0]+1));
+    else if(b[p+r-minpos[0]]<=minval) ans=min(ans,p+r-minpos[0]-mxpos+solve(l,minpos[0]-1,p+r-minpos[0]+1));
+    for(int i=0;i+1<minpos.size();i++){
+        //[minspos[i] minspos[i+1]]
+        int len=minpos[i]-l+1+r-minpos[i+1]+1;
+        if(b[p+len-1]<minval) ans=min(ans,solve(minpos[i]+1,minpos[i+1]-1,p+len));
+        else if(b[p+len-1]==minval) ans=min(ans,p+len-1-mxpos+solve(minpos[i]+1,minpos[i+1]-1,p+len));
+    }
+    if(b[p+minpos.back()-l]<minval) ans=min(ans,solve(minpos.back()+1,r,p+minpos.back()-l+1));
+    else if(b[p+minpos.back()-l]<=minval) ans=min(ans,p+minpos.back()-l-mxpos+solve(minpos.back()+1,r,p+minpos.back()-l+1));
+    return ans;
+}
+int main(){
+    ios::sync_with_stdio(0);
+    cin.tie(0),cout.tie(0);
+    cin>>n;
+    for(int i=1;i<=n;i++) cin>>a[i];
+    build(1,1,n);
+    for(int i=1;i<=n;i++) cin>>b[i];
+    sort(b+1,b+n+1);
+    int ans=solve(1,n,1);
+    cout<<(ans<inf?ans:-1);
+    return 0;
+}
+```
+
+---
+

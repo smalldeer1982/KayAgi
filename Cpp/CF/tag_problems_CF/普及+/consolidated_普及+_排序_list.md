@@ -1,0 +1,23 @@
+# 题号列表
+
+- CF1008C - Reorder the Array
+- CF1641B - Repetitions Decoding
+- CF1679D - Toss a Coin to Your Graph...
+- CF1896C - Matching Arrays
+- CF2038I - Polyathlon
+- CF2042D - Recommendations
+- CF2044G2 - Medium Demon Problem (hard version)
+- CF2053D - Refined Product Optimality
+- CF31D - Chocolate
+- CF510C - Fox And Names
+- CF527C - Glass Carving
+- CF527D - Clique Problem
+- CF529B - Group Photo 2 (online mirror version)
+- CF576C - Points on Plane
+- CF629D - Babaei and Birthday Cake
+- CF720A - Closing ceremony
+- CF784F - Crunching Numbers Just for You
+- CF864E - Fire
+- CF909E - Coprocessor
+- CF915D - Almost Acyclic Graph
+- CF977D - Divide by three, multiply by two

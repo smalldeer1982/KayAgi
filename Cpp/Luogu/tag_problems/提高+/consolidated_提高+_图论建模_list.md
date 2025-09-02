@@ -1,0 +1,32 @@
+# 题号列表
+
+- P10278 - [USACO24OPEN] Painting Fence Posts S
+- P11146 - 「SFMOI Round I」Strange Train Game
+- P11564 - 【MX-X7-T5】[LSOT-3] 你的列车是生存战略
+- P11604 - [PA 2016] 卡牌 / Gra w karty
+- P12407 - 「CZOI-R3」数字变换
+- P13203 - [GCJ 2016 #3] Forest University
+- P13296 - [GCJ 2013 #2] Erdős–Szekeres
+- P13619 - [ICPC 2025 APC] Duplicates
+- P2227 - [HNOI2001] 洗牌机
+- P3036 - [USACO16DEC] Lasers and Mirrors G
+- P3701 - 主主树
+- P3961 - [TJOI2013] 黄金矿工
+- P4011 - 孤岛营救问题
+- P4171 - [JSOI2010] 满汉全席
+- P4306 - [JSOI2010] 连通数
+- P4366 - [Code+#4] 最短路
+- P4376 - [USACO18OPEN] Milking Order G
+- P4742 - [Wind Festival] Running In The Sky
+- P4822 - [BJWC2012] 冻结
+- P6268 - [SHOI2002] 舞会
+- P7297 - [USACO21JAN] Telephone G
+- P7528 - [USACO21OPEN] Portals G
+- P7717 - 「EZEC-10」序列
+- P7876 - 「SWTR-7」Scores（hard version）
+- P8095 - [USACO22JAN] Cereal 2 S
+- P8207 - [THUPC 2022 初赛] 最小公倍树
+- P8731 - [蓝桥杯 2020 国 AB] 出租车
+- P9088 - 「SvR-2」1+2=3
+- P9402 - [POI 2020/2021 R3] Droga do domu
+- P9705 - 「TFOI R1」Unknown Graph

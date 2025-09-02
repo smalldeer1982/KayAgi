@@ -1,0 +1,43 @@
+---
+title: "X-Express"
+layout: "post"
+diff: 难度0
+pid: UVA980
+tag: []
+---
+
+# X-Express
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=11&page=show_problem&problem=921
+
+[PDF](https://uva.onlinejudge.org/external/9/p980.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA980/f32b54a4306a49b24581aae8245b84aa288ef4ea.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA980/ab322773320e9255f5e6381dc7df5a0c391ea85f.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA980/e3db17a9d1526b635abe50a297e7f34315e1b2e7.png)
+
+## 样例 #1
+
+### 输入
+
+```
+20 120 50 80 100 30
+40 80 5 10 100 40
+15 12 20 100 30 20
+```
+
+### 输出
+
+```
+7
+6
+```
+

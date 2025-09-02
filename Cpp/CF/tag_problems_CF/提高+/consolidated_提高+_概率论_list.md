@@ -1,0 +1,22 @@
+# 题号列表
+
+- CF1006F - Xor-Paths
+- CF1012B - Chemical table
+- CF1027D - Mouse Hunt
+- CF1034A - Enlarge GCD
+- CF1060E - Sergey and Subway
+- CF1540B - Tree Array
+- CF1753C - Wish I Knew How to Sort
+- CF2028E - Alice's Adventures in the Rabbit Hole
+- CF2040E - Control of Randomness
+- CF2089C1 - Key of Like (Easy Version)
+- CF209C - Trails and Glades
+- CF632D - Longest Subsequence
+- CF633D - Fibonacci-ish
+- CF875D - High Cry
+- CF8E - Beads
+- CF919E - Congruence Equation
+- CF922D - Robot Vacuum Cleaner
+- CF980D - Perfect Groups
+- CF992D - Nastya and a Game
+- CF999E - Reachability from the Capital

@@ -1,0 +1,25 @@
+# 题号列表
+
+- CF1054D - Changing Array
+- CF1688C - Manipulating History
+- CF1721D - Maximum AND
+- CF1780D - Bit Guessing Game
+- CF1882D - Tree XOR
+- CF1946D - Birthday Gift
+- CF1957D - A BIT of an Inequality
+- CF1968F - Equal XOR Segments
+- CF1991D - Prime XOR Coloring
+- CF1994E - Wooden Game
+- CF2036F - XORificator 3000
+- CF2036G - Library of Magic
+- CF2039C2 - Shohag Loves XOR (Hard Version)
+- CF2040C - Ordered Permutations
+- CF2057C - Trip to the Olympiad
+- CF2071D1 - Infinite Sequence (Easy Version)
+- CF2072F - Goodbye, Banker Life
+- CF2077B - Finding OR Sum
+- CF242E - XOR on Segment
+- CF484A - Bits
+- CF685B - Kay and Snowflake
+- CF784E - Twisted Circuit
+- CF981D - Bookshelves

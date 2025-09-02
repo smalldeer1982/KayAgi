@@ -1,0 +1,125 @@
+# 题号列表
+
+- P1039 - [NOIP 2003 提高组] 侦探推理
+- P10990 - [蓝桥杯 2023 国 Python A] 彩色二叉树
+- P10998 - 【MX-J3-T3+】Tuple+
+- P1108 - 低价购买
+- P1120 - 小木棍
+- P11856 - [CSP-J2022 山东] 吟诗
+- P1186 - 玛丽卡
+- P1242 - 新汉诺塔
+- P13571 - [CCPC 2024 重庆站] 有限小数
+- P13589 - [NWRRC 2023] Intersegment Activation
+- P1457 - [USACO2.1] 城堡 The Castle
+- P1499 - [CTSC2000] 公路巡逻
+- P1511 - [SDOI2006] 数字串位置 / 超长数字串
+- P1879 - [USACO06NOV] Corn Fields G
+- P1930 - [USACO3.3] 亚瑟王的宫殿
+- P1985 - [USACO07OPEN] 翻转棋 Fliptile S
+- P1989 - 无向图三元环计数
+- P2148 - [SDOI2009] E&D
+- P2167 - [SDOI2009] Bill的挑战
+- P2208 - [USACO13OPEN] What's Up With Gravity S
+- P2258 - [NOIP 2014 普及组] 子矩阵
+- P2312 - [NOIP 2014 提高组] 解方程
+- P2328 - [SCOI2005] 超级格雷码
+- P2502 - [HAOI2006] 旅行
+- P2530 - [SHOI2001] 化工厂装箱员
+- P2583 - 地铁间谍
+- P2647 - 最大收益
+- P2724 - [USACO3.1] 联系 Contact
+- P2749 - [USACO5.1] 夜空繁星Starry Night
+- P2751 - [USACO4.2] 工序安排 Job Processing
+- P2787 - 语文1（chin1）- 理理思维
+- P2941 - [USACO09FEB] Surround the Islands S
+- P2943 - [USACO09MAR] Cleaning Up G
+- P2948 - [USACO09OPEN] Ski Lessons G
+- P3017 - [USACO11MAR] Brownie Slicing G
+- P3046 - [USACO12FEB] Symmetry G
+- P3053 - [USACO12OPEN] Unlocking Blocks S
+- P3089 - [USACO13NOV] Pogo-Cow S
+- P3100 - [USACO14JAN] Building a Ski Course G
+- P3105 - [USACO14OPEN] Fair Photography S
+- P3109 - [USACO14OPEN] Code Breaking G
+- P3113 - [USACO14DEC] Marathon G
+- P3126 - [USACO15OPEN] Palindromic Paths G
+- P3127 - [USACO15OPEN] Trapped in the Haybales G
+- P3219 - [HNOI2012] 三角形覆盖问题
+- P3491 - [POI 2009] SLW-Words
+- P3498 - [POI 2010] KOR-Beads
+- P3519 - [POI 2011] ROZ-Difference
+- P3528 - [POI 2011] PAT-Sticks
+- P3651 - 展翅翱翔之时 (はばたきのとき)
+- P3660 - [USACO17FEB] Why Did the Cow Cross the Road III G
+- P3694 - 邦邦的大合唱站队
+- P3698 - [CQOI2017] 小Q的棋盘
+- P3708 - koishi的数学题
+- P3716 - [CTSC2000] 冰原探险
+- P3744 - 李彬的几何
+- P3745 - [六省联考 2017] 期末考试
+- P3794 - 签到题IV
+- P3847 - [TJOI2007] 调整队形
+- P3867 - [TJOI2009] 排列计数
+- P3888 - [GDOI2014] 拯救莫莉斯
+- P3914 - 染色计数
+- P3963 - [TJOI2013] 奖学金
+- P3964 - [TJOI2013] 松鼠聚会
+- P3986 - 斐波那契数列
+- P3999 - [SHOI2013] 二重镇
+- P4028 - New Product
+- P4050 - [JSOI2007] 麻将
+- P4060 - [Code+#1] 可做题
+- P4095 - [HEOI2013] Eden 的新背包问题
+- P4109 - [HEOI2015] 定价
+- P4116 - Qtree3
+- P4127 - [AHOI2009] 同类分布
+- P4133 - [BJOI2012] 最多的方案
+- P4145 - 上帝造题的七分钟 2 / 花神游历各国
+- P4157 - [SCOI2006] 整数划分
+- P4158 - [SCOI2009] 粉刷匠
+- P4170 - [CQOI2007] 涂色
+- P4188 - [USACO18JAN] Lifeguards S
+- P4212 - 外太空旅行
+- P4264 - [USACO18FEB] Teleportation S
+- P4277 - 河城荷取的烟花
+- P4296 - [AHOI2007] 密码箱
+- P4302 - [SCOI2003] 字符串折叠
+- P4306 - [JSOI2010] 连通数
+- P4317 - 花神的数论题
+- P4324 - [JSOI2016] 扭动的回文串
+- P4380 - [USACO18OPEN] Multiplayer Moo S
+- P4388 - 付公主的矩形
+- P4397 - [JLOI2014] 聪明的燕姿
+- P4398 - [JSOI2008] Blue Mary的战役地图
+- P4408 - [NOI2003] 逃学的小孩
+- P4454 - [CQOI2018] 破解D-H协议
+- P4456 - [CQOI2018] 交错序列
+- P4555 - [国家集训队] 最长双回文串
+- P4573 - [CQOI2013] 新数独
+- P4578 - [FJOI2018] 所罗门王的宝藏
+- P4669 - [BalticOI 2011] Meetings (Day2)
+- P4780 - Phi的反函数
+- P4792 - [BalticOI 2018] 火星人的 DNA
+- P4796 - [BalticOI 2018] 路径
+- P4801 - [CCO 2015] 饥饿的狐狸
+- P4813 - [CCO 2014] Troy 与三角形
+- P4861 - 按钮
+- P4863 - JerryC Loves Driving
+- P4928 - [MtOI2018] 衣服？身外之物！
+- P4974 - 毒瘤之神秘通道
+- P5005 - 中国象棋 - 摆上马
+- P5017 - [NOIP 2018 普及组] 摆渡车
+- P5027 - Barracuda
+- P5030 - 长脖子鹿放置
+- P5426 - [USACO19OPEN] Balancing Inversions G
+- P5539 - 【XR-3】Unknown Mother-Goose
+- P5679 - [GZOI2017] 等差子序列
+- P5700 - [CTSC1998] 罗杰游戏
+- P5935 - [清华集训 2012] 攻占黄金乡
+- P6143 - [USACO20FEB] Equilateral Triangles P
+- P6920 - [ICPC 2016 WF] Clock Breaking
+- P8154 - 「PMOI-5」棋盘
+- P8270 - [USACO22OPEN] Subset Equality S
+- P8302 - [CoE R4 B/Stoi2041] 龙拳
+- P8317 - [FOI2021] 幸运区间
+- P8905 - [USACO22DEC] Strongest Friendship Group G

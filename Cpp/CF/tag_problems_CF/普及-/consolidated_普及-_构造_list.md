@@ -1,0 +1,34 @@
+# 题号列表
+
+- CF1003B - Binary String Constructing
+- CF1063A - Oh Those Palindromes
+- CF1611A - Make Even
+- CF1612B - Special Permutation
+- CF1634C - OKEA
+- CF1665A - GCD vs LCM
+- CF1684B - Z mod X = C
+- CF1711A - Perfect Permutation
+- CF1715B - Beautiful Array
+- CF1717B - Madoka and Underground Competitions
+- CF1719B - Mathematical Circus
+- CF1739A - Immobile Knight
+- CF1793B - Fedya and Array
+- CF1930B - Permutation Printing
+- CF1970B1 - Exact Neighbours (Easy)
+- CF1984A - Strange Splitting
+- CF2001B - Generate Permutation
+- CF2032B - Medians
+- CF2035B - Everyone Loves Tres
+- CF2039A - Shohag Loves Mod
+- CF2041E - Beautiful Array
+- CF2048B - Kevin and Permutation
+- CF2053B - Outstanding Impressionist
+- CF2071B - Perfecto
+- CF2091C - Combination Lock
+- CF2092B - Lady Bug
+- CF2106B - St. Chroma
+- CF2108A - Permutation Warm-Up
+- CF2113B - Good Start
+- CF49D - Game
+- CF805B - 3-palindrome
+- CF934B - A Prosperous Lot

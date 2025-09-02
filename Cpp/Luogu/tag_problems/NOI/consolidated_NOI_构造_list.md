@@ -1,0 +1,56 @@
+# 题号列表
+
+- P10038 - 「FAOI-R2」Program of atom(x) 2027
+- P10546 - [THUPC 2024 决赛] 采矿
+- P10830 - [COTS 2023] 平均数 Prosjek
+- P10874 - [COTS 2022] 旅程 Dugput（非官方数据）
+- P11192 - [COTS 2021] 菜 Jelo
+- P11436 - [Code+#8 决赛] 生成树
+- P11566 - 【MX-X7-T7】[LSOT-3] 魔女与推理的轮舞曲
+- P11773 - 巅峰手速
+- P12294 - [THUPC 2025 决赛] 一个 01 串，n 次三目运算符，最后值为 1（加强版）
+- P12336 - 第三心脏
+- P12356 - 「HCOI-R2」Rabbit Panic (Hard Ver.)
+- P12417 - 基础构造练习题 1
+- P12541 - [APIO2025] Hack!
+- P12960 - [GCJ Farewell Round #3] Game Sort: Part 2
+- P13000 - [GCJ 2022 #3] Win As Second
+- P13005 - [GCJ 2022 Finals] Triangles
+- P13209 - [GCJ 2016 Finals] Map Reduce
+- P13384 - [GCJ 2011 Finals] Program within a Program
+- P13689 - 【MX-X16-T7】「DLESS-3」XOR and Generalized Linear Independence
+- P2179 - [NOI2012] 骑行川藏
+- P2337 - [SCOI2012] 喵星人的入侵
+- P3208 - [HNOI2010] 矩阵
+- P3526 - [POI 2011] OKR-Periodicity
+- P3549 - [POI 2013] MUL-Multidrink
+- P3706 - [SDOI2017] 硬币游戏
+- P4298 - [CTSC2008] 祭祀
+- P4338 - [ZJOI2018] 历史
+- P4429 - [BJOI2018] 染色
+- P4704 - 太极剑
+- P5265 - 多项式反三角函数
+- P6678 - [COCI 2019/2020 #2] Popcount
+- P6690 - 一次函数
+- P6795 - [SNOI2020] 排列
+- P6892 - [ICPC 2014 WF] Baggage
+- P7389 - 「EZEC-6」游戏
+- P7390 - 「EZEC-6」造树
+- P7449 - [THUSC 2016] 星露谷物语
+- P7999 - [WFOI - 01] 翻转序列（requese）
+- P8173 - [CEOI 2021] Newspapers
+- P8223 - [WFOI - 02] I wanna moqueve（位移序列）
+- P8224 - [WFOI - 02] I wanna cross the grid（穿越网格）
+- P8348 - 「Wdoi-6」未知之花魅知之旅
+- P8381 - [PFOI Round1] Two Subsegments
+- P8416 - [THUPC 2022 决赛] 拯救还是毁灭
+- P8542 - 「Wdoi-2」魔力的雷云
+- P8545 - 「Wdoi-2」不败的无尽兵团
+- P8553 - 醒来
+- P8984 - [北大集训 2021] 末日魔法少女计划
+- P9054 - [集训队互测 2022] 心跳排列图
+- P9139 - [THUPC 2023 初赛] 喵了个喵 II
+- P9404 - [POI 2020/2021 R3] Surowa zima
+- P9495 - 「SFCOI-3」进行一个魔的除 I
+- P9878 - [EC Final 2021] Check Pattern is Bad
+- P9924 - [POI 2023/2024 R1] Satelity

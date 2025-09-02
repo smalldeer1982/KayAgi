@@ -1,0 +1,37 @@
+---
+title: "BLUEEQ3 - Help Blue Mary Please! (Act III)"
+layout: "post"
+diff: 难度0
+pid: SP1536
+tag: []
+---
+
+# BLUEEQ3 - Help Blue Mary Please! (Act III)
+
+## 输入格式
+
+Ten test cases(given one after another,you have to process all!)For each test case, the first line is a single integer n(n<=21).Next 3 lines contains 3 strings, each of them has a length of n and contains only first n capital latin characters.The sum of the numbers the first two strings indicates equals to the number the third string incicates.The numbers can have leading zeros and each of their bases is n.
+
+## 输出格式
+
+For each test case you should output one line contains n numbers separated by spaces, which is a permutation of integer numbers 0 to n-1.Number x is on the k-th position iff x is replaced by the kth capital latin character.There is one and only one solution for each test case.
+
+## 样例 #1
+
+### 输入
+
+```
+5
+ABCED
+BDACE
+EBBAA
+[and 9 test cases more]
+```
+
+### 输出
+
+```
+1 0 3 4 2
+[and 9 test cases more]
+```
+

@@ -1,0 +1,41 @@
+# 题号列表
+
+- B3612 - 【深进1.例1】求区间和
+- B3628 - 机器猫斗恶龙
+- B3799 - [NICA #1] 序列
+- B4005 - [GESP202406 四级] 黑白方块
+- B4038 - [GESP202409 三级] 平衡序列
+- B4192 - [海淀区小学组 2023] 分数线
+- B4303 - [蓝桥杯青少年组省赛 2024] 字母移位
+- P10233 - [yLCPC2024] A. dx 分计算
+- P10373 - [AHOI2024 初中组] 立方根
+- P10401 - 「XSOI-R1」区间操作
+- P11015 - Inversion Pair
+- P1115 - 最大子段和
+- P1147 - 连续自然数和
+- P11965 - [GESP202503 七级] 等价消除
+- P12716 - [Algo Beat Contest 002 C] Counting Square Numbers
+- P13278 - 「CZOI-R4」PVP
+- P13521 - [KOI 2025 #2] 包
+- P13656 - [CERC 2020] Rescue Mission
+- P1387 - 最大正方形
+- P1719 - 最大加权矩形
+- P2004 - 领地选择
+- P2957 - [USACO09OCT] Barn Echoes G
+- P2969 - [USACO09DEC] Music Notes S
+- P3056 - [USACO12NOV] Clumsy Cows S
+- P3131 - [USACO16JAN] Subsequences Summing to Sevens S
+- P3353 - 在你窗外闪耀的星星
+- P3397 - 地毯
+- P4440 - [COCI 2017/2018 #3] Programiranje
+- P4771 - 八百标兵奔北坡
+- P5638 - 【CSGRound2】光骓者的荣耀
+- P6180 - [USACO15DEC] Breed Counting S
+- P6568 - [NOI Online #3 提高组] 水壶
+- P6625 - [省选联考 2020 B 卷] 卡牌游戏
+- P8160 - [JOI 2022 Final] 星际蛋糕 (Intercastellar)
+- P8278 - 「MCOI-08」Fill In
+- P8577 - [CoE R5] 暴龙的白菜
+- P8649 - [蓝桥杯 2017 省 B] k 倍区间
+- P8772 - [蓝桥杯 2022 省 A] 求和
+- P9094 - [PA 2020] Mieszanie kolorów

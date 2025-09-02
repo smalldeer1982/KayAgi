@@ -1,0 +1,51 @@
+---
+title: "正多边形 Circum Triangle"
+layout: "post"
+diff: 普及+/提高
+pid: UVA11186
+tag: []
+---
+
+# 正多边形 Circum Triangle
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=23&page=show_problem&problem=2127
+
+[PDF](https://uva.onlinejudge.org/external/111/p11186.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11186/30fb94df57c3e66a9060a624e8f6e91fb0768a7b.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11186/64d1ebc2f77930f60130385601410efb159e818e.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11186/95d1f79f22d34d326141e488991cddfd8fc92eb8.png)
+
+## 样例 #1
+
+### 输入
+
+```
+5 10
+10.00
+100.00
+300.00
+310.00
+320.00
+3 20
+10.00
+100.00
+300.00
+0 0
+```
+
+### 输出
+
+```
+286
+320
+```
+

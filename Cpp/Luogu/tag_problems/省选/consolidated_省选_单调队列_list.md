@@ -1,0 +1,26 @@
+# 题号列表
+
+- P1973 - [NOI2011] NOI 嘉年华
+- P3071 - [USACO13JAN] Seating G
+- P3084 - [USACO13OPEN] Photo G
+- P3195 - [HNOI2008] 玩具装箱
+- P3438 - [POI 2006] ZAB-Frogs
+- P3470 - [POI 2008] BBB-BBB
+- P3474 - [POI 2008] KUP-Plot purchase
+- P3564 - [POI 2014] BAR-Salad Bar
+- P3587 - [POI 2015] POD
+- P3628 - [APIO2010] 特别行动队
+- P3714 - [BJOI2017] 树的难题
+- P3994 - 高速公路（疑似错题）
+- P4072 - [SDOI2016] 征途
+- P4182 - [USACO18JAN] Lifeguards P
+- P4259 - [Code+#3] 寻找车位
+- P4360 - [CEOI 2004] 锯木厂选址
+- P4744 - [Wind Festival] Iron Man
+- P4852 - yyf hates choukapai
+- P5665 - [CSP-S2019] 划分
+- P5785 - [SDOI2012] 任务安排
+- P6087 - [JSOI2015] 送礼物
+- P6326 - Shopping
+- P6563 - [SBCOI2020] 一直在你身旁
+- P7894 - 『JROI-3』1÷0

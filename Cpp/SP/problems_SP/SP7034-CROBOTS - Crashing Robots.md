@@ -1,0 +1,72 @@
+---
+title: "CROBOTS - Crashing Robots"
+layout: "post"
+diff: 难度0
+pid: SP7034
+tag: []
+---
+
+# CROBOTS - Crashing Robots
+
+## 题目描述
+
+In a modernized warehouse, robots are used to fetch the goods. Careful
+
+## 输入格式
+
+The first line of input is K, the number of test cases. Each test case starts with one line consisting of two integers, 1
+
+The second line contains two integers, 1
+
+## 输出格式
+
+Output one line for each test case:
+
+- Robot i crashes into the wall, if robot i crashes into a wall. (A robot crashes into a wall if Xi = 0, Xi = A + 1, Yi = 0 or Yi = B + 1.)
+- Robot i crashes into robot j, if robots i and j crash, and i is the moving robot.
+- OK, if no crashing occurs.
+
+## 样例 #1
+
+### 输入
+
+```
+4
+5 4
+2 2
+1 1 E
+5 4 W
+1 F 7
+2 F 7
+5 4
+2 4
+1 1 E
+5 4 W
+1 F 3
+2 F 1
+1 L 1
+1 F 3
+5 4
+2 2
+1 1 E
+5 4 W
+1 L 96
+1 F 2
+5 4
+2 3
+1 1 E
+5 4 W
+1 F 4
+1 L 1
+1 F 20
+```
+
+### 输出
+
+```
+Robot 1 crashes into the wall
+Robot 1 crashes into robot 2
+OK
+Robot 1 crashes into robot 2
+```
+

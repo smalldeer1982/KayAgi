@@ -1,0 +1,26 @@
+# 题号列表
+
+- CF1006E - Military Problem
+- CF1031D - Minimum path
+- CF1276B - Two Fairs
+- CF148D - Bag of mice
+- CF191C - Fools and Roads
+- CF1927F - Microcycle
+- CF1933F - Turtle Mission: Robot and the Earthquake
+- CF1955G - GCD on a grid
+- CF1985H1 - Maximize the Largest Component (Easy Version)
+- CF2002D1 - DFS Checker (Easy Version)
+- CF2045M - Mirror Maze
+- CF2070D - Tree Jumps
+- CF2071C - Trapmigiano Reggiano
+- CF2114F - Small Operations
+- CF356A - Knight Tournament
+- CF374C - Inna and Dima
+- CF54D - Writing a Song
+- CF63E - Sweets Game
+- CF685B - Kay and Snowflake
+- CF6D - Lizards and Basements 2
+- CF877D - Olya and Energy Drinks
+- CF888E - Maximum Subsequence
+- CF963B - Destruction of a Tree
+- CF977D - Divide by three, multiply by two

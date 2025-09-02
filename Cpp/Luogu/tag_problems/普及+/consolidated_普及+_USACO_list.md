@@ -1,0 +1,205 @@
+# 题号列表
+
+- P10134 - [USACO24JAN] Cowmpetency S
+- P10136 - [USACO24JAN] Cowlendar S
+- P10139 - [USACO24JAN] Nap Sort G
+- P10188 - [USACO24FEB] Milk Exchange B
+- P10190 - [USACO24FEB] Target Practice II S
+- P10192 - [USACO24FEB] Moorbles S
+- P10195 - [USACO24FEB] Quantum Moochanics G
+- P10274 - [USACO24OPEN] Logical Moos B
+- P10277 - [USACO24OPEN] Bessie's Interview S
+- P10279 - [USACO24OPEN] The 'Winning' Gene S
+- P10475 - [USACO03FALL] Milking Grid（数据加强版）
+- P11453 - [USACO24DEC] Deforestation S
+- P11667 - [USACO25JAN] Astral Superposition B
+- P11670 - [USACO25JAN] Cow Checkups S
+- P11671 - [USACO25JAN] Farmer John's Favorite Operation S
+- P11672 - [USACO25JAN] Table Recovery S
+- P11674 - [USACO25JAN] Reachable Pairs G
+- P11838 - [USACO25FEB] Printing Sequences B
+- P11839 - [USACO25FEB] The Best Lineup S
+- P11840 - [USACO25FEB] Vocabulary Quiz S
+- P11841 - [USACO25FEB] Transforming Pairs S
+- P12024 - [USACO25OPEN] It's Mooin' Time III B
+- P12025 - [USACO25OPEN] Sequence Construction S
+- P12026 - [USACO25OPEN] Compatible Pairs S
+- P12027 - [USACO25OPEN] Ski Slope S
+- P12028 - [USACO25OPEN] Moo Decomposition G
+- P1212 - [USACO1.4] 铺放矩形块 Packing Rectangles
+- P1213 - [IOI 1994] 时钟 The Clocks
+- P1214 - [USACO1.4] 等差数列 Arithmetic Progressions
+- P1353 - [USACO08JAN] Running S
+- P1468 - [USACO2.2] 派对灯 Party Lamps
+- P1470 - [USACO2.3] 最长前缀 Longest Prefix
+- P1522 - [USACO2.4] 牛的旅行 Cow Tours
+- P1556 - 幸福的路
+- P1557 - Kruscal的加法
+- P1668 - [USACO04DEC] Cleaning Shifts S
+- P1670 - [USACO04DEC] Tree Cutting S
+- P1849 - [USACO12MAR] Tractor S
+- P1856 - [IOI 1998 ] [USACO5.5] 矩形周长Picture
+- P1884 - [USACO12FEB] Overplanting S
+- P1894 - [USACO4.2] 完美的牛栏The Perfect Stall
+- P2017 - [USACO09DEC] Dizzy Cows G
+- P2070 - 刷墙
+- P2098 - [USACO16DEC] Team Building P
+- P2176 - [USACO11DEC] RoadBlock S / [USACO14FEB]Roadblock G/S
+- P2210 - Haywire
+- P2214 - [USACO14MAR] Mooo Moo S
+- P2237 - [USACO14FEB] Auto-complete S
+- P2341 - [USACO03FALL / HAOI2006] 受欢迎的牛 G
+- P2376 - [USACO09OCT] Allowance G
+- P2419 - [USACO08JAN] Cow Contest S
+- P2627 - [USACO11OPEN] Mowing the Lawn G
+- P2723 - [USACO3.1] 丑数 Humble Numbers
+- P2730 - [USACO3.2] 魔板 Magic Squares
+- P2731 - [USACO3.3] 骑马修栅栏 Riding the Fences
+- P2736 - [USACO3.4] “破锣摇滚”乐队 Raucous Rockers
+- P2737 - [USACO4.1] 麦香牛块Beef McNuggets
+- P2739 - [USACO4.4] 棋盘游戏Shuttle Puzzle
+- P2746 - [USACO5.3] 校园网Network of Schools
+- P2845 - [USACO15DEC] Switching on the Lights S
+- P2846 - [USACO08NOV] Light Switching G
+- P2847 - [USACO16DEC] Moocast G
+- P2848 - [USACO16DEC] Cow Checklist G
+- P2850 - [USACO06DEC] Wormholes G
+- P2852 - [USACO06DEC] Milk Patterns G
+- P2854 - [USACO06DEC] Cow Roller Coaster S
+- P2856 - [USACO06FEB] Cellphones G
+- P2862 - [USACO06JAN] Corral the Cows G
+- P2863 - [USACO06JAN] The Cow Prom S
+- P2867 - [USACO06NOV] Big Square S
+- P2879 - [USACO07JAN] Tallest Cow S
+- P2881 - [USACO07MAR] Ranking the Cows G
+- P2882 - [USACO07MAR] Face The Right Way G
+- P2914 - [USACO08OCT] Power Failure G
+- P2919 - [USACO08NOV] Guarding the Farm S
+- P2921 - [USACO08DEC] Trick or Treat on the Farm G
+- P2922 - [USACO08DEC] Secret Message G
+- P2927 - [USACO08DEC] Jigsaw Puzzles S
+- P2937 - [USACO09JAN] Laserphones S
+- P2938 - [USACO09FEB] Stock Market G
+- P2939 - [USACO09FEB] Revamping Trails G
+- P2949 - [USACO09OPEN] Work Scheduling G
+- P2953 - [USACO09OPEN] Cow Digit Game S
+- P2954 - [USACO09OPEN] Grazing2 S
+- P2963 - [USACO09NOV] Cow Rescue G
+- P2968 - [USACO09DEC] Bobsledding S
+- P2979 - [USACO10JAN] Cheese Towers S
+- P2986 - [USACO10MAR] Great Cow Gathering G
+- P2994 - [USACO10OCT] Dinner Time S
+- P2998 - [USACO10NOV] Candy S
+- P3004 - [USACO10DEC] Treasure Chest S
+- P3010 - [USACO11JAN] Dividing the Gold S
+- P3012 - [USACO11FEB] Cowlphabet G
+- P3014 - [USACO11FEB] Cow Line S
+- P3018 - [USACO11MAR] Tree Decoration G
+- P3028 - [USACO10OCT] Soda Machine G
+- P3047 - [USACO12FEB] Nearby Cows G
+- P3049 - [USACO12MAR] Landscaping S
+- P3052 - [USACO12MAR] Cows in a Skyscraper G
+- P3054 - [USACO12OPEN] Running Laps S
+- P3057 - [USACO12NOV] Distant Pastures S
+- P3058 - [USACO12NOV] Balanced Cow Breeds G/S
+- P3063 - [USACO12DEC] Milk Routing S
+- P3073 - [USACO13FEB] Tractor S
+- P3080 - [USACO13MAR] The Cow Run G/S
+- P3088 - [USACO13NOV] Crowded Cows S
+- P3090 - [USACO13NOV] Empty Stalls G
+- P3116 - [USACO15JAN] Meeting Time S
+- P3128 - [USACO15DEC] Max Flow P
+- P3130 - [USACO15DEC] Counting Haybale P
+- P3134 - [USACO16JAN] Lights Out G
+- P3137 - [USACO16FEB] Circular Barn S
+- P3140 - [USACO16FEB] Circular Barn Revisited G
+- P3145 - [USACO16OPEN] Splitting the Field G
+- P3146 - [USACO16OPEN] 248 G
+- P3608 - [USACO17JAN] Balanced Photo G
+- P3609 - [USACO17JAN] Hoof, Paper, Scissor G
+- P3611 - [USACO17JAN] Cow Dance Show S
+- P3661 - [USACO17FEB] Why Did the Cow Cross the Road I S
+- P3663 - [USACO17FEB] Why Did the Cow Cross the Road III S
+- P3671 - [USACO17OPEN] Where's Bessie? S
+- P4084 - [USACO17DEC] Barn Painting G
+- P4085 - [USACO17DEC] Haybale Feast G
+- P4181 - [USACO18JAN] Rental Service S
+- P4265 - [USACO18FEB] Snow Boots S
+- P4267 - [USACO18FEB] Taming the Herd G
+- P4816 - [USACO15DEC] High Card Low Card G
+- P4878 - [USACO05DEC] Layout G
+- P5094 - [USACO04OPEN] MooFest G 加强版
+- P5095 - [USACO12OPEN] Bookshelf S
+- P5096 - [USACO04OPEN] Cave Cows 1
+- P5099 - [USACO04OPEN] Cave Cows 4
+- P5121 - [USACO18DEC] Mooyo Mooyo S
+- P5124 - [USACO18DEC] Teamwork G
+- P5195 - [USACO05DEC] Knights of Ni S
+- P5196 - [USACO19JAN] Cow Poetry G
+- P5200 - [USACO19JAN] Sleepy Cow Sorting G
+- P5201 - [USACO19JAN] Shortcut G
+- P5202 - [USACO19JAN] Redistricting P
+- P5424 - [USACO19OPEN] Snakes G
+- P5425 - [USACO19OPEN] I Would Walk 500 Miles G
+- P5427 - [USACO19OPEN] Left Out S
+- P5543 - [USACO19FEB] The Great Revegetation S
+- P5836 - [USACO19DEC] Milk Visits S
+- P5837 - [USACO19DEC] Milk Pumping G
+- P6004 - [USACO20JAN] Wormhole Sort S
+- P6005 - [USACO20JAN] Time is Mooney G
+- P6063 - [USACO05JAN] The Wedding Juicer G
+- P6064 - [USACO05JAN] Naptime G
+- P6066 - [USACO05JAN] Watchcow S
+- P6079 - [USACO06MAR] Milk Team Select G
+- P6081 - [USACO05DEC] Barn Expansion G
+- P6119 - [USACO17FEB] Why Did the Cow Cross the Road II G
+- P6121 - [USACO16OPEN] Closing the Farm G
+- P6131 - [USACO11NOV] Cow Beauty Pageant S
+- P6146 - [USACO20FEB] Help Yourself G
+- P6148 - [USACO20FEB] Swapity Swapity Swap S
+- P6149 - [USACO20FEB] Triangles S
+- P6150 - [USACO20FEB] Clock Tree S
+- P6171 - [USACO16FEB] Fenced In G
+- P6182 - [USACO10OPEN] Time Travel S
+- P6193 - [USACO07FEB] Cow Sorting G
+- P6202 - [USACO07CHN] Summing Sums G
+- P6278 - [USACO20OPEN] Haircut G
+- P7149 - [USACO20DEC] Rectangular Pasture S
+- P7150 - [USACO20DEC] Stuck in a Rut S
+- P7299 - [USACO21JAN] Dance Mooves S
+- P7301 - [USACO21JAN] Spaced Out S
+- P7410 - [USACO21FEB] Just Green Enough S
+- P7411 - [USACO21FEB] Comfortable Cows S
+- P7555 - [USACO21OPEN] Maze Tac Toe S
+- P7989 - [USACO21DEC] Bracelet Crossings G
+- P7991 - [USACO21DEC] Connecting Two Barns S
+- P8093 - [USACO22JAN] Searching for Soulmates S
+- P8097 - [USACO22JAN] Farm Updates G
+- P8186 - [USACO22FEB] Redistributing Gifts S
+- P8188 - [USACO22FEB] Email Filing S
+- P8191 - [USACO22FEB] Moo Network G
+- P8266 - [USACO22OPEN] Photoshoot B
+- P8269 - [USACO22OPEN] Visits S
+- P8271 - [USACO22OPEN] COW Operations S
+- P8900 - [USACO22DEC] Barn Tree S
+- P8901 - [USACO22DEC] Circular Barn S
+- P8902 - [USACO22DEC] Range Reconstruction S
+- P9013 - [USACO23JAN] Find and Replace S
+- P9124 - [USACO23FEB] Bakery S
+- P9126 - [USACO23FEB] Moo Route II S
+- P9127 - [USACO23FEB] Equal Sum Subarrays G
+- P9183 - [USACO23OPEN] FEB B
+- P9184 - [USACO23OPEN] Moo Language B
+- P9185 - [USACO23OPEN] Rotate and Shift B
+- P9186 - [USACO23OPEN] Milk Sum S
+- P9187 - [USACO23OPEN] Field Day S
+- P9188 - [USACO23OPEN] Pareidolia S
+- P9832 - [USACO05OPEN] Lazy Cows G
+- P9833 - [USACO05OPEN] Expedition G
+- P9834 - [USACO05OPEN] Around the world G
+- P9835 - [USACO05OPEN] Landscaping G
+- P9977 - [USACO23DEC] Bovine Acrobatics S
+- P9979 - [USACO23DEC] Target Practice S
+- P9980 - [USACO23DEC] Flight Routes G
+- P9981 - [USACO23DEC] Minimum Longest Trip G
+- P9982 - [USACO23DEC] Haybale Distribution G

@@ -1,0 +1,47 @@
+---
+title: "Compress"
+layout: "post"
+diff: 难度0
+pid: UVA283
+tag: []
+---
+
+# Compress
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=219
+
+[PDF](https://uva.onlinejudge.org/external/2/p283.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA283/f7c2e46fb714be356a7aa8511dd4340be10a47e8.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA283/e84ec337bfd1b0f1edc628fa0f5cf13f17c3e77e.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA283/3396ed09fe3c9dee2ccef32221535a96e9ed049c.png)
+
+## 样例 #1
+
+### 输入
+
+```
+2
+3
+Hello Contestant,$
+Please write a program which gives$
+the text Hello world.$
+1
+To be or not to be, that is the question.$
+```
+
+### 输出
+
+```
+335
+167
+```
+

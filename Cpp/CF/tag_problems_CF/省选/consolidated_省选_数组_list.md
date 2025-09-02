@@ -1,0 +1,24 @@
+# 题号列表
+
+- CF1073G - Yet Another LCP Problem
+- CF121E - Lucky Array
+- CF123D - String
+- CF1635F - Closest Pair
+- CF1682F - MCMF?
+- CF1684F - Diverse Segments
+- CF1712E2 - LCM Sum (hard version)
+- CF1746F - Kazaee
+- CF1923F - Shrink-Reverse
+- CF1946F - Nobody is needed
+- CF2029G - Balanced Problem
+- CF2038D - Divide OR Conquer
+- CF207C3 - Game with Two Trees
+- CF2084F - Skyscape
+- CF232D - Fence
+- CF261D - Maxim and Increasing Subsequence
+- CF293E - Close Vertices
+- CF297E - Mystic Carvings
+- CF341D - Iahub and Xors
+- CF396C - On Changing Tree
+- CF749E - Inversions After Shuffle
+- CF785E - Anton and Permutation

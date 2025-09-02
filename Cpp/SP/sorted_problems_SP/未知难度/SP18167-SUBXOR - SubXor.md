@@ -1,0 +1,15 @@
+---
+title: "SUBXOR - SubXor"
+layout: "post"
+diff: 难度0
+pid: SP18167
+tag: []
+---
+
+# SUBXOR - SubXor
+
+## 题目描述
+
+ A straightforward question. Given an array of positive integers you have to print the number of subarrays whose XOR is less than **K**. Subarrays are defined as a sequence of continuous elements **A $ _{i} $ , A $ _{i+1} $ , ..., A $ _{j} $** . XOR of a subarray is defined as **A $ _{i} $ ^ A $ _{i+1} $ ^ ... ^ A $ _{j} $** . Symbol **^** is Exclusive Or. You can read more about it here:  
+[http://en.wikipedia.org/wiki/Exclusive\_or](http://en.wikipedia.org/wiki/Exclusive_or)
+

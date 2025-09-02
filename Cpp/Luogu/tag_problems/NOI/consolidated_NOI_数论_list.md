@@ -1,0 +1,74 @@
+# 题号列表
+
+- P10006 - [集训队互测 2023] 超现实树
+- P10016 - [集训队互测 2023] 虹
+- P10182 - 一径入繁华
+- P10249 - 【模板】多项式复合函数（加强版）
+- P10286 - 「RiOI-03」A Journey to the Moonlight（加强版）
+- P10632 - Normal
+- P10830 - [COTS 2023] 平均数 Prosjek
+- P11174 - 「CMOI R1」Looking For Edge Of Ground／City Planning
+- P11418 - [Sloi 2024]D1T2 简单的反链求和问题
+- P11419 - [Sloi 2024]D1T3 pi(n)
+- P12011 - 【MX-X10-T7】[LSOT-4] 春开，意遥遥。
+- P12394 - 「RiOI-6」神曲
+- P12395 - 「RiOI-6」神曲（加强版）
+- P12474 - [集训队互测 2024] 生命的循环
+- P12475 - [集训队互测 2024] 路径计数
+- P12487 - [集训队互测 2024] 月亮的背面是粉红色的
+- P12488 - [集训队互测 2024] 轮盘赌游戏
+- P12496 - [集训队互测 2024] 又一个欧拉数问题
+- P12695 - 序列游戏
+- P13297 - [GCJ 2013 #2] Multiplayer Pong
+- P13645 - Totient with Divisors
+- P1916 - Hermite 多点求值 / 多点 Taylor 展开
+- P2019 - 四平方和定理
+- P2063 - 二平方和定理
+- P2791 - 幼儿园篮球题
+- P3784 - [SDOI2017] 遗忘的集合
+- P4091 - [HEOI2016/TJOI2016] 求和
+- P5050 - 【模板】多项式多点求值
+- P5158 - 【模板】多项式快速插值
+- P5162 - WD与积木
+- P5265 - 多项式反三角函数
+- P5282 - 【模板】快速阶乘算法
+- P5285 - [十二省联考 2019] 骗分过样例
+- P5373 - 【模板】多项式复合函数
+- P5383 - 普通多项式转下降幂多项式
+- P5388 - [Cnoi2019] 最终幻想
+- P5393 - 下降幂多项式转普通多项式
+- P5432 - A/B Problem（高精度除法）
+- P5434 - 有标号荒漠计数
+- P5808 - 【模板】常系数非齐次线性递推
+- P5809 - 【模板】多项式复合逆
+- P5824 - 十二重计数法
+- P5827 - 点双连通图计数
+- P5828 - 边双连通图计数
+- P5885 - [CTSC2014] 随机数
+- P6043 - 「ACOI2020」修学旅行
+- P6073 - 『MdOI R1』Epic Convolution
+- P6527 - 「Wdoi-1」幻能采集
+- P6597 - 烯烃计数
+- P6750 - 『MdOI R3』Pekka Bridge Spam
+- P7102 - [W1] 算
+- P7265 - Look At The Sky
+- P7289 - 「EZEC-5」「KrOI2021」Chasse Neige
+- P7292 - 「EZEC-5」「KrOI2021」Chasse Neige 加强版
+- P7364 - 有标号二分图计数
+- P7433 - [THUPC 2017] 老司机
+- P7438 - 更简单的排列计数
+- P7439 - 「KrOI2021」Feux Follets 弱化版
+- P7440 - 「KrOI2021」Feux Follets
+- P7445 - 「EZEC-7」线段树
+- P7513 - 「Stoi2031」兰亭序 加强版
+- P7820 - [RC-05] 01 序列
+- P8104 - 「LCOI2022」 Cow Function
+- P8457 - 「SWTR-8」幂塔方程
+- P8486 - 「HGOI-1」Competition
+- P8545 - 「Wdoi-2」不败的无尽兵团
+- P8768 - [蓝桥杯 2021 国 A] 积木
+- P9091 - 「SvR-2」Let's Meet at a Higher Place
+- P9157 - 「GLR-R4」夏至
+- P9501 - 「RiOI-2」likely
+- P9919 - 「RiOI-03」A Journey to the Moonlight
+- P9920 - 「RiOI-03」变换，反演

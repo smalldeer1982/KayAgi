@@ -1,0 +1,39 @@
+---
+title: "DCEPC203 - Obsession"
+layout: "post"
+diff: 难度0
+pid: SP10820
+tag: []
+---
+
+# DCEPC203 - Obsession
+
+## 题目描述
+
+Ankur sir is really obsessed with dce coders. Every other day he announces to the admins the current number of members and boasts about the continuos increase in the member count. Within a week the admins got bored of his habit and started losing interest in this topic. Ankur sir is very clever. He knows that every body loves to solve puzzles. To maintain their interest he decides to ask a puzzle based on the number of current members. This way he can still bug the admins about the increasing member count without making them feel bored. The puzzle says for the given member count N, tell me how how many smaller numbers (k>=2) exist such that F(k)=2\*k\*k-1 is a prime.
+
+## 输入格式
+
+First line gives T, the number of test cases
+
+Each of the next T lines give a number N.
+
+## 输出格式
+
+Print the output for every test case on a new line
+
+## 样例 #1
+
+### 输入
+
+```
+1
+5
+```
+
+### 输出
+
+```
+3
+```
+

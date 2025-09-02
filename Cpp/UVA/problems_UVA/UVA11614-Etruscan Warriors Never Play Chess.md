@@ -1,0 +1,51 @@
+---
+title: "Etruscan Warriors Never Play Chess"
+layout: "post"
+diff: 难度0
+pid: UVA11614
+tag: []
+---
+
+# Etruscan Warriors Never Play Chess
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=78&page=show_problem&problem=2661
+
+[PDF](https://uva.onlinejudge.org/external/116/p11614.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11614/a2863fe9cb70a3ff260d657dc6c615e91cc97ff3.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11614/39797041a0234a629104bd155213ac45e622b54a.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11614/c6951c26219c306897232dcb5c16713dbba96b9c.png)
+
+## 样例 #1
+
+### 输入
+
+```
+6
+3
+6
+7
+8
+9
+10
+```
+
+### 输出
+
+```
+2
+3
+3
+3
+3
+4
+```
+

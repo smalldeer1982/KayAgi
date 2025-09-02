@@ -1,0 +1,23 @@
+# 题号列表
+
+- P1013 - [NOIP 1998 提高组] 进制位
+- P11442 - [Code+#6] 坐标转换
+- P1213 - [IOI 1994] 时钟 The Clocks
+- P12191 - [蓝桥杯 2025 省研究生组] 01 串
+- P13110 - [GCJ 2019 #1B] Draupnir
+- P1776 - 宝物筛选
+- P2320 - [HNOI2006] 鬼谷子的钱袋
+- P2431 - 正妹吃月饼
+- P2922 - [USACO08DEC] Secret Message G
+- P3901 - 数列找不同
+- P3917 - 异或序列
+- P3982 - 龙盘雪峰信息解析器
+- P3985 - 不开心的金明
+- P4144 - 大河的序列
+- P4310 - 绝世好题
+- P4932 - 浏览器
+- P6306 - 「Wdsr-1」小铃的书
+- P7555 - [USACO21OPEN] Maze Tac Toe S
+- P7617 - [COCI 2011/2012 #2] KOMPIĆI
+- P8093 - [USACO22JAN] Searching for Soulmates S
+- P9218 - 「TAOI-1」Apollo

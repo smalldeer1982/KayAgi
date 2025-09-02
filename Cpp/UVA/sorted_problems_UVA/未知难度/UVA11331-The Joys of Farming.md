@@ -1,0 +1,49 @@
+---
+title: "The Joys of Farming"
+layout: "post"
+diff: 难度0
+pid: UVA11331
+tag: []
+---
+
+# The Joys of Farming
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=25&page=show_problem&problem=2306
+
+[PDF](https://uva.onlinejudge.org/external/113/p11331.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11331/2e68683ace3aed66cefaf54a7cf29b1c01a5d46f.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11331/856c4e97c584e66a35ad5ab01a124a11cbd5ebec.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11331/323a80d9ca3a879911088baa6839facd976a1fe4.png)
+
+## 样例 #1
+
+### 输入
+
+```
+2
+2 2 4
+1 2
+2 3
+3 4
+4 1
+3 1 2
+1 2
+3 4
+```
+
+### 输出
+
+```
+yes
+no
+```
+

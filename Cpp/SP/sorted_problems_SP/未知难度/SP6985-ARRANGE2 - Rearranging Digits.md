@@ -1,0 +1,33 @@
+---
+title: "ARRANGE2 - Rearranging Digits"
+layout: "post"
+diff: 难度0
+pid: SP6985
+tag: []
+---
+
+# ARRANGE2 - Rearranging Digits
+
+## 题目描述
+
+Given A and B, how many numbers between A and B (with no leading 0's) rearrange their digits when multiplied by 2 ?  
+  
+Input :  
+The first line contains the number of test cases T. T lines follow, containing two integers A and B.  
+  
+Output :  
+Output T lines, one for each test case containing the desired answer for the corresponding test case.  
+  
+Sample Input :  
+2  
+1 100  
+499875921 499875921  
+  
+Sample Output :  
+0  
+1  
+  
+Constraints :  
+1 <= T <= 10000  
+1 <= A <= B <= 10000000000 (10^10)
+

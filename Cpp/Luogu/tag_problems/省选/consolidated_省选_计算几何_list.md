@@ -1,0 +1,55 @@
+# 题号列表
+
+- P10671 - BZOJ1278 向量 vector
+- P11441 - [Code+#6] 进阶法师
+- P1222 - 三角形
+- P12298 - [ICPC 2022/2023 WF] Carl’s Vacation
+- P12767 - [POI 2018 R3] 围栏 Fence
+- P13126 - [GCJ 2019 Finals] Juggle Struggle: Part 1
+- P13151 - [GCJ 2018 #3] Raise the Roof
+- P13182 - [GCJ 2017 Finals] Omnicircumnavigation
+- P13299 - [GCJ 2013 #3] Rural Planning [Unverified]
+- P13302 - [GCJ 2013 Finals] Graduation Requirements
+- P13303 - [GCJ 2013 Finals] Drummer
+- P13314 - [GCJ 2012 Qualification] Hall of Mirrors
+- P13335 - [GCJ 2012 Finals] Twirling Towards Freedom
+- P13402 - [GCJ 2010 #2] Grazing Google Goats
+- P13660 - [CERC 2020] Roof Escape
+- P13708 - [NWERC 2023] Isolated Island
+- P13798 - [SWERC 2023] Favourite dish
+- P1452 - 【模板】旋转卡壳 | [USACO03FALL] Beauty Contest G
+- P1715 - [USACO16DEC] Lots of Triangles P
+- P1742 - 最小圆覆盖
+- P1995 - [NOI2011] 智能车比赛
+- P2533 - [AHOI2012] 信号塔
+- P2588 - [ZJOI2008] Risk
+- P2600 - [ZJOI2008] 瞭望塔
+- P2992 - [USACO10OPEN] Triangle Counting G
+- P3061 - [USACO12DEC] Crazy Fences S
+- P3122 - [USACO15FEB] Fencing the Herd G
+- P3217 - [HNOI2011] 数矩形
+- P3428 - [POI 2005] AKC-Special Forces Manoeuvres
+- P3454 - [POI 2007] OSI-Axes of Symmetry
+- P3476 - [POI 2008] TRO-Triangles
+- P3493 - [POI 2009] WSP-Island
+- P3680 - [CERC2016] 凸轮廓线 Convex Contour
+- P4048 - [JSOI2010] 冷冻波
+- P4276 - 封兽鵺的激光游戏
+- P4293 - [WC2010] 能量场
+- P4515 - [COCI 2009/2010 #6] XOR
+- P4697 - [CEOI 2011] Balloons
+- P5545 - [JSOI2016] 炸弹攻击2
+- P5549 - [BJ United Round #3] 观察星象
+- P5571 - [CmdOI2019] 高塔与晶石
+- P5928 - [清华集训 2014] 文学
+- P5977 - [CEOI 2008] Fence
+- P6027 - 轴对称
+- P7039 - [NWRRC 2016] Integral Polygons
+- P7164 - [COCI 2020/2021 #1] 3D Histogram
+- P7397 - 雨水收集系统（2021 CoE-I E）
+- P7429 - [THUPC 2017] 气氛
+- P8000 - [WFOI - 01] 循环节（circle）
+- P8212 - [THUPC 2022 初赛] 喵喵花園
+- P8610 - [蓝桥杯 2013 国 A] 车轮轴迹
+- P9630 - [ICPC 2020 Nanjing R] Interested in Skiing
+- P9875 - [EC Final 2021] Two Walls

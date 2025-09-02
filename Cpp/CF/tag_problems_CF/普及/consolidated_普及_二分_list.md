@@ -1,0 +1,36 @@
+# 题号列表
+
+- CF1041C - Coffee Break
+- CF1041D - Glider
+- CF1066D - Boxes Packing
+- CF1612C - Chat Ban
+- CF1680C - Binary String
+- CF1705C - Mark and His Unfinished Essay
+- CF1721C - Min-Max Array Transformation
+- CF1878E - Iva & Pav
+- CF1907D - Jumping Through Segments
+- CF1927D - Find the Different Ones!
+- CF1933E - Turtle vs. Rabbit Race: Optimal Trainings
+- CF1946C - Tree Cutting
+- CF1973B - Cat, Fox and the Lonely Array
+- CF1975C - Chamo and Mocha's Array
+- CF1997D - Maximize the Root
+- CF1999G1 - Ruler (easy version)
+- CF2001C - Guess The Tree
+- CF2005B2 - The Strict Teacher (Hard Version)
+- CF2009E - Klee's SUPER DUPER LARGE Array!!!
+- CF2028C - Alice's Adventures in Cutting Cake
+- CF2032C - Trinity
+- CF2041B - Bowling Frame
+- CF2051D - Counting Pairs
+- CF2051E - Best Price
+- CF2065C2 - Skibidus and Fanum Tax (hard version)
+- CF2070C - Limited Repainting
+- CF2075C - Two Colors
+- CF2091D - Place of the Olympiad
+- CF2093E - Min Max MEX
+- CF2106E - Wolf
+- CF2106G1 - Baudelaire (easy version)
+- CF2112C - Coloring Game
+- CF448D - Multiplication Table
+- CF814C - An impassioned circulation of affection

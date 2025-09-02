@@ -1,0 +1,42 @@
+---
+title: "Just A Few More Triangles!"
+layout: "post"
+diff: 难度0
+pid: UVA11564
+tag: []
+---
+
+# Just A Few More Triangles!
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=27&page=show_problem&problem=2600
+
+[PDF](https://uva.onlinejudge.org/external/115/p11564.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11564/e2dac11b0cbcbfd6c2173f6d50262b3ef76e6f30.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11564/8638b806c8094e7ddc29f8307e2620df6056f9c9.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11564/20533057e34c09b3b3866c8ae5fc429ef0998551.png)
+
+## 样例 #1
+
+### 输入
+
+```
+7
+15
+```
+
+### 输出
+
+```
+18
+64
+```
+

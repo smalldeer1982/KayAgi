@@ -1,0 +1,111 @@
+# 题号列表
+
+- B3618 - 寻找团伙
+- B3621 - 枚举元组
+- B3622 - 枚举子集（递归实现指数型枚举）
+- B3623 - 枚举排列（递归实现排列型枚举）
+- B3625 - 迷宫寻路
+- B3626 - 跳跃机器人
+- B4132 - [信息与未来 2014] 简单单词接龙
+- B4286 - [蓝桥杯青少年组省赛 2022] 农作物
+- B4296 - [蓝桥杯青少年组国赛 2022] 最少问题
+- B4335 - [中山市赛 2023] 互质
+- P10294 - [CCC 2024 J5] Harvest Waterloo
+- P1030 - [NOIP 2001 普及组] 求先序排列
+- P1036 - [NOIP 2002 普及组] 选数
+- P10377 - [GESP202403 六级] 好斗的牛
+- P10448 - 组合型枚举
+- P10483 - 小猫爬山
+- P10491 - [USACO09NOV] The Chivalrous Cow B
+- P10672 - 【MX-S1-T1】 壁垒
+- P10852 - 【MX-X2-T1】「Cfz Round 4」Awaken
+- P1086 - [NOIP 2004 普及组] 花生采摘
+- P1087 - [NOIP 2004 普及组] FBI 树
+- P1088 - [NOIP 2004 普及组] 火星人
+- P1101 - 单词方阵
+- P1105 - 平台
+- P1145 - 约瑟夫
+- P1146 - 硬币翻转
+- P1149 - [NOIP 2008 提高组] 火柴棒等式
+- P1157 - 组合的输出
+- P1162 - 填涂颜色
+- P1164 - 小A点菜
+- P1184 - 高手之在一起
+- P1190 - [NOIP 2010 普及组] 接水问题
+- P1203 - [USACO1.1] 坏掉的项链 Broken Necklace
+- P1206 - [USACO1.2] 回文平方数 Palindromic Squares
+- P1207 - [USACO1.2] 双重回文数 Dual Palindromes
+- P1211 - [USACO1.3] 牛式 Prime Cryptarithm
+- P12139 - [蓝桥杯 2025 省 A] 黑白棋
+- P12266 - [蓝桥杯 2024 国 Python B] 不同的总分值
+- P1234 - 小 A 的口头禅
+- P1287 - 盒子与球
+- P1294 - 高手去散步
+- P1305 - 新二叉树
+- P1331 - 海战
+- P13429 - [GCJ 2009 Qualification] Watersheds
+- P1451 - 求细胞数量
+- P1454 - 圣诞夜的极光
+- P1458 - [USACO2.1] 顺序的分数 Ordered Fractions
+- P1460 - [USACO2.1] 健康的荷斯坦奶牛 Healthy Holsteins
+- P1464 - Function
+- P1467 - [USACO2.2] 循环数 Runaround Numbers
+- P1479 - 宿舍里的故事之五子棋
+- P1498 - 南蛮图腾
+- P1506 - 拯救oibh总部
+- P1515 - 旅行
+- P1588 - [USACO07OPEN] Catch That Cow S
+- P1596 - [USACO10OCT] Lake Counting S
+- P1605 - 迷宫
+- P1611 - 循环的数字
+- P1644 - 跳马问题
+- P1657 - 选书
+- P1677 - [USACO18FEB] Hoofball B
+- P1679 - 神奇的四次方数
+- P1683 - 入门
+- P1699 - [USACO19OPEN] Bucket Brigade B
+- P1700 - [USACO19OPEN] Milk Factory B
+- P1705 - 爱与愁过火
+- P1706 - 全排列问题
+- P1718 - 图形复原
+- P1722 - 矩阵 II
+- P1746 - 离开中山路
+- P1767 - 家族
+- P1803 - 凌乱的yyy / 线段覆盖
+- P1881 - 绳子对折
+- P1898 - 缘分计算
+- P1913 - L国的战斗之伞兵
+- P1926 - 小书童——刷题大军
+- P1958 - 上学路线
+- P2003 - [CRCI 2008] PLATFORME 平板
+- P2036 - [COCI 2008/2009 #2] PERKET
+- P2074 - 危险区域
+- P2089 - 烤鸡
+- P2360 - 地下城主
+- P2372 - yyy2015c01挑战算周长
+- P2373 - yyy2015c01 的 IDE 之 Call Stack
+- P2386 - 放苹果
+- P2392 - kkksc03考前临时抱佛脚
+- P2404 - 自然数的拆分问题
+- P2640 - 神秘磁石
+- P2666 - [USACO07OCT] Bessie's Secret Pasture S
+- P2677 - [USACO07DEC] Bookshelf 2 B
+- P2708 - 硬币翻转
+- P2799 - 国王的魔镜
+- P2802 - 回家
+- P2819 - 图的 m 着色问题
+- P3650 - [USACO1.3] 滑雪课程设计Ski Course Design
+- P4431 - [COCI 2017/2018 #2] ​Košnja
+- P4961 - 小埋与扫雷
+- P6183 - [USACO10MAR] The Rock Game S
+- P6635 - 「JYLOI Round 1」箭头调度
+- P7012 - [CERC2013] Draughts
+- P7200 - [COCI 2019/2020 #1] Lutrija
+- P8185 - [USACO22FEB] Blocks B
+- P8481 - 「HGOI-1」Binary search
+- P8604 - [蓝桥杯 2013 国 C] 危险系数
+- P8662 - [蓝桥杯 2018 省 AB] 全球变暖
+- P9011 - [USACO23JAN] Air Cownditioning II B
+- P9484 - 「LAOI-1」GCD
+- P9872 - [EC Final 2021] DFS Order
+- P9908 - [COCI 2023/2024 #2] Pahuljice

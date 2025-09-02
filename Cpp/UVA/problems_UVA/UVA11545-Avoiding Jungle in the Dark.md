@@ -1,0 +1,45 @@
+---
+title: "Avoiding Jungle in the Dark"
+layout: "post"
+diff: 难度0
+pid: UVA11545
+tag: []
+---
+
+# Avoiding Jungle in the Dark
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=27&page=show_problem&problem=2540
+
+[PDF](https://uva.onlinejudge.org/external/115/p11545.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11545/839be366f41982dbb5fc47999ae03f47cff10de2.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11545/a39a5271604977c69551c0c41280c16788c38916.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11545/08b1b847a7712ce43dbd960d5f094b03329c3792.png)
+
+## 样例 #1
+
+### 输入
+
+```
+3
+S.......D
+S...****................***.D
+S***********.***********D
+```
+
+### 输出
+
+```
+Case #1: 8
+Case #2: 36
+Case #3: -1
+```
+

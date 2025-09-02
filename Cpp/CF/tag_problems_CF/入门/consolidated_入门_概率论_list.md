@@ -1,0 +1,38 @@
+# 题号列表
+
+- CF1005A - Tanya and Stairways
+- CF10A - Power Consumption Calculation
+- CF110A - Nearly Lucky Number
+- CF129A - Cookies
+- CF131A - cAPS lOCK
+- CF149A - Business trip
+- CF155A - I_love_%username%
+- CF214A - System of Equations
+- CF22A - Second Order Statistics
+- CF231A - Team
+- CF27A - Next Test
+- CF339A - Helpful Maths
+- CF344A - Magnets
+- CF43B - Letter
+- CF519A - A and B and Chess
+- CF52A - 123-sequence
+- CF546A - Soldier and Bananas
+- CF59A - Word
+- CF59B - Fortune Telling
+- CF677A - Vanya and Fence
+- CF703A - Mishka and Game
+- CF78A - Haiku
+- CF837A - Text Volume
+- CF841A - Generous Kefa
+- CF863A - Quasi-palindrome
+- CF899A - Splitting in Teams
+- CF900A - Find Extra One
+- CF92A - Chips
+- CF935A - Fafa and his Company
+- CF937A - Olympiad
+- CF961A - Tetris
+- CF967A - Mind the Gap
+- CF976A - Minimum Binary Number
+- CF987A - Infinity Gauntlet
+- CF988A - Diverse Team
+- CF989A - A Blend of Springtime

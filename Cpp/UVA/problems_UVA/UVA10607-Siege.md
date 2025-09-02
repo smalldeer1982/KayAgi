@@ -1,0 +1,51 @@
+---
+title: "Siege"
+layout: "post"
+diff: 难度0
+pid: UVA10607
+tag: []
+---
+
+# Siege
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=18&page=show_problem&problem=1548
+
+[PDF](https://uva.onlinejudge.org/external/106/p10607.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10607/e8f127c06bb95a9006ef902d8417b24c14564769.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10607/c2ffe4453086cd1d4102ad9ef28aa0c6bae225cb.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10607/6b8bc6a35f341f696dc6aecfe9f5e193b55e43d1.png)
+
+## 样例 #1
+
+### 输入
+
+```
+5 6
+BBBBBZ
+BCCCBZ
+BCAbbZ
+BDDDbZ
+33333Z
+3 3
+BBB
+BAB
+BBB
+0 0
+```
+
+### 输出
+
+```
+4
+1
+```
+

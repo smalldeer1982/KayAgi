@@ -1,0 +1,41 @@
+---
+title: "SPEC_SET - Special Set"
+layout: "post"
+diff: 难度0
+pid: SP18829
+tag: []
+---
+
+# SPEC_SET - Special Set
+
+## 题目描述
+
+Little boy Sai is fascinated with Natural Numbers. He especially likes Special Sets of order **k**. A set of numbers **S**, is called Special Set of order k if, for any two numbers **x** and **y** **(not necessarily distinct)** belonging to **S**, **x should not be equal to k\*y**.
+
+Now, Sai wants to find the size of maximum possible Special Set formed out of the numbers **1,2,3...n.** Hope you can help him.
+
+## 输入格式
+
+First line contains **t(1<=t<=10 $ ^{5} $ )**, the number of test cases. Next **t** lines contain two space separated integers **n** and **k**.
+
+**1<=n,k<=10 $ ^{8} $**
+
+## 输出格式
+
+For each test case, output on a single line the size of maximal Special set.
+
+## 样例 #1
+
+### 输入
+
+```
+1
+6 2
+```
+
+### 输出
+
+```
+
+```
+

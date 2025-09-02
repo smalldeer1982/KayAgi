@@ -1,0 +1,75 @@
+# 题号列表
+
+- P10032 - 「Cfz Round 3」Mex of Sequence
+- P10091 - [ROIR 2022] 分数排序 (Day 2)
+- P10134 - [USACO24JAN] Cowmpetency S
+- P1038 - [NOIP 2003 提高组] 神经网络
+- P10454 - 奇数码问题
+- P10469 - 后缀数组
+- P10784 - 【MX-J1-T4】『FLA - III』Wrestle
+- P10793 - 『SpOI - R1』Double Champions
+- P1080 - [NOIP 2012 提高组] 国王游戏
+- P10837 - 『FLA - I』云音泛
+- P10991 - [蓝桥杯 2023 国 Python A] 选段排序
+- P11022 - 「LAOI-6」Yet Another Graph Coloration Problem
+- P11232 - [CSP-S 2024] 超速检测
+- P11244 - 吻秋
+- P11289 - 【MX-S6-T1】「KDOI-11」打印
+- P1156 - 垃圾陷阱
+- P12026 - [USACO25OPEN] Compatible Pairs S
+- P12039 - [USTCPC 2025] 高位逼抢
+- P12144 - [蓝桥杯 2025 省 A] 地雷阵
+- P13359 - [GDCPC 2024] 不等式
+- P1340 - 兽径管理
+- P1347 - 排序
+- P13486 - [GCJ 2008 Finals] Juice
+- P1417 - 烹调方案
+- P1525 - [NOIP 2010 提高组] 关押罪犯
+- P1543 - [POI 2004] SZP
+- P1627 - [CQOI2009] 中位数
+- P1631 - 序列合并
+- P1685 - 游览
+- P1983 - [NOIP 2013 普及组] 车站分级
+- P2419 - [USACO08JAN] Cow Contest S
+- P2577 - [ZJOI2004] 午餐
+- P2671 - [NOIP 2015 普及组] 求和
+- P2723 - [USACO3.1] 丑数 Humble Numbers
+- P2994 - [USACO10OCT] Dinner Time S
+- P3073 - [USACO13FEB] Tractor S
+- P3116 - [USACO15JAN] Meeting Time S
+- P3145 - [USACO16OPEN] Splitting the Field G
+- P3619 - 魔法
+- P3661 - [USACO17FEB] Why Did the Cow Cross the Road I S
+- P3871 - [TJOI2010] 中位数
+- P3901 - 数列找不同
+- P3944 - 肮脏的牧师
+- P3985 - 不开心的金明
+- P4181 - [USACO18JAN] Rental Service S
+- P4316 - 绿豆蛙的归宿
+- P4673 - [BalticOI 2005] Bus Trip
+- P4752 - Divided Prime
+- P4816 - [USACO15DEC] High Card Low Card G
+- P4880 - 抓住czx
+- P4998 - 信号站
+- P5603 - 小 C 与桌游
+- P6033 - [NOIP 2004 提高组] 合并果子 加强版
+- P6149 - [USACO20FEB] Triangles S
+- P6154 - 游走
+- P6560 - [SBCOI2020] 时光的流逝
+- P6874 - [COCI 2013/2014 #6] KOCKICE
+- P7113 - [NOIP2020] 排水系统
+- P7133 - 小 P 的星空
+- P7149 - [USACO20DEC] Rectangular Pasture S
+- P7150 - [USACO20DEC] Stuck in a Rut S
+- P7193 - [COCI 2007/2008 #6] PRINCEZA
+- P7392 - 「TOCO Round 1」奇怪的排序
+- P7715 - 「EZEC-10」Shape
+- P7860 - [COCI 2015/2016 #2] ARTUR
+- P8088 - 『JROI-5』Autumn
+- P8148 - 声海 | Sea of Voices
+- P8269 - [USACO22OPEN] Visits S
+- P9127 - [USACO23FEB] Equal Sum Subarrays G
+- P9579 - 「Cfz Round 1」Elevator
+- P9901 - 『PG2』弯曲半平面直线同向图最大流
+- P9977 - [USACO23DEC] Bovine Acrobatics S
+- P9981 - [USACO23DEC] Minimum Longest Trip G

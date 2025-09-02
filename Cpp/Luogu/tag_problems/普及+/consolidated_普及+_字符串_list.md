@@ -1,0 +1,35 @@
+# 题号列表
+
+- B4392 - [常州市赛 2025] 压缩
+- P1032 - [NOIP 2002 提高组] 字串变换
+- P1124 - 文件压缩
+- P1175 - 表达式的转换
+- P12124 - [蓝桥杯 2024 省 B 第二场] 前缀总分
+- P12318 - [蓝桥杯 2024 国研究生组] 分割字符串
+- P12875 - [蓝桥杯 2025 国 Python A] 网络流量监控
+- P12990 - [GCJ 2022 #1C] Letter Blocks
+- P1310 - [NOIP 2011 普及组] 表达式的值
+- P1381 - 单词背诵
+- P1470 - [USACO2.3] 最长前缀 Longest Prefix
+- P1557 - Kruscal的加法
+- P1770 - 万能的OIH搜索
+- P1849 - [USACO12MAR] Tractor S
+- P1953 - 易语言
+- P2022 - 有趣的数
+- P2536 - [AHOI2005] 病毒检测
+- P2679 - [NOIP 2015 提高组] 子串
+- P3375 - 【模板】KMP
+- P3718 - [AHOI2017初中组] alter
+- P3719 - [AHOI2017初中组] rexp
+- P3952 - [NOIP 2017 提高组] 时间复杂度
+- P3982 - 龙盘雪峰信息解析器
+- P4391 - [BalticOI 2009] Radio Transmission 无线传输
+- P4407 - [JSOI2009] 电子字典
+- P4421 - [COCI 2017/2018 #1] Lozinke
+- P4536 - [CQOI2007] 三角形
+- P4711 - 「化学」相对分子质量
+- P4925 - [1007] Scarlet的字符串不可能这么可爱
+- P7469 - [NOI Online 2021 提高组] 积木小赛
+- P9184 - [USACO23OPEN] Moo Language B
+- P9326 - [CCC 2023 S3] Palindromic Poster
+- P9606 - [CERC2019] ABB

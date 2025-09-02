@@ -1,0 +1,123 @@
+# 题号列表
+
+- B3832 - [NICA #2] 回来吧我的小波
+- B3980 - [信息与未来 2024] 间谍卫星
+- B4140 - [信息与未来 2016] 方格取数
+- B4141 - [信息与未来 2016] 素数分解
+- B4158 - [BCSP-X 2024 12 月小学高年级组] 质数补全
+- B4167 - 「GXPC-S 2024」扫雷
+- B4204 - [常州市赛 2021] 烧菜
+- B4206 - [常州市赛 2021] 数字翻转
+- B4226 - [常州市赛 2024] 密码
+- B4297 - [蓝桥杯青少年组国赛 2022] 翻卡片
+- P10095 - [ROIR 2023] 斐波那契乘积 (Day 1)
+- P1023 - [NOIP 2000 普及组] 税收与补贴问题
+- P10246 - Exciting Days
+- P1026 - [NOIP 2001 提高组] 统计单词个数
+- P10320 - 勇气（Courage）
+- P1058 - [NOIP 2008 普及组] 立体图
+- P10996 - 【MX-J3-T3】 Tuple
+- P1118 - [USACO06FEB] Backward Digit Sums G/S
+- P11214 - 【MX-J8-T2】 黑洞
+- P1123 - 取数游戏
+- P1142 - 轰炸
+- P11475 - [COCI 2024/2025 #3] 红蓝牌 / Karte
+- P1158 - [NOIP 2010 普及组] 导弹拦截
+- P1172 - 安全逃离（数据有误）
+- P1210 - [USACO1.3] 最长的回文 Calf Flac
+- P12178 - DerrickLo's Decimals (UBC002A)
+- P12240 - [蓝桥杯 2023 国 C] 定时任务
+- P12253 - [蓝桥杯 2024 国 Java B] 宝塔
+- P12648 - [KOI 2024 Round 2] 路灯
+- P1280 - 尼克的任务
+- P12842 - [蓝桥杯 2025 国 A] 土地整平计划
+- P13313 - [GCJ 2012 Qualification] Recycled Numbers
+- P13399 - [GCJ 2010 #2] Elegant Diamond
+- P13423 - [COCI 2019/2020 #4] Spiderman
+- P13591 - [NWRRC 2023] Kitchen Timer
+- P1444 - [USACO1.3] 虫洞 wormhole
+- P1465 - [USACO2.2] 序言页码 Preface Numbering
+- P1504 - 积木城堡
+- P1508 - Likecloud-吃、吃、吃
+- P1531 - I Hate It
+- P1555 - 尴尬的数字
+- P1582 - 倒水
+- P1586 - 四方定理
+- P1621 - 集合
+- P1690 - 贪婪的Copy
+- P1738 - 洛谷的文件夹
+- P1835 - 素数密度
+- P2040 - 打开所有的灯
+- P2049 - 魔术棋子
+- P2199 - 最后的迷宫
+- P2280 - [HNOI2003] 激光炸弹
+- P2313 - [HNOI2005] 汤姆的游戏
+- P2648 - 赚钱
+- P2655 - 2038年问题
+- P2665 - [USACO08FEB] Game of Lines S
+- P2729 - [USACO3.2] 饲料调配 Feed Ratios
+- P2935 - [USACO09JAN] Best Spot S
+- P3068 - [USACO13JAN] Party Invitations S
+- P3074 - [USACO13FEB] Milk Scheduling S
+- P3093 - [USACO13DEC] Milk Scheduling S
+- P3123 - [USACO15OPEN] Bessie Goes Moo S
+- P3135 - [USACO16JAN] Fort Moo P
+- P3138 - [USACO16FEB] Load Balancing S
+- P3142 - [USACO16OPEN] Field Reduction S
+- P3143 - [USACO16OPEN] Diamond Collector S
+- P3662 - [USACO17FEB] Why Did the Cow Cross the Road II S
+- P3670 - [USACO17OPEN] Bovine Genomics S
+- P3799 - 小 Y 拼木棒
+- P3864 - [USACO1.2] 命名那个数字 Name That Number
+- P3906 - Geodetic集合
+- P3910 - 纪念邮票
+- P4071 - [SDOI2016] 排列计数
+- P4086 - [USACO17DEC] My Cow Ate My Homework S
+- P4141 - 消失之物
+- P4346 - [CERC2015] ASCII Addition
+- P4368 - [Code+#4] 喵呜
+- P4415 - [COCI 2006/2007 #2] KOLONE
+- P4759 - [CERC2014] Sums
+- P4817 - [USACO15DEC] Fruit Feast G
+- P4825 - [USACO15FEB] Cow Hopscotch S
+- P4888 - 三去矩阵
+- P4889 - kls与flag
+- P4960 - 血小板与凝血因子
+- P4994 - 终于结束的起点
+- P5002 - 专心OI - 找祖先
+- P5118 - [USACO18DEC] Back and Forth B
+- P5614 - [MtOI2019] 膜Siyuan
+- P6002 - [USACO20JAN] Berry Picking S
+- P6591 - [YsOI2020] 植树
+- P7094 - [yLOI2020] 金陵谣
+- P7318 - 「PMOI-4」人赢
+- P7472 - [NOI Online 2021 入门组] 吃豆人
+- P7517 - [省选联考 2021 B 卷] 数对
+- P7616 - [COCI 2011/2012 #2] ZADAĆA
+- P7626 - [COCI 2011/2012 #1] MATRIX
+- P7773 - [COCI 2009/2010 #2] RIMSKI
+- P7910 - [CSP-J 2021] 插入排序
+- P7911 - [CSP-J 2021] 网络连接
+- P7935 - [COCI 2007/2008 #5] AVOGADRO
+- P8467 - [Aya Round 1 B] 甲（one）
+- P8599 - [蓝桥杯 2013 省 B] 带分数
+- P8663 - [蓝桥杯 2018 省 A] 倍数问题
+- P8667 - [蓝桥杯 2018 省 B] 递增三元组
+- P8672 - [蓝桥杯 2018 国 C] 交换次数
+- P8695 - [蓝桥杯 2019 国 AC] 轨道炮
+- P8708 - [蓝桥杯 2020 省 A1] 整数小拼接
+- P8712 - [蓝桥杯 2020 省 B1] 整数拼接
+- P8715 - [蓝桥杯 2020 省 AB2] 子串分值
+- P8716 - [蓝桥杯 2020 省 AB2] 回文日期
+- P8749 - [蓝桥杯 2021 省 B] 杨辉三角形
+- P8762 - [蓝桥杯 2021 国 ABC] 123
+- P8783 - [蓝桥杯 2022 省 B] 统计子矩阵
+- P8807 - [蓝桥杯 2022 国 C] 取模
+- P8808 - [蓝桥杯 2022 国 C] 斐波那契数组
+- P8809 - [蓝桥杯 2022 国 C] 近似 GCD
+- P8838 - [传智杯 #3 决赛] 面试
+- P9325 - [CCC 2023 S2] Symmetric Mountains
+- P9700 - [GDCPC 2023] Peg Solitaire
+- P9954 - [USACO20OPEN] Cowntact Tracing B
+- P9957 - [USACO20DEC] Stuck in a Rut B
+- P9978 - [USACO23DEC] Cycle Correspondence S

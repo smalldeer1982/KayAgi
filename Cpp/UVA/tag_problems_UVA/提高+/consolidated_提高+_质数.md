@@ -1,0 +1,151 @@
+---
+title: "最小公倍数的最小和 Minimum Sum LCM"
+layout: "post"
+diff: 提高+/省选-
+pid: UVA10791
+tag: ['递归', '枚举', '素数判断,质数,筛法']
+---
+
+# 最小公倍数的最小和 Minimum Sum LCM
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=19&page=show_problem&problem=1732
+
+[PDF](https://uva.onlinejudge.org/external/107/p10791.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10791/46b9c621d71e185653bf0a7197761eb0efdc4589.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10791/7a5e01d2fc4bd5a007ecd456a07165372a1da9fa.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10791/eb4e5ec11ec7e64f907d2a65a0fcc8faf715a7db.png)
+
+## 样例 #1
+
+### 输入
+
+```
+12
+10
+5
+0
+```
+
+### 输出
+
+```
+Case 1: 7
+Case 2: 7
+Case 3: 6
+```
+
+
+
+---
+
+---
+title: "H-半素数 Semi-prime H-numbers"
+layout: "post"
+diff: 提高+/省选-
+pid: UVA11105
+tag: ['枚举', '素数判断,质数,筛法', '中国剩余定理 CRT']
+---
+
+# H-半素数 Semi-prime H-numbers
+
+## 题目描述
+
+# 【问题描述】
+
+形如$4n+1$的数被称为“H数”，乘法在“H数”组成的集合内是封闭的。在这个集合中只能被1和本身整除的数叫做“H-素数”（不包括1），其余的数被称为“H-合数”。一个“H-合成数”是一个能且只能分解成两个“H-素数”乘积的“H-合数”（可能有多种分解方案）。比如$441=21*21=9*49$,所以$441$是“H-合成数”。$125=5*5*5$,所以125不是“H-合成数”。
+
+求$0$~$h$范围内“H-合成数”的个数。
+
+## 输入格式
+
+输入若干行，每行一个小于等于$1000001$的整数$h$，一个$0$表示结束。
+
+## 输出格式
+
+对于每一行输入，输出两个数，第一个表示当前的$h$，第二个表示答案。
+
+## 样例 #1
+
+### 输入
+
+```
+21
+85
+789
+0
+```
+
+### 输出
+
+```
+21 0
+85 5
+789 62
+```
+
+
+
+---
+
+---
+title: "GCD Guessing Game"
+layout: "post"
+diff: 提高+/省选-
+pid: UVA1521
+tag: ['贪心', '素数判断,质数,筛法', '最大公约数 gcd']
+---
+
+# GCD Guessing Game
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=448&page=show_problem&problem=4267
+
+[PDF](https://uva.onlinejudge.org/external/15/p1521.pdf)
+
+
+## 输入格式
+
+**本题在单测试点内有多组测试数据，请读入到 EOF。**
+
+给定 $n (2 \leq n \leq 10^4)$，玩一个猜数游戏。目标为 $p (p \in [1, n])$。
+
+每一次可以猜一个数 $x$，会告诉你 $\gcd(x, p)$。
+
+求在 **最坏** 情况下，至少需要猜几次 **保证** 猜出 $p$。
+
+## 输出格式
+
+对于每一组数据，输出答案并换行。
+
+## 说明/提示
+
+Translated by @[longgod](/user/39675), retranslated by @[Carroty_cat](/user/912750).
+
+## 样例 #1
+
+### 输入
+
+```
+6
+```
+
+### 输出
+
+```
+2
+```
+
+
+
+---
+

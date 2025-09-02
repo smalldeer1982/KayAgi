@@ -1,0 +1,53 @@
+# 题号列表
+
+- CF1017B - The Bits
+- CF1017C - The Phone Number
+- CF1593D1 - All are Same
+- CF1612C - Chat Ban
+- CF1634B - Fortune Telling
+- CF1696C - Fishingprince Plays With Array
+- CF1706D1 - Chopping Carrots (Easy Version)
+- CF1790E - Vlad and a Pair of Numbers
+- CF1928C - Physical Education Lesson
+- CF1932E - Final Countdown
+- CF1933D - Turtle Tenacity: Continual Mods
+- CF1956C - Nene's Magical Matrix
+- CF1968E - Cells Arrangement
+- CF1971F - Circle Perimeter
+- CF1980D - GCD-sequence
+- CF1985G - D-Function
+- CF1993C - Light Switches
+- CF1999E - Triple Operations
+- CF1999G1 - Ruler (easy version)
+- CF1999G2 - Ruler (hard version)
+- CF2003D1 - Turtle and a MEX Problem (Easy Version)
+- CF2005B2 - The Strict Teacher (Hard Version)
+- CF2009E - Klee's SUPER DUPER LARGE Array!!!
+- CF2025B - Binomial Coefficients, Kind Of
+- CF2027C - Add Zeros
+- CF2028B - Alice's Adventures in Permuting
+- CF2031C - Penchick and BBQ Buns
+- CF2035C - Alya and Permutation
+- CF2041B - Bowling Frame
+- CF2044E - Insane Problem
+- CF2065D - Skibidus and Sigma
+- CF2067C - Devyatkino
+- CF2069C - Beautiful Sequence
+- CF2072D - For Wizards, the Exam Is Easy, but I Couldn't Handle It
+- CF2072E - Do You Love Your Hero and His Two-Hit Multi-Target Attacks?
+- CF2074D - Counting Points
+- CF2077A - Breach of Faith
+- CF2084C - You Soared Afar With Grace
+- CF2091D - Place of the Olympiad
+- CF2098B - Sasha and the Apartment Purchase
+- CF2118C - Make It Beautiful
+- CF2118D1 - Red Light, Green Light (Easy version)
+- CF230B - T-primes
+- CF398A - Cards
+- CF578A - A Problem about Polyline
+- CF735D - Taxes
+- CF75C - Modified GCD
+- CF839C - Journey
+- CF86A - Reflection
+- CF983A - Finite or not?
+- CF987B - High School: Become Human

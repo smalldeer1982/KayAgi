@@ -1,0 +1,110 @@
+# 题号列表
+
+- CF1029E - Tree with Small Distances
+- CF1054D - Changing Array
+- CF1065C - Make It Equal
+- CF1066B - Heaters
+- CF115B - Lawnmower
+- CF1165F1 - Microtransactions (easy version)
+- CF1165F2 - Microtransactions (hard version)
+- CF1180B - Nick and Array
+- CF1250J - The Parade
+- CF1296D - Fight with Monsters
+- CF1425E - Excitation of Atoms
+- CF1506G - Maximize the Remaining String
+- CF1593E - Gardener and Tree
+- CF1661D - Progressions Covering
+- CF1665C - Tree Infection
+- CF1675F - Vlad and Unfinished Business
+- CF1677C - Tokitsukaze and Two Colorful Tapes
+- CF1678B2 - Tokitsukaze and Good 01-String (hard version)
+- CF1680E - Moving Chips
+- CF1684D - Traps
+- CF1687A - The Enchanted Forest
+- CF1693B - Fake Plastic Trees
+- CF1701D - Permutation Restoration
+- CF1705D - Mark and Lightbulbs
+- CF1707A - Doremy's IQ
+- CF1709C - Recover an RBS
+- CF1712D - Empty Graph
+- CF1714D - Color with Occurrences
+- CF1718B - Fibonacci Strings
+- CF1721D - Maximum AND
+- CF1728D - Letter Picking
+- CF1748C - Zero-Sum Prefixes
+- CF1774D - Same Count One
+- CF1882D - Tree XOR
+- CF1896C - Matching Arrays
+- CF1914F - Programming Competition
+- CF1930D1 - Sum over all Substrings (Easy Version)
+- CF1941F - Rudolf and Imbalance
+- CF1942C2 - Bessie's Birthday Cake (Hard Version)
+- CF1948E - Clique Partition
+- CF1965B - Missing Subsequence Sum
+- CF1968F - Equal XOR Segments
+- CF1969D - Shop Game
+- CF1974G - Money Buys Less Happiness Now
+- CF1975D - Paint the Tree
+- CF1976C - Job Interview
+- CF1978E - Computing Machine
+- CF1979D - Fixing a Binary String
+- CF1981C - Turtle and an Incomplete Sequence
+- CF1984C2 - Magnitude (Hard Version)
+- CF1992F - Valuable Cards
+- CF1994E - Wooden Game
+- CF1995B2 - Bouquet (Hard Version)
+- CF1998C - Perform Operations to Maximize Score
+- CF2003D2 - Turtle and a MEX Problem (Hard Version)
+- CF2006A - Iris and Game on the Tree
+- CF2018A - Cards Partition
+- CF2018C - Tree Pruning
+- CF2021C2 - Adjust The Presentation (Hard Version)
+- CF2034D - Darius' Wisdom
+- CF2035D - Yet Another Real Number Problem
+- CF2037E - Kachina's Favorite Binary String
+- CF2039D - Shohag Loves GCD
+- CF2040C - Ordered Permutations
+- CF2041M - Selection Sort
+- CF2043C - Sums on Segments
+- CF2044G2 - Medium Demon Problem (hard version)
+- CF2045A - Scrambled Scrabble
+- CF2046B - Move Back at a Cost
+- CF2048D - Kevin and Competition Memories
+- CF2051F - Joker
+- CF2053D - Refined Product Optimality
+- CF2057C - Trip to the Olympiad
+- CF2066B - White Magic
+- CF2069D - Palindrome Shuffle
+- CF2071C - Trapmigiano Reggiano
+- CF2078D - Scammy Game Ad
+- CF2082B - Floor or Ceil
+- CF2084D - Arcology On Permafrost
+- CF2085D - Serval and Kaitenzushi Buffet
+- CF2089B1 - Canteen (Easy Version)
+- CF2090C - Dining Hall
+- CF2092D - Mishkin Energizer
+- CF2093F - Hackers and Neural Networks
+- CF2093G - Shorten the Array
+- CF2101B - 四重交换
+- CF2107D - Apple Tree Traversing
+- CF2107D - 穿越苹果树
+- CF235A - LCM Challenge
+- CF336C - Vasily the Bear and Sequence
+- CF33C - Wonderful Randomized Sum
+- CF3B - Lorry
+- CF437C - The Child and Toy
+- CF460D - Little Victor and Set
+- CF468B - Two Sets
+- CF484A - Bits
+- CF527D - Clique Problem
+- CF529B - Group Photo 2 (online mirror version)
+- CF558C - Amr and Chemistry
+- CF627C - Package Delivery
+- CF712C - Memory and De-Evolution
+- CF758D - Ability To Convert
+- CF864E - Fire
+- CF888E - Maximum Subsequence
+- CF923A - Primal Sport
+- CF976E - Well played!
+- CF981D - Bookshelves
+- CF994B - Knights of a Polygonal Table

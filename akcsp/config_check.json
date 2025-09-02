@@ -1,0 +1,64 @@
+{
+    "api_key": "1c304c18-bff4-4ec2-b899-394901c8a17d",
+    "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+    "model": "ep-20250623201936-9hsr8",
+    "timeout": 1200,
+    "max_retries": 3,
+    "retry_delay": 5,
+
+    "_unused_config4_openrouter": {
+        "api_key": "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",
+        "base_url": "https://openrouter.ai/api/v1",
+        "model": "deepseek/deepseek-chat-v3-0324:free"
+    },
+
+    "_unused_configs1_r1": {
+        "api_key": "1c304c18-bff4-4ec2-b899-394901c8a17d",
+        "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+        "model": "ep-20250529223510-l64m5"
+    },
+
+    "_unused_configs1_v3": {
+        "api_key": "1c304c18-bff4-4ec2-b899-394901c8a17d",
+        "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+        "model": "ep-20250326212423-9dhws"
+    },
+
+    "_unused_configs1_doubao-256": {
+        "api_key": "1c304c18-bff4-4ec2-b899-394901c8a17d",
+        "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+        "model": "ep-20250506170821-p62bn"
+    },
+
+    "_unused_configs1_doubao-32": {
+        "api_key": "1c304c18-bff4-4ec2-b899-394901c8a17d",
+        "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+        "model": "ep-20250206113008-hjmz7"
+    },
+
+    "_unused_configs1_doubao-lit-32": {
+        "api_key": "1c304c18-bff4-4ec2-b899-394901c8a17d",
+        "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+        "model": "ep-20250224165253-z6jzv"
+    },
+
+    "_unused_configs2": {
+        "api_key": "sk-kjf2tgCAmE4O7R0TkcA9ySiRC5Tjycve7paFSLxmOcjeEqjd",
+        "base_url": "https://api.lkeap.cloud.tencent.com/v1",
+        "model": "deepseek-r1"
+    },
+
+    "_unused_config3": {
+        "api_key": "sk-19fdc5762f3542768276f432742b92cb",
+        "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+        "model": "deepseek-r1"
+    },    
+    "_unused_configs": {
+        "api_key": "sk-447clK3ipB1Z2LgEEf6878FdFaE0482fB927Ee17929a1488",
+        "base_url": "https://maas-api.cn-huabei-1.xf-yun.com/v1",
+        "model": "xdeepseekr1"
+    }
+
+
+
+}

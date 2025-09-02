@@ -1,0 +1,22 @@
+# 题号列表
+
+- B4227 - [常州市赛 2024] 游戏
+- P10608 - 双人游戏
+- P11969 - 「ALFR Round 7」T2 Game
+- P12458 - [JOI2025 预选赛 R2] 冰淇淋
+- P1247 - 取火柴游戏
+- P1290 - 欧几里德的游戏
+- P13246 - [GCJ 2014 Qualification] Deceitful War
+- P1512 - 伊甸园日历游戏
+- P2197 - 【模板】Nim 游戏
+- P2953 - [USACO09OPEN] Cow Digit Game S
+- P4136 - 谁能赢呢？
+- P4576 - [CQOI2013] 棋盘游戏
+- P6560 - [SBCOI2020] 时光的流逝
+- P7589 - 黑白棋（2021 CoE-II B）
+- P8144 - [JRKSJ R4] BBWWBB
+- P8307 - 〈 TREEのOI 2022 Spring 〉Absolutely Simple Game
+- P8743 - [蓝桥杯 2021 省 A] 异或数列
+- P8901 - [USACO22DEC] Circular Barn S
+- P8966 - 觅光 | Searching for Hope (easy ver.)
+- P9971 - [THUPC 2024 初赛] 三步棋

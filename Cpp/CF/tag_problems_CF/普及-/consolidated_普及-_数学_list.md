@@ -1,0 +1,107 @@
+# 题号列表
+
+- CF1037A - Packets
+- CF120E - Put Knight!
+- CF1360D - Buying Shovels
+- CF1560B - Who's Opposite?
+- CF1593B - Make it Divisible by 25
+- CF1611A - Make Even
+- CF1679A - AvtoBus
+- CF1680A - Minimums and Maximums
+- CF1708A - Difference Operations
+- CF1713A - Traveling Salesman Problem
+- CF1721B - Deadly Laser
+- CF1731B - Kill Demodogs
+- CF1744B - Even-Odd Increments
+- CF1764B - Doremy's Perfect Math Class
+- CF1930B - Permutation Printing
+- CF1933B - Turtle Math: Fast Three Task
+- CF1934B - Yet Another Coin Problem
+- CF1937A - Shuffle Party
+- CF1942A - Farmer John's Challenge
+- CF1942B - Bessie and MEX
+- CF1942C1 - Bessie's Birthday Cake (Easy Version)
+- CF1945B - Fireworks
+- CF1951A - Dual Trigger
+- CF1954A - Painting the Ribbon
+- CF1954B - Make It Ugly
+- CF1957A - Stickogon
+- CF1968A - Maximize?
+- CF1968C - Assembly via Remainders
+- CF1973A - Chess For Three
+- CF1974A - Phone Desktop
+- CF1975B - 378QAQ and Mocha's Array
+- CF1978B - New Bakery
+- CF1981A - Turtle and Piggy Are Playing a Game
+- CF1984B - Large Addition
+- CF1985E - Secret Box
+- CF1988A - Split the Multiset
+- CF1992A - Only Pluses
+- CF1995A - Diagonals
+- CF1998A - Find K Distinct Points with Fixed Center
+- CF2002A - Distanced Coloring
+- CF2002C - Black Circles
+- CF2004A - Closest Point
+- CF2005A - Simple Palindrome
+- CF2005B1 - The Strict Teacher (Easy Version)
+- CF2008C - Longest Good Array
+- CF2009C - The Legend of Freya the Frog
+- CF2014B - Robin Hood and the Major Oak
+- CF2014C - Robin Hood in Town
+- CF2020B - Brightness Begins
+- CF2022A - Bus to Pénjamo
+- CF2022B - Kar Salesman
+- CF2026A - Perpendicular Segments
+- CF2027A - Rectangle Arrangement
+- CF2029A - Set
+- CF2030A - A Gift From Orangutan
+- CF2030B - Minimise Oneness
+- CF2035A - Sliding
+- CF2037B - Intercepted Inputs
+- CF2037C - Superultra's Favorite Permutation
+- CF2038L - Bridge Renovation
+- CF2039C1 - Shohag Loves XOR (Easy Version)
+- CF2040B - Paint a Strip
+- CF2041E - Beautiful Array
+- CF2042B - Game with Colored Marbles
+- CF2044C - Hard Problem
+- CF2047A - Alyona and a Square Jigsaw Puzzle
+- CF2050B - Transfusion
+- CF2050C - Uninteresting Number
+- CF2051B - Journey
+- CF2053A - Tender Carpenter
+- CF2067A - Adjacent Digit Sums
+- CF2070B - Robot Program
+- CF2071A - The Play Never Ends
+- CF2071B - Perfecto
+- CF2072A - New World, New Me, New Array
+- CF2074B - The Third Side
+- CF2075A - To Zero
+- CF2078A - Final Verdict
+- CF2078B - Vicious Labyrinth
+- CF2084A - Max and Mod
+- CF2084B - MIN = GCD
+- CF2091C - Combination Lock
+- CF2092A - Kamilka and the Sheep
+- CF2092C - Asuna and the Mosquitoes
+- CF2093A - Ideal Generator
+- CF2094B - Bobritto Bandito
+- CF2096B - Wonderful Gloves
+- CF2102A - Dinner Time
+- CF2103A - Common Multiple
+- CF2103B - Binary Typewriter
+- CF2104A - Three Decks
+- CF2107A - LRC and VIP
+- CF2113A - Shashliks
+- CF2113B - Good Start
+- CF2116B - Gellyfish and Baby's Breath
+- CF2117D - Retaliation
+- CF303A - Lucky Permutation Triple
+- CF340A - The Wall
+- CF598A - Tricky Sum
+- CF622A - Infinite Sequence
+- CF691C - Exponential notation
+- CF697A - Pineapple Incident
+- CF912A - Tricky Alchemy
+- CF964A - Splits
+- CF976B - Lara Croft and the New Game

@@ -1,0 +1,43 @@
+---
+title: "Smeech"
+layout: "post"
+diff: 难度0
+pid: UVA11291
+tag: []
+---
+
+# Smeech
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2266
+
+[PDF](https://uva.onlinejudge.org/external/112/p11291.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11291/eb335c9e98bbe8cf1238fed131b8e0ec69d6942d.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11291/3ec13a96e61573854e2139e6e486a383f2b4eb4b.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11291/8951ecef9c82291e7dee500fd575eb8ef4e543f0.png)
+
+## 样例 #1
+
+### 输入
+
+```
+7
+(.5 3 9)
+()
+```
+
+### 输出
+
+```
+7.00
+3.00
+```
+

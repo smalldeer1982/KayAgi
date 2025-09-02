@@ -1,0 +1,41 @@
+---
+title: "Put Knight!"
+layout: "post"
+diff: 普及-
+pid: CF120E
+tag: ['数学']
+---
+
+# Put Knight!
+
+## 题目描述
+
+Petya and Gena play a very interesting game "Put a Knight!" on a chessboard $ n×n $ in size. In this game they take turns to put chess pieces called "knights" on the board so that no two knights could threat each other. A knight located in square $ (r,c) $ can threat squares $ (r-1,c+2) $ , $ (r-1,c-2) $ , $ (r+1,c+2) $ , $ (r+1,c-2) $ , $ (r-2,c+1) $ , $ (r-2,c-1) $ , $ (r+2,c+1) $ and $ (r+2,c-1) $ (some of the squares may be located outside the chessboard). The player who can't put a new knight during his move loses. Determine which player wins considering that both players play optimally well and Petya starts.
+
+## 输入格式
+
+The first line contains integer $ T $ ( $ 1<=T<=100 $ ) — the number of boards, for which you should determine the winning player. Next $ T $ lines contain $ T $ integers $ n_{i} $ ( $ 1<=n_{i}<=10000 $ ) — the sizes of the chessboards.
+
+## 输出格式
+
+For each $ n_{i}×n_{i} $ board print on a single line "0" if Petya wins considering both players play optimally well. Otherwise, print "1".
+
+## 样例 #1
+
+### 输入
+
+```
+2
+2
+1
+
+```
+
+### 输出
+
+```
+1
+0
+
+```
+

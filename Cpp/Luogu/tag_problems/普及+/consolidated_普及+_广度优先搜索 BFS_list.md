@@ -1,0 +1,42 @@
+# 题号列表
+
+- B4208 - [常州市赛 2021] 移动
+- P10178 - 陌路寻诗礼
+- P1032 - [NOIP 2002 提高组] 字串变换
+- P10485 - Bloxorz I
+- P10487 - Nightmare II
+- P10492 - Weather Forecast
+- P10493 - Bloxorz II
+- P10988 - [蓝桥杯 2023 国 Python A] 走方格
+- P1126 - 机器人搬重物
+- P1144 - 最短路计数
+- P11448 - 「ALFR Round 3」D 核裂变
+- P1189 - SEARCH
+- P12533 - [XJTUPC 2025] 9-Nine
+- P12684 - 【MX-J15-T4】叉叉学习魔法
+- P13096 - [FJCPC 2025] 难以控制的滑板火箭
+- P13638 - [NWRRC 2021] Kaleidoscopic Route
+- P13823 - 「Diligent-OI R2 C」所谓伊人
+- P1902 - 刺杀大使
+- P1993 - 小 K 的农场
+- P2195 - HXY造公园
+- P2610 - [ZJOI2012] 旅游
+- P2658 - 汽车拉力比赛
+- P2845 - [USACO15DEC] Switching on the Lights S
+- P2937 - [USACO09JAN] Laserphones S
+- P3393 - 逃离僵尸岛
+- P3456 - [POI 2007] GRZ-Ridges and Valleys
+- P3496 - [POI 2010] GIL-Guilds
+- P3663 - [USACO17FEB] Why Did the Cow Cross the Road III S
+- P3818 - 小A和uim之大逃离 II
+- P3855 - [TJOI2008] Binary Land
+- P3956 - [NOIP 2017 普及组] 棋盘
+- P4645 - [COCI 2006/2007 #3] BICIKLI
+- P5195 - [USACO05DEC] Knights of Ni S
+- P6560 - [SBCOI2020] 时光的流逝
+- P7284 - [COCI 2020/2021 #4] Patkice II
+- P7775 - [COCI 2009/2010 #2] VUK
+- P8287 - 「DAOI R1」Flame
+- P8693 - [蓝桥杯 2019 国 AC] 大胖子走迷宫
+- P8854 - [POI 2002] 超级马
+- P9709 - [KMOI R1] 军事行动

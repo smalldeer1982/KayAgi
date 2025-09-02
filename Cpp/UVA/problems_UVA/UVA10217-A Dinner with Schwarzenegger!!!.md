@@ -1,0 +1,42 @@
+---
+title: "A Dinner with Schwarzenegger!!!"
+layout: "post"
+diff: 难度0
+pid: UVA10217
+tag: []
+---
+
+# A Dinner with Schwarzenegger!!!
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=14&page=show_problem&problem=1158
+
+[PDF](https://uva.onlinejudge.org/external/102/p10217.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10217/b0705cda08a1f3c428f0c8edf75f794614111e8e.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10217/676ac81e788c2f5ff138c247ee91912b69f5573f.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10217/fd7737d81182ff0e562580383eed20076b4fd78b.png)
+
+## 样例 #1
+
+### 输入
+
+```
+365
+200
+```
+
+### 输出
+
+```
+18.61 19
+13.65 14
+```
+

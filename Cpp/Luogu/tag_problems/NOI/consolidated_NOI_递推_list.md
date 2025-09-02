@@ -1,0 +1,35 @@
+# 题号列表
+
+- P11821 - [PA 2019 Final] 数图 / Grafy 加强版
+- P3235 - [HNOI2014] 江南乐
+- P3339 - [ZJOI2014] 取石子游戏
+- P3789 - Azuki loves coloring
+- P3824 - [NOI2017] 泳池
+- P3826 - [NOI2017] 蔬菜
+- P4457 - [BJOI2018] 治疗之雨
+- P4723 - 【模板】常系数齐次线性递推
+- P4931 - [MtOI2018] 情侣？给我烧了！（加强版）
+- P5388 - [Cnoi2019] 最终幻想
+- P5430 - [SNOI2017] 礼物 加强版
+- P5487 - 【模板】Berlekamp–Massey 算法
+- P5519 - [MtOI2019] 埋骨于弘川
+- P5808 - 【模板】常系数非齐次线性递推
+- P5915 - 冬至
+- P6031 - CF1278F Cards 加强版
+- P6296 - 轮换式 加强版
+- P6358 - 鬼故事 加强版
+- P7289 - 「EZEC-5」「KrOI2021」Chasse Neige
+- P7292 - 「EZEC-5」「KrOI2021」Chasse Neige 加强版
+- P7438 - 更简单的排列计数
+- P7439 - 「KrOI2021」Feux Follets 弱化版
+- P7440 - 「KrOI2021」Feux Follets
+- P7454 - [THUSC 2017] 如果奇迹有颜色
+- P7513 - 「Stoi2031」兰亭序 加强版
+- P7820 - [RC-05] 01 序列
+- P8556 - 心跳 加强版
+- P8559 - 寻宝（Treasure）
+- P8735 - [蓝桥杯 2020 国 A] 蓝跳跳
+- P8979 - 「DTOI-4」白的 Fibonacci
+- P9091 - 「SvR-2」Let's Meet at a Higher Place
+- P9248 - [集训队互测 2018] 完美的集合
+- P9419 - [POI 2021/2022 R1] Układanie kart

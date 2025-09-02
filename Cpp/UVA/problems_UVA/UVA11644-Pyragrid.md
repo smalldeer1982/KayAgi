@@ -1,0 +1,51 @@
+---
+title: "Pyragrid"
+layout: "post"
+diff: 难度0
+pid: UVA11644
+tag: []
+---
+
+# Pyragrid
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=78&page=show_problem&problem=2691
+
+[PDF](https://uva.onlinejudge.org/external/116/p11644.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11644/6454d6262e65786f0e1cc678dd8d795a772da8a0.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11644/c6e7b1465f6af31033c7fbc6803317e6efbb03ff.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11644/e3d8fd07583a9100aae460e03451dafa1bf78cb7.png)
+
+## 样例 #1
+
+### 输入
+
+```
+3
+0 0 5 0
+0 0 5 5
+0 5 5 0
+5
+0 0 2 2
+1 1 3 3
+0 0 2 0
+1 1 2 0
+2 2 2 0
+0
+```
+
+### 输出
+
+```
+Case 1: 1
+Case 2: 3
+```
+

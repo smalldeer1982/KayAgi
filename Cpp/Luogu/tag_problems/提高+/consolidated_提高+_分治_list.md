@@ -1,0 +1,41 @@
+# 题号列表
+
+- P10162 - [DTCPC 2024] 序列
+- P10408 - 「SMOI-R1」Apple
+- P10421 - [蓝桥杯 2023 国 A] 树上的路径
+- P10459 - Raid
+- P10633 - BZOJ2989 数列/BZOJ4170 极光
+- P10680 - [COTS 2024] 双双决斗 Dvoboj
+- P11221 - [COTS 2019] 序列操作 K-ti
+- P11261 - [COTS 2018] 直方图 Histogram
+- P11287 - [COTS 2017] 影响 Utjecaj
+- P11455 - [USACO24DEC] Cowdepenence G
+- P12128 - [蓝桥杯 2024 省 B 第二场] 质数变革【暂无数据】
+- P12466 - 『FCRT / 1 - 3』Wordle
+- P12468 - [Math×Girl] 距离
+- P12685 - [国家集训队] 排队 加强版
+- P13251 - [GCJ 2014 #1B] New Lottery Game
+- P13265 - [GCJ 2014 Finals] Power Swapper
+- P1429 - 平面最近点对（加强版）
+- P2163 - [SHOI2007] 园丁的烦恼
+- P2208 - [USACO13OPEN] What's Up With Gravity S
+- P2365 - 任务安排
+- P2634 - [国家集训队] 聪聪可可
+- P2742 - [USACO5.1] 圈奶牛Fencing the Cows /【模板】二维凸包
+- P3120 - [USACO15FEB] Cow Hopscotch G
+- P3136 - [USACO16JAN] Mowing the Field P
+- P3396 - 哈希冲突
+- P3617 - 电阻网络
+- P3806 - 【模板】点分治 1
+- P4178 - Tree
+- P5502 - [JSOI2015] 最大公约数
+- P5787 - 二分图 /【模板】线段树分治
+- P7345 - 【DSOI 2021】吟唱的金色花海
+- P7415 - [USACO21FEB] Count the Cows G
+- P7883 - 平面最近点对（加强加强版）
+- P7895 - 『JROI-3』删树
+- P8250 - 交友问题
+- P8317 - [FOI2021] 幸运区间
+- P8973 - 『GROI-R1』 继续深潜，为了同一个梦想
+- P9595 - 「Daily OI Round 1」Xor
+- P9809 - [SHOI2006] 作业 Homework

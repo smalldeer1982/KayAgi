@@ -1,0 +1,37 @@
+# 题号列表
+
+- CF149A - Business trip
+- CF1537A - Arithmetic Array
+- CF1537B - Bad Boy
+- CF1602A - Two Subsequences
+- CF1617A - Forbidden Subsequence
+- CF1629A - Download More RAM
+- CF1629B - GCD Arrays
+- CF1675A - Food for Animals
+- CF1714B - Remove Prefix
+- CF1731A - Joey Takes Money
+- CF1747A - Two Groups
+- CF1750A - Indirect Sort
+- CF1764A - Doremy's Paint
+- CF1793A - Yet Another Promotion
+- CF1923A - Moving Chips
+- CF1933A - Turtle Puzzle: Rearrange and Negate
+- CF1978A - Alice and Books
+- CF1991A - Maximize the Last Element
+- CF2003A - Turtle and Good Strings
+- CF2008A - Sakurako's Exam
+- CF2019A - Max Plus Size
+- CF2024A - Profitable Interest Rate
+- CF2043A - Coin Transformation
+- CF2116A - Gellyfish and Tricolor Pansy
+- CF2117B - Shrink
+- CF230A - Dragons
+- CF456A - Laptops
+- CF52A - 123-sequence
+- CF609A - USB Flash Drives
+- CF62A - A Student's Dream
+- CF651A - Joysticks
+- CF814A - An abandoned sentiment from past
+- CF909A - Generate Login
+- CF919A - Supermarket
+- CF988A - Diverse Team

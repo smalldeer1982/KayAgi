@@ -1,0 +1,609 @@
+# Apples in Boxes
+
+## 题目描述
+
+Tom 和 Jerry 在地下室中找到了一些苹果，他们决定通过玩一个游戏拿取苹果。
+
+地下室有 $n$ 个箱子，第 $i$ 个箱子里装有 $a_i$ 个苹果，Tom 和 Jerry 轮流拿取苹果，从 Tom 开始。当轮到一个人拿取苹果时，他需要：
+- 选择一个盒子 $i$，满足 $a_i>0$，从中拿取一个苹果。这会使得 $a_i$ 减小 $1$。
+- 如果没有满足此条件的盒子，当前拿取苹果的玩家输掉。
+- 如果在拿取苹果后，$\max(a_1,a_2,\cdots,a_n)-\min(a_1,a_2,\cdots,a_n)>k$，那么刚刚拿取苹果的玩家输掉。
+
+Tom 和 Jerry 都是理智的，请你推测游戏的结果——谁会获胜？
+
+## 说明/提示
+
+请注意：以下样例解释中 Tom 和 Jerry 不一定采用了最优策略，以下解释只是在使理解游戏过程变得更方便。
+
+对于第一组数据，一种可能的游戏进行流程如下：
+
+- Tom 选择 $i=1$，拿取苹果后 $a=(1,1,2)$。此时 $\max(1,1,2)-\min(1,1,2)=1\le k$，所以 Tom 没有输掉。
+- Jerry 选择 $i=1$，拿取苹果后 $a=(0,1,2)$。此时 $\max(0,1,2)-\min(0,1,2)=2> k$，Jerry 输掉了。
+
+By chenxi2009
+
+## 样例 #1
+
+### 输入
+
+```
+3
+3 1
+2 1 2
+3 1
+1 1 3
+2 1
+1 4```
+
+### 输出
+
+```
+Tom
+Tom
+Jerry```
+
+# 题解
+
+## 作者：Clare613 (赞：5)
+
+## 思路：
+很简单的一道题，我们可以算出 $\sum a_i$ 的值和 $\max(a_1,a_2,\cdots,a_n)，\min(a_1,a_2,\cdots,a_n)$ 的值。\
+不难发现，如果最开始 $\max(a_1,a_2,\cdots,a_n)-\min(a_1,a_2,\cdots,a_n)>k$ 不成立，那么之后**绝对**有一种方法来保证 $\max(a_1,a_2,\cdots,a_n)-\min(a_1,a_2,\cdots,a_n)>k$。这时我们就能用上 $\sum a_i$，来判断是奇是偶，因为最后的胜利条件只能是全部取完。若 $\sum a_i$ 的值为奇数，那么 Tom 就能拿到最后一个苹果，反之就是 Jerry 拿到最后一个苹果。\
+如果 $\max(a_1,a_2,\cdots,a_n)-\min(a_1,a_2,\cdots,a_n)>k$ 成立，那么就要判一下，如果 $\max(a_1,a_2,\cdots,a_n)-\min(a_1,a_2,\cdots,a_n)>k+1$，也就是说无论如何也无法补救了，那么 Jerry 获胜。同时，如果有多个 $a_i$ 的值为 $\max(a_1,a_2,\cdots,a_n)$，那么也是 Jerry 获胜。
+## code：
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+
+int main(){
+	int T;
+	cin>>T;
+	while(T--){
+		long long n,k,sum=0,maxn=0,minn=1e18,cnt=0;
+		cin>>n>>k;
+		for(int i=1;i<=n;i++){
+			long long a;
+			cin>>a;
+			sum+=a;
+			if(a==maxn){
+				cnt++;
+			}
+			else if(a>maxn){
+				cnt=1;
+			}
+			maxn=max(maxn,a);
+			minn=min(minn,a);
+		}
+		if((maxn-minn>k+1)||(maxn-minn>k&&cnt!=1)){
+			cout<<"Jerry\n";
+		}
+		else{
+			if(sum%2==0) cout<<"Jerry\n";
+			else cout<<"Tom\n";
+		}
+	}
+	return 0;
+}
+```
+
+---
+
+## 作者：aishiteru_mitsu_ha (赞：5)
+
+# 题意
+$n$ 个箱子，第 $i$ 个箱子有 $a_i$ 个苹果，Tom 和 Jerry 轮流取，Tom 先取。当轮到其中一个人取的时候，他需要：
+
+- 选择一个盒子 $i$，满足 $a_i>0$，从中取一个苹果，使 $a_i$ 减小 $1$。
+- 如果没有满足此条件的盒子，当前拿取苹果的玩家输掉。
+- 在拿取苹果后，$\max(a_1,a_2,a_3,···,a_n)-\min(a_1,a_2,a_3,···,a_n)>k$，那么刚刚拿取苹果的人输掉。
+
+求在 Tom 和 Jerry 都在使用最优策略的情况下，谁将获胜。
+# 思路
+第一眼看到这道题时，就直接选择暴力模拟，过样例，交上去，然后就......
+
+![](https://cdn.luogu.com.cn/upload/image_hosting/76nfx8cd.png)
+
+首先，令 $d=\max(a_1,a_2,a_3,···,a_n)-\min(a_1,a_2,a_3,···,a_n)$，根据条件，大致可以分为 $3$ 种情况：
+
+1. $d>k+1$
+2. $d=k+1$
+3. $d\le k$
+
+对于第一种情况，无论有几个 $a_{max}$，在 Tom 拿走一个苹果后，$d\ge k+1$ 恒成立，即 $d>k$，所以 Tom 输，Jerry 获胜。
+
+对于第二种情况，又分为两种情况，若有多个 $a_i=a_{max}$，在 Tom 拿走一个苹果后，由于有多个 $a_{max}$，所以 $d=k+1$ 仍然成立，所以 Jerry 获胜，若只有一个 $a_{max}$，那么在取走一个苹果后就为 $d-1=k$，由于是 Tom 先取，当 $\sum_{i=1}^na_i$ 为奇数时，显然 Tom 就可以取走最后一个苹果，于是 Tom 获胜，否则如果 $\sum_{i=1}^na_i$ 为偶数则为 Jerry 获胜。
+
+对于第三种情况，我们就可以直接判断 $\sum_{i=1}^na_i$ 的奇偶性来判断获胜者，因为无论如何总能保证 $d\le k$。
+
+## $\textit{Code}$
+```cpp
+#include<bits/stdc++.h>
+#define N 100086
+#define ll long long
+#define iakioi cout<<"I AK IOI"<<endl
+using namespace std;
+int t,n,k,a[N];
+inline int read();									//快读 
+inline bool cmp(int x,int y);
+int main(){
+	ios::sync_with_stdio(0);
+	cin.tie(0);cout.tie(0);
+
+	t=read();
+	while(t--){
+		int cnt=0;
+		n=read();k=read();
+		for(int i=1;i<=n;i++){
+			a[i]=read();
+			cnt+=a[i];								//一边输入一边计算和 
+		}
+		sort(a+1,a+1+n,cmp);						//从大到小排序方便获取最大与最小值 
+		if(a[1]-a[n]<=k){							//判断第三种情况 
+			if(cnt%2){
+				cout<<"Tom"<<endl;
+			}else{
+				cout<<"Jerry"<<endl;
+			}
+		}else if(a[1]-a[n]>k+1){					//判断第一种情况 
+			cout<<"Jerry"<<endl;
+		}else{										//判断第二种情况 
+			if(a[1]==a[2]) cout<<"Jerry"<<endl;
+			else{
+				if(cnt%2) cout<<"Tom"<<endl;
+				else cout<<"Jerry"<<endl;
+			}
+		}
+	}
+	return 0;
+}
+inline int read(){
+	int x=0,f=1;char ch=getchar();
+	while (ch<'0'||ch>'9') {if (ch=='-') f=-1;ch=getchar();}
+	while (ch>='0'&&ch<='9') {x=x*10+ch-48;ch=getchar();}
+	return x*f;
+}
+inline bool cmp(int x,int y){
+	return x>y;
+}
+```
+
+---
+
+## 作者：LinkGTF (赞：4)
+
+# 题意
+有 $n$ 个箱子，第 $i$ 个箱子里装有 $a_i$ 个苹果，Tom 和 Jerry 轮流拿取苹果，从 Tom 开始。当轮到一个人拿取苹果时，他需要：
+- 选择一个盒子 $i$，满足 $a_i>0$，从中拿取一个苹果。这会使得 $a_i$ 减小 $1$。
+- 如果没有满足此条件的盒子，当前拿取苹果的玩家输掉。
+- 如果在拿取苹果后，$\max(a_1,a_2,\cdots,a_n)-\min(a_1,a_2,\cdots,a_n)>k$，那么刚刚拿取苹果的玩家输掉。
+
+输出**胜者**名字。
+
+# 思路
+令 $d$ 为 $\max(a_1,a_2,\cdots,a_n)-\min(a_1,a_2,\cdots,a_n)$，$maxn$ 为 $\max(a_1,a_2,\cdots,a_n)$，初始考虑三种情况：
+1. $d>k+1$
+1. $d=k+1$
+1. $d \le k$
+
+对于第一种情况，无论取哪个苹果必然 $d>k+1$，因此 Jerry 胜。
+
+对于第二种情况：
+- 若有多个 $maxn$，则无论取任意一个 $maxn$ 都有 $d=k+1$，因此 Jerry 胜。
+- 若只有一个 $maxn$，则取了一个后有 $d=k$，这时若 $\sum_{i = 1}^n a_i$为奇数 Tom 胜，否则 Jerry 胜。
+
+对于第三种情况，总能保证 $d \le k$，若 $\sum_{i = 1}^n a_i$为奇数 Tom 胜，否则 Jerry 胜。
+
+# AC代码
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+int a[100001];
+int main(){
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    int t;
+    cin >> t;
+    while(t--){
+    	int n, m, maxn = -1, minn = 2e9, mc = 0;
+    	long long sum = 0;
+    	cin >> n >> m;
+    	for(int i = 1; i <= n; i++){
+    		cin >> a[i];
+    		minn = min(minn, a[i]); sum += a[i];
+    		if(a[i] > maxn){
+    			maxn = a[i]; mc = 1;
+    		}else if(a[i] == maxn){
+    			mc++;
+    		}
+    	}
+    	if(maxn - minn > m + 1){
+    		cout << "Jerry\n";
+    	}else if(maxn - minn == m + 1){
+    		if(mc > 1){
+    			cout << "Jerry\n";
+    		}else{
+    			if(sum & 1){
+    				cout << "Tom\n";
+    			}else{
+    				cout << "Jerry\n";
+    			}
+    		}
+    	}else{
+    		if(sum & 1){
+    			cout << "Tom\n";
+    		}else{
+    			cout << "Jerry\n";
+    		}
+    	}
+    }
+    return 0;
+}
+```
+
+---
+
+## 作者：封禁用户 (赞：1)
+
+CF2107B
+---
+### 题意
+两个人，Tom 和 Jerry，要玩一个在箱子里面拿去苹果，然后根据相应的条件判断输赢的游戏。
+
+输掉这个游戏的条件是：
+
+- 这个箱子里没有苹果。
+- 所有箱子的最大值与最小值之差大于 $k$。
+
+最后输出胜利的人的名字。
+
+### 解决思路
+依题可知，游戏的关键因素就是箱子中苹果的数量，关系游戏的输赢。
+
+我们定义 $sum$ 表示苹果总数（奇偶判断），$mx$ 来表示苹果数量最大值，$mi$ 来表示最小值。
+
+第一种情况： $mx-mi<k$。每一次操作这个值会一直小于 $k$，这个时候只需要判断 $sum$ 的奇偶就可以了。如果 $sum$ 的值是奇数，则代表 Tom 最后多取一次，Tom 赢，反之 Jerry 赢。
+
+第二种：$mx-mi>k$。
+
+在这种情况中，Tom 永远无法赢得游戏，因为每一次的行动都会导致 $mx-mi>k$，因此 Jerry 赢得游戏。
+
+最后一种情况，$mx-mi=k+1$。
+
+如果最大值箱子只有一个则可以通过判断 $sum$ 的奇偶来决定输赢，奇数 Tom 赢，反之 Jerry 赢。否则 Tom 无论取到哪一个都会导致差值大于 $k$，Tom 必定输掉游戏。
+### 代码
+```cpp
+#include <bits/stdc++.h>
+#define ll long long
+using namespace std;
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    int T;
+    cin >> T;
+    while (T--) {
+        int n;
+        ll k;
+        cin >> n >> k;
+        vector<ll> a(n);
+        ll sum = 0;
+        ll mx = 0, mi = 1000000001, cnt = 0;
+        for (int i = 0; i < n; i++) {
+            cin >> a[i];
+            sum += a[i];
+            if (a[i] > mx) {
+                mx = a[i];
+                cnt = 1;
+            }
+            else if (a[i] == mx) {
+                cnt++;
+            }
+            mi = min(mi, a[i]);
+        }
+        ll diff = mx - mi;
+        if (diff <= k) {
+            cout << (sum % 2 ? "Tom\n" : "Jerry\n");
+        }
+        else if (diff == k + 1 && cnt == 1) {
+            cout << (sum % 2 ? "Tom\n" : "Jerry\n");
+        }
+        else {
+            cout << "Jerry\n";
+        }
+    }
+    return 0;
+}
+```
+
+---
+
+## 作者：TheTrash (赞：1)
+
+### 思路
+
+先求出 $a$ 中的最大值 $x$、次大值 $y$ 和最小值 $z$ 以及 $a$ 的总和 $s$。如果一开始 $\max\left \{ x-1,y \right \} -z>k$，就说明 Tom 无论怎么取都会输。如果这种情况没有发生就判断 $s$ 能不能被 $2$ 整除。如果能，说明 Tom 会获胜，否则 Jerry 胜。
+
+### 证明
+
+如果一开始 $x-z>k$，那么 Tom 的最优策略就是让 $x-1$。但如果 $x-1>k$ 或 $y>k$，说明 Tom 无论怎么取都会输，Jerry 获胜。否则当 $s$ 为奇数时，Tom 显然可以拿取最后一个苹果获胜；$s$ 为偶数时，Jerry 也可以取走最后一个苹果。
+
+如果上面的情况没有发生，那说明双方都可以使 $x-z\le k$，和上面一样判断 $s$ 的奇偶就行了。
+
+### 代码
+
+```cpp
+#include<iostream>
+#include<cmath>
+using namespace std;
+int T,n,k,a[100005],maxn,maxn2,minn,s;
+int main(){
+	ios::sync_with_stdio(false);
+	cin.tie(0);cout.tie(0);
+	cin>>T;
+	while(T--){
+		maxn=maxn2=-1,minn=2*1e9,s=0;
+		cin>>n>>k;
+		for(int i=0;i<n;i++){
+			cin>>a[i];
+			if(maxn<a[i]) maxn=a[i];
+			else if(maxn2<a[i]) maxn2=a[i];
+			if(minn>a[i]) minn=a[i];
+			s+=a[i];
+		}
+		if(max(maxn-1,maxn2)-minn>k){puts("Jerry");continue;}
+		if(s%2) puts("Tom");
+		else puts("Jerry");
+	}
+}
+```
+
+---
+
+## 作者：Chen_Johnny (赞：0)
+
+# CF2107B Apples in Boxes
+## 思路
+假设 $\max(a)−\min(a)\leqslant k$ 成立，并且至少存在一个 $a_i \geqslant 1$。那么，实际上可以在仍然满足 $\max(a)−\min(a)\leqslant k$ 这一条件的情况下拿走一个苹果。
+
+### 证明
+因此，对于一个满足 $\max(a)−\min(a)\leqslant k$ 的数组，玩家会输的唯一情况是所有 $a_i=0$。
+
+但这种情况恰好会在第 $\sum {a_i}$ 轮之后出现，因为每一轮会使 $\sum {a_i}$ 减少 $1$。可能出现第一步就无法进行的情况。
+
+例如，当 $a=[4,1]$，$k=1$ 时。我们应该检查在减去最大元素之后，数组是否仍满足 $\max(a)−\min(a)\leqslant k$ 这一性质，若不满足则立即输出 `Jerry`。
+
+在其他情况下，当 $\sum {a_i}$ 为奇数时，我们可以直接输出 `Tom` ，当 $\sum_{a_i}$ 为偶数时，输出 `Jerry`。这是因为当 $\sum_{a_i}$ 为奇数时，汤姆先行动且总轮数为奇数，所以他将是最后一个行动的人，反之亦然。
+
+时间复杂度为 $O (n)$。
+## 代码
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+typedef long long ll;
+const ll N = 1e5 + 7, INF = 1.2e18;
+ll a [N], n, k;
+int main () {
+    int T; cin >> T;
+    while (T --) {
+        cin >> n >> k;
+        ll s = 0;
+        for (int i = 1; i <= n; i ++)
+            cin >> a [i], s += a [i];
+        ll maxnn = 0;
+        ll maxn = max_element (a + 1, a + n + 1) - a;
+        ll minn = *min_element (a + 1, a + n + 1);
+        for (int i = 1; i <= n; i ++)
+            if (a [i] > maxnn && a [i] <= a [maxn] && i != maxn)
+                maxnn = a [i];
+        if ((max (a [maxn] - 1, maxnn) - minn) > k) cout << "Jerry\n";
+        else if (s % 2 == 1) cout << "Tom\n";
+        else cout << "Jerry\n";
+    }
+    return 0;
+}
+```
+
+---
+
+## 作者：wuyouawa (赞：0)
+
+### 题目大意
+
+
+汤姆和杰瑞在地下室发现了一些苹果，他们决定通过游戏来获取这些苹果。
+
+现有 $n$ 个盒子，第 $i$ 个盒子里有 $a_i$ 个苹果。汤姆和杰瑞轮流拿取苹果，汤姆先行动。每轮玩家必须执行以下操作：
+
+- 选择一个非空盒子（即 $a_i > 0$ 的盒子 $i$，其中 $1 \le i \le n$），从中拿走 $1$ 个苹果（该操作会使 $a_i$ 减少 $1$）
+- 如果没有可操作的盒子，当前玩家输掉游戏
+- 若操作后满足 $\max(a_1, a_2, \ldots, a_n) - \min(a_1, a_2, \ldots, a_n) > k$，则当前玩家（即进行此操作的玩家）也会输掉游戏
+
+假设双方均采取最优策略，预测游戏的获胜者。
+
+### 思路
+
+为方便，记 $mf$ 为 $a$ 数组中的最大值，$ms$ 为次大值，$mn$ 为最小值。
+
+首先特判，如果汤姆第一步无论如何操作均不能保证 $\max(a_1, a_2, \ldots, a_n) - \min(a_1, a_2, \ldots, a_n) \le k$，那么汤姆输掉比赛，输出`Jerry`。也就是说，如果 $\max(mf-1,ms) - mn \le k$，那么汤姆输了。因为 $mf-1$ 是动最大值的情况，而其它情况只会越来越小。
+
+接着，如果第一步汤姆没输，那么游戏就可以进行到全部苹果拿完的时候，这样的话只用看 $\sum_{i = 1}^{n} a_i$ 的奇偶性，如为奇，则汤姆赢，否则杰瑞赢。
+
+### 代码
+
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+long long t,n,k,a[100005],mf,ms,mn=LONG_LONG_MAX,s;
+int main(){
+	scanf("%lld",&t);
+	while(t--)
+	{
+		scanf("%lld%lld",&n,&k);
+		s=0;
+		mf=0,ms=0,mn=LONG_LONG_MAX;//初始化
+		for(int i=1;i<=n;i++) 
+		{
+			scanf("%lld",&a[i]);
+			s+=a[i];
+			if(a[i]>mf)  mf=a[i];
+			else  if(a[i]>ms)  ms=a[i];
+			mn=min(mn,a[i]);//求最大、次大、最小值
+		}
+		if(max(mf-1,ms)-mn>k)
+		{
+			printf("Jerry\n");
+			continue;
+		}//特判
+		if(s&1)  printf("Tom\n");
+		else  printf("Jerry\n");//判奇偶
+	}
+	return 0;
+} 
+```
+
+---
+
+## 作者：枫原万叶 (赞：0)
+
+# CF2107B Apples in Boxes
+
+## 分析
+
+题面大概意思就是有 $ n $ 个数堆，然后有两个人要轮流拿其中的一个（每次会使其中的一个数减一），然后失败条件是：
+
+1. 如果上一个人拿走了最后一个数导致所有数都为 0 从而下一个人不能拿，那么下一个人就输了。（注意这个失败判断是在上一个人拿完后）
+2. 如果当前这个人拿走一个东西导致触发一个条件（这堆数中的最大数与最小数的差大于给定的数，也就是 $ k $），那么当前这个人就失败了。（注意这个失败判断是在这个人拿完，且失败的是拿了的这个人）
+
+然后假设这两个人都是人机(即每次做出最优选择)，问谁会赢。
+
+下面拿来看一下思路。
+
+可以知道，如果不触发条件二，就一定可以确定赢家，但是如果需要不触发条件二，我们就必须要每次拿最大的那个，否则差值就无法变小。
+
+那么就可以知道除非开局就触发条件（但是要注意，要先给最大值减一，因为判断条件是在拿完之后的），否则输赢家就已经可以知道的了。
+
+但是要注意，如果最大值和次大值只差了一，最大值就和次大值一样了，这时候再触发条件二就会漏判，所以我们还要记录次大值。
+
+这就是这道题的思路，由[wwwidk1234](https://www.luogu.com.cn/user/728483)（机房大佬）先提供思路。
+
+### 代码
+
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int arr[100010];
+bool fun(){
+	int n,k,cnt=0;
+	scanf("%d%d",&n,&k);
+	int maxx1=-1,minn=INT_MAX,maxx2=-1;
+	for(int i=1;i<=n;i++){
+		scanf("%d",&arr[i]);
+		cnt=(cnt+arr[i])%2;
+	}
+	for(int i=1;i<=n;i++){
+		if(arr[i]>maxx1)
+			maxx1=arr[i];
+		else if(arr[i]>maxx2)
+			maxx2=arr[i];
+		if(arr[i]<minn)
+			minn=arr[i];
+	}
+	if(max(maxx1-1,maxx2)-minn>k){
+		return false;
+	}
+	if(cnt%2==1)
+		return true;
+	else
+		return false;
+}
+int main(){
+	int t;
+	scanf("%d",&t);
+	while(t--){
+		if(fun()){
+			printf("Tom\n");
+		}else{
+			printf("Jerry\n");
+		}
+	}
+	return 0;
+}
+```
+
+---
+
+## 作者：wwwidk1234 (赞：0)
+
+## 题目
+
+有 $n$ 个盒子，其中 $i$ 第一个盒子里装着 $a_i$ 个苹果。汤姆和杰瑞轮流捡苹果，他们需要轮流选择一个装有苹果的盒子 $i$，并从该盒子中拿走 $1$ 个苹果。
+
+胜负规则：
+
+- 如果不存在有效的盒子，那么当前玩家判负。
+- 如果在拿完苹果之后 $a$ 的最大值与最小值之差 $>k$，那么当前玩家判负。
+
+汤姆和杰瑞都绝顶聪明，如果他们都以最佳策略操作，求出赢家。
+
+## 思路
+
+记 $a_{\max},a_{\max^\prime},a_{\min}$ 分别表示 $a$ 数组中最大、次大、最小的元素。
+
+可以发现，如果第一步无论怎么操作都会导致 $a_{\max}-a_{\min}>k$，那么直接判汤姆失败，否则每一次操作均在 $a_{\max}$ 盒子拿走一个苹果可以保证 $a_{\max}-a_{\min} \le k$，因为后续的操作只会使 $a_{\max}-a_{\min}$ 比原来的值更小。
+
+在进行 $\sum a_i$ 步操作之后可以把所有苹果全部拿走，拿走最后一个苹果的玩家将获胜（因为下一步没法操作，将被判负）。
+
+综上所述，
+
+- 当 $\max \left\{ a_{\max}-1,a_{\max^\prime} \right\} - a_{\min} > k$ 时，汤姆第一步无论如何操作都会失败，那么胜者为杰瑞；
+- 否则，当 $\sum a_i$ 为奇数时，汤姆获胜，否则杰瑞获胜。
+
+## 代码
+
+[Submission #318717187.](https://codeforces.com/contest/2107/submission/318717187)
+
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+typedef long long ll;
+typedef unsigned long long ull;
+constexpr int N=1e5+7;
+int a[N],n,k;
+inline bool solve()
+{
+	cin>>n>>k;
+    ll mx1=0,mx2=0,mn=1.2e18;
+	ll s=0;
+	for(int i=1;i<=n;i++)
+	{
+		cin>>a[i];
+        if(a[i]>mx1) mx1=a[i];
+        else if(a[i]>mx2) mx2=a[i];
+        if(a[i]<mn) mn=a[i];
+		s=(s+a[i])%2;
+	}
+    mx1--;
+    // cerr<<mx1<<' '<<mx2<<' '<<mn<<endl;
+	if((max(mx1,mx2)-mn)>k) return 0;  //开幕雷击情况 
+	if(s%2==1) return 1;
+	else return 0;
+}
+int main()
+{
+//	freopen("neuvillette.in","r",stdin);
+//	freopen("neuvillette.out","w",stdout);
+	int T;
+	cin>>T;
+	while(T--) puts(solve()?"Tom":"Jerry");	
+	return 0;
+}
+/*
+操作直到数组为[0,0,0,...]的次数:sigma(a) 
+*/
+```
+
+---
+

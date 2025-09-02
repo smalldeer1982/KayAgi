@@ -1,0 +1,26 @@
+# 题号列表
+
+- CF1096G - Lucky Tickets
+- CF1437F - Emotional Fishermen
+- CF1558D - Top-Notch Insertions
+- CF1626F - A Random Code Problem
+- CF1697E - Coloring
+- CF1704H1 - Game of AI (easy version)
+- CF1716F - Bags with Balls
+- CF1728G - Illumination
+- CF1731F - Function Sum
+- CF1747E - List Generation
+- CF1775F - Laboratory on Pluto
+- CF1781F - Bracket Insertion
+- CF1784D - Wooden Spoon
+- CF1792F1 - Graph Coloring (easy version)
+- CF1799G - Count Voting
+- CF1924D - Balanced Subsequences
+- CF1930E - 2..3...4.... Wonderful! Wonderful!
+- CF1957E - Carousel of Combinations
+- CF2030G1 - The Destruction of the Universe (Easy Version)
+- CF2030G2 - The Destruction of the Universe (Hard Version)
+- CF2066D2 - Club of Young Aircraft Builders (hard version)
+- CF2075E - XOR Matrix
+- CF660E - Different Subsets For All Tuples
+- CF785D - Anton and School - 2

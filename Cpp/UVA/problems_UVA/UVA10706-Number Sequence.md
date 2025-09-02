@@ -1,0 +1,43 @@
+---
+title: "Number Sequence"
+layout: "post"
+diff: 普及+/提高
+pid: UVA10706
+tag: []
+---
+
+# Number Sequence
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=19&page=show_problem&problem=1647
+
+[PDF](https://uva.onlinejudge.org/external/107/p10706.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10706/19b775c27d2b41e8ca2dc12b3354ce126e86b593.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10706/4c8c62d3e852ec38ffdd96a86305b62c4cf7737d.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10706/5b01ab2879b88cf5dd6b56efbcf5379a90ff7a4c.png)
+
+## 样例 #1
+
+### 输入
+
+```
+2
+8
+3
+```
+
+### 输出
+
+```
+2
+2
+```
+

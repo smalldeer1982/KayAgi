@@ -1,0 +1,41 @@
+# 题号列表
+
+- P10419 - [蓝桥杯 2023 国 A] 01 游戏
+- P10449 - 费解的开关
+- P10481 - Sudoku
+- P10489 - [IOI 1994] The Buses
+- P10956 - 金字塔
+- P11022 - 「LAOI-6」Yet Another Graph Coloration Problem
+- P1189 - SEARCH
+- P13191 - [GCJ 2016 #1A] BFFs
+- P13228 - [GCJ 2015 #3] Fairland
+- P13245 - [GCJ 2014 Qualification] Minesweeper Master
+- P1341 - 无序字母对
+- P13434 - [GCJ 2009 #1B] Decision Tree
+- P1363 - 幻象迷宫
+- P13731 - 【MGVOI R1-C】收集括号（brackets）
+- P1378 - 油滴扩展
+- P13823 - 「Diligent-OI R2 C」所谓伊人
+- P2329 - [SCOI2005] 栅栏
+- P2419 - [USACO08JAN] Cow Contest S
+- P2585 - [ZJOI2006] 三色二叉树
+- P2602 - [ZJOI2010] 数字计数
+- P2845 - [USACO15DEC] Switching on the Lights S
+- P2850 - [USACO06DEC] Wormholes G
+- P2867 - [USACO06NOV] Big Square S
+- P2919 - [USACO08NOV] Guarding the Farm S
+- P2937 - [USACO09JAN] Laserphones S
+- P3304 - [SDOI2013] 直径
+- P3663 - [USACO17FEB] Why Did the Cow Cross the Road III S
+- P3956 - [NOIP 2017 普及组] 棋盘
+- P4407 - [JSOI2009] 电子字典
+- P4427 - [BJOI2018] 求和
+- P4438 - [HNOI/AHOI2018] 道路
+- P4536 - [CQOI2007] 三角形
+- P6037 - Ryoku 的探索
+- P6150 - [USACO20FEB] Clock Tree S
+- P8200 - [传智杯 #4 决赛] 生活在树上（easy version）
+- P8933 - [JRKSJ R7] 技巧性的块速递推
+- P8977 - 「DTOI-4」行走
+- P9218 - 「TAOI-1」Apollo
+- P9305 - 「DTOI-5」校门外的枯树

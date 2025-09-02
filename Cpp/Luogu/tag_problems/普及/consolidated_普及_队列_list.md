@@ -1,0 +1,37 @@
+# 题号列表
+
+- B3667 - 求区间所有后缀最大值的位置
+- P1090 - [NOIP 2004 提高组] 合并果子
+- P1091 - [NOIP 2004 提高组] 合唱队形
+- P11138 - [APC001] C - Not APC
+- P1141 - 01迷宫
+- P11963 - [GESP202503 六级] 环线
+- P1323 - 删数问题
+- P13416 - [COCI 2012/2013 #4] RAZLIKA
+- P13512 - [KOI 2025 #1] 稻草人
+- P1440 - 求m区间内的最小值
+- P1443 - 马的遍历
+- P1580 - yyy loves Easter_Egg I
+- P1629 - 邮递员送信
+- P1638 - 逛画展
+- P1714 - 切蛋糕
+- P1744 - 采购特价商品
+- P1828 - [USACO3.2] 香甜的黄油 Sweet Butter
+- P1886 - 滑动窗口 /【模板】单调队列
+- P2032 - 扫描
+- P2085 - 最小函数值
+- P2199 - 最后的迷宫
+- P2251 - 质量检测
+- P2784 - 化学1（chem1）- 化学合成
+- P2896 - [USACO08FEB] Eating Together S
+- P3029 - [USACO11NOV] Cow Lineup S
+- P3512 - [POI 2010] PIL-Pilots
+- P3662 - [USACO17FEB] Why Did the Cow Cross the Road II S
+- P3905 - 道路重建
+- P4058 - [Code+#1] 木材
+- P4779 - 【模板】单源最短路径（标准版）
+- P7795 - [COCI 2014/2015 #7] PROSJEK
+- P7935 - [COCI 2007/2008 #5] AVOGADRO
+- P8661 - [蓝桥杯 2018 省 B] 日志统计
+- P9422 - [蓝桥杯 2023 国 B] 合并数列
+- P9518 - queue

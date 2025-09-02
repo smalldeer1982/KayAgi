@@ -1,0 +1,35 @@
+# 题号列表
+
+- CF1519F - Chests and Keys
+- CF1530H - Turing's Award
+- CF1605F - PalindORme
+- CF1621G - Weighted Increasing Subsequences
+- CF1696G - Fishingprince Plays With Array Again
+- CF1696H - Maximum Product?
+- CF1707F - Bugaboo
+- CF1784E - Infinite Game
+- CF1792F2 - Graph Coloring (hard version)
+- CF1973F - Maximum GCD Sum Queries
+- CF1975I - Mind Bloom
+- CF1984H - Tower Capturing
+- CF1987G2 - Spinning Round (Hard Version)
+- CF2002H - Counting 101
+- CF2004G - Substring Compression
+- CF2034G1 - Simurgh's Watch (Easy Version)
+- CF2034G2 - Simurgh's Watch (Hard Version)
+- CF2035G1 - Go Learn! (Easy Version)
+- CF2035G2 - Go Learn! (Hard Version)
+- CF2041K - Trophic Balance Species
+- CF2045D - Aquatic Dragon
+- CF2046F2 - Yandex Cuneiform (Hard Version)
+- CF2048H - Kevin and Strange Operation
+- CF2066F - Curse
+- CF2081E - Quantifier
+- CF2084G2 - Wish Upon a Satellite (Hard Version)
+- CF2084H - Turtle and Nediam 2
+- CF2101E - Kia Bakes a Cake
+- CF280E - Sequence Transformation
+- CF708E - Student's Camp
+- CF750G - New Year and Binary Tree Paths
+- CF81E - Pairs
+- CF850F - Rainbow Balls

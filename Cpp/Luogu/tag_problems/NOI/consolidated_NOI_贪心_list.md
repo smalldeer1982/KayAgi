@@ -1,0 +1,53 @@
+# 题号列表
+
+- P10001 - [集训队互测 2023] 优惠购物
+- P10003 - [集训队互测 2023] 傅里叶与交通系统
+- P10209 - [JOI 2024 Final] 路网服务 2
+- P10656 - [ROI 2017] 学习轨迹 (Day 2)
+- P10770 - 「CROI · R2」夏风与树
+- P10796 - 『SpOI - R1』我看到了，谢谢你们
+- P11234 - [CSP-S 2024] 擂台游戏
+- P1173 - [NOI2016] 网格
+- P11814 - [PA 2014] 串串 / Ciągi
+- P11880 - [RMI 2024] 选区间 / Choose Interval
+- P11979 - [KTSC 2021] 射击游戏 / gun
+- P11983 - [JOIST 2025] 展览会 3 / Exhibition 3
+- P12074 - [OOI 2025] The arithmetic exercise
+- P12264 - 『STA - R9』咏叹调调律
+- P12478 - [集训队互测 2024] Désive
+- P12960 - [GCJ Farewell Round #3] Game Sort: Part 2
+- P13005 - [GCJ 2022 Finals] Triangles
+- P13045 - [GCJ 2021 Finals] Ropes
+- P13209 - [GCJ 2016 Finals] Map Reduce
+- P13385 - [GCJ 2011 Finals] Ace in the Hole
+- P1915 - [NOI2010] 成长快乐
+- P2565 - [SCOI2009] 骰子的学问
+- P2703 - [NOI2006] 千年虫
+- P3210 - [HNOI2010] 取石头游戏
+- P3543 - [POI 2012] WYR-Leveling Ground
+- P3798 - 辉夜姬的十道难题
+- P3826 - [NOI2017] 蔬菜
+- P3836 - [IOI 2017] Nowruz
+- P4364 - [九省联考 2018] IIIDX
+- P4704 - 太极剑
+- P5101 - [JOI 2017 Final] 绳
+- P5470 - [NOI2019] 序列
+- P5841 - [CTSC2011] 字符串重排
+- P6127 - [CTSC2000] 逻辑范式
+- P6385 - 『MdOI R2』Little Goth
+- P6795 - [SNOI2020] 排列
+- P7078 - [CSP-S2020] 贪吃蛇
+- P7390 - 「EZEC-6」造树
+- P7417 - [USACO21FEB] Minimizing Edges P
+- P8293 - [省选联考 2022] 序列变换
+- P8416 - [THUPC 2022 决赛] 拯救还是毁灭
+- P8581 - [CoE R5] X 细胞
+- P8596 - 「KDOI-02」一个截的拦
+- P9054 - [集训队互测 2022] 心跳排列图
+- P9250 - [集训队互测 2018] 蜀道难
+- P9348 - 小园香径独徘徊
+- P9404 - [POI 2020/2021 R3] Surowa zima
+- P9495 - 「SFCOI-3」进行一个魔的除 I
+- P9499 - 「RiOI-2」change
+- P9839 - 四暗刻单骑
+- P9983 - [USACO23DEC] Cowntact Tracing P

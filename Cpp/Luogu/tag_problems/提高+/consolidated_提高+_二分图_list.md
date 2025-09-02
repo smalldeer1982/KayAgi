@@ -1,0 +1,34 @@
+# 题号列表
+
+- P10572 - [JRKSJ R8] +1-1
+- P1129 - [ZJOI2007] 矩阵游戏
+- P1155 - [NOIP 2008 提高组] 双栈排序
+- P11604 - [PA 2016] 卡牌 / Gra w karty
+- P12604 - 「FAOI-R6」魂灵之影
+- P1285 - 队员分组
+- P13147 - [GCJ 2018 #2] Costume Change
+- P13179 - [GCJ 2017 Finals] Dice Straight
+- P13194 - [GCJ 2016 #1B] Technobabble
+- P13380 - [GCJ 2011 #3] Perpetual Motion
+- P13442 - [GCJ 2009 #2] Stock Charts
+- P13472 - [GCJ 2008 #3] No Cheating
+- P13477 - [GCJ 2008 APAC SemiFinal] Modern Art Plagiarism
+- P13619 - [ICPC 2025 APC] Duplicates
+- P13793 - [SWERC 2023] Supporting everyone
+- P13806 - [CERC 2022] Combination Locks
+- P1407 - [国家集训队] 稳定婚姻
+- P1559 - 运动员最佳匹配问题
+- P1640 - [SCOI2010] 连续攻击游戏
+- P2055 - [ZJOI2009] 假期的宿舍
+- P2071 - 座位安排
+- P2319 - [HNOI2006] 超级英雄
+- P2457 - [SDOI2006] 仓库管理员的烦恼
+- P3033 - [USACO11NOV] Cow Steeplechase G
+- P4014 - 分配问题
+- P4304 - [TJOI2013] 攻击装置
+- P5030 - 长脖子鹿放置
+- P6185 - [NOI Online #1 提高组] 序列
+- P6268 - [SHOI2002] 舞会
+- P7368 - [USACO05NOV] Asteroids G
+- P8346 - 「Wdoi-6」最澄澈的空与海
+- P9359 - [ICPC 2022 Xi'an R] Cells Coloring

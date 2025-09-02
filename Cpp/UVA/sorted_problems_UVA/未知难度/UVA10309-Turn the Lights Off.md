@@ -1,0 +1,75 @@
+---
+title: "Turn the Lights Off"
+layout: "post"
+diff: 难度0
+pid: UVA10309
+tag: []
+---
+
+# Turn the Lights Off
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=15&page=show_problem&problem=1250
+
+[PDF](https://uva.onlinejudge.org/external/103/p10309.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10309/6a4324d18ed5267b857299f35c4b98abbc798599.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10309/1affcc7b006c1c4aecaafee00ffd70803d20af02.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10309/46401a094b54caac5532a84fecc2efab9972851d.png)
+
+## 样例 #1
+
+### 输入
+
+```
+all_off
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+all_on
+OOOOOOOOOO
+OOOOOOOOOO
+OOOOOOOOOO
+OOOOOOOOOO
+OOOOOOOOOO
+OOOOOOOOOO
+OOOOOOOOOO
+OOOOOOOOOO
+OOOOOOOOOO
+OOOOOOOOOO
+simple
+#O########
+OOO#######
+#O########
+####OO####
+###O##O###
+####OO####
+##########
+########O#
+#######OOO
+########O#
+end
+```
+
+### 输出
+
+```
+all_off 0
+all_on 44
+simple 4
+```
+

@@ -1,0 +1,44 @@
+---
+title: "Factory Robot"
+layout: "post"
+diff: 难度0
+pid: UVA10876
+tag: []
+---
+
+# Factory Robot
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=20&page=show_problem&problem=1817
+
+[PDF](https://uva.onlinejudge.org/external/108/p10876.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10876/bfc99ec35995959f2ec77bf37f53b64eaf5731a8.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10876/ff5878b10fb6cf2f8ce3415baa0451a4d1dfc2ca.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10876/bef2ee5295306a90631e72501d9b27bb94386cca.png)
+
+## 样例 #1
+
+### 输入
+
+```
+1
+3
+165 520 110
+560 430 30
+590 115 75
+```
+
+### 输出
+
+```
+132.562
+```
+

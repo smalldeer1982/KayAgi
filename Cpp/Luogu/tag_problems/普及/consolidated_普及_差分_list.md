@@ -1,0 +1,22 @@
+# 题号列表
+
+- P10133 - [USACO24JAN] Balancing Bacteria B
+- P1083 - [NOIP 2012 提高组] 借教室
+- P10903 - [蓝桥杯 2024 省 C] 商品库存管理
+- P11078 - 「FSLOI Round I」迷雾
+- P11594 - [NOISG 2018 Finals] Collecting Mushrooms
+- P1250 - 种树
+- P13109 - [GCJ 2019 #1B] Manhattan Crepe Cart
+- P13416 - [COCI 2012/2013 #4] RAZLIKA
+- P13787 - 地毯 加强版
+- P1481 - 魔族密码
+- P1672 - [USACO05FEB] Feed Accounting S
+- P3078 - [USACO13MAR] Poker Hands S
+- P3406 - 海底高铁
+- P3655 - 不成熟的梦想家 (未熟 DREAMER)
+- P3948 - 数据结构
+- P6145 - [USACO20FEB] Timeline G
+- P7404 - [JOI 2021 Final] とてもたのしい家庭菜園 4 (Growing Vegetables is Fun 4)
+- P7992 - [USACO21DEC]  Convoluted Intervals S
+- P8648 - [蓝桥杯 2017 省 A] 油漆面积
+- P9583 - 「MXOI Round 1」涂色

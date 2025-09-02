@@ -1,0 +1,45 @@
+# 题号列表
+
+- B3675 - [语言月赛 202210] 军训
+- B3747 - [语言月赛202304] 扶苏与 1
+- B3753 - [信息与未来 2019] 堆栈计算机
+- B3755 - [信息与未来 2019] 方格覆盖
+- B4164 - [BCSP-X 2024 12 月初中组] 末日塔后传
+- P10168 - [DTCPC 2024] 0=1=0
+- P10402 - 「XSOI-R1」凑点
+- P10585 - 「ALFR Round 2」A Sum
+- P1112 - 波浪数
+- P11206 - 「Cfz Round 9」Dove
+- P1160 - 队列安排
+- P11764 - 「KFCOI Round #1」生成序列
+- P11785 - 「FAOI-R4」手写的从前
+- P12041 - [USTCPC 2025] 图上交互题 2 / Constructive Minimum Mex Path
+- P12352 - 「HCOI-R2」Rabbit Panic (Easy Ver.)
+- P12387 - 纯白之箭
+- P12497 - 回文括号序列
+- P12549 - [UOI 2025] Gift for Anton
+- P13551 - ももいろの鍵
+- P13564 - 「CZOI-R5」奶龙
+- P13713 - 晴天
+- P13762 - Extended Fibonacci
+- P3951 - [NOIP 2017 提高组] 小凯的疑惑
+- P5497 - [LnOI2019SP] 龟速单项式变换(SMT)
+- P6161 - [Cnoi2020] 高维
+- P6599 - 「EZEC-2」异或
+- P7383 - 「EZEC-6」加减
+- P7567 - 「MCOI-05」魔仙
+- P8197 - [传智杯 #4 决赛] 排排队
+- P8437 - 伟大的神
+- P8471 - [Aya Round 1 F] 琪露诺的选择题
+- P8578 - [CoE R5] So What Do We Do Now?
+- P9101 - [PA 2020] Skierowany graf acykliczny
+- P9199 - 「GMOI R2-T2」猫耳小
+- P9306 - 「DTOI-5」进行一个排的重 (Minimum Version)
+- P9498 - 「RiOI-2」equals
+- P9567 - [SDCPC 2023] Puzzle: Sashigane
+- P9573 - 「TAOI-2」核心共振
+- P9578 - 「Cfz Round 1」Permutation
+- P9592 - 「Daily OI Round 1」Tree
+- P9635 - 「yyOI R1」youyou 的异或
+- P9708 - [KMOI R1] 集合 First
+- P9714 - 「QFOI R1」摸摸

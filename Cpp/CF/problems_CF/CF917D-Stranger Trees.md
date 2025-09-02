@@ -1,0 +1,81 @@
+---
+title: "Stranger Trees"
+layout: "post"
+diff: 省选/NOI-
+pid: CF917D
+tag: []
+---
+
+# Stranger Trees
+
+## 题目描述
+
+Will shares a psychic connection with the Upside Down Monster, so everything the monster knows, Will knows. Suddenly, he started drawing, page after page, non-stop. Joyce, his mom, and Chief Hopper put the drawings together, and they realized, it's a labeled tree!
+
+ ![](https://cdn.luogu.com.cn/upload/vjudge_pic/CF917D/df747e5880f95d5a7f2a7fa3db2b2bf252f41ce9.png)A tree is a connected acyclic graph. Will's tree has $ n $ vertices. Joyce and Hopper don't know what that means, so they're investigating this tree and similar trees. For each $ k $ such that $ 0<=k<=n-1 $ , they're going to investigate all labeled trees with $ n $ vertices that share exactly $ k $ edges with Will's tree. Two labeled trees are different if and only if there's a pair of vertices $ (v,u) $ such that there's an edge between $ v $ and $ u $ in one tree and not in the other one.
+
+Hopper and Joyce want to know how much work they have to do, so they asked you to tell them the number of labeled trees with $ n $ vertices that share exactly $ k $ edges with Will's tree, for each $ k $ . The answer could be very large, so they only asked you to tell them the answers modulo $ 1000000007=10^{9}+7 $ .
+
+## 输入格式
+
+The first line of input contains a single integer $ n $ ( $ 2<=n<=100 $ ) — the size of the tree.
+
+The next $ n-1 $ lines contain the edges of Will's tree. Each line contains two integers $ v $ and $ u $ ( $ 1<=v,u<=n $ , $ v≠u $ ), endpoints of an edge. It is guaranteed that the given graph is a tree.
+
+## 输出格式
+
+Print $ n $ integers in one line. $ i $ -th integer should be the number of the number of labeled trees with $ n $ vertices that share exactly $ i-1 $ edges with Will's tree, modulo $ 1000000007=10^{9}+7 $ .
+
+## 样例 #1
+
+### 输入
+
+```
+3
+1 2
+1 3
+
+```
+
+### 输出
+
+```
+0 2 1 
+```
+
+## 样例 #2
+
+### 输入
+
+```
+4
+1 2
+2 3
+3 4
+
+```
+
+### 输出
+
+```
+1 7 7 1 
+```
+
+## 样例 #3
+
+### 输入
+
+```
+4
+1 2
+1 3
+1 4
+
+```
+
+### 输出
+
+```
+0 9 6 1 
+```
+

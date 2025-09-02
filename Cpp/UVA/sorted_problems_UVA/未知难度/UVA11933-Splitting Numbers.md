@@ -1,0 +1,45 @@
+---
+title: "Splitting Numbers"
+layout: "post"
+diff: 难度0
+pid: UVA11933
+tag: []
+---
+
+# Splitting Numbers
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=229&page=show_problem&problem=3084
+
+[PDF](https://uva.onlinejudge.org/external/119/p11933.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11933/c778e0923123116e5529920a639a7ff360aabef3.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11933/5bd8fd1cd96f18656570bf1e4fae53faf6f21a72.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11933/f7988279a93d5697ccf4076bab033845751c9b3e.png)
+
+## 样例 #1
+
+### 输入
+
+```
+6
+7
+13
+0
+```
+
+### 输出
+
+```
+2 4
+5 2
+9 4
+```
+

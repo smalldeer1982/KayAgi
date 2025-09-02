@@ -1,0 +1,28 @@
+# 题号列表
+
+- P1074 - [NOIP 2009 提高组] 靶形数独
+- P12500 - XOR and OR
+- P12651 - [KOI 2024 Round 2] 最大异或
+- P12669 - 「TFXOI Round 2」最小价值最大树
+- P13105 - [GCJ 2019 Qualification] Dat Bae
+- P13251 - [GCJ 2014 #1B] New Lottery Game
+- P13617 - [ICPC 2025 APC] Bit Counting Sequence
+- P13687 - 【MX-X16-T5】「DLESS-3」XOR and Rockets
+- P13832 - 【MX-X18-T4】「FAOI-R6」绿茶
+- P2148 - [SDOI2009] E&D
+- P2447 - [SDOI2010] 外星千足虫
+- P2860 - [USACO06JAN] Redundant Paths G
+- P3048 - [USACO12FEB] Cow IDs S
+- P4060 - [Code+#1] 可做题
+- P4979 - 矿洞：坍塌
+- P5522 - [yLOI2019] 棠梨煎雪
+- P5539 - 【XR-3】Unknown Mother-Goose
+- P5640 - 【CSGRound2】逐梦者的初心
+- P7384 - 「EZEC-6」分组
+- P7492 - [传智杯 #3 决赛] 序列
+- P7717 - 「EZEC-10」序列
+- P7970 - [KSN2021] Binary Sea
+- P8487 - 「HGOI-1」Binary search Ex
+- P8766 - [蓝桥杯 2021 国 AB] 异或三角
+- P9595 - 「Daily OI Round 1」Xor
+- P9745 - 「KDOI-06-S」树上异或

@@ -1,0 +1,47 @@
+---
+title: "Numbers and operations"
+layout: "post"
+diff: 难度0
+pid: UVA11046
+tag: []
+---
+
+# Numbers and operations
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=22&page=show_problem&problem=1987
+
+[PDF](https://uva.onlinejudge.org/external/110/p11046.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11046/1d7fc6eebe369388f57041b6d2a26003d6e92376.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11046/46f40574f925422704b344dd179fa46eae66a151.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11046/b2aed99ddabfa7cd760f90e737493c6c72786d42.png)
+
+## 样例 #1
+
+### 输入
+
+```
+811 6 7 15 19 25 2 3
+911 6 1 2 3 4 5 6
+1897 7 33 2 11 25 7 17 13
+911 7 7 11 23 27 17 7 2
+0
+```
+
+### 输出
+
+```
+15 + 7 = 22
+22 x 19 = 418
+418 x 2 = 836
+836 - 25 = 811
+```
+

@@ -1,0 +1,766 @@
+# Reverse Sort Sum
+
+## 题目描述
+
+假设你有一个长度为 $n$ 的数组 $A$，其中每个元素都是 $0$ 或 $1$。
+
+我们定义一个函数 $f(k, A)$，它返回另一个数组 $B$，即将 $A$ 的前 $k$ 个元素按非递减顺序排序后的结果。例如，$f(4, [0,1,1,0,0,1,0]) = [0,0,1,1,0,1,0]$。注意，只有前 $4$ 个元素被排序了。
+
+现在考虑由 $f(1, A), f(2, A), \ldots, f(n, A)$ 生成的数组 $B_1, B_2, \ldots, B_n$。令 $C$ 为将 $B_1, B_2, \ldots, B_n$ 按位相加得到的数组。
+
+例如，设 $A=[0,1,0,1]$。那么有 $B_1=[0,1,0,1]$，$B_2=[0,1,0,1]$，$B_3=[0,0,1,1]$，$B_4=[0,0,1,1]$。于是 $C=B_1+B_2+B_3+B_4=[0,1,0,1]+[0,1,0,1]+[0,0,1,1]+[0,0,1,1]=[0,2,2,4]$。
+
+现在给定 $C$，请你求出一个二进制数组 $A$，使得按照上述过程处理后能得到 $C$。保证输入的 $C$ 一定存在对应的 $A$。
+
+## 说明/提示
+
+以下是第一个测试用例的解释。给定 $A=[1,1,0,1]$，我们可以构造每个 $B_i$：
+
+- $B_1=[\color{blue}{1},1,0,1]$；
+- $B_2=[\color{blue}{1},\color{blue}{1},0,1]$；
+- $B_3=[\color{blue}{0},\color{blue}{1},\color{blue}{1},1]$；
+- $B_4=[\color{blue}{0},\color{blue}{1},\color{blue}{1},\color{blue}{1}]$
+
+然后，将上述每一列相加得到 $C=[1+1+0+0,1+1+1+1,0+0+1+1,1+1+1+1]=[2,4,2,4]$。
+
+由 ChatGPT 4.1 翻译
+
+## 样例 #1
+
+### 输入
+
+```
+5
+4
+2 4 2 4
+7
+0 3 4 2 3 2 7
+3
+0 0 0
+4
+0 0 0 4
+3
+1 2 3```
+
+### 输出
+
+```
+1 1 0 1 
+0 1 1 0 0 0 1 
+0 0 0 
+0 0 0 1 
+1 0 1```
+
+# 题解
+
+## 作者：Mine_King (赞：10)
+
+[在我的博客获得更好的阅读体验](https://www.cnblogs.com/mk-oi/p/CF1659D.html)
+
+## Problem
+
+[CF1659D Reverse Sort Sum](https://www.luogu.com.cn/problem/CF1659D)
+
+**题目大意：**
+
+有一个长度为 $n$ 的 $01$ 序列 $a$。定义 $b_{i,j}$ 为将 $a$ 的 $1$ 到 $j$ 排序后第 $a_i$ 的值。定义 $c_i=\sum\limits_{j=1}^n b_{i,j}$。现在给你序列 $c$，求一个合法的 $a$。
+
+## Solution
+
+首先 $c$ 中最前面若干个 $0$ 的位置显然有 $a_i=0$。  
+$c$ 中第一个非 $0$ 的位置必然有 $a_i=1$。
+
+考虑这之后的数。
+
+首先容易发现，对于每个序列 $b_{i,j}(i \le j)$，一定是前面若干个 $1$，然后跟若干个 $0$。
+
+然后我们考虑转化问题，将问题转化成不断添加数字，容易发现第一个 $b_{i,j}=0(i \le j)$ 的时刻 $j$ 满足 $\sum\limits_{k=1}^j [a_i=0] = i$。所以可以考虑用前面的序列去推后面的部分。
+
+考虑按当前 $a_i$ 的值分类讨论：
+
+当 $a_i=0$ 时，有 $\forall j \in [i,i+c_i-1],b_{i,j}=1$，以及 $b_{i,i+c_i}=0$。故在 $i+c_i$ 的位置添加进去后有恰好 $i$ 个 $0$，故有 $a_{i+c_i}=0$。
+
+当 $a_i=1$ 时，有 $\forall j \in [1,c_i],b_{i,j}=1$，以及 $b_{i,c_i+1}=0$。故在 $c_+1i$ 的位置添加进去后有恰好 $i$ 个 $0$，故有 $a_{c_i+1}=0$。
+
+对于没有被上面两种扫到的位置，显然可以当做 $1$ 处理。
+
+## Code
+
+```cpp
+//Think twice,code once.
+#include<cstdio>
+#include<string>
+#include<cstring>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+int T,n,a[200005];
+int main()
+{
+	scanf("%d",&T);
+	while(T--)
+	{
+		scanf("%d",&n);
+		for(int i=1;i<=n;i++) a[i]=1;
+		for(int i=1;i<=n;i++)
+		{
+			int c;
+			scanf("%d",&c);
+			if(c==0) a[i]=0;
+			if(a[i]==0) a[i+c]=0;
+			else a[c+1]=0;
+		}
+		for(int i=1;i<=n;i++) printf("%d ",a[i]);
+		puts("");
+	}
+	return 0;
+}
+```
+
+
+
+---
+
+## 作者：LinkZelda (赞：10)
+
+由于题目保证有解，我们可以先算出 $sum=\sum_{i=1}^nc_i$，因为我们做了 $n$ 次操作，原序列中的每个 $1$ 都贡献了 $n$ 次，于是 $1$ 的个数就是 $\frac{sum}{n}$。
+
+然后我们从右往左构造，假设现在构造到第 $i$ 个位置，如果 $c_i=i$ 说明这个位置肯定放了一个 $1$，否则一定只能放 $0$。
+
+考虑怎么把这个做法扩展到第 $i-1$ 的位置。因为到 $i$ 的最后一次操作肯定是前面所有的 $1$ 都在最后了（设 $1$ 有 $k$ 个），那我们直接把下标在 $[i-k+1,i]$ 的 $c_i$ 都减去 $1$，这个可以用树状数组做，于是问题就成功转化为 $i-1$ 的子问题了。
+
+时间复杂度为 $O(n\log n)$。[代码](https://www.luogu.com.cn/paste/f1uvpc48)
+
+---
+
+## 作者：CYZZ (赞：5)
+
+# [CF1659D](https://www.luogu.com.cn/problem/CF1659D)
+和朋友玩随机题，40 min 才切，我好菜啊。
+## 思路
+考虑如果已知 $A$ 如何快速求 $B$，容易发现 $B$ 数组满足以下性质：
+
+$$
+B_{i,j}=\begin{cases}
+A_j&j\in[1,i)\\
+1&j\in[i,pos_i)\\
+0&j\in[pos_i,n]
+\end{cases}
+$$
+
+其中 $pos_i$ 表示 $A$ 中第 $i$ 个 $0$ 出现的位置，如果不足 $i$ 个 $0$，则 $pos_i=n+1$。将 $B$ 带入得：
+
+$$C_i=(i-1)A_i+(pos_i-i)=(i-1)(A_i-1)+pos_i-1$$
+
+那么，我们从左到右枚举 $i$，如果当前 $A_i$ 已经确定，那么 $pos_i$ 也就确定了，那么 $(pos_{i-1},pos_i]$ 范围的 $A$ 值也已经确定了。整个过程 $\mathcal{O(n)}$。
+
+那如果当前 $A_i$ 没有确定怎么办，发现 $A_i$ 没有确定当且仅当 $A_{1}$ 到 $A_{i-1}$ 均为 $0$（因为这样每次只能确定一个点），此时 $C_i$ 为非零则 $A_i=1$，否则 $A_i=0$。
+## 代码
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+#define N 200005
+int n,C[N],a[N],pos[N];
+void solve()
+{
+    scanf("%d",&n);
+    for(int i=1;i<=n;i++) scanf("%d",&C[i]),a[i]=-1;
+    a[1]=C[1]?1:0;
+    for(int i=1;i<=n;i++)
+    {
+        if(a[i]==-1)
+            a[i]=C[i]?1:0;
+        pos[i]=C[i]+1-(i-1)*(a[i]-1);
+        for(int j=pos[i-1]+1;j<pos[i];j++)
+        {
+            a[j]=1;
+        }
+        a[pos[i]]=0;
+        if(pos[i]>n)
+            break;
+    }
+    for(int i=1;i<=n;i++)
+    {
+        printf("%d ",a[i]);
+    }
+    putchar('\n');
+}
+int main()
+{
+    int T;
+    scanf("%d",&T);
+    while(T--)
+    {
+        solve();
+    }
+}
+```
+整体思路还是挺妙的。
+
+---
+
+## 作者：落海沉 (赞：3)
+
+这是一道不错的构造题
+
+首先，明确如果 $f_i = 0$ 那么这里的 $ans_i = 0$ ，因为如果这里为 $1$ 的话，那么至少排序到第 $i$ 位时，它会加 $1$，不成立，所以这一位显然为 $0$。
+
+因为我们需要找 $0$，所以我们将答案全部赋值成 $1$。
+
+##### 结论
+
+- $ans_i=0$ 时，$ans_{i+s_i}=0$。
+
+
+- $ans_i=1$ 时，$ans_{s_i}=0$。
+
+##### 证明
+
+- 前 $i$ 个数排列时它一直为 $1$，在 $i$ 后当存在一个点使这一位再次为 $0$ 时，从此点往后所有排列后的结果，$ans_i$ 一直为 $0$，所以当且仅当从 $i$ 至 $i+s_i-1$ 的 $ans$ 的值都为 $1$。则第 $i+s_i$ 排序后第 $i$ 位一定是 $0$，所以第 $i+s_i$ 位一定是 $0$。
+
+- 如果这一位为 $1$，那么第 $s_i$ 位为 $0$，证法与上文相同，留给读者思考。
+
+故代码就很快就出来了，其实不难写。
+
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+#define int long long
+#define re register
+const int inf = 0x3f3f3f3f;
+const int N = 2e5+5;
+int Case,n,s[N],ans[N],cnt;
+void solve(){
+	cin>>n;
+	for(int i=0;i<n;i++){
+		cin>>s[i];ans[i]=1;
+	}
+	for(int i=0;i<n;i++){
+		if(s[i]==0){
+			ans[i]=0;
+		}else{
+			if(ans[i]==0)s[i]+=i;
+			ans[s[i]]=0;
+		}
+		cout<<ans[i]<<" ";
+	}
+	cout<<endl;
+}
+signed main(){
+	ios::sync_with_stdio(false);
+    cin.tie(0);
+    cin>>Case;
+    while(Case--){
+    	solve();
+	}
+	return 0;
+}
+
+```
+
+最后祝大家 $noip$ 取得好成绩！
+
+---
+
+## 作者：耶梦加得 (赞：3)
+
+~~真·讨论区题解~~
+
+
+首先对于前导 0 显然是直接填 0，这是 naive 的。我们直接观察首项为 $1$ 的 01 序列得出的结果有什么特点。
+
+（注：这一假设只是为了分析方便，代码中并没有处理前导 0。）
+
+101 -> 123
+
+1110 -> 3441
+
+11011 -> 25355
+
+11101 -> 35525
+
+10110 -> 13551
+
+似乎 $C_1$ 代表了 $A$ 序列有多少个连续的 1？
+
+分析其本质，发现假设第一个 $0$ 的位置是 $x$，那么在 $B_{[1,x-1],1}$ 都是 $1$（因为只有 $1$）。之后由于前缀有了至少一个 $0$，从小到大排列后首项显然为 0。 
+
+令下标从 1 开始（其实从 0 开始更方便分析），则 $A_{C_1+1} = 0$，$A_{[1,C_1]} = 1$。
+
+考虑推广这个结论，假设我们已经确定了 $A_i = 1$，那么 $A$ 序列中第 $i$ 个 0 的位置为 $C_i + 1$， $A_{C_i+1} = 0$
+
+我们采用同样的分析方式，假设第 $i$ 个 0 位置为 $x$，则对于 $B_{[i,x-1],i}$，由于 $0$ 的数量小于 $i$，第 $i$ 个位置必然是 $1$。之后由于有至少 $i$ 个 $0$，$B_{[x,n],i} = 0$。又 $B_{[1,i-1],i} = A_i = 1$，可得 $C_i = x - 1$，即 $x = C_i + 1$。
+
+类似的，对于 $A_i = 0$ 的情况，只有 $B_{[1,i-1],i} = A_i = 0$ 这一部分发生了变化，$C_i = x - i$， $x = C_i + i$。
+
+~~别忘了在剩下的位置上填 $1$，为什么填 $1$，因为你不能填 $0$ 所以你只能写 $1$~~。
+
+那么有人就要问了：我怎么知道 $A_i$ 呢？~~我要求的不就是$A$吗。~~
+
+手玩可以发现我们~~在去掉前导 0~~之后，$A_i$ 在处理的时候必然是已知的。原因在于我们在处理 $A_i$ 时就已经知道了 $i-1$ 个 $0$ 的位置，又由于我们处理完了前导 0，那么我们又至少知道 $1$ 个 $1$ 的位置，总共知道了至少 $i$ 个位置，亦即 $A_i$ 已知。
+
+由这个解法我们也可以知道，$C$ 数组的信息经常有冗余，对于一个有 $i$ 个 $0$ 的 $A$ 数组，$C$ 的前 $i+1$ 项就足以确定 $A$ 数组。
+
+```cpp
+#include<algorithm>
+#include<cmath>
+#include<cstdio>
+#include<cstring>
+#include<iostream>
+#include<queue>
+#include<vector>
+using namespace std;
+int t;
+int n, p;
+int a[200007], b[200007]; //和题目中的同名数组——并没有对应关系（
+signed main() {
+    scanf("%d", &t);
+    while(t--) {
+        scanf("%d", &n);
+        p = 0;
+        for(int i = 1; i <= n; ++i) b[i] = 0;
+        for(int i = 1; i <= n; ++i) {
+            scanf("%d", a + i);
+            if(p < i) {
+                if(a[i]) b[i] = 1;
+                else b[i] = 0;
+            }
+            if(b[i] == 1) {
+                for(++p; p <= a[i]; ++p) b[p] = 1;
+                b[p] = 0;
+            } else {
+                for(++p; p <= a[i] + i - 1; ++p) b[p] = 1;
+                b[p] = 0;
+            }
+        }
+        for(int i = 1; i <= n; ++i) printf("%d ", b[i]);
+        putchar('\n');
+    }
+    return 0;
+}
+
+```
+迫真参考资料：https://www.luogu.com.cn/paste/nwzmrxu4
+
+---
+
+## 作者：complexly (赞：2)
+
+### CF1659D
+
+一个比较唐的做法，但是支持判无解。
+
+首先 0 总数是好求的：$n - \frac {\sum a_i} n$。
+
+接下来考虑从后往前构造：
+
+因为我知道后面所有的数，所有我知道后面 0 的数量的后缀和，再根据 0 总数算出后面 0 的数量的前缀和。
+
+我就可以算出在这个位置被排序的所有序列中 1 的数量，减一下，就能得到这个位置没被排序的所有序列 1 的数量。
+
+如果 1 的数量大于 0 ，这个位置就是 1 ，否则就是 0（位置 1 需要特判）。 
+
+```
+#include<bits/stdc++.h>
+#define int long long
+#define f(i , l , r) for(int i = (l);i <= (r);++ i)
+#define d(i , l , r) for(int i = (r);i >= (l);-- i)
+#define pii pair<int,int>
+#define pb push_back
+#define fi first
+#define sc second
+#define lowbit(x) ((x)&-(x))
+#define fre(x) freopen(x".in","r",stdin);freopen(x".out","w",stdout)
+using namespace std;
+const int N = 1e6 + 10;
+int n , a[N] , pre[N] , suf[N] , c[N];
+void work(){
+    cin >> n;
+    int sum = 0;
+    f(i , 1 , n)cin >> c[i] , sum += c[i];
+    sum /= n , sum = n - sum , suf[n + 1] = 0;
+    d(i , 1 , n){
+        pre[i] = sum - suf[i + 1];
+        int p = lower_bound(pre + i , pre + n + 1 , i) - pre;
+        a[i] = (c[i] - (p - i) > 0) , suf[i] = suf[i + 1] + (a[i] == 0);
+    }
+    a[1] = c[1] > 0;
+    f(i , 1 , n)cout << a[i] << " ";cout << "\n";
+}
+signed main(){
+    ios_base::sync_with_stdio(0);
+    cin.tie(0) , cout.tie(0);
+    int T = 1;cin >> T;
+    while(T --)work();
+}
+```
+
+很冗长，确实不如题解区的其他做法。
+
+---
+
+## 作者：Frevotops (赞：1)
+
+[原题链接](https://www.luogu.com.cn/problem/CF1659D)
+
+这题是一道思维难度较高的题目。
+
+首先，我们考虑在 $B$ 数组上进行研究。这个 $B$ 数组的第一行就是 $A$ 数组，第 $i$ 行的前 $i$ 个元素有序，第 $n$ 行……全部有序！我们考虑第 $n$ 行开始研究。
+
+这里我们先说一个点：每一个 $C_i$ 由两部分组成。如下图对应样例 $1$，红色框内的贡献是该元素参与排序的，红色框外是不参与排序的，即原数。
+
+![image.png](https://s2.loli.net/2022/04/25/17ScGvouI2dmyfz.png)
+
+我们先考虑算出 $A$ 数组的 $1$ 的数量。由于每一个元素在 $B$ 数组中都有 $n$ 次贡献，那么 $B$ 数组的和（就是 $C$ 数组的和）除以 $n$ 便是 $1$ 的数量。
+
+由于最后一行是有序的，一定是一段 $0$ 和一段 $1$，那么其实我们已经求出了最后一行。
+
+你可能会问，求出最后一行能有啥用？用处可大了。我们用 $C_n$ 减去 $B_{n,n}$，得到的结果就是 $n-1$ 倍的 $A_n$！观察上图即可发现，由于 $A_n$ 在 $n-1$ 次排序中都没有参与，那么 $A_n$ 求出来了。
+
+于是我们有了一个想法：$A_n$ 既然求了出来，那不如把它扔了，让 $A_{n-1}$ 成为新的 $A_n$，循环往复，求出答案……岂不美哉？关键是如何把它扔掉。由于没有画图，我没想到这一点。首先扔掉 $A_n$ 需要满足新的 $C$ 数组能够和新的 $A$ 数组对应起来，也就意味着原来 $B$ 数组的第 $n$ 行对 $C$ 的贡献要消失掉。注意我们不用管 $C_n$，~~它 SPFA 了~~。由于 $B$ 最后一行的 $1$ 是连续的，很自然的会想到线段树维护它。
+
+剩下的操作，就是不断地扔 $A_n$ 了！代码细节留给读者自行思考。
+
+```cpp
+#include<bits/stdc++.h> 
+using namespace std;
+typedef long long ll;
+ll n,q,opt,x,y,k;
+const int Maxn=200010;
+ll a[Maxn],ls[Maxn<<2],rs[Maxn<<2],val[Maxn<<2],ans[Maxn];
+ll tag[Maxn<<2];
+inline void pushup(ll pos){
+	val[pos]=val[pos<<1]+val[pos<<1|1];
+}
+inline void pushdown(ll pos){
+	if(tag[pos]){
+		val[pos<<1]+=tag[pos]*(rs[pos<<1]-ls[pos<<1]+1);
+		val[pos<<1|1]+=tag[pos]*(rs[pos<<1|1]-ls[pos<<1|1]+1);
+		tag[pos<<1]+=tag[pos]; tag[pos<<1|1]+=tag[pos];
+		tag[pos]=0;
+	}
+}
+inline void build(ll l,ll r,ll pos){
+	ls[pos]=l,rs[pos]=r;
+	if(l==r){
+		val[pos]=a[l];
+		return;
+	}
+	ll mid=l+r>>1;
+	if(l<=mid) build(l,mid,pos<<1);
+	if(mid<r) build(mid+1,r,pos<<1|1);
+	pushup(pos);
+}
+inline void update(ll l,ll r,ll x,ll pos){
+	if(l<=ls[pos]&&rs[pos]<=r){
+		val[pos]+=x*(rs[pos]-ls[pos]+1);
+		tag[pos]+=x;
+		return;
+	}
+	pushdown(pos);
+	ll mid=ls[pos]+rs[pos]>>1;
+	if(l<=mid) update(l,r,x,pos<<1);
+	if(mid<r) update(l,r,x,pos<<1|1);
+	pushup(pos);
+}
+inline ll query(ll l,ll r,ll pos){
+	if(l<=ls[pos]&&rs[pos]<=r) return val[pos];
+	pushdown(pos);
+	ll mid=ls[pos]+rs[pos]>>1,ans=0;
+	if(l<=mid) ans+=query(l,r,pos<<1);
+	if(mid<r) ans+=query(l,r,pos<<1|1);
+	return ans;
+}
+ll T;
+int main(){
+	cin>>T;
+	while(T--){
+		cin>>n;
+		for(ll i=1;i<=n;i++) cin>>a[i];
+		for(ll i=1;i<=4*n;i++){
+			ls[i]=rs[i]=val[i]=tag[i]=0;
+		} 
+		build(1,n,1);
+		for(ll i=n;i>=1;i--){
+			ll last=query(1,i,1)/i; // 求出末尾的 1 的数量，前 i 个元素此时有序
+			if(i==1){
+				ans[i]=last;
+				break;
+			} // 特判
+			if(last) update(i-last+1,i,-1,1); // 从 C 数组中去除
+			ans[i]=query(i,i,1)/(i-1); // 此时 B(i,i) 已经被去掉，Ci 便是 ans[i]*(i-1) 了。
+		}
+		for(ll i=1;i<=n;i++) cout<<ans[i]<<" ";
+		cout<<endl;
+	}
+	return 0;
+}
+```
+
+---
+
+## 作者：cosf (赞：0)
+
+首先，我们可以发现所有的 $B_i$ 的和是一样的，因此，我们可以用 $C$ 的和处以 $n$ 得到 $A$ 中 $1$ 的个数。
+
+那么，我们考虑从后往前推。如果 $C_n = n$，那么每一个 $B$ 的最后一位都是 $1$，说明 $A_n = 1$。否则，$C_n$ 就必然是 $1$ 或者 $0$。
+
+我们既然知道了 $C_n$ 和 $1$ 的个数 $c$，那么我们可以知道 $B_n$ 的值。若 $C_n \not= 0$，则 $B_n = \{0, 0, \dots, 0, \underbrace{1, 1, \dots, 1}_{c}\}$，否则 $B_n$ 全 $0$。若 $B_n$ 全 $0$，则 $c$ 必然 $=0$，所以仍可以用第一种方式解释。那么，我们把 $B_n$ 从 $C_n$ 中减去，再更新一下 $c$，这个问题就变成 $n' = n - 1$ 的新问题了。
+
+这种区间减可以 $O(1)$ 做，所以单次复杂度 $O(n)$。
+
+```cpp
+#include <iostream>
+using namespace std;
+
+#define MAXN 200005
+
+using ll = long long;
+
+int n;
+
+ll c[MAXN];
+ll a[MAXN];
+
+ll tmp[MAXN];
+
+void solve()
+{
+    cin >> n;
+    ll s = 0;
+    for (int i = 1; i <= n; i++)
+    {
+        cin >> c[i];
+        s += c[i];
+        tmp[i] = 0;
+        a[i] = 0;
+    }
+    s /= n;
+    int mns = 0;
+    for (int i = n; i; i--)
+    {
+        c[i] -= mns;
+        if (c[i] == i)
+        {
+            a[i] = 1;
+            s--;
+            mns++;
+            tmp[i - s]++;
+        }
+        else
+        {
+            mns++;
+            tmp[i - s + 1]++;
+        }
+        mns -= tmp[i];
+    }
+    for (int i = 1; i <= n; i++)
+    {
+        cout << a[i] << ' ';
+    }
+    cout << endl;
+}
+
+int main()
+{
+    int t;
+    cin >> t;
+    while (t--)
+    {
+        solve();
+    }
+    return 0;
+}
+
+```
+
+---
+
+## 作者：王熙文 (赞：0)
+
+## 思路
+
+首先，$A$ 中 $1$ 的个数为 $\dfrac{\sum\limits_{i=1}^n C_i}{n}$，因为 $C$ 的总和等于 $B$ 的总和等于 $n$ 倍 $A$ 的总和。
+
+先考虑 $A_n$ 是什么。
+
+如果 $A_n$ 是 $1$，则 $B_{1 \sim n-1,n}=1$，因为不会将 $A_n$ 掺入排序中；$B_{n,n}=1$，因为只要排序中有一个 $1$，它就会放到最后（$n$ 的位置）。综上，如果 $A_n$ 是 $1$，则 $B_{1 \sim n,n}=1$，即 $C_n=n$。
+
+接下来考虑任意位置。假设现在的状态是已经确定了 $A_i$，准备确定 $A_{i-1}$，此时的 $C$ 表示的是前 $1,2,\cdots,i$ 个排序后的 $B$ 每一列总和（$B$ 的前 $i$ 行）。设前 $i$ 个 $1$ 的个数为 $cnt$（这个每次确定的时候更新即可）。
+
+如果要确定 $A_{i-1}$，则 $C$ 应当更新为前 $1,2,\cdots,i-1$ 个排序后的 $B$ 每一列总和，更新后判断 $i-1$ 是否等于 $C_{i-1}$ 即可，与判断 $n$ 同理。将前 $i$ 个排序后，$1$ 会堆在后面，将堆在后面的 $1$ 的位置的 $C$ 减 $1$ 即可去掉贡献。
+
+此时，问题转化成了维护 $C$：区间加、单点查询。使用一种数据结构维护即可。我使用的是树状数组（做 [树状数组 2](https://www.luogu.com.cn/problem/P3368) 的方法）。
+
+## 参考代码
+
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+
+int n;
+
+int c[200010];
+
+int a[200010];
+
+int tree[200010];
+
+void upd(int wz,int x)
+{
+	while(wz<=n)
+	{
+		tree[wz]+=x;
+		wz+=wz&-wz;
+	}
+}
+
+int get_sum(int wz)
+{
+	int sum=0;
+	while(wz)
+	{
+		sum+=tree[wz];
+		wz-=wz&-wz;
+	}
+	return sum;
+}
+
+void upd(int l,int r,int x)
+{
+	upd(l,x),upd(r+1,-x);
+}
+
+int get_node(int x)
+{
+	return get_sum(x);
+}
+
+int main()
+{
+	int t;
+	cin>>t;
+	while(t--)
+	{
+		long long cnt=0;
+		cin>>n;
+		memset(tree,0,(n+1)*4);
+		for(int i=1; i<=n; ++i) cin>>c[i],cnt+=c[i],upd(i,i,c[i]);
+		cnt/=n;
+		for(int i=n; i>=1; --i)
+		{
+			a[i]=(get_node(i)==i);
+			upd(i-cnt+1,i-1,-1);
+			if(a[i]) --cnt;
+		}
+		for(int i=1; i<=n; ++i) cout<<a[i]<<' ';
+		cout<<'\n';
+	}
+	return 0;
+}
+```
+
+---
+
+## 作者：circletime (赞：0)
+
+
+
+## 分析
+
+设数组的长度为 $n$，数组 $C$ 中所有元素之和为 $sum$，每个数组中 $1$ 的数量为 $k$。易知 $k = \dfrac {sum} n$。
+
+由定义，数组 $B_i$ 的前 $i$ 项是严格非递减的。再考虑到 $c_i = \sum_{j = 1}^n B_{j, i}$。可以发现当 $i > 1$ 时
+$$
+a_i =
+\begin{cases} 
+1, & \sum_{j = 1}^{i - 1} B_{j, i} = i - 1\\
+0, & \sum_{j = 1}^{i - 1} B_{j, i} = 0
+\end{cases}
+$$
+
+至于 $a_1$ 值，当其余值确定时，也可唯一确定。
+
+由上式可以发现，针对每个 $a_i$，我们只需要知道数组 $B_1, B_2, \dots,B_{i - 1}$ 的前 $i$ 项的值即可。
+
+因为已知的是 $B_1 \sim B_n$ 每一项的和，可以逆序依次求出 $a_n, a_{n - 1}, \dots$。
+
+首先求 $a_n$，只要知道 $B_1, B_2, \dots,B_{n - 1}$ 中的第 $n$ 项的值，而可以确定的 $B_n$ 显然在后续的计算中会产生影响，需要减去 $C$ 中相应的值。定义此时 $a$ 中还未确定的数中 $1$ 的个数为 $x$，也就是说 $B_n$ 的数字 $1$ 所在的区间为 $[n + 1 - x, n - 1]$。所以只需要对 $C$ 中的 $[n + 1 - x, n]$ 减一即可。此时的 $c_n$ 就等于 $B_1, B_2, \dots,B_{n - 1}$ 中的第 $n$ 项的值。$a_n$ 可以确定。
+
+类似的，接下来逐个求 $a_i$ 的值也是类似的步骤。令此时 $a$ 中还未确定的数中 $1$ 的个数为 $x$，也就是说在区间 $[1, i]$ 中 $1$ 的个数为 $x$。可知 $B_{i}$ 中的前 $i$ 项的后 $x$ 项均为 $1$。由于$B_{i}$ 中 $[i + 1, n]$ 对前 $i$ 项的求解无关，无须考虑，只有前 $i$ 项有影响，且其中 $1$ 所在的区间为 $[i + 1 - x, i]$，只需要对 $C$ 中的 $[i + 1 - x, i]$ 减一即可。可以知道此时 $c_i = \sum_{j = 1}^{i - 1} B_{j, i}$，$a_i$ 也可以被确定了。
+
+其中对数组 $C$ 实现区间修改，单点查询用树状数组维护一下就行。复杂度 $O(N\log N)$。
+
+## 代码
+```cpp
+#include <bits/stdc++.h>
+#define rep(i, a, b) for (ll i = ll(a); i <= ll(b); ++i)
+
+using namespace std;
+using ll = long long;
+
+const int N = 2e5 + 10;
+int n, a[N], c[N];
+int tr[N];
+
+inline int lowbit(int x) {
+    return x & (-x);
+}
+
+void update(int x, int d) {
+    while (x <= n) {
+        tr[x] += d;
+        x += lowbit(x);
+    }
+}
+
+int query(int x) {
+    int res = 0;
+    while (x > 0) {
+        res += tr[x];
+        x -= lowbit(x);
+    }return res;
+}
+
+void solve() {
+    cin >> n;
+    ll sum = 0;							// 注意数组c中所有元素之和超过了int的范围
+    rep (i, 1, n) {
+        cin >> c[i]; sum += c[i];
+    }
+    int k = sum / n; 
+    int x = k;
+    memset(tr, 0, sizeof tr);
+    for (int i = 1; i <= n; i++) {
+        update(i, c[i] - c[i - 1]); 	// 对数组c的差分数组建树状数组，用来进行区间修改
+    }
+    for (int i = n; i >= 2; i--) {  	// 从n到2依次确定a_i的值
+        if (x > 0) {
+            int l = i + 1 - x, r = i;	// 将区间[i + 1 - x, i] 减一
+            update(l, -1); 		
+            update(r + 1, 1);
+        }
+        int num = query(i);				// 查询当前 c_i的值，如果为0，则a_i = 0，否则为1
+        if (num == 0) a[i] = 0;
+        else a[i] = 1, x--;	
+    }
+    a[1] = x;							// 最后剩余的x即为a_1
+    rep (i, 1, n) cout << a[i] << ' ';
+    cout << '\n';
+}
+
+int main()
+{
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    int _; cin >> _;
+    while (_--) {
+        solve();
+    }
+    return 0;
+}
+
+```
+
+---
+

@@ -1,0 +1,42 @@
+---
+title: "Unique Story"
+layout: "post"
+diff: 难度0
+pid: UVA11775
+tag: []
+---
+
+# Unique Story
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=117&page=show_problem&problem=2875
+
+[PDF](https://uva.onlinejudge.org/external/117/p11775.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11775/d71a1cab25139ef83d5f6792e496328c9ca89bb0.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11775/7b667798464d6ad7f4890efef63d2e0b03bcbbe4.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA11775/d0386bf3f690e8c3d6c66276db06487b35123b9f.png)
+
+## 样例 #1
+
+### 输入
+
+```
+Output
+Case 1: 4
+Case 2: 0
+```
+
+### 输出
+
+```
+
+```
+

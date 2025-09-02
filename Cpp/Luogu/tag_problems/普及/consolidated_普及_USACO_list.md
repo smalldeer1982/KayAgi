@@ -1,0 +1,201 @@
+# 题号列表
+
+- P10123 - [USACO18OPEN] Milking Order B
+- P10124 - [USACO18OPEN] Family Tree B
+- P10133 - [USACO24JAN] Balancing Bacteria B
+- P10135 - [USACO24JAN] Potion Farming S
+- P10275 - [USACO24OPEN] Walking Along a Fence B
+- P10276 - [USACO24OPEN] Farmer John's Favorite Permutation B
+- P1118 - [USACO06FEB] Backward Digit Sums G/S
+- P1134 - [USACO3.2] 阶乘问题
+- P11449 - [USACO24DEC] Roundabount Rounding B
+- P11451 - [USACO24DEC] It's Mooin' Time B
+- P11452 - [USACO24DEC] Cake Game S
+- P11668 - [USACO25JAN] It's Mooin' Time II B
+- P11669 - [USACO25JAN] Cow Checkups B
+- P1205 - [USACO1.2] 方块转换 Transformations
+- P1209 - [USACO1.3] 修理牛棚 Barn Repair
+- P1210 - [USACO1.3] 最长的回文 Calf Flac
+- P1215 - [USACO1.4] 母亲的牛奶 Mother's Milk
+- P1219 - [USACO1.5] 八皇后 Checker Challenge
+- P1339 - [USACO09OCT] Heat Wave G
+- P1444 - [USACO1.3] 虫洞 wormhole
+- P1461 - [USACO2.1] 海明码 Hamming Codes
+- P1465 - [USACO2.2] 序言页码 Preface Numbering
+- P1466 - [USACO2.2] 集合 Subset Sums
+- P1473 - [USACO2.3] 零的数列 Zero Sum
+- P1474 - [USACO2.3] Money System / [USACO07OCT]Cow Cash G
+- P1475 - [USACO2.3] 控制公司 Controlling Companies
+- P1518 - [USACO2.4] 两只塔姆沃斯牛 The Tamworth Two
+- P1519 - [USACO2.4] 穿越栅栏 Overfencing
+- P1529 - [USACO2.4] 回家 Bessie Come Home
+- P1530 - [USACO2.4] 分数化小数 Fractions to Decimals
+- P1535 - [USACO08MAR] Cow Travelling S
+- P1546 - [USACO3.1] 最短网络 Agri-Net
+- P1547 - [USACO05MAR] Out of Hay S
+- P1550 - [USACO08OCT] Watering Hole G
+- P1555 - 尴尬的数字
+- P1638 - 逛画展
+- P1649 - [USACO07OCT] Obstacle Course S
+- P1669 - [USACO04DEC] Bad Cowtractors S
+- P1671 - [USACO05FEB] Rigging the Bovine Election S
+- P1672 - [USACO05FEB] Feed Accounting S
+- P1673 - [USACO05FEB] Part Acquisition S
+- P1694 - [USACO19FEB] The Great Revegetation B
+- P1701 - [USACO19OPEN] Cow Evolution B
+- P1748 - H数
+- P1821 - [USACO07FEB] Cow Party S
+- P1825 - [USACO11OPEN] Corn Maze S
+- P1828 - [USACO3.2] 香甜的黄油 Sweet Butter
+- P1842 - [USACO05NOV] 奶牛玩杂技
+- P1938 - [USACO09NOV] Job Hunt S
+- P2203 - Blink
+- P2207 - Photo
+- P2212 - [USACO14MAR] Watering the Fields S
+- P2213 - [USACO14MAR] The Lazy Cow S
+- P2255 - [USACO14JAN] Recording the Moolympics S
+- P2338 - [USACO14JAN] Bessie Slows Down S
+- P2340 - [USACO03FALL] Cow Exhibition G
+- P2345 - [USACO04OPEN] MooFest G
+- P2385 - [USACO07FEB] Bronze Lilypad Pond B
+- P2665 - [USACO08FEB] Game of Lines S
+- P2690 - [USACO04NOV] Apple Catching G
+- P2701 - [USACO5.3] 巨大的牛棚Big Barn
+- P2725 - [USACO3.1] 邮票 Stamps
+- P2728 - [USACO3.2] 纺车的轮子 Spinning Wheels
+- P2729 - [USACO3.2] 饲料调配 Feed Ratios
+- P2733 - [USACO3.3] 家的范围 Home on the Range
+- P2734 - [USACO3.3] 游戏 A Game
+- P2735 - [USACO3.4] 网 Electric Fences
+- P2771 - [USACO16JAN] Build Gates S
+- P2849 - [USACO14DEC] Marathon S
+- P2853 - [USACO06DEC] Cow Picnic S
+- P2855 - [USACO06DEC] River Hopscotch S
+- P2858 - [USACO06FEB] Treats for the Cows G/S
+- P2866 - [USACO06NOV] Bad Hair Day S
+- P2872 - [USACO07DEC] Building Roads S
+- P2878 - [USACO07JAN] Protecting the Flowers S
+- P2880 - [USACO07JAN] Balanced Lineup G
+- P2884 - [USACO07MAR] Monthly Expense S
+- P2887 - [USACO07NOV] Sunscreen G
+- P2888 - [USACO07NOV] Cow Hurdles S
+- P2889 - [USACO07NOV] Milking Time S
+- P2895 - [USACO08FEB] Meteor Shower S
+- P2896 - [USACO08FEB] Eating Together S
+- P2899 - [USACO08JAN] Cell Phone Network G
+- P2902 - [USACO08MAR] Pearl Pairing G
+- P2903 - [USACO08MAR] The Loathesome Hay Baler S
+- P2904 - [USACO08MAR] River Crossing S
+- P2910 - [USACO08OPEN] Clear And Present Danger S
+- P2912 - [USACO08OCT] Pasture Walking G
+- P2916 - [USACO08NOV] Cheering up the Cow G
+- P2918 - [USACO08NOV] Buying Hay S
+- P2920 - [USACO08NOV] Time Management S
+- P2926 - [USACO08DEC] Patting Heads S
+- P2932 - [USACO09JAN] Earthquake Damage G
+- P2935 - [USACO09JAN] Best Spot S
+- P2942 - [USACO09MAR] Moon Mooing G
+- P2946 - [USACO09MAR] Cow Frisbee Team S
+- P2947 - [USACO09MAR] Look Up S
+- P2951 - [USACO09OPEN] Hide and Seek S
+- P2960 - [USACO09OCT] Invasion of the Milkweed G
+- P2983 - [USACO10FEB] Chocolate Buying S
+- P2984 - [USACO10FEB] Chocolate Giving S
+- P2985 - [USACO10FEB] Chocolate Eating S
+- P2996 - [USACO10NOV] Visiting Cows G
+- P2997 - [USACO10NOV] Banner S
+- P3003 - [USACO10DEC] Apple Delivery S
+- P3015 - [USACO11FEB] Best Parenthesis S
+- P3016 - [USACO11FEB] The Triangle S
+- P3019 - [USACO11MAR] Meeting Place S
+- P3020 - [USACO11MAR] Package Delivery S
+- P3021 - [USACO11MAR] Bovine Bridge Battle S
+- P3027 - [USACO10OCT] Making Money G
+- P3029 - [USACO11NOV] Cow Lineup S
+- P3030 - [USACO11NOV] Tile Exchanging S
+- P3040 - [USACO12JAN] Bale Share S
+- P3062 - [USACO12DEC] Wifi Setup S
+- P3068 - [USACO13JAN] Party Invitations S
+- P3074 - [USACO13FEB] Milk Scheduling S
+- P3078 - [USACO13MAR] Poker Hands S
+- P3093 - [USACO13DEC] Milk Scheduling S
+- P3094 - [USACO13DEC] Vacation Planning S
+- P3111 - [USACO14DEC] Cow Jog S
+- P3123 - [USACO15OPEN] Bessie Goes Moo S
+- P3133 - [USACO16JAN] Radio Contact G
+- P3135 - [USACO16JAN] Fort Moo P
+- P3138 - [USACO16FEB] Load Balancing S
+- P3139 - [USACO16FEB] Milk Pails S
+- P3142 - [USACO16OPEN] Field Reduction S
+- P3143 - [USACO16OPEN] Diamond Collector S
+- P3144 - [USACO16OPEN] Closing the Farm S
+- P3416 - [USACO16DEC] Moocast S
+- P3662 - [USACO17FEB] Why Did the Cow Cross the Road II S
+- P3670 - [USACO17OPEN] Bovine Genomics S
+- P3864 - [USACO1.2] 命名那个数字 Name That Number
+- P4086 - [USACO17DEC] My Cow Ate My Homework S
+- P4089 - [USACO17DEC] The Bovine Shuffle S
+- P4266 - [USACO18FEB] Rest Stops S
+- P4378 - [USACO18OPEN] Out of Sorts S
+- P4817 - [USACO15DEC] Fruit Feast G
+- P4825 - [USACO15FEB] Cow Hopscotch S
+- P4826 - [USACO15FEB] Superbull S
+- P4955 - [USACO14JAN] Cross Country Skiing S
+- P5097 - [USACO04OPEN] Cave Cows 2
+- P5098 - [USACO04OPEN] Cave Cows 3
+- P5118 - [USACO18DEC] Back and Forth B
+- P5119 - [USACO18DEC] Convention S
+- P5120 - [USACO18DEC] Convention II S
+- P5194 - [USACO05DEC] Scales S
+- P5197 - [USACO19JAN] Grass Planting S
+- P5198 - [USACO19JAN] Icy Perimeter S
+- P5199 - [USACO19JAN] Mountain View S
+- P5429 - [USACO19OPEN] Fence Planning S
+- P5541 - [USACO19FEB] Sleepy Cow Herding S
+- P5542 - [USACO19FEB] Painting The Barn S
+- P6002 - [USACO20JAN] Berry Picking S
+- P6067 - [USACO05JAN] Moo Volume S
+- P6099 - [USACO19FEB] Dishwashing G
+- P6111 - [USACO18JAN] MooTube S
+- P6120 - [USACO17JAN] Hoof, Paper, Scissor S
+- P6140 - [USACO07NOV] Best Cow Line S
+- P6145 - [USACO20FEB] Timeline G
+- P6174 - [USACO16JAN] Angry Cows S
+- P6179 - [USACO15DEC] High Card Wins S
+- P6181 - [USACO10OPEN] Mountain Watching S
+- P6191 - [USACO09FEB] Bulls And Cows S
+- P6205 - [USACO06JAN] Dollar Dayz S
+- P6207 - [USACO06OCT] Cows on Skates G
+- P6208 - [USACO06OCT] Cow Pie Treasures G
+- P6245 - [USACO06OPEN] The Climbing Wall S
+- P6281 - [USACO20OPEN] Social Distancing S
+- P6282 - [USACO20OPEN] Cereal S
+- P6432 - [USACO3.1] 形成的区域 Shaping Regions
+- P6770 - [USACO05MAR] Checking an Alibi 不在场的证明
+- P6771 - [USACO05MAR] Space Elevator 太空电梯
+- P7148 - [USACO20DEC] Cowntagion S
+- P7300 - [USACO21JAN] No Time to Paint S
+- P7412 - [USACO21FEB] Year of the Cow S
+- P7556 - [USACO21OPEN] Do You Know Your ABCs? S
+- P7557 - [USACO21OPEN] Acowdemia S
+- P7992 - [USACO21DEC]  Convoluted Intervals S
+- P7994 - [USACO21DEC] Air Cownditioning B
+- P7995 - [USACO21DEC] Walking Home B
+- P8092 - [USACO22JAN] Drought B
+- P8094 - [USACO22JAN] Cow Frisbee S
+- P8183 - [USACO22FEB] Sleeping in Class B
+- P8268 - [USACO22OPEN] Alchemy B
+- P8898 - [USACO22DEC] Feeding the Cows B
+- P8899 - [USACO22DEC] Reverse Engineering B
+- P9014 - [USACO23JAN] Following Directions S
+- P9125 - [USACO23FEB] Cow-libi S
+- P9939 - [USACO21OPEN] Acowdemia III B
+- P9948 - [USACO20JAN] Race B
+- P9951 - [USACO20FEB] Swapity Swap B
+- P9952 - [USACO20OPEN] Social Distancing I B
+- P9954 - [USACO20OPEN] Cowntact Tracing B
+- P9957 - [USACO20DEC] Stuck in a Rut B
+- P9974 - [USACO23DEC] Candy Cane Feast B
+- P9975 - [USACO23DEC] Cowntact Tracing 2 B
+- P9976 - [USACO23DEC] Farmer John Actually Farms B
+- P9978 - [USACO23DEC] Cycle Correspondence S

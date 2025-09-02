@@ -1,0 +1,38 @@
+# 题号列表
+
+- AT_abc314_g - [ABC314G] Amulets
+- AT_abc318_f - [ABC318F] Octopus
+- AT_abc344_f - [ABC344F] Earn to Advance
+- AT_abc346_f - [ABC346F] SSttrriinngg in StringString
+- AT_abc362_f - [ABC362F] Perfect Matching on a Tree
+- AT_abc369_g - [ABC369G] As far as possible
+- AT_abc371_g - [ABC371G] Lexicographically Smallest Permutation
+- AT_abc373_f - [ABC373F] Knapsack with Diminishing Values
+- AT_abc381_f - [ABC381F] 1122 Subsequence
+- AT_abc383_e - [ABC383E] Sum of Max Matching
+- AT_agc004_d - [AGC004D] Teleporter
+- AT_agc008_d - [AGC008D] K-th K
+- AT_agc018_b - [AGC018B] Sports Festival
+- AT_agc037_b - [AGC037B] RGB Balls
+- AT_agc048_b - [AGC048B] Bracket Score
+- AT_agc048_c - [AGC048C] Penguin Skating
+- AT_agc049_c - [AGC049C] Robots
+- AT_agc054_c - [AGC054C] Roughly Sorted
+- AT_agc057_b - [AGC057B] 2A + x
+- AT_agc060_b - [AGC060B] Unique XOR Path
+- AT_agc065_a - [AGC065A] Shuffle and mod K
+- AT_arc053_c - [ARC053C] 魔法使い高橋君
+- AT_arc111_c - [ARC111C] Too Heavy
+- AT_arc116_e - [ARC116E] Spread of Information
+- AT_arc124_d - [ARC124D] Yet Another Sorting Problem
+- AT_arc137_c - [ARC137C] Distinct Numbers
+- AT_arc166_d - [ARC166D] Interval Counts
+- AT_arc167_d - [ARC167D] Good Permutation
+- AT_arc170_d - [ARC170D] Triangle Card Game
+- AT_arc173_c - [ARC173C] Not Median
+- AT_arc175_c - [ARC175C] Jumping Through Intervals
+- AT_arc175_d - [ARC175D] LIS on Tree 2
+- AT_arc179_c - [ARC179C] Beware of Overflow
+- AT_arc180_b - [ARC180B] Improve Inversions
+- AT_arc186_c - [ARC186C] Ball and Box
+- AT_arc189_d - [ARC189D] Takahashi is Slime

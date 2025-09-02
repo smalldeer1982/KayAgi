@@ -1,0 +1,44 @@
+# 题号列表
+
+- P10003 - [集训队互测 2023] 傅里叶与交通系统
+- P10718 - 【MX-X1-T6】「KDOI-05」简单的图上问题
+- P11905 - [NHSPC 2023] D. 共同子凸包
+- P12905 - [NERC 2020] Fiber Shape
+- P13005 - [GCJ 2022 Finals] Triangles
+- P13041 - [GCJ 2021 #3] Fence Design
+- P13073 - [GCJ 2020 Finals] Musical Cords
+- P13122 - [GCJ 2019 #3] Napkin Folding
+- P13127 - [GCJ 2019 Finals] Juggle Struggle: Part 2
+- P13304 - [GCJ 2013 Finals] X Marks the Spot
+- P13338 - 三角形面积并 加强版
+- P13411 - [GCJ 2010 Finals] Ninjutsu
+- P13453 - [GCJ 2009 Finals] Lights
+- P13588 - [NWRRC 2023] H-Shaped Figures
+- P13721 - [GCPC 2024] Fair Fruitcake Fragmenting
+- P1756 - [NOI2009] 描边
+- P3260 - [JLOI2014] 镜面通道
+- P3297 - [SDOI2013] 逃考
+- P3316 - [SDOI2014] 里面还是外面
+- P4073 - [WC2013] 平面图
+- P4125 - [WC2012] 记忆中的水杉树
+- P4207 - [NOI2005] 月下柠檬树
+- P4250 - [SCOI2015] 小凸想跑步
+- P4385 - [COCI 2009 Final Exam#2] Dvapravca
+- P4724 - 【模板】三维凸包
+- P5540 - [BalkanOI 2011] timeismoney
+- P5617 - [MtOI2019] 不可视境界线
+- P6214 - 「SWTR-4」Taking a Walk
+- P6362 - 平面欧几里得最小生成树
+- P6455 - 不可视境界线[环版本]
+- P6505 - Run Away
+- P6897 - [ICPC 2014 WF] Messenger
+- P6903 - [ICPC 2014 WF] Wire Crossing
+- P7101 - [W1] 推
+- P7455 - [THUSC 2017] 宇宙广播
+- P8061 - [JSOI2016] 炸弹攻击1 - 数据加强版
+- P9141 - [THUPC 2023 初赛] 乱西星上的空战
+- P9685 - 三色
+- P9819 - [ICPC 2020 Shanghai R] Wowoear
+- P9845 - [ICPC 2021 Nanjing R] Paimon Polygon
+- P9892 - [ICPC 2018 Qingdao R] Mirror
+- P9972 - [THUPC 2024 初赛] 勇闯末日塔

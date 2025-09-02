@@ -1,0 +1,40 @@
+---
+title: "FAST2 - Fast Sum of two to an exponent"
+layout: "post"
+diff: 普及/提高-
+pid: SP11383
+tag: ['数学', '高精度']
+---
+
+# FAST2 - Fast Sum of two to an exponent
+
+## 题目描述
+
+There is people that really like to do silly thinks, one of them is sum the numbers from 2^0 to 2^n, task is actually really simple, just do a ultra fast sum of term 2^0 to 2^n
+
+## 输入格式
+
+the first line starts with a number, T, wich is the number of test cases, T lines will follow
+
+each line contains a number "n" that is the nth term of the sum from 2^0 to 2^n
+
+0<=n<=500
+
+## 输出格式
+
+Output the sum from 2^0 to 2^n MODULO 1298074214633706835075030044377087
+
+## 样例 #1
+
+### 输入
+
+```
+3\n0\n1\n2\n\n
+```
+
+### 输出
+
+```
+1\n3\n7 \n\nExtra: TLE is equal to 0.15s\n
+```
+

@@ -1,0 +1,43 @@
+---
+title: "PRJAN15C - String Play"
+layout: "post"
+diff: 难度0
+pid: SP22535
+tag: []
+---
+
+# PRJAN15C - String Play
+
+## 题目描述
+
+String Play
+
+Milo has a string S of length L. Tutu picks a random prefix and Mota picks a random suffix of S.
+
+Now, Chotku is given a task of concatenating the two strings that Tutu and Mota have chosen, in respective order. Chotku wonders, how many distinct prefix-suffix concatenation is possible out there of string S.
+
+So you know what to do.. Help Chotku!
+
+Input
+
+Input file contains several lines of text. Each line contains a string, S. End of file marks the end of input.
+
+Output
+
+Output one integer per string, denoting the number of distinct prefix-suffix concatenation of the string.
+
+Constraints
+
+1. Strings consist of lower-case letters only.
+2. 1
+
+ Sample Input
+
+  Output for Sample Input
+
+  abc  
+aab
+
+  8  
+7
+

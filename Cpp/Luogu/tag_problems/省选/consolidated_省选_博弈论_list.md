@@ -1,0 +1,25 @@
+# 题号列表
+
+- P10876 - [COTS 2022] 点组 Točkice
+- P11219 - 【MX-S4-T3】「yyOI R2」youyou 的序列 II
+- P11565 - 【MX-X7-T6】[LSOT-3] 棋盘
+- P12576 - [UOI 2021] 数字图
+- P13071 - [GCJ 2020 Finals] Adjacent and Consecutive
+- P13114 - [GCJ 2019 #1C] Bacterial Tactics
+- P13392 - [GCJ 2010 #1A] Number Game
+- P2490 - [SDOI2011] 黑白棋
+- P2594 - [ZJOI2009] 染色游戏
+- P2599 - [ZJOI2009] 取石子游戏
+- P3185 - [HNOI2007] 分裂游戏
+- P3480 - [POI 2009] KAM-Pebbles
+- P5387 - [Cnoi2019] 人形演舞
+- P7097 - [yLOI2020] 牵丝戏
+- P7387 - 「EZEC-6」象棋
+- P7490 - 「Stoi2031」蒲公英的约定（vol.1）
+- P7491 - 「Stoi2031」蒲公英的约定（vol.2）
+- P7841 - 「C.E.L.U-03」100%不公平的游戏
+- P8347 - 「Wdoi-6」另一侧的月
+- P8968 - 觅光 | Searching for Hope (hard ver.)
+- P9138 - [THUPC 2023 初赛] 公平合作
+- P9169 - [省选联考 2023] 过河卒
+- P9898 - 『PG2』猪棋

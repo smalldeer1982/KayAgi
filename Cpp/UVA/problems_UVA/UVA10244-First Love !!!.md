@@ -1,0 +1,44 @@
+---
+title: "First Love !!!"
+layout: "post"
+diff: 难度0
+pid: UVA10244
+tag: []
+---
+
+# First Love !!!
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=14&page=show_problem&problem=1185
+
+[PDF](https://uva.onlinejudge.org/external/102/p10244.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10244/790c9b3b7f59695166a2b5b0bfd7e14b88a2a5a0.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10244/8757a5505378f77f0c72995cbebded9b9ebab43d.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10244/001e2ad24de675daf5716e1c1fa55c67b9806127.png)
+
+## 样例 #1
+
+### 输入
+
+```
+10 3
+ABC 9
+```
+
+### 输出
+
+```
+10
+1110001011
+19691
+TOO LONG TO PRINT.
+```
+

@@ -1,0 +1,62 @@
+---
+title: "Rank the Languages"
+layout: "post"
+diff: 难度0
+pid: UVA10336
+tag: []
+---
+
+# Rank the Languages
+
+## 题目描述
+
+[problemUrl]: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=15&page=show_problem&problem=1277
+
+[PDF](https://uva.onlinejudge.org/external/103/p10336.pdf)
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10336/74c40dc9def65c2b688552c451e2e9f48de63ffa.png)
+
+## 输入格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10336/0cd01ba4910806d58d974d8af5eebcd0bc523a79.png)
+
+## 输出格式
+
+![](https://cdn.luogu.com.cn/upload/vjudge_pic/UVA10336/4d6fdc6c5036003c2c362366f2479b787ceeb212.png)
+
+## 样例 #1
+
+### 输入
+
+```
+2
+4 8
+ttuuttdd
+ttuuttdd
+uuttuudd
+uuttuudd
+9 9
+bbbbbbbbb
+aaaaaaaab
+bbbbbbbab
+baaaaacab
+bacccccab
+bacbbbcab
+bacccccab
+baaaaaaab
+bbbbbbbbb
+```
+
+### 输出
+
+```
+World #1
+t: 3
+u: 3
+d: 1
+World #2
+b: 2
+a: 1
+c: 1
+```
+

@@ -1,0 +1,31 @@
+# 题号列表
+
+- CF1251D - Salary Changing
+- CF1641C - Anonymity Is Important
+- CF1705E - Mark and Professor Koro
+- CF1706E - Qpwoeirut and Vertices
+- CF1710B - Rain
+- CF1949I - Disks
+- CF1991E - Coloring Game
+- CF1993D - Med-imize
+- CF1997E - Level Up
+- CF19E - Fairy
+- CF2000G - Call During the Journey
+- CF2000H - Ksyusha and the Loaded Set
+- CF2006C - Eri and Expanded Sets
+- CF2026E - Best Subsequence
+- CF2038B - Make It Equal
+- CF2046C - Adventurers
+- CF2049E - Broken Queries
+- CF2089B2 - Canteen (Hard Version)
+- CF2094H - La Vaca Saturno Saturnita
+- CF2106G2 - Baudelaire (hard version)
+- CF2108D - Needle in a Numstack
+- CF2113D - Cheater
+- CF360B - Levko and Array
+- CF387D - George and Interesting Graph
+- CF387E - George and Cards
+- CF486E - LIS of Sequence
+- CF553C - Love Triangles
+- CF609D - Gadgets for dollars and pounds
+- CF985D - Sand Fortress
