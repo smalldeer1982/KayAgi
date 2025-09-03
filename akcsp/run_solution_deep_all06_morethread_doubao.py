@@ -176,7 +176,7 @@ if __name__ == "__main__":
         # base_output = "d:/ChatgptKay/KayAgi/Cpp/SP/solutiondeep_SP_visualds3"
 
         # 用doubao1.6-think
-        difficulty = "提高+"  # 可以是 "普及-", "普及", "普及+"
+        difficulty = "省选"  # 可以是 "普及-", "普及", "普及+"
         #tags = "状压"
         #tags = "排序,树形,状压,背包"
         #tags = "深度优先搜索 DFS,广度优先搜索 BFS"
